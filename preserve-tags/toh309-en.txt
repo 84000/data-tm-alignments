@@ -1,0 +1,19 @@
+{{translation:{id:UT22084-072-009,key:toh309,version:1.22.14,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Sūtra on Impermanence (1)
+{{milestone:{label:1.1,id:UT22084-072-009-6}}}Homage to all buddhas and bodhisattvas!{{page:{number:1,id:UT22084-072-009-32,folio:F.155.a}}}
+{{milestone:{label:1.2,id:UT22084-072-009-7}}}Thus did I hear at one time. The Bhagavān was dwelling in Anāthapiṇḍada’s park, in the Jeta Grove in Śrāvastī, along with a large monastic assembly. The Bhagavān addressed the monks as follows:
+{{milestone:{label:1.3,id:UT22084-072-009-8}}}“Monks, four things are appealing, singled out, considered valuable, pleasant, and highly appreciated by everyone. What are those four? 
+{{milestone:{label:1.4,id:UT22084-072-009-9}}}“Monks, good health is appealing, singled out, considered valuable, pleasant, and highly appreciated by everyone. Good health, however, ends with sickness. Monks, sickness is neither appealing, nor is it singled out, considered valuable, pleasant, or highly appreciated by anyone.
+{{milestone:{label:1.5,id:UT22084-072-009-10}}}“Monks, youth is appealing, singled out, considered valuable, pleasant, and highly appreciated by everyone. Youth, however, ends with the aging of the body. Monks, the aging of the body is neither appealing, nor is it singled out, considered valuable, pleasant, or highly appreciated by anyone.
+{{milestone:{label:1.6,id:UT22084-072-009-11}}}“Monks, prosperity is appealing, singled out, considered valuable, pleasant, and highly appreciated by everyone. Prosperity, however, ends with its decline. Monks, the decline of prosperity is neither appealing, nor is it singled out, considered valuable, pleasant, or highly appreciated by anyone. {{page:{number:2,id:UT22084-072-009-33,folio:F.155.b}}}
+{{milestone:{label:1.7,id:UT22084-072-009-12}}}“Monks, life is appealing, singled out, considered valuable, pleasant, and highly appreciated by everyone. Life, however, ends in death. Monks, death is neither appealing, nor is it singled out, considered valuable, pleasant, or highly appreciated by anyone.”
+{{milestone:{label:1.8,id:UT22084-072-009-13}}}Thus spoke the Bhagavān, the Sugata, and having spoken the Teacher added these words:
+{{milestone:{label:1.9,id:UT22084-072-009-14}}}“Good health is impermanent, 
+Youth does not last. 
+Prosperity is impermanent, 
+And life, too, does not last. 
+How can beings, afflicted as they are by impermanence,
+Take delight in desirable things like these?”
+{{milestone:{label:1.10,id:UT22084-072-009-15}}}When the Bhagavān had thus spoken, the monks rejoiced and praised his words. 
+{{milestone:{label:1.11,id:UT22084-072-009-16}}} This completes “The Sūtra on Impermanence.” 
+{{milestone:{label:c.1,id:UT22084-072-009-31}}}Translated and edited by the Indian preceptor Surendrabodhi and the principal editor-translator, Bandé Zhang Yeshé Dé. It was then also reviewed and finalized in accordance with current language reforms.

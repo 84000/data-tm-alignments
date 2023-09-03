@@ -1,0 +1,35 @@
+{{translation:{id:UT22084-089-009,key:toh552,version:1.0.4,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Eight Maidens’ Praise of Mañjuśrī, Lord of Speech
+{{milestone:{label:1.1,id:UT22084-089-009-12}}}Possessor of youthful body, 
+Adorned by the lamp of wisdom 
+That removes the darkness of delusion from the world—
+Homage to Mañjughoṣa.
+{{milestone:{label:1.2,id:UT22084-089-009-15}}}Your flood of radiance
+Outshines the full moon
+And banishes ignorance—
+Homage to Mañjuśrī. 
+{{milestone:{label:1.3,id:UT22084-089-009-17}}}Upon whose topknot, uncreated and vivid,
+Rests a form glittering with gems,{{page:{number:2,id:UT22084-089-009-52,folio:F.16.a}}}{{note:{index4,id:UT22084-089-009-18}}}
+Whose body is a delight to all—
+Homage to you, Mañjuśrī.
+{{milestone:{label:1.4,id:UT22084-089-009-20}}}Like ambrosia, soft and deep,
+The pleasing sound of your voice, 
+O holy one, trove of Dharma jewels—{{note:{index5,id:UT22084-089-009-21}}}
+Homage and praise to you, Mañjuśrī. 
+{{milestone:{label:1.5,id:UT22084-089-009-22}}}Countless as drops of water in the Ganges
+Are the stains of affliction
+You dispel in every world—
+Homage and praise to you, Mañjuśrī.
+{{milestone:{label:1.6,id:UT22084-089-009-23}}}Terrifying is your body’s manner
+When, fangs bared in fearsome pose, 
+You shatter the Lord of Death’s arrogance—
+Homage and praise to you, Mañjuśrī.
+{{milestone:{label:1.7,id:UT22084-089-009-24}}}You are beautified by a blue utpala
+That is like your eyes in luster,
+As you bear an alms bowl in your hand—{{note:{index6,id:UT22084-089-009-25}}}{{note:{index7,id:UT22084-089-009-26}}}
+Homage to you, Mañjuśrī.
+{{milestone:{label:1.8,id:UT22084-089-009-27}}}With immense offerings and praise
+To the buddhas dwelling in the ten directions
+We pay homage to you, Mañjuśrī,
+Teacher of the path to liberation.
+{{milestone:{label:1.9,id:UT22084-089-009-29}}}This concludes “The Eight Maidens’ Praise.”

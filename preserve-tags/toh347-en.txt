@@ -1,0 +1,435 @@
+{{translation:{id:UT22084-076-001,key:toh347,version:1.0.9,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Account of the Noble Deeds of Puṇyabala
+{{milestone:{label:1.1,id:UT22084-076-001-41}}} Homage to the Buddha.{{page:{number:1,id:UT22084-076-001-376,folio:F.1.b}}}
+{{milestone:{label:1.2,id:UT22084-076-001-43}}}Thus did I hear at one time. The Blessed One was staying in Śrāvastī at Prince Jeta’s Grove, Anāthapiṇḍada’s park. At that time, the Blessed One said to the monks, “Monks, when certain foolish men possess three traits at odds with the sacred Dharma, they do not practice generosity, do not engage in merit, and do not maintain discipline after taking it on. What are these three traits? They are attachment, miserliness, and carelessness.
+{{milestone:{label:1.3,id:UT22084-076-001-44}}}“Monks, because some foolish men possess these three traits at odds with the sacred Dharma, they do not practice generosity, do not engage in merit, and do not  maintain discipline after taking it on. As a result, when their bodies fail and they die, they will fall into lower realms and be reborn in the hell realms.{{page:{number:2,id:UT22084-076-001-377,folio:F.2.a}}}
+{{milestone:{label:1.4,id:UT22084-076-001-45}}}“Monks, those worthy people who have three qualities of the sacred Dharma practice generosity, engage in merit, and maintain discipline after taking it on. What are these three qualities? They are nonattachment, freedom from the stain of miserliness, and conscientiousness. Monks, those sublime beings who have these three qualities will practice generosity, engage in merit, and maintain discipline after taking it on. As a result, when their bodies fail and they die, they will meet happy destinies and take birth in the higher realms, among the gods.” 
+{{milestone:{label:1.5,id:UT22084-076-001-46}}}These words were proclaimed by the Blessed One. After the Well-Gone One had said these words, he, the Teacher, went on to say this: 
+{{milestone:{label:1.6,id:UT22084-076-001-47}}}“Due to miserliness and carelessness,
+You do not practice generosity.
+Therefore, with a mind that yearns for merit,
+You should practice generosity. 
+{{milestone:{label:1.7,id:UT22084-076-001-48}}}“The fears of the miserly are such that
+Due to their fears of hunger and thirst,
+They do not give in this life.
+Thus, these childish ones are tainted
+By their fear-induced lack of generosity,
+Both in this world and in the hereafter.
+{{milestone:{label:1.8,id:UT22084-076-001-49}}}“But those who forsake miserliness
+Will give when it is right to give.
+So for them, death is not really death.
+They are like well-provisioned travelers.
+{{milestone:{label:1.9,id:UT22084-076-001-50}}}“Those who give what is hard to give up,
+Making offerings, large or small,
+Of what is very hard to relinquish,
+Such people  are the purifiers of difficult karma.{{page:{number:3,id:UT22084-076-001-378,folio:F.2.b}}}
+Unworthy ones do not understand this.
+Worthy ones do not do things that transgress the Dharma.
+{{milestone:{label:1.10,id:UT22084-076-001-53}}}“So it is for the worthy and the unworthy,{{note:{index14,id:UT22084-076-001-54}}}
+That when they have passed from this life,
+The unworthy go to hell,
+And the worthy go to heaven.
+{{milestone:{label:1.11,id:UT22084-076-001-55}}}“There is no refuge from the ravages of old age.
+As life shortens, the moment when your life force is taken draws closer.
+It is reasonable for those who see this terror of death
+To engage in acts that bring merit and happiness.{{note:{index15,id:UT22084-076-001-56}}}{{note:{index16,id:UT22084-076-001-57}}}
+{{milestone:{label:1.12,id:UT22084-076-001-58}}}“Making hundreds of thousands of offerings
+Will not amount to a sixteenth fraction
+Of the small acts of joyous giving performed
+By those who relinquish women and live as a renunciant.
+{{milestone:{label:1.13,id:UT22084-076-001-59}}}“How can it be that making vast and prodigious offerings
+Does not necessarily qualify as the path of appropriate offering?
+How can it be that making hundreds of thousands of offerings
+Does not amount to a sixteenth fraction of a renunciant’s offering?
+{{milestone:{label:1.14,id:UT22084-076-001-60}}}“It is so because here, in this life, some childish fools kill and shackle others,
+Brutally ruining them, while donating their wealth to others.
+Such generosity accompanied by tear-stained faces and punishment
+Does not qualify as the path of appropriate offering.
+{{milestone:{label:1.15,id:UT22084-076-001-61}}}“Even if such offerings are vast and prodigious,
+They do not qualify as the path of appropriate generosity.
+This is why even hundreds of thousands of offerings
+Do not amount to even a sixteenth fraction of a renunciant’s offerings.
+{{milestone:{label:1.16,id:UT22084-076-001-62}}}“Those who are not hypocritical
+And who give away righteously acquired wealth
+Let go of things that are hard to relinquish.
+They will go to the gods’ realms because of their merit.”
+{{milestone:{label:1.17,id:UT22084-076-001-63}}}After speaking thus, the Blessed One rose from his seat and proceeded toward a dense forest. He stayed in the dense forest for the day, sitting beneath a tree.
+{{milestone:{label:1.18,id:UT22084-076-001-64}}}During that time, many monks gathered in the assembly hall and took their seats. The elders began to discuss the issue of the most valuable quality of human beings. Among those seated in the assembly were the Blessed One’s cousin, his aunt’s son, venerable Nanda, along with venerable Śroṇakoṭīviṃśa,  venerable Aniruddha, and venerable Śāriputra.{{page:{number:4,id:UT22084-076-001-379,folio:F.3.a}}}{{note:{index17,id:UT22084-076-001-65}}}
+{{milestone:{label:1.19,id:UT22084-076-001-427}}}At this point, venerable Nanda said, “Venerable ones, good looks are the most valuable quality of humans.” 
+{{milestone:{label:1.20,id:UT22084-076-001-66}}}Venerable Śroṇakoṭīviṃśa said, “Venerable ones, diligence is the most valuable quality of humans.” 
+{{milestone:{label:1.21,id:UT22084-076-001-67}}}Venerable Aniruddha said, “Venerable ones, being skilled in arts and crafts is the most valuable quality of humans.” {{note:{index18,id:UT22084-076-001-68}}}
+{{milestone:{label:1.22,id:UT22084-076-001-69}}}And venerable Śāriputra said, “Venerable ones, insight is the most valuable quality of humans.”
+{{milestone:{label:1.23,id:UT22084-076-001-71}}}They then said, “Venerable ones, since we have all understood things differently and cannot come to an agreement, we must go to the Blessed One and report our disagreement to him. We will accept whatever the Blessed One tells us.” 
+{{milestone:{label:1.24,id:UT22084-076-001-72}}}The venerable ones then praised the Blessed One: 
+{{milestone:{label:1.25,id:UT22084-076-001-73}}}“He is the great compassionate teacher. 
+He is omniscient and eliminates doubts. 
+He eradicates uncertainty,
+Like the sun dispels darkness. 
+{{milestone:{label:1.26,id:UT22084-076-001-74}}}“He is the sole refuge for living beings,
+Who are caught in the net of suffering 
+And are set on a wrong path. 
+He is like the best father of children. 
+{{milestone:{label:1.27,id:UT22084-076-001-75}}}“Therefore, we shall all ask him,
+The lord of all qualities, 
+Who strives for the welfare of all sentient beings,
+The Sage who eradicates doubt. 
+{{milestone:{label:1.28,id:UT22084-076-001-76}}}“The Victor will eradicate
+The great knot of uncertainty.
+Therefore, let us all go 
+And ask the Thus-Gone One.” 
+{{milestone:{label:1.29,id:UT22084-076-001-77}}}Having spoken thus, many of the monks made arrangements to go see the Blessed One. On this occasion that the Blessed One had settled in the dense forest to spend the day there, many monks of the saṅgha had meanwhile gathered and taken their seats in the assembly hall. At this time, he heard with his unhindered, superhuman, pure, divine ears what they had said.  He then rose from his meditative absorption and returned to the assembly hall. Once there, he took his seat on the mat that was set out for him in the center of the assembly. When he was seated, the Blessed One asked the monks, “Monks, you are all gathered and seated here in the assembly hall. What have you been discussing? What topic of discussion has presently brought you to gather and be seated here?”{{page:{number:5,id:UT22084-076-001-380,folio:F.3.b}}}{{note:{index19,id:UT22084-076-001-78}}}
+{{milestone:{label:1.30,id:UT22084-076-001-79}}}They responded, “Honorable One, with many monks gathered in the assembly hall, the venerable ones have been discussing the issue of the most valuable quality of human beings. Venerable Nanda said, ‘Venerable ones, good looks are the most valuable quality of humans.’ Venerable Śroṇakoṭīviṃśa said, ‘Venerable ones, diligence is the most valuable quality of humans.’ Venerable Aniruddha said, ‘Venerable ones, being skilled in arts and crafts is the most valuable quality of humans.’ And venerable Śāriputra said, ‘Venerable ones, insight alone is the most valuable quality of humans.’ Honorable One, this is how we deliberated about the matter. Since we venerable ones were all in disagreement, and each saw things differently, we decided to come before the Blessed One and ask about this very issue. We resolved to accept whatever advice the Blessed One gives us. Honorable One, this is what we, the many monks gathered and seated in the assembly hall, discussed. This is the topic of discussion that has brought us to assemble and take our seats here.”
+{{milestone:{label:1.31,id:UT22084-076-001-80}}}Following their query, the Blessed One replied with the following verse: 
+{{milestone:{label:1.32,id:UT22084-076-001-81}}}“Good looks, skill in arts and crafts,
+Diligence, insight, and all the other qualities that
+Sentient beings possess have arisen from merit. {{page:{number:6,id:UT22084-076-001-381,folio:F.4.a}}}
+Therefore, merit is most important.” 
+{{milestone:{label:1.33,id:UT22084-076-001-82}}}After uttering this, the Blessed One said to the monks, “Monks, those things you understood to be the most valuable qualities are only of limited duration; they are not the most valuable qualities for all beings and all occasions. Merit, however, is the most valuable quality for all living beings on all occasions. Monks, in truth, I have not observed a single thing that is a more valuable quality than merit. Monks, to explain why, I will tell you a story.” 
+{{milestone:{label:1.34,id:UT22084-076-001-84}}}“Once upon a time, a king named Bright Power ruled from his capital city. During his reign, the kingdom became more prosperous, expansive, and pleasant. It had good harvests, and it was filled with a large population of creatures and humans. The king’s wife was named Queen Vibhūṣitā. She had a lovely figure and was beautiful, most pleasing to the eye. Some time later, he frolicked and enjoyed himself with Queen Vibhūṣitā, and they made love. From this playing, pleasuring, and lovemaking, a son was born.
+{{milestone:{label:1.35,id:UT22084-076-001-85}}}Their son also had a lovely figure. He was beautiful and pleasing to the eye. His complexion surpassed that of humans but did not quite equal that of the gods. At his birth, a celebratory ceremony was arranged, and on this occasion he was given the name Rūpabala. Later, three more sons were born. They were named Vīryavanta, Śilpavanta, and Prajñāvanta. 
+{{milestone:{label:1.36,id:UT22084-076-001-86}}}“After some time, Queen Vibhūṣitā again became pregnant with another son. On the day of this child’s conception, gold of various hues suddenly rained down around the palace. Furthermore, a large divine canopy decorated with various precious jewels appeared above the queen’s head. When King Bright Power saw these miraculous occurrences, he was amazed and asked the astrologers, ‘Ah! What is this unprecedented miracle?’ The astrologers replied, ‘Lord,  this son your queen has conceived is one who will be renowned for his great merit, which is the power of this being.’ When the king heard this, he was utterly astonished.{{page:{number:7,id:UT22084-076-001-382,folio:F.4.b}}}
+{{milestone:{label:1.37,id:UT22084-076-001-87}}}“Shortly thereafter, a wish arose in the queen’s mind, and she beseeched the king, ‘Well now, wouldn’t it be wonderful if I could be seated on a lion throne, with a white umbrella above me and a yak-tail fan with a jewel-encrusted handle?’ Thereupon, the king’s mind was filled with joy. He did just as she wished and ordered that the city be lavishly decorated. Thus, he ordered that everything be done just as she requested, and nothing remained unsatisfied of the wish that had arisen in her mind. 
+{{milestone:{label:1.38,id:UT22084-076-001-88}}}“Later, another wish arose in her mind, and she beseeched the king, ‘Well now, wouldn’t it be wonderful if I were seated on a pile of gold and silver and could then make offerings with my own hands, thus making merit and providing wealth to those who lack wealth?’ The king agreed to this. After the king did just as she had requested, nothing remained unsatisfied of the wish that had arisen in her mind. 
+{{milestone:{label:1.39,id:UT22084-076-001-89}}}“Later, another wish arose in her mind: ‘Well now, wouldn’t it be wonderful if I were to release all the prisoners?’ In order to fulfill the wish she had conceived, the king released all the prisoners, and nothing remained unsatisfied of the wish that had arisen in her mind.
+{{milestone:{label:1.40,id:UT22084-076-001-90}}}“Later, yet another wish arose in her mind: ‘Well now, wouldn’t it be wonderful if I were to behold parks?’ At this, the king fulfilled her wish by letting her behold the beautiful parks, and nothing remained unsatisfied of the wish that had arisen in her mind.
+{{milestone:{label:1.41,id:UT22084-076-001-91}}}“Later, still another wish arose in her mind. She beseeched the king, ‘Well now, wouldn’t it be wonderful if I were to speak words of truth before a crowd of people? And if, while seated on a divine lion throne because of the karmic ripening of the merit I possess, I could teach the Dharma to many people? And if, following my teaching, some miracles would occur and the gods would immediately make offerings to me?’ {{page:{number:8,id:UT22084-076-001-383,folio:F.5.a}}}
+{{milestone:{label:1.42,id:UT22084-076-001-92}}}“The king then ordered that the queen’s chamber and the wider city be beautified. All the city’s many residents gathered, attired themselves in clean apparel, adorned themselves with ornaments, and held incense, garlands, and perfume in their hands. Goddess-like, Queen Vibhūṣitā entered the crowd, wearing an assortment of ornaments, surrounded by her female retinue, and captivating people’s eyes and hearts. Placing her mind in a state of love that encompassed all sentient beings, she gazed at the sky and spoke this verse, whose truth was a spiritual blessing: 
+{{milestone:{label:1.43,id:UT22084-076-001-93}}}“ ‘If the child residing inside me like a divine emanation
+Is a superior one, a lord of humans, Puṇyabala,
+Then by this truth may the gods 
+Quickly arrange my lion throne.’
+{{milestone:{label:1.44,id:UT22084-076-001-95}}}“As soon as she uttered those words, the gods who displayed the power of merit instantaneously offered her a magical lion throne, and divine flowers began to rain down. When they saw this amazing magical display, which aroused joy in gods and humans, the crowds of people were astonished. ‘Ah! How powerful is this merit!’ they said in unison. ‘Even the gods who are worshiped in all worlds are summoned by the power of merit and must listen to the humans’ commands! How marvelous it is!’
+{{milestone:{label:1.45,id:UT22084-076-001-96}}}“At this point, Queen Vibhūṣitā was overjoyed. She ascended the throne without hesitation and took her seat. As soon as the queen sat on the throne, the earth shook in six different ways, and the lion throne rose from the ground and ascended into the sky, reaching the height of seven humans. Next, a divine canopy decorated with various precious jewels appeared over the lion throne. Because the crowd of people saw the power of merit, their minds were delighted, and they liberally offered incense, garlands, and perfume to the queen. They folded their hands out of respect,  sat in front of her and listened to her words with humbled minds. When King Bright Power likewise saw the astonishing power of merit, he was overjoyed, and together with his retinue, he sat down with folded hands. Then Queen Vibhūṣitā recited a verse that had never before been heard: {{page:{number:9,id:UT22084-076-001-384,folio:F.5.b}}}
+{{milestone:{label:1.46,id:UT22084-076-001-97}}}“ ‘If beings accumulate merit, they will be happy.
+Therefore, people should perform meritorious deeds.
+Moreover, they should perform them again and again.
+They should aspire for this alone.’
+{{milestone:{label:1.47,id:UT22084-076-001-98}}}“As soon as she uttered these verses, a voice came from the sky, ‘Very well said!’ The sound of divine music could be heard, and a great shower of highly ornate divine garments rained down. Upon hearing this verse, King Bright Power and the crowd of people were filled with joy. The gods present in the sky removed the robes and ornaments from their bodies without hesitation and draped them over Queen Vibhūṣitā and her lion throne. In unison they uttered the words, ‘Well said! Well said!’
+{{milestone:{label:1.48,id:UT22084-076-001-99}}}“After the queen had slowly descended from the lion throne and was seated on the ground, the sounds of divine music faded, but the sounds of human music continued to resound. The king and the crowd of people jubilantly paid great honor to the queen and escorted her back to her chambers. Once the queen had gone inside, the lion throne disappeared. The crowd saw the efficacy of merit, and their minds were filled with pure joy. They said in unison, ‘Ah! This is the greatness of merit! Ah! This is the sweet fruit of merit!’
+{{milestone:{label:1.49,id:UT22084-076-001-100}}}“Thereafter, nothing that the queen had wished for was left unfulfilled. Sometime later, after nine months had elapsed, Queen Vibhūṣitā gave birth to a son at daybreak.  The newborn had a beautiful appearance and was pleasing to the eye and lovely. At this time, the earth shook in six different ways, and from the sky a great shower of seven kinds of precious substances rained down on the queen’s chambers. Various sorts of garments rained down on everyone around the king’s palace. And everywhere in that kingdom, supreme, beautiful, divine flowers showered down. Flowering trees produced flowers, and fruiting trees produced fruit. Gentle rain showers fell everywhere. Fresh breezes wafted in from the four directions.{{page:{number:10,id:UT22084-076-001-385,folio:F.6.a}}}
+{{milestone:{label:1.50,id:UT22084-076-001-101}}}“The Four Great Kings spontaneously offered a bejeweled lion throne and a wish-fulfilling tree in the presence of the newborn child. Śakra, lord of the gods, held in his own hands fine fabrics, and he held an eight-spoked divine umbrella and a golden-handled yak-tail fan over the boy. Above him, the gods of the Heaven of the Thirty-Three unfurled canopies of divine fabric. Some tossed precious gems, some tossed ornaments, some tossed garments, some tossed flowers, and some tossed powders. Some tossed perfumes, garlands, and ointments. Some played exquisite divine music. 
+{{milestone:{label:1.51,id:UT22084-076-001-102}}}“The god Viśvakarma, the architect of the gods, cleared the city of rocks, gravel, and pebbles, and strung up many cloth tassels. He also erected victory banners and flags, sprinkled sandalwood water, hung censers containing sweet-smelling incense, and scattered assorted flowers everywhere. When he had finished, the city was as attractive as the gods’ pleasure garden, called Park of Delights. 
+{{milestone:{label:1.52,id:UT22084-076-001-103}}}“A hundred of the finest elephants freely came from the dense jungles and arrayed themselves in formation. A hundred mares and their foals followed. All the crops ripened marvelously without any plowing or planting.  Below this lion throne and facing it were five treasuries filled to the brim with all kinds of jewels, which were never depleted no matter how many were taken from them. In that moment, even animals that are natural enemies regarded each other with loving hearts. {{page:{number:11,id:UT22084-076-001-386,folio:F.6.b}}}{{note:{index20,id:UT22084-076-001-104}}}
+{{milestone:{label:1.53,id:UT22084-076-001-105}}}“The boy had magical and extraordinary powers. Immediately after being born, he was instantly able to remember his past lives. Looking in the four directions, he recited a verse: 
+{{milestone:{label:1.54,id:UT22084-076-001-106}}}“ ‘If beings accumulate merit, they will be happy.
+Therefore, humans should perform meritorious deeds.
+Moreover, they should perform them again and again.
+They should aspire for this alone.’
+{{milestone:{label:1.55,id:UT22084-076-001-107}}}“Thereby, the mind of a magical and exceedingly powerful god who lived in the sky became overjoyed upon witnessing this exceptionally wondrous and delightful display of merit. To teach the greatness of this merit, at that time he uttered this verse: 
+{{milestone:{label:1.56,id:UT22084-076-001-108}}}“ ‘Look at this display of merit!
+This merit has overwhelmed 
+Everyone, from the Four Great Kings
+Up to the Lord of the Heaven of the Thirty-Three.’
+{{milestone:{label:1.57,id:UT22084-076-001-109}}}“After witnessing such splendor, the king, the queen’s retinue, the princes, ministers, courtiers, and other people in the area were wide-eyed with amazement. In this state of utter astonishment, they exclaimed, ‘Ah! The power of the boy’s merit! Ah! Even though he’s human, the boy’s merit is so renowned that he receives abundant wealth like that of gods! How wonderful!’ 
+{{milestone:{label:1.58,id:UT22084-076-001-110}}}“The king, overjoyed and delighted, issued an order to his treasurers. Heeding his command, they amassed heaps of gold and silver in the king’s courtyard, and then gave gifts, thus accruing merit. Many poor people became rich, and a short time later, the king’s wealth increased even more. A big celebration was held to mark the prince’s birth  and give him a name. The king asked, ‘What should the prince’s name be?’ The ministers replied, ‘Lord, since this boy has enormous power of merit, and because at his birth he has accrued wealth like that of the gods, the prince’s name should be Puṇyabala.’ Thus, he was named Puṇyabala. {{page:{number:12,id:UT22084-076-001-387,folio:F.7.a}}}
+{{milestone:{label:1.59,id:UT22084-076-001-111}}}From then on, Prince Puṇyabala had eight nurses assigned to him: two women to hold him, two wet nurses, two women to bathe him, and two women to play with him. These eight women fed him milk, yogurt, butter, ghee, and cream, and they raised him with great care and affection. He blossomed like a lotus in a pond. 
+{{milestone:{label:1.60,id:UT22084-076-001-112}}}“When he grew older, he was instructed in letters and perfected his reading and writing. He perfected the five sets of royal skills. Furthermore, Prince Puṇyabala had great faith, and he was virtuous and goodhearted. He worked for the benefit of himself and others. He was compassionate and a great being, someone who sought the Dharma, loved all beings, longed to make offerings, loved to give, took great joy in generosity, and gave away everything. He gave prodigiously without attachment. He was committed to great generosity.
+{{milestone:{label:1.61,id:UT22084-076-001-113}}}“He begrudged nothing—not even his own flesh—to ascetics, brahmins, the poor, the suffering, and the destitute. There was nothing he would not give away prodigiously. When beggars came to him for alms, he maintained a loving heart toward them. Looking at the sky, he would generate the intention, ‘Well now, wouldn’t it be wonderful if whatever they desired—gold, silver, fabric, food, meals, drink, or bedding—were to come to me from the sky!’  When he generated such an intention, whatever they desired would come forth, but none of them understood the reason. The beggars returned home with their desires thoroughly fulfilled by these goods. Because of the prince’s fame, he was extolled throughout Jambudvīpa, from all the netherworlds of the nāgas up to the celestial realms of Brahmā.{{page:{number:13,id:UT22084-076-001-388,folio:F.7.b}}}
+{{milestone:{label:1.62,id:UT22084-076-001-114}}}“After some time, Prince Puṇyabala set out on an excursion to the Pleasure Garden of Supreme Wealth, together with his four older brothers. On their way, they were encircled by many thousands of begging pretas with mouths like needles and stomachs like Mount Sumeru. They were like standing skeletons, their bodies ablaze, venerating him with hands together. No one other than Prince Puṇyabala could see the pretas. At this point, the pretas spoke to Prince Puṇyabala saying, ‘Oh Prince, you are well-known for your great merit. If you are indeed compassionate, please give to us who are so hungry and thirsty for food and drink. Previously, we were overpowered by miserliness, and thus we have now been born in the preta realm. Because of this, in this realm not only have we not found any water for many hundreds of years, but we have also not seen any kind of food.’{{note:{index21,id:UT22084-076-001-115}}}
+{{milestone:{label:1.63,id:UT22084-076-001-116}}}“After they said this, Prince Puṇyabala’s mind was greatly moved by compassion. In sorrow, he gazed at the sky and gave rise to the thought, ‘Well now, wouldn’t it be wonderful if I received divine food and drink!’ Instantly, divine food and drink came from the sky. Prince Puṇyabala then gave the hungry and thirsty pretas the divine food and drink, in order to satisfy them. But for a while, due to the faults of their past karma, they were unable to see the food and drink. Thus they exclaimed, ‘Oh Prince, you are renowned as a compassionate person,  so why have you not satisfied us?’ {{page:{number:14,id:UT22084-076-001-389,folio:F.8.a}}}
+{{milestone:{label:1.64,id:UT22084-076-001-117}}}“The prince responded, ‘I have provided you with abundant divine food and drink. What is wrong with this food and drink that you have not eaten or drunk it yet?’
+{{milestone:{label:1.65,id:UT22084-076-001-118}}}“The pretas said to him, ‘Oh Prince, we cannot see the divine food and drink because of the faults of our past karma.’
+{{milestone:{label:1.66,id:UT22084-076-001-119}}}“Upset, Prince Puṇyabala then thought, ‘Alas! This is due to the influence of miserliness.’ His heart filled with love for the pretas, and he expressed an aspiration: ‘If merit has power, may the power of that truth and the truth of these words allow these pretas to see this divine food and drink as it really is, and may they have the ability to consume it.’{{note:{index22,id:UT22084-076-001-120}}}
+{{milestone:{label:1.67,id:UT22084-076-001-121}}}“At the very moment the prince uttered these words, they no longer perceived things erroneously, and their mouths became normal. Thus, Prince Puṇyabala was exceedingly happy that he had been able to satiate the pretas with the divine food and drink. But as they received food and drink unlike any they had ever tasted, due to the power of their utterly unbearable hunger and thirst, the pretas consumed too much, and their stomachs burst. Nevertheless, because they died with minds full of appreciation for Prince Puṇyabala, they were born among the league of the gods of Heaven of Joy. Thereupon, they proclaimed, ‘Prince Puṇyabala, because you caused us to manifest among the league of the gods of Heaven of Joy, let us rejoice! Now, relying only on you, we will become generous and create merit.’ At this, Prince Puṇyabala felt overjoyed and said, ‘How wonderful!’ He then continued on his way to the pleasure garden.
+{{milestone:{label:1.68,id:UT22084-076-001-122}}}“When he and the others arrived at the pleasure garden, they began to confer and try to gain certainty about the important subject of what is the most valuable quality of human beings. His brother the good-looking prince said, ‘What is the point of this question? Even  common people know that good looks are the most valuable quality of humans. Why? When they see someone with good looks, even if they have never seen this person before, they are overjoyed—even those who were not joyful before. Even the sages of the past proclaimed that attaining good looks is fully half of what is to be attained. Moreover, just observe that when people see someone with good looks, they are gladdened by merely beholding this person. From their hearts, they treat this person with respect, just like the best people treat the supreme Dharma.’{{page:{number:15,id:UT22084-076-001-390,folio:F.8.b}}}{{note:{index23,id:UT22084-076-001-123}}}{{note:{index24,id:UT22084-076-001-124}}}{{note:{index25,id:UT22084-076-001-125}}}
+{{milestone:{label:1.69,id:UT22084-076-001-126}}}“When the diligent one heard the words of the good-looking prince, he said, ‘But what are you going to do with these good looks? Diligence alone is the most valuable quality of humans. Why? If you have good looks but lack diligence, no desirable results will appear or be heard of, either at present or in future lives. So to say that good looks are the most valuable quality will only confuse childish, ordinary beings. Diligence produces desirable results in this very life. Consider that such things as farmers’ crops, merchants’ wealth, servants’ sustenance, superior men’s understanding of scriptures, and meditators’ attainments of the fruits of meditation all appear in this life as the desirable fruits of diligence. Diligence also produces fruits in future lives: such things as the higher realms, vast resources, and the attainment of liberation also appear in future lives as the fruits of diligence. Moreover, diligence serves as the basis of all good qualities, and it overcomes harm. Nothing is harder to attain than diligence.’{{note:{index26,id:UT22084-076-001-127}}}
+{{milestone:{label:1.70,id:UT22084-076-001-128}}}“When the artistic one heard this, he laughed and said,  ‘My mind is unsettled by what you have said, even though you are right in many respects. Why is this? Because I have never seen anyone achieve any results through diligence without artistry. This is because I have observed that those with artistry achieve results. Therefore, artistry alone is the most valuable quality of humans. Moreover, even low-born artisans are certainly respected by kings, ministers, brahmins, and householders.{{page:{number:16,id:UT22084-076-001-391,folio:F.9.a}}}
+{{milestone:{label:1.71,id:UT22084-076-001-129}}}“ ‘Multiskilled artisans are
+Greatly respected, even by gods and humans. 
+Even if their behavior is rough,
+Artisans are still respected by gods and humans.’
+{{milestone:{label:1.72,id:UT22084-076-001-130}}}“After Śilpavanta said this, the wise one gave a little chuckle and said, ‘Nothing is a more valuable quality for humans than insight—neither good looks, nor diligence, nor artistry is as useful. Why? Those with impaired insight may be handsome, but their attractiveness is conditional. They may be diligent, but without insight they will not achieve their goals. And without insight, they cannot learn a craft. Therefore, insight alone accomplishes all goals, and it is the most valuable quality of humans. {{note:{index27,id:UT22084-076-001-131}}}{{note:{index28,id:UT22084-076-001-132}}}
+{{milestone:{label:1.73,id:UT22084-076-001-133}}}“ ‘Moreover, by way of insight one will acquire good looks and skills,
+As well as diligence and wealth.
+People will obtain excellence and great happiness.
+Everything is obtained by way of insight.’
+{{milestone:{label:1.74,id:UT22084-076-001-134}}}“After Prajñāvanta said this, Prince Puṇyabala smiled. When he spoke, it was as if the power of merit itself flowed from his mouth: ‘Without insight, all these things—good looks, artistry, and diligence—are not valuable qualities. But those who have accomplished them by way of insight receive their associated fruits and reap their benefits. This is plainly true. Yet you cannot acquire insight without merit; and therefore, merit alone is the most valuable quality of humans. Merit is the one fundamental source  of the goals of attractiveness, honorableness, delightfulness, pleasantness, and congeniality. I cannot even begin to describe the full extent of merit’s positive qualities, but to give you an inkling of them, let me at least explain a mere fraction of merit’s positive qualities. Listen!{{page:{number:17,id:UT22084-076-001-392,folio:F.9.b}}}
+{{milestone:{label:1.75,id:UT22084-076-001-135}}}“ ‘Those with merit obtain good looks.
+Due to merit they have discipline.
+Those with merit obtain good fortune.
+And likewise they become prosperous.
+{{milestone:{label:1.76,id:UT22084-076-001-136}}}“ ‘Those with merit obtain insight.
+Due to merit, they master poetry.
+Those with merit obtain dignity.
+Those with merit obtain good births. 
+{{milestone:{label:1.77,id:UT22084-076-001-137}}}“ ‘Due to merit they are born into a high caste.
+Due to merit they remember past lives.
+Those with merit gain fame. 
+Those with merit will have good temperaments.
+{{milestone:{label:1.78,id:UT22084-076-001-138}}}“ ‘Those with merit become generous.
+Those with merit have unimpaired faculties.
+Those with merit find happiness.
+Those with merit are venerated by the wise. 
+{{milestone:{label:1.79,id:UT22084-076-001-139}}}“ ‘Those with merit obtain power.
+Due to merit, they will meet worthy people.
+Those with merit fulfill all their goals.
+In this life, they will also be suitable recipients of offerings.
+{{milestone:{label:1.80,id:UT22084-076-001-140}}}“ ‘Whether they make a living from farming or commerce,
+If they work to attain the happiness they desire,
+Even by working only a little, those with merit 
+Will obtain vast wealth.
+{{milestone:{label:1.81,id:UT22084-076-001-141}}}“ ‘Those who accrue merit 
+Easily attain everything through merit. 
+Clothing, food, drink, and jewels come from the sky,
+Merely by wishing for them.
+{{milestone:{label:1.82,id:UT22084-076-001-142}}}“ ‘Those with merit obtain lovely homes.
+Those with merit get the best wives.
+Great merit grants them wealth and crops. 
+All their wishes will be realized.
+{{milestone:{label:1.83,id:UT22084-076-001-143}}}“ ‘When those with merit travel,
+The ground will be free of logs and thorns.
+In accordance with whatever merit they possess,
+It may even be level and covered with fabric.
+{{milestone:{label:1.84,id:UT22084-076-001-144}}}“ ‘They can heal the sick
+By merely touching them.
+Similarly, when touched by those with merit, 
+Food, drink, or both,
+As well as clothing, jewels,  and crops,{{page:{number:18,id:UT22084-076-001-393,folio:F.10.a}}}
+Will never be depleted.
+{{milestone:{label:1.85,id:UT22084-076-001-145}}}“ ‘Because of the greatness of their meritorious natures,
+Gods, nāgas, asuras, yakṣas, 
+Pretas, mahoragas, and humans 
+Protect those with merit from poison and harm.
+{{milestone:{label:1.86,id:UT22084-076-001-146}}}“ ‘Those with merit gain respect.
+Through merit, they delight many people.
+Those with merit become famous.
+Those with merit receive good fortune. 
+The words of those with merit are authoritative. 
+{{milestone:{label:1.87,id:UT22084-076-001-147}}}“ ‘Those with merit become attractive.
+Due to merit, they acquire the voice of Brahmā.
+Merit will grant them a beautiful physique and complexion.
+Those with merit will also have excellent speech.
+{{milestone:{label:1.88,id:UT22084-076-001-148}}}“ ‘Being mindful and amiable, they will be leaders. 
+They will be learned in many topics.
+They will have faithful retinues. 
+Those with merit will be free from sickness.
+{{milestone:{label:1.89,id:UT22084-076-001-149}}}“ ‘And due to the ripening of their aspirations, 
+They will have gifts and glory. 
+Those with merit will receive kingdoms.
+They will be unrivaled and nonviolent.
+{{milestone:{label:1.90,id:UT22084-076-001-150}}}“ ‘Because of their merit, their wealth will not diminish. 
+Those with merit also acquire treasure.
+Due to merit, they will become universal monarchs, 
+And the seven precious possessions of a monarch will appear before them. 
+{{milestone:{label:1.91,id:UT22084-076-001-152}}}“ ‘With radiance equal to the sun and moon
+Moving across the sky, 
+The very moon will be gained by merit.
+The very sun will be gained by merit.
+{{milestone:{label:1.92,id:UT22084-076-001-153}}}“ ‘Brahmā himself will be attained by merit.
+Śakra himself will be attained by merit.
+Due to merit, people will become gods
+Traveling in their celestial chariots.
+{{milestone:{label:1.93,id:UT22084-076-001-154}}}“ ‘Similarly, they will become sons of gods
+Or powerful asura kings.
+Those with merit are freed from the lower realms. 
+Because of merit, they will go to the higher realms.
+{{milestone:{label:1.94,id:UT22084-076-001-155}}}“ ‘Those with merit find
+Exceedingly rare and exquisite flowers.
+Those with merit acquire supernatural powers.
+Merit illuminates the world.
+{{milestone:{label:1.95,id:UT22084-076-001-156}}}“ ‘Due to merit, they become
+Supreme among gods, asuras, and humans.’
+{{milestone:{label:1.96,id:UT22084-076-001-157}}}“Thus spoke Prince Puṇyabala. But because of their biased perspectives, the others did not accept his words. So Puṇyabala spoke to them again:  ‘Hey! Come now! Let’s go to a faraway land, dressed in disguise. That way, we can learn which is the most valuable quality of humans: good looks, diligence, artistry, insight, or merit.’{{page:{number:19,id:UT22084-076-001-394,folio:F.10.b}}}
+{{milestone:{label:1.97,id:UT22084-076-001-158}}}“The other princes agreed to Puṇyabala’s proposal, exclaiming, ‘Let’s do it!’ Thus, without hesitating or even telling their father, they set out for a faraway kingdom in another land, and entered the realm of a different king, dressed in disguise.
+{{milestone:{label:1.98,id:UT22084-076-001-159}}}“When people saw the good-looking one, they gathered around him because he was so attractive, and he was able to live solely on the wealth they gave him. The diligent one saw a strong, swift, and deep river that was terrifying even to look at, and which had swept away a large sandalwood tree. Through the great power of his diligence, he was able to haul out that large sandalwood tree that others were not able to salvage, and he made a living selling it. He became wealthy from this endeavor. The artistic one made his living by creating crafts and became wealthy by this trade. The wise one skillfully negotiated a settlement of a longstanding rivalry between two merchants. This pleased the two businessmen so much that they paid him enough to live comfortably.{{note:{index29,id:UT22084-076-001-160}}}
+{{milestone:{label:1.99,id:UT22084-076-001-161}}}“In order to highlight the importance of merit-making, Prince Puṇyabala went to live in a pauper’s house. On his first day living in the house, the power of Prince Puṇyabala’s merit caused the household to amass vast riches: great wealth, crops, gold, and silver filled the house. The pauper was surprised and ecstatic. He wondered, ‘Where did all this new wealth come from?’ Then he thought again, ‘All this wealth  must have accumulated due to the influence of the newcomer in my house.’{{page:{number:20,id:UT22084-076-001-395,folio:F.11.a}}}
+{{milestone:{label:1.100,id:UT22084-076-001-162}}}“Prince Puṇyabala let the poor man use the wealth however he wished. At that time, the poor man became prosperous and his wealth increased greatly. The man pondered again and thought, ‘I was very poor and remained so. Now, whatever abundance and fortune I have is dependent on this youth. Why? On the day this youth came to my home, abundance also came to my home. This person must therefore be a paragon of great merit, and it would be appropriate to venerate him.’ Thereafter, he continually revered the prince with great admiration. The story of the young stranger in a certain pauper’s house spread far and wide. Everywhere it was proclaimed, ‘Due to the youth’s power, fortune has come to that house!’ When the populace heard this, they came to admire Prince Puṇyabala and exclaimed, ‘Ah! How great is the power of merit!’
+{{milestone:{label:1.101,id:UT22084-076-001-163}}}“At that time, Puṇyabala’s power caused the flowers and fruit trees to bloom continuously. Periodically, the gods also sent down showers of timely rains, which provided for excellent crops. As a result, a great many people were delighted by the power of merit, and wishing to behold this spectacle, they set out to witness it for themselves. Prince Puṇyabala wanted to bring together the people who were approaching him. He gave rise to this aspiration: ‘Well now, wouldn’t it be wonderful if I had a house that was delightful to look at in all sorts of ways, replete with all kinds of jewels and various sorts of goods, and teeming with male and female staff and servants?’ 
+{{milestone:{label:1.102,id:UT22084-076-001-164}}}“Monks, as soon as those wishes arose, Prince Puṇyabala suddenly had a large house that was delightful to look at in every way, replete with all sorts of jewels, supplied with various types of goods,  and teeming with male and female staff and servants. When they saw this, many people were amazed and began to treasure merit. Thinking, ‘Ah! The fruits of merit are so sweet,’ they revered Prince Puṇyabala with great admiration. Knowing that many people’s minds were delighted, Prince Puṇyabala employed what was efficacious from among the four means of enticement: he attracted some through generosity; he attracted others through kind words; he attracted still others through engaging in beneficial conduct; and he attracted the rest through the consistency of his words and his deeds. Thus, his fame spread throughout the king’s realm. {{page:{number:21,id:UT22084-076-001-396,folio:F.11.b}}}{{note:{index30,id:UT22084-076-001-165}}}
+{{milestone:{label:1.103,id:UT22084-076-001-166}}}“A while later, Prince Puṇyabala saw a man who had offered his medicinal expertise to a rival king, and as a consequence, executioners had amputated his limbs. A great deal of blood had drained from his body, and so his complexion had become gaunt. When Prince Puṇyabala appeared there, as soon as the man saw him, he wept loudly, crying out to him piteously, ‘Save me, young lord!’ When Prince Puṇyabala saw this, compassion arose in his mind, and he wondered, ‘By what means might I save him?’ He gave rise to this thought: ‘Right here and now I should demonstrate to the world the power of merit!’{{note:{index31,id:UT22084-076-001-167}}}
+{{milestone:{label:1.104,id:UT22084-076-001-168}}}“Then Prince Puṇyabala noticed the man’s fever, and his mind was saturated with compassion. He drew blood from his own veins, and by transfusing it into the man, he completely healed his gaunt complexion. 
+{{milestone:{label:1.105,id:UT22084-076-001-169}}}“When Prince Puṇyabala saw that the man was in excruciating pain due to the amputation of his limbs, he wished to take on this suffering. He therefore cut off his own legs and arms in order to attach them to the man’s body in the appropriate places. Gazing at the sky, he cultivated an attitude of loving-kindness  that extended to all sentient beings and spoke words of truth: ‘It is true that I do not recall performing any nonvirtuous deeds whatsoever since this body of mine was born. Through these words of truth, may my arms and legs thus be attached to this man in the appropriate places. May his body be restored to its original state.’ {{page:{number:22,id:UT22084-076-001-397,folio:F.12.a}}}
+{{milestone:{label:1.106,id:UT22084-076-001-170}}}“As soon as he said this, Prince Puṇyabala’s severed limbs were attached to the man’s body in the appropriate places. The man’s body was thereby restored to its original state, his wounds were all healed, and there were not even any visible scars. When Prince Puṇyabala observed that the man’s body had been restored to its original state, his mind filled with joy. He thought, ‘Now that my intention has been fulfilled, the pain I have undergone has yielded fruit. My wish has been fulfilled! 
+{{milestone:{label:1.107,id:UT22084-076-001-171}}}“ ‘Moreover, after restoring him with my own blood and lengthening his limbs with my own limbs, by invoking truth, his body has become just as it was previously, and his precious life has been given back to him. In the same way, through these same virtuous roots, after I have attained unsurpassed and perfect awakening, may I satiate this man with the nectar of the supreme Buddhadharma. May I place him in the everlasting ultimate, the attainment and security of nirvāṇa.’{{note:{index32,id:UT22084-076-001-172}}}
+{{milestone:{label:1.108,id:UT22084-076-001-173}}}“At that moment, the earth shook in six different ways. The palaces of the great lords were thoroughly rocked by the tremors. This made Śakra, the lord of the gods, wonder, ‘Who is causing the earth to shake?’ He had witnessed Prince Puṇyabala’s performance of these extremely difficult tasks. Seeing this, he was astonished. He developed conviction, and thought, ‘I will find out why this great being performed these extremely difficult tasks.’ Thereupon, Śakra, lord of the gods, descended from his abode in the Heaven of the Thirty-Three and emanated himself as a brahmin. He approached Prince Puṇyabala and  asked, ‘Puṇyabala, why did you deprive yourself of your arms and legs?’{{page:{number:23,id:UT22084-076-001-398,folio:F.12.b}}}
+{{milestone:{label:1.109,id:UT22084-076-001-174}}}“Prince Puṇyabala did not recognize him. He answered this question at length: ‘Friend, I suffer when others suffer. I am overjoyed when others are happy. Therefore, when I saw this person distraught and in unbearable pain, I wished that his suffering would be experienced by me instead of him. Having given away my own arms and legs, inspired by truth, I restored this man’s body to its previous state.’ 
+{{milestone:{label:1.110,id:UT22084-076-001-175}}}“At this, Śakra, the lord of the gods, became utterly amazed. He caused his brahmin body to disappear and stood there in his true form. He said to Prince Puṇyabala, ‘O Prince, when you were deciding to give away your own arms and legs—and when you did give them away—did you consider changing your mind or have a moment of regret?’ 
+{{milestone:{label:1.111,id:UT22084-076-001-176}}}“ ‘Kauśika,’ Prince Puṇyabala responded, ‘when I was deciding to give away my own arms and legs and when I did give them away, I did not consider changing my mind, nor did I have a moment of regret.’
+{{milestone:{label:1.112,id:UT22084-076-001-177}}}“ ‘How can I verify this?’ asked Śakra.
+“Prince Puṇyabala replied, ‘In this case, Kauśika, I will demonstrate the words of truth, so listen!’ Prince Puṇyabala proceeded to apply the attitude of loving-kindness that extended to all sentient beings. Gazing in the four directions, he uttered this verse inspired by truth:
+{{milestone:{label:1.113,id:UT22084-076-001-179}}}“ ‘If, when I severed my arms and legs today,
+I had no regrets,
+Then by my words of truth,
+May my body become just as it was before.’
+{{milestone:{label:1.114,id:UT22084-076-001-180}}}“As soon as he uttered this verse, the great being’s body immediately reverted to its previous state. Divine flowers rained down  from the sky. The sounds of divine music resounded. A gentle, fresh breeze began to blow.{{page:{number:24,id:UT22084-076-001-399,folio:F.13.a}}}
+{{milestone:{label:1.115,id:UT22084-076-001-181}}}“Śakra, the lord of the gods, was astounded by this merit. It inspired faith in gods and humans. At that time, in amazement at having witnessed for himself the copious fruits of ripened merit, faith arose in his mindstream. He asked Prince Puṇyabala, ‘O Prince, what do you wish to accomplish through this effort?’
+{{milestone:{label:1.116,id:UT22084-076-001-182}}}“Puṇyabala responded, ‘Kauśika, I wish that through this effort, after attaining unsurpassed and perfect awakening, I may extricate all sentient beings from the ocean of saṃsāra. I aspire to establish them in the everlasting ultimate, the attainment and security of nirvāṇa.’
+{{milestone:{label:1.117,id:UT22084-076-001-183}}}“When Śakra, the lord of the gods, realized that Prince Puṇyabala’s intent to attain unsurpassed and perfect awakening was as immovable as Mount Sumeru, he was pleased and said, ‘Well done, well done, great being! Your aspiration is vast! Your perseverance cannot be shaken! Because of this perseverance, it will not be long before you awaken to perfect buddhahood—the unsurpassed and perfect awakening.’ After Śakra, the lord of the gods, praised Prince Puṇyabala, he disappeared. And having fulfilled his aspirations, Prince Puṇyabala returned home.
+{{milestone:{label:1.118,id:UT22084-076-001-184}}}“Later, the king from that town passed away, but he left no son. So his retinue of queens, the grooms, the ministers, the people from the city, and the people from the countryside all gathered. They deliberated, ‘Alas! We must enthrone a king!’ At this point, one of them said, ‘Let us enthrone as king someone who is greatly renowned for merit.’ Then together they exclaimed, ‘Let it be so!’ They all agreed, and thus took up the search for a suitable person to be king, one greatly renowned for merit.  They dispatched scouts in all directions. {{page:{number:25,id:UT22084-076-001-400,folio:F.13.b}}}
+{{milestone:{label:1.119,id:UT22084-076-001-185}}}“Meanwhile, motivated by the previous virtuous roots that would enable him to become king at that time, Prince Puṇyabala, together with his close friends, had journeyed to a pleasure garden on the outskirts of the city. Upon their arrival, several auspicious omens appeared: A rain shower fell from the sky onto his head. Brightly colored birds circled clockwise. Young boys and girls proclaimed words of victory, standing there with high spirits and happy thoughts. The prince was so overjoyed that all the hairs on his body stood on end. The ground became free from any rocks, gravel, and pebbles. His body also became very light. He heard joyous and pleasing sounds. 
+{{milestone:{label:1.120,id:UT22084-076-001-186}}}“Prince Puṇyabala was an expert in prognostication, and he thought, ‘These omens that appear to me now indicate without doubt that I will be enthroned as a great king!’ Then he entered the groves at the perimeter of the pleasure garden. Experiencing joy among the groves of the pleasure garden, he went to sleep under an aśoka tree that was heavy with blossoming flowers. His friends wandered around in the pleasure garden, utterly enthralled with its flowers and fruits. While they enjoyed the pleasure garden, the power of Prince Puṇyabala’s merit inspired the nāgas to cause an incredibly magnificent, fragrant-smelling, beautifully colored, joy-giving, thousand-petaled, divine lotus to blossom from the ground. This great lotus gradually and slowly lifted Prince Puṇyabala as he lay there; but due to a magical blessing, he did not awake. After the time of the midday meal, the shadows of the other trees extended toward the east and descended toward the east. But even as the other shadows descended toward the east, the shadow of the aśoka tree did not leave Prince Puṇyabala’s body. {{note:{index33,id:UT22084-076-001-187}}}
+{{milestone:{label:1.121,id:UT22084-076-001-188}}}“All the flowers and fruit trees in the park  inclined toward the aśoka tree, and each of them bowed. Deer and birds delightful to behold engaged in auspicious activities; after circumambulating him in a gentle manner, they came to rest. Meanwhile, in his sleep, Prince Puṇyabala was still deep in dreams. He dreamed that he was sitting atop a massive heap of filth. Then he dreamed that he was deep in the filth. He dreamed that he licked the sky. He dreamed that he sat atop a lotus. He dreamed that he ascended to the summit of a mountain. He dreamed that a large crowd of people prostrated before him. {{page:{number:26,id:UT22084-076-001-401,folio:F.14.a}}}{{note:{index34,id:UT22084-076-001-189}}}
+{{milestone:{label:1.122,id:UT22084-076-001-190}}}“At about the same time, some of the people sent out to search for a king by the townsfolk, ministers, and people from the countryside arrived in that area, accompanied by various other people. When they witnessed Prince Puṇyabala’s godlike wealth, they became amazed. They concluded, ‘This being must be one who is greatly renowned for his merit.’ They hastened directly to the townsfolk, ministers, and people from the countryside and described this in detail. 
+{{milestone:{label:1.123,id:UT22084-076-001-191}}}“At that moment, Prince Puṇyabala awoke. Because he was an expert in interpreting dreams, this thought entered his mind regarding the interpretation of those dreams: ‘The dream in which I was sitting atop a massive heap of filth is an omen that I will be installed as the sovereign of a great kingdom. The dream in which I was deep in filth is an omen that I will sit upon a great lion throne. The dream in which I ascended to the summit of a mountain is an omen that I will rise above everyone. The dream in which a large crowd of people prostrated before me is an omen that large crowds of people will venerate me. Since I had such dreams and witnessed such omens, it is certain that I will become king this very day.’ {{page:{number:27,id:UT22084-076-001-402,folio:F.14.b}}}
+{{milestone:{label:1.124,id:UT22084-076-001-192}}}“When they heard the report from the search party, the townsfolk, ministers, and people from the countryside grew excited. All together they proceeded to the pleasure garden carrying the implements needed for a royal coronation. A short time later, they too witnessed the prince’s divine wealth, and were deeply astonished when they beheld it. When Prince Puṇyabala noticed them, he was sitting cross-legged on the divine giant lotus. Inspired by Prince Puṇyabala’s merit, the Four Great Kings offered him a divine lion throne fit for a great being. Śakra, the lord of the gods, offered him a white umbrella and a yak-tail fan with a jeweled handle. The gods of the Heaven of the Thirty-Three spread out divine canopies decorated with various precious gems. The gods who live in the air and the sky rained down myriad divine flowers. The gods in the Four Great Kings’ realm showered down precious gems, played divine music, and scattered garments. 
+{{milestone:{label:1.125,id:UT22084-076-001-193}}}“The royal palace precincts, the pleasure garden, and the forest were all beautified. Rocks, gravel, and pebbles were removed. Victory banners and pennants were hoisted. Tasseled flags were strung out everywhere. Censers of fragrant incense were hung. Various sorts of flowers were scattered. Everything was decked out like a divine realm. At Śakra’s request, the god Viśvakarma emanated a divine multistoried mansion for Prince Puṇyabala’s enjoyment in that pleasure garden. It was created from four kinds of precious substances and endowed with myriad features. 
+{{milestone:{label:1.126,id:UT22084-076-001-194}}}“When the townsfolk, ministers, city dwellers, and people from the countryside beheld all this divine opulence, they were astounded. With great respect and with no hesitation, they entreated Prince Puṇyabala to be seated on the divine lion throne. With utmost veneration, he was then crowned as their sovereign.
+{{milestone:{label:1.127,id:UT22084-076-001-195}}}“Monks, immediately after the coronation,  light rays that outshone even the sun’s corona radiated from Prince Puṇyabala’s body. These divine rays pervaded space for a league directly around him. From then on, he was no longer called Prince Puṇyabala; his name was changed to King Avabhāsakara. Since then, he has been known to some as King Puṇyabala, while others know him as King Avabhāsakara.{{page:{number:28,id:UT22084-076-001-403,folio:F.15.a}}}{{note:{index35,id:UT22084-076-001-196}}}
+{{milestone:{label:1.128,id:UT22084-076-001-197}}}“After this, King Puṇyabala took his wealth, the wealth of gods and humans, and proceeded to the royal palace, where he was properly attended by Śakra and the other gods. From then on, King Puṇyabala reigned in the royal palace. The kingdom now possessed riches, a vast territory, happiness, good harvests, and a sizable population. Arguments and disputes were settled. Fighting, infighting, thieves, diseases, and hunger all disappeared. The kingdom was replete with wild rice, sugarcane, cattle, and buffaloes. He treated everyone like his own son and governed the kingdom in accordance with the Dharma. Flower and fruit trees were always abundant. The gods sent down showers of timely rains, and this produced excellent crops. 
+{{milestone:{label:1.129,id:UT22084-076-001-198}}}“Soon thereafter, his brothers heard the story of the coronation. Upon hearing it, they were amazed and said to each other, ‘So Puṇyabala has defeated us both in his pledge, as well as in power and wealth. Why? Because through his merit, he has become the great sovereign master of a kingdom. Come, before he makes inquiries after us; let us all go and gratify King Puṇyabala!’ 
+{{milestone:{label:1.130,id:UT22084-076-001-199}}}“They set out for King Puṇyabala’s residence. Upon arriving they said, ‘May King Puṇyabala reign! May he have a long life!’ Then they sat down together.  While sitting together, they said to King Puṇyabala, ‘Well done, O Lord! Well done! You have been steadfast in your pledge. You have defeated us both in your pledge, as well as in power. Why? Because due to your merit, you have accomplished your objectives. You have become the sovereign master of a great kingdom.’{{page:{number:29,id:UT22084-076-001-404,folio:F.15.b}}}
+{{milestone:{label:1.131,id:UT22084-076-001-200}}}“Humbly, King Puṇyabala rose promptly from his lion throne and showed his brothers respect by seating them on seats fit for nobles. The brothers returned his respects, and then he sat back on the lion throne. From his throne, he delighted them by telling stories about their past, thus putting them at ease. After honoring them with great respect, he gave them all a considerable share of his wealth.
+{{milestone:{label:1.132,id:UT22084-076-001-201}}}“Later, wishing to establish his brothers and the populace in merit-making, he addressed a large gathering:
+{{milestone:{label:1.133,id:UT22084-076-001-202}}}“ ‘Lack of merit causes unbearable suffering to multiply, 
+And one is reborn in hell.
+Those without merit will go
+To the unbearable and forsaken animal destinies. 
+{{milestone:{label:1.134,id:UT22084-076-001-203}}}“ ‘Due to lack of merit, they will be reborn
+As pretas who are tormented by hunger and thirst.
+Due to lack of merit, they will become 
+Slaves who suffer deeply and endlessly.
+{{milestone:{label:1.135,id:UT22084-076-001-204}}}“ ‘Due to lack of merit, they will become mute.
+Due to lack of merit, they will become deaf.
+Due to lack of merit, they will become dull,
+Intellectually unstable, and mentally unsound.
+{{milestone:{label:1.136,id:UT22084-076-001-205}}}“ ‘Due to lack of merit, they will have wrong understanding.
+They will also become ugly.
+Lack of merit causes beings to be born in the lowest castes,
+Among those who are despised by the entire world.
+{{milestone:{label:1.137,id:UT22084-076-001-206}}}“ ‘Due to lack of merit, they will become deluded 
+And hated by the world. 
+Due to lack of merit, they will become insane.
+Due to lack of merit, enemies will appear. 
+{{milestone:{label:1.138,id:UT22084-076-001-207}}}“ ‘Due to lack of merit, despite striving for all their goals, {{page:{number:30,id:UT22084-076-001-405,folio:F.16.a}}}
+Their efforts will be wasted.
+Likewise, due to lack of merit, 
+Their bodies will become rough and cracked.
+{{milestone:{label:1.139,id:UT22084-076-001-208}}}“ ‘Due to lack of merit, they will always 
+Lack splendor and radiance.
+Due to lack of merit, even insentient things 
+Will become their enemies.
+{{milestone:{label:1.140,id:UT22084-076-001-209}}}“ ‘Due to lack of merit, they will be killed swiftly
+By pretas, mahoragas, or demons.
+Due to lack of merit, beneficial medicine
+Will cause them tremendous harm.
+{{milestone:{label:1.141,id:UT22084-076-001-210}}}“ ‘Due to lack of merit, they will become poor.
+Due to lack of merit, they will be despised. 
+Due to lack of merit, 
+People will disparage them viciously. 
+{{milestone:{label:1.142,id:UT22084-076-001-211}}}“ ‘Due to lack of merit, they will always 
+Be separated from their group.
+Due to lack of merit, they will lose their eyes.
+Due to lack of merit, they will be habituated to suffering.
+{{milestone:{label:1.143,id:UT22084-076-001-212}}}“ ‘Due to lack of merit, they will incur many illnesses, 
+And lack of merit makes it difficult to recover.
+Due to lack of merit, they will have unsightly bodies.
+Due to lack of merit, they will have unpleasant voices. 
+{{milestone:{label:1.144,id:UT22084-076-001-213}}}“ ‘Due to lack of merit, they will have missing fingers,
+Crippled legs, and ineffective words.{{note:{index36,id:UT22084-076-001-214}}}
+Due to lack of merit, 
+Kings, thieves, and fires will destroy their wealth.
+{{milestone:{label:1.145,id:UT22084-076-001-215}}}“ ‘Due to lack of merit, they will hear unpleasant things.
+Due to lack of merit, they will always be fearful.
+Due to lack of merit, when they travel
+The ground will be covered in stumps and thorns.
+{{milestone:{label:1.146,id:UT22084-076-001-216}}}“ ‘If they are people who desire wealth,
+Whether as workers or merchants,
+Due to lack of merit, they will always squander their time,
+And will never become wealthy. 
+{{milestone:{label:1.147,id:UT22084-076-001-217}}}“ ‘Anything and everything in the world
+That is unhappy, unpleasant, and unbeneficial,
+And likewise all their downfalls—
+All these things are due to lack of merit. 
+{{milestone:{label:1.148,id:UT22084-076-001-218}}}“ ‘Merit, on the other hand, will protect you.
+Merit will make you diligent.
+Merit wards off heat and cold.
+Merit prevents untimely rains.
+{{milestone:{label:1.149,id:UT22084-076-001-219}}}“ ‘Merit is like a wish-fulfilling cow.
+Merit yields wish-fulfilling jewels.
+Merit yields wish-fulfilling trees,
+Whose fruits all ripen as you wish. {{page:{number:31,id:UT22084-076-001-406,folio:F.16.b}}}
+{{milestone:{label:1.150,id:UT22084-076-001-220}}}“ ‘Through merit you will receive praise.{{note:{index37,id:UT22084-076-001-221}}}
+Merit makes you stunningly attractive.
+Merit makes you trustworthy.
+Those who have merit are born in high castes.
+{{milestone:{label:1.151,id:UT22084-076-001-222}}}“ ‘Through merit you will become famous.
+Through merit you will become learned.
+Merit bestows extensive delights. 
+Through merit you will retain what you learn.
+{{milestone:{label:1.152,id:UT22084-076-001-223}}}“ ‘Because one dies without illness due to merit, 
+Merit defeats the Lord of Death.
+Those who may greatly fear the Lord of Death 
+Should have no fear because of their merit.
+{{milestone:{label:1.153,id:UT22084-076-001-224}}}“ ‘The gods who live in celestial mansions
+Also live in divine joy because of merit.
+Because of merit, you can become a god in the Heaven of the Thirty-Three.
+Similarly, because of merit you can become a god in the Heaven Free from Strife.
+{{milestone:{label:1.154,id:UT22084-076-001-225}}}“ ‘Because of merit, you become a supreme god in the Heaven of Joy. 
+The same is true for the Heaven of Delighting in Emanations.
+Because of merit, you will become a Lord of the Desire Realm.
+Similarly, you become a god in the Heaven of Making Use of Others’ Emanations.
+{{milestone:{label:1.155,id:UT22084-076-001-226}}}“ ‘Merit can also make you a great Brahmā, 
+Who is respected by ten million gods.
+You could wield sovereign power
+Over Brahmā’s thousand worlds.
+{{milestone:{label:1.156,id:UT22084-076-001-227}}}“ ‘Because of merit, you will get whatever you wish,
+Always secure in good fortune.
+Merit even enables you 
+To control insentient objects.’ 
+{{milestone:{label:1.157,id:UT22084-076-001-228}}}“When King Puṇyabala declared these delightful words that are the appropriate teaching for this and future lives, the crowd entrusted themselves to merit. Then, so that even more in the crowd might cherish merit to a greater degree, King Puṇyabala gazed at the sky, and having given rise to the aspiration to inspire more people, said, ‘Well now, wouldn’t it be wonderful if a shower of various precious divine jewels and garments were to rain down on my inner and outer courts!’
+{{milestone:{label:1.158,id:UT22084-076-001-229}}}Monks, as soon as King Puṇyabala voiced this aspiration, a stream of various types of divine garments fit for nobles rained down from the sky. After that, a stream of beautiful divine  flowers rained down. After that, a stream of divine jewels rained down, resounding loudly, and the entire royal palace and its environs were covered with various precious jewels. When the whole crowd witnessed this wondrous display of merit, which made gods and humans rejoice, they were amazed. They all came to cherish merit. Overjoyed, they exclaimed, ‘Ah! Lord Puṇyabala’s merit is indeed great!’{{page:{number:32,id:UT22084-076-001-407,folio:F.17.a}}}
+{{milestone:{label:1.159,id:UT22084-076-001-230}}}“Soon thereafter, during a conversation, the kings of the Western Continent heard of this, and they were very impressed. Saying, ‘This great being is very famous because of his merit; he must be worthy of veneration,’ they all assembled. After mustering four divisions of troops—an elephant division, a cavalry division, a chariot division, and an infantry division—they all went to pay their respects to King Puṇyabala. 
+{{milestone:{label:1.160,id:UT22084-076-001-231}}}“They descended from their mounts, touched King Puṇyabala’s feet, pressed their hands together, and said, ‘Lord, you are very famous for the power of your merit. We beseech you to be our king, and we beg to become your servants.’ Then, having thoroughly satisfied them by giving them precious jewels suitable for great beings, King Puṇyabala set them and their retinues on the path of the ten virtues. He then dispatched them to their respective lands. 
+{{milestone:{label:1.161,id:UT22084-076-001-232}}}“Eventually his father, King Bright Power, heard of these events. As soon as he heard of them, he promptly sent messengers, and very soon thereafter he himself set off with a vast contingent. When he arrived in the vicinity to pay his respects to King Puṇyabala, he swooned with longing for his cherished son. His eyes welled up, he was choked with tears, and he wept profusely. Dismounting from his elephant with tears in his eyes,  he embraced King Puṇyabala around the neck without hesitation. Holding his head, he examined him for a long time and then said, ‘Young son, please understand what I say to you now. I have grown old and decrepit. Because I am no longer able to bear the burden of ruling the kingdom, you must shoulder the burden of sovereignty.’ As he said this, King Bright Power offered the crown, diadem, and tiara from his own head. {{page:{number:33,id:UT22084-076-001-408,folio:F.17.b}}}
+{{milestone:{label:1.162,id:UT22084-076-001-233}}}“In this way, by degrees, King Puṇyabala came to have dominion over the sovereigns of all the kingdoms of Jambudvīpa. After satisfying all the many beings who resided in Jambudvīpa with whatever they desired of gold and silver, he set them on the path of the ten virtues. During this time, no one in Jambudvīpa was poor or sick. All the people of Jambudvīpa were happy. They were free from diseases and endowed with strength. They had prodigious faculties. They were wealthy and had vast resources. They came to acquire great stores of wealth, many possessions, multitudes of riches, grains, gold, silver, storehouses, and treasuries. All Jambudvīpa possessed riches, prosperity, happiness, and good harvests, and was filled with many animals and people. Quarrels and fights were quelled, and there was freedom from fighting, infighting, thievery, disease, and famine. Wild rice, sugarcane, cattle, and buffaloes were all plentiful. There were no thorns, rocks, gravel, or pebbles. Flowering and fruiting trees were continuously in bloom. The gods sent down showers of timely rains, and the fields yielded excellent crops.
+{{milestone:{label:1.163,id:UT22084-076-001-234}}}“At this time, the entire populace was delighted and entrusted themselves to merit. They continuously performed acts of charity and merit. They maintained one-day precepts and maintained discipline after taking it on. During this time, those who passed on from being humans in Jambudvīpa—everyone separated from their bodies—were  born among the gods. Most of them were born among the gods of the Heaven of the Four Great Kings. After enabling countless beings to achieve their objectives in this life and the next, when King Puṇyabala and many thousands of others in his retinue died, they were born in the Heaven of Joy. {{page:{number:34,id:UT22084-076-001-409,folio:F.18.a}}}
+{{milestone:{label:1.164,id:UT22084-076-001-235}}}“Monks, do not think that King Puṇyabala at that time was anyone other than me. I am the one who became a bodhisattva at that time. King Puṇyabala’s father, King Bright Power, is now none other than King Śuddhodana; King Śuddhodana was King Bright Power at that time. Queen Vibhūṣitā is now none other than Queen Mahāmāyādevī. The good-looking prince is now none other than my aunt’s son, the monk Nanda. The diligent one is now none other than the monk Śroṇakoṭīviṃśa. The artistic one is now none other than the monk Aniruddha. The wise one is now none other than the monk Śāriputra. Śakra, the lord of the gods, is now none other than the monk Maudgalyāyana. The king who died before Puṇyabala succeeded him is now none other than the evil one, Māra. The poor man in whose house Puṇyabala stayed is now none other than the monk Rāhula. The man whose limbs were amputated by a king—who was restored by Prince Puṇyabala’s own blood, whose limbs were lengthened by his own limbs, and whose body was restored to its previous state by his words of inspiration by words of truth—is now none other than the monk Kauṇḍinya. He was the man who at that time offered his medical expertise to a king. {{note:{index38,id:UT22084-076-001-421}}}
+{{milestone:{label:1.165,id:UT22084-076-001-236}}}“Therefore, monks, you should understand that merit, called by that very name, is the most valuable quality of all sentient beings for all times and in all respects.  Monks, this is why I have declared, ‘I have never observed anything that is a more valuable quality of sentient beings than merit.’ ”{{page:{number:35,id:UT22084-076-001-410,folio:F.18.b}}}
+{{milestone:{label:1.166,id:UT22084-076-001-237}}}After he had spoken, some monks had doubts. They asked the Blessed One, the Buddha, the one who dispels doubts, “Honorable One, through the ripening of what sort of karma did King Puṇyabala come to be renowned as a great and powerful king? And why did the gods and humans bestow kingship on him? Why did everything he thought of and wished for drop from the sky when he merely wished it? Why did the earth shake as this occurred? And why did it rain knee-high divine jewels? Why was he placed on a divine lion throne? Why did Śakra, the lord of the gods, hold in his own hands fine fabrics and a divine umbrella for him? Why did inexhaustible treasures appear?”
+{{milestone:{label:1.167,id:UT22084-076-001-238}}}“Monks,” the Blessed One replied, “it was because King Puṇyabala had gathered the provisions and had set up the conditions. He had performed and accumulated these karmic deeds that bring inevitable results that come about like waves. Therefore, monks, do you think that anyone other than Puṇyabala—who himself had performed and accumulated such deeds—would experience them?{{note:{index39,id:UT22084-076-001-239}}}
+{{milestone:{label:1.168,id:UT22084-076-001-240}}}“Monks, actions that are performed and accumulated do not ripen upon the external earth element, or the water element, or the fire element, or the wind element. The virtuous and nonvirtuous actions that are performed and accumulated will only ripen upon the appropriated aggregates, constituents, and sense bases.
+{{milestone:{label:1.169,id:UT22084-076-001-241}}}“The karmic deeds of embodied beings
+Are never wasted, not even in a hundred eons.
+When they are accumulated and the time arrives, 
+Their fruits will ripen automatically.
+{{milestone:{label:1.170,id:UT22084-076-001-243}}}“Monks, once upon a time the blessed Buddha Aparājita was born in the world. He was a teacher, a thus-gone one, a worthy one, a perfect buddha, someone endowed with perfect knowledge and conduct,  a well-gone one, a knower of the world, an unsurpassed guide and tamer of beings, a teacher of gods and humans. Sometime later, after performing all his buddha activities, this perfect Buddha Aparājita attained complete nirvāṇa. This was the nirvāṇa without remaining aggregates, which is just like a fire at a king’s palace that has burned out and been extinguished. After the king constructed a stūpa for his relics, periodic celebrations were held. Later, when a celebration was held for the stūpa, a log drum was beaten, kettledrums were beaten, and a conch shell was blown. Later, in the afternoon light, a monk sat in the middle of the crowd and taught the Dharma to hundreds of thousands of living beings.{{page:{number:36,id:UT22084-076-001-411,folio:F.19.a}}}
+{{milestone:{label:1.171,id:UT22084-076-001-244}}}“During this period, among the king’s court was a man named Dyūtajaya, who was deeply addicted to gambling. His wife was named Vijayā, and his son was named Vijaya. One day Dyūtajaya lost all his possessions—everything inside and outside his house—to a wager. All that was left were the clothes he wore, an umbrella, his sandals, and five paṇa of cowrie shells. After everything he owned had been lost, he was tormented by unbearable worry and stress. 
+{{milestone:{label:1.172,id:UT22084-076-001-246}}}“He said, ‘Alas! It is terribly unfortunate that I have not created merit and am now utterly destitute!’ Exhaling a long, deep, strong breath, he put on his two sandals. With his five paṇa and his umbrella, he left the gambling den. Eventually, he arrived at a place where people were listening to the Dharma. When he saw so many people listening to the Dharma with folded hands, he was very pleased. He thought, ‘Just for a while, let me see what kind of Dharma instruction this is.’ To listen to the Dharma, he put his umbrella to one side and sat down. Removing his sandals, he listened with folded hands.  After a while, the Dharma preacher uttered the following verse:{{page:{number:37,id:UT22084-076-001-412,folio:F.19.b}}}
+{{milestone:{label:1.173,id:UT22084-076-001-247}}}“ ‘If beings accumulate merit, they will be happy.
+Therefore, humans should perform meritorious deeds.
+Moreover, they should perform them again and again. 
+They should aspire for this alone.’
+{{milestone:{label:1.174,id:UT22084-076-001-248}}}“Upon hearing this verse, he thought, ‘It is indeed true that the accumulation of merit leads to happiness! Why? It is only my past actions that have led to my present unbearable suffering. Certainly, this is because I did not gather merit in the past. I must perform a few meritorious deeds!’
+{{milestone:{label:1.175,id:UT22084-076-001-249}}}“Having considered things in this way, he thought of his remaining possessions. He saw that nothing remained aside from the clothing he was wearing, the umbrella, the pair of sandals, and the five paṇa of cowrie shells, and that he had lost everything else gambling. He then thought, ‘If I offer my five paṇa of cowrie shells and my upper garment, I may die of hunger. But if I do not offer them, I will certainly enter the next life without merit, and there I will again experience the suffering of poverty. If only there were some way to neither starve to death nor exhaust my merit!’ He thought further, ‘But I would rather die of hunger than enter the next world without merit. Therefore, I must offer my five paṇa of cowrie shells and my upper garment.’
+{{milestone:{label:1.176,id:UT22084-076-001-250}}}“While he was thinking this, the Dharma preacher uttered another verse:
+{{milestone:{label:1.177,id:UT22084-076-001-251}}}“ ‘If you engage in merit only slowly,
+You will actually be delighting in wrongdoing.
+So you should be virtuous quickly, 
+To turn your mind away from wrongdoing.’
+{{milestone:{label:1.178,id:UT22084-076-001-252}}}“When he heard this verse, Dyūtajaya thought, ‘He said, “Perform merit quickly!” I should make an offering immediately!’ Thus it happened that this gambler, wretched due to poverty but with strong devotion, approached the Dharma preacher’s lion throne and held his umbrella over his head.  Then he left his sandals near the Dharma preacher’s feet, scattered his five paṇa of cowrie shells before the Dharma preacher’s feet, removed the upper garment from his body, and used it to cover the Dharma preacher’s feet. All his bodily hair stood on end, and he developed faith. Touching the teacher’s feet, he established a powerful aspiration of faith: ‘Due to these virtuous roots, the mind of awakening, and this offering for the sake of the Dharma, from this time onward may I never be poor. May I be greatly renowned for my merit in all my lives. May gods and humans make me king. May all the things I wish for be provided from the sky. May many miracles and wonders appear when I am reborn. May inexhaustible treasuries with many precious jewels and various precious gems appear wherever I am.’{{page:{number:38,id:UT22084-076-001-413,folio:F.20.a}}}
+{{milestone:{label:1.179,id:UT22084-076-001-253}}}“As he made these aspirations, the Dharma preacher made dedications for him in his prayers, and the entire assembly departed. Reflecting on the offering he had made for the Dharma, Dyūtajaya returned home wearing one piece of cloth. Seeing him, his wife and son thought, ‘He must have lost even his upper garment while gambling somewhere.’ They were infuriated and said, ‘The only things you have left to lose are the two of us. You now intend to wager us! Go away!’{{note:{index40,id:UT22084-076-001-254}}}
+{{milestone:{label:1.180,id:UT22084-076-001-255}}}“Feeling ashamed, he thought, ‘It is due to the fault of poverty that I am humiliated in this way.’ He then uttered the following verse:
+{{milestone:{label:1.181,id:UT22084-076-001-256}}}“ ‘Such suffering is the suffering of poverty!
+How acute a suffering it is to be poor!
+Being poor is the same as dying. 
+I would rather die than be poor.’
+{{milestone:{label:1.182,id:UT22084-076-001-257}}}“After saying this, he exhaled a long, deep, strong breath and sat silently.
+“In the courtyard of their house, there was a well. His wife tried to draw water from it with a pot and a rope.  But even after trying for a while, she could not pull up the water. After a while, still unable to raise it, she said to Dyūtajaya, ‘Master, I am unable to pull up this pot. Please come and have a look.’ {{page:{number:39,id:UT22084-076-001-414,folio:F.20.b}}}{{note:{index41,id:UT22084-076-001-259}}}
+{{milestone:{label:1.183,id:UT22084-076-001-260}}}“Dyūtajaya also tried to pull it up. After he proved unable to pull it up, the two of them called their son. Then the three of them together—with a great effort that tore their skin and flesh—were suddenly successful. After some time they noticed that in the bottom of the pot, weighing it down, were five pairs of copper vessels filled with gold and silver. At the moment when Dyūtajaya witnessed the wondrous fruits of giving that had ripened in that very life, his eyes widened with astonishment. With a joyous heart, he sang the following verse:
+{{milestone:{label:1.184,id:UT22084-076-001-261}}}“ ‘Ah! On the faultless field,
+Naturally replete with good qualities,
+I sowed seeds moments ago; 
+And already the fruits have ripened!’
+{{milestone:{label:1.185,id:UT22084-076-001-262}}}“At this, his wife’s eyes also grew wide with astonishment. She said, ‘Master, what were you thinking when you said that?’ He replied by relating what had happened in detail. After witnessing the wondrous ripening of the supremely pleasing fruits of meritorious actions in the present life, she too was amazed. 
+{{milestone:{label:1.186,id:UT22084-076-001-263}}}“The news was passed on from one person to another until it reached the king’s palace. When the populace heard, people were astonished; and in astonishment they said, ‘Ah! How wondrous! Ah! Such is the greatness of merit!’ {{note:{index42,id:UT22084-076-001-264}}}
+{{milestone:{label:1.187,id:UT22084-076-001-265}}}“At this point, having directly witnessed the fruits of merit, upon suddenly becoming rich and acquiring great wealth due to fervent faith in the Buddha, Dharma, and Saṅgha, he ardently venerated them. Every day he made vast offerings to the Buddha’s stūpas, listened to the Dharma, and, with excellent food, satisfied the monks who had been appointed by the Saṅgha. Using his wealth, he also fulfilled the wishes of ascetics, brahmins, the poor, the sick, and beggars from elsewhere.  He made an offering of a grand temple replete with all facilities. After presenting it to the monks of the Saṅgha of the four directions, his fame spread to all the members of the royal court. {{page:{number:40,id:UT22084-076-001-415,folio:F.21.a}}}
+{{milestone:{label:1.188,id:UT22084-076-001-266}}}“Sometime later, the king passed away, and the royal court had no heir to the throne. The townsfolk and ministers were aware that Dyūtajaya was renowned for his great merit and made him their king. Since then, people started calling him King Jaya (“Winner”) instead of his old name, Dyūtajaya. Having witnessed the supremely pleasing fruits of ripened merit in his very lifetime, King Jaya developed conviction, and he entrusted himself mainly to merit. He continually made offerings and engaged in meritorious acts. He took up discipline and maintained it. He also urged the queen’s court, the ministers, the townsfolk, people from the countryside, and other groups to perform meritorious deeds. {{note:{index43,id:UT22084-076-001-267}}}
+{{milestone:{label:1.189,id:UT22084-076-001-268}}}“Later still, after King Jaya inevitably died, he was reborn alongside the gods of the Heaven of Making Use of Others’ Emanations. He was reborn as the son of its king, Vaśavartin. When he was born, a rain of great divine jewels and a rain of resplendent fabric descended from the sky. Light from his body illuminated all Vaśavartin’s palaces. This radiance was so bright that it outshone the radiance of the other gods in the Heaven of Making Use of Others’ Emanations. Having witnessed the wondrous ripening of the fruits of merit for themselves, the other gods of the Heaven of Making Use of Others’ Emanations were utterly amazed.
+{{milestone:{label:1.190,id:UT22084-076-001-269}}}“Monks, do not think that the gambler who became a king at that place and time was someone else. Dyūtajaya, that very same person, later became King Puṇyabala.  After hearing the Dharma, because his mind developed faith, this person offered the Dharma preacher his umbrella, sandals, upper garment, and five paṇa of cowrie shells. The results of these karmic deeds were that five lots of treasure appeared, and he was crowned as a king with dominion over his realm in that very lifetime. The ripening of that karma also led him to become the king of Tuṣita thirty-six times, king of the Heaven Free from Strife thirty-six times, king of the Heaven of the Thirty-Three thirty-six times, and king of the Heaven of the Four Great Kings thirty-six times. Many hundreds of times he was a universal monarch, victorious in the four directions, a Dharma king who lived by the Dharma and possessed a universal monarch’s seven precious possessions. The seven possessions are the precious wheel, the precious elephant, the precious horse, the precious jewel, the precious woman, the precious householder, and the precious minister as the seventh. He had one thousand sons, and they were all brave, courageous, handsome, and able to subdue the armies of others. Consequently, he extended his rule over this great world to the shores of the ocean, without causing any harm, without violence, without any interruptions, without coercion, and without recourse to warfare, in accordance with the Dharma. Due to his fairness, he was able to remain at ease.” {{page:{number:41,id:UT22084-076-001-416,folio:F.21.b}}}{{note:{index44,id:UT22084-076-001-271}}}
+{{milestone:{label:1.191,id:UT22084-076-001-272}}}Then the Blessed One uttered these verses: 
+{{milestone:{label:1.192,id:UT22084-076-001-273}}}“This is the cause by which one becomes 
+A ruler of great beings. 
+The buddhas, who wish to help
+Those in the world, speak in this way. {{page:{number:42,id:UT22084-076-001-417,folio:F.22.a}}}
+{{milestone:{label:1.193,id:UT22084-076-001-274}}}“Upon hearing of these vast miracles
+And wonders, 
+Who would not become devout,
+Whether they were born into a family of sages or miscreants? 
+{{milestone:{label:1.194,id:UT22084-076-001-275}}}“Therefore, those who want the best for themselves, and
+Who wish to become great beings in this life, 
+Should be mindful of the Buddha’s teachings 
+And regard the supreme Dharma as preeminent.
+{{milestone:{label:1.195,id:UT22084-076-001-276}}}“Therefore, monks, you should venerate the supreme Dharma. Take it to be preeminent. Honor it. Worship it. You must train in this way. Yes, monks, you should venerate the supreme Dharma. Take it to be preeminent. Honor it. Worship it. You must train upon it in this way.”{{note:{index45,id:UT22084-076-001-277}}}
+{{milestone:{label:1.196,id:UT22084-076-001-278}}}When the Blessed One spoke these words, the monks rejoiced and praised his words effusively. 
+{{milestone:{label:1.197,id:UT22084-076-001-279}}}The Account of the Noble Deeds of Puṇyabala is complete.
+{{milestone:{label:c.1,id:UT22084-076-001-280}}}This work was translated and finalized by the Indian preceptor Jinamitra and the great editor and translator, Bandé Devacandra.

@@ -1,0 +1,52 @@
+{{translation:{id:UT22084-089-008,key:toh551,version:1.0.4,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Blessed One’s Praise of Sharp Mañjuśrī
+{{milestone:{label:1.1,id:UT22084-089-008-12}}} Homage to the Omniscient One! {{page:{number:1,id:UT22084-089-008-73,folio:F.15.b}}}
+{{milestone:{label:1.2,id:UT22084-089-008-13}}}The Blessed One praised sharp Mañjuśrī:
+{{milestone:{label:1.3,id:UT22084-089-008-14}}}Your head shines gently with the beauty of midnight splendor.{{note:{index5,id:UT22084-089-008-15}}}
+Your braids sway like a boat amid azure ocean waves.
+At the noble crown of your head, the supreme mark, coiled to the right—
+An uṣṇīṣa lofty beyond the sight of ordinary beings.{{note:{index6,id:UT22084-089-008-16}}}
+{{milestone:{label:1.4,id:UT22084-089-008-17}}}That all suffering of existence be overcome 
+And your brilliant powers vanquish the enemy,
+The crown upon your head conceals a conqueror’s excellence;{{note:{index7,id:UT22084-089-008-18}}}
+Your perfections of might and skill are those of a dharmarāja.
+{{milestone:{label:1.5,id:UT22084-089-008-19}}}As in cat’s-eye gems and water lilies, so in your eyes, 
+White and black are distinguished with perfect clarity.
+Your elegant eyebrows glisten like crescent moons,
+And the sidelong glances of your smiling eyes signal your affection.
+{{milestone:{label:1.6,id:UT22084-089-008-21}}}You are the foundation of countless Dharma gates to limitless liberation,
+In the sundry plethora of the victors’ fields,
+Embellished by pure music, excellent qualities, ample grain,{{note:{index8,id:UT22084-089-008-23}}}
+And jewels of every type.
+{{milestone:{label:1.7,id:UT22084-089-008-24}}}The beautiful form of your nose is noblest of all—
+Highly ridged, with corners slight, and elegant of shape,
+Finely channeled like a slender stream. {{page:{number:2,id:UT22084-089-008-74,folio:F.15.b}}}
+One will not tire of gazing upon its virtues even in a hundred eons.
+{{milestone:{label:1.8,id:UT22084-089-008-25}}}Your lips, the red of a mañjiṣṭhā flower,{{note:{index9,id:UT22084-089-008-26}}}
+Your exquisite body, perfectly formed, quelling deluded thought,{{note:{index10,id:UT22084-089-008-27}}}
+Your lovely complexion, radiant as a lotus, clear as a lake,{{note:{index11,id:UT22084-089-008-28}}}
+And the lucidity of your mind—all give reason to smile.
+{{milestone:{label:1.9,id:UT22084-089-008-29}}}Your moon-like countenance is golden and effulgent,
+A maṇḍala of light resplendent with golden garlands,
+An orb of pure light to outshine a hundred suns,
+Emitting many colors like a mass of clouds.
+{{milestone:{label:1.10,id:UT22084-089-008-30}}}O Gentle Voice, the dharmadhātu you proclaim—
+Alluring as the song of the kalaviṅka bird.
+Your voice, perfect, pristine, and melodious,
+Roars like a lion and chimes like a golden bell.
+{{milestone:{label:1.11,id:UT22084-089-008-33}}}The body that you cultivate—a body cloaked in noble splendor—{{note:{index12,id:UT22084-089-008-34}}}{{note:{index13,id:UT22084-089-008-35}}}
+Performs the deeds of the most excellent of beings.
+It is youthful in appearance and youthful in bearing,
+A youthful form that trains the ready.
+{{milestone:{label:1.12,id:UT22084-089-008-37}}}You wear a crown replete with many jewels;
+Pearls are embedded in your golden necklace.
+Layered garments, a divine lotus, envelop you.{{note:{index14,id:UT22084-089-008-38}}}
+{{milestone:{label:1.13,id:UT22084-089-008-39}}}In your right you brandish the finest weapon, which tames through skillful means—
+It is insight itself, incomparably keen,
+Perfectly expressing the dharmadhātu principle,
+Incisive in manner, unbreakable as vajra.
+{{milestone:{label:1.14,id:UT22084-089-008-41}}}In your left is the Perfection of Wisdom,
+The inconceivable sphere where nothing is cultivated nor cast aside—
+Such is the fathomless dharmatā, 
+The truth you embrace in your heart. 
+{{milestone:{label:1.15,id:UT22084-089-008-42}}}This concludes “The Blessed One’s Praise of Sharp Mañjuśrī.”

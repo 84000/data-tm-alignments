@@ -1,0 +1,21 @@
+{{translation:{id:UT22084-066-008,key:toh250,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Sūtra on
+The Four Factors
+{{milestone:{label:1.1,id:UT22084-066-008-24}}} Homage to all the buddhas and bodhisattvas! {{page:{number:1,id:UT22084-066-008-60,folio:F.59.b}}}{{page:{number:2,id:UT22084-066-008-61,folio:F.60.a}}}
+{{milestone:{label:1.2,id:UT22084-066-008-124}}}Thus did I hear at one time. The Blessed One was residing in Śrāvastī at Jeta Grove, Anāthapiṇḍada’s Park, together with a great saṅgha of 1250 monks. 
+{{milestone:{label:1.3,id:UT22084-066-008-29}}}At that time, the Blessed One addressed the monks in a voice that was steady, deep, harmonious, and far-reaching, saying, “Monks, there are four beliefs that a wise son of good family does not hold for as long as he lives. What are these four? 
+{{milestone:{label:1.4,id:UT22084-066-008-30}}}“Monks, for as long as he lives, a wise son of good family does not hold the belief that there is pleasure to be found in women.
+{{milestone:{label:1.5,id:UT22084-066-008-31}}}“Monks, for as long as he lives, a wise son of good family does not hold the belief that there is pleasure to be found at the court of the royal palace.
+{{milestone:{label:1.6,id:UT22084-066-008-32}}}“Monks, for as long as he lives, a wise son of good family does not hold the belief that he is attractive, handsome, good looking, and in good health.
+{{milestone:{label:1.7,id:UT22084-066-008-33}}}“Monks, for as long as he lives, a wise son of good family does not hold the belief that he is rich, wealthy, and has abundant resources.”
+{{milestone:{label:1.8,id:UT22084-066-008-34}}}The Blessed One spoke these words. Once the Sugata had spoken in this way, he, the Teacher, also said the following: 
+{{milestone:{label:1.9,id:UT22084-066-008-35}}}“How could it be right to depend on women? 
+How could the royal palace ever be delightful? 
+How could a bubble possess a solid core? 
+How could one’s wealth possibly endure?
+{{milestone:{label:1.10,id:UT22084-066-008-36}}}“Wealth is like a rushing river. 
+A home is like a ferryboat. 
+One’s body resembles a flower. 
+Life itself is like a water bubble.”
+{{milestone:{label:1.11,id:UT22084-066-008-37}}}When the Blessed One had said this, the monks, together with the world of devas, humans, asuras, and gandharvas, rejoiced and praised the words of the Blessed One. 
+{{milestone:{label:1.12,id:UT22084-066-008-38}}}This concludes “The Sūtra on the Four Factors.”{{note:{index11,id:UT22084-066-008-39}}}

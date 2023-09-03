@@ -1,0 +1,877 @@
+{{translation:{id:UT22084-090-005,key:toh561,version:1.0.7,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble Queen of Incantations
+The Great Amulet
+{{milestone:{label:1.1,id:UT22084-090-005-33}}} I pay homage to Mahāpratisarā, queen of incantations, and to all buddhas and bodhisattvas!{{page:{number:1,id:UT22084-090-005-657,folio:F.117.b}}}{{note:{index17,id:UT22084-090-005-34}}}
+{{milestone:{label:1.2,id:UT22084-090-005-36}}}Thus did I hear at one time. The Blessed One was dwelling on the summit of great vajra Mount Meru, in a mansion resting on the ground of great vajra meditative absorption. The site was beautifully adorned with great vajra wish-fulfilling trees and illuminated by the luster of the jewels and lotuses in a great vajra pond. The ground was strewn with great vajra sand and consecrated as a great vajra. The site had a surrounding courtyard made of great vajras and was bedecked with billions of great vajra lion thrones of Śakra, lord of the gods. The site was consecrated by the blessings of all buddhas as a place of miracles where Dharma was taught, where the equality of all phenomena is entered, and that was perfected by omniscience. {{page:{number:2,id:UT22084-090-005-658,folio:F.118.a}}}{{note:{index18,id:UT22084-090-005-37}}}
+{{milestone:{label:1.3,id:UT22084-090-005-38}}}The Blessed One was dwelling there together with eighty-four hundred sextillion bodhisattvas. They all had one rebirth remaining, had become irreversible from unexcelled, completely perfect awakening, and had attained great power. Through their great vajra liberation and their meditative absorption, they could manifest in numerous buddhafields and display great miracles. With the minutest moment of thought they could, with breadth and eloquence, give various Dharma teachings that were melodious, vast, and profound, and that were appropriate for the mentalities and conduct of all beings. Possessing miraculous powers, they could worship thus-gone ones in multiple buddhafields with clouds of great offerings. Their mindstreams were replete with the gates of liberation, retention, meditative absorption, control, higher knowledges, the unique qualities, and the aspects of awakening, with the paths, levels, and perfections, with skillful means, and with the means of magnetizing, as well as with love, compassion, joy, and impartiality, with the power of love, and with truth and complete purity.{{note:{index19,id:UT22084-090-005-39}}}
+{{milestone:{label:1.4,id:UT22084-090-005-40}}}These eighty-four hundred sextillion bodhisattvas included, among others, the bodhisattva mahāsattva Vajragarbha, the bodhisattva mahāsattva Vajragātra, the bodhisattva mahāsattva Vajramati, the bodhisattva mahāsattva Vajrahasta, the bodhisattva mahāsattva Vajrasaṃhata, the bodhisattva mahāsattva Vajranārāyaṇa, the bodhisattva mahāsattva Vajravikurvita, the bodhisattva mahāsattva Vajrakūṭa, the bodhisattva mahāsattva Vajrarāśi, the bodhisattva mahāsattva Suvajra, and the bodhisattva mahāsattva Vajraketu.
+{{milestone:{label:1.5,id:UT22084-090-005-41}}}There were also many great śrāvakas present. They were all arhats whose defilements had been exhausted and whose bonds to existence had been completely severed. Their minds were liberated through perfect knowledge. They had attained the great powers of magical prowess and the ability to create manifestations through inconceivable miracles, and they had a view free of desire. They had all attained freedom from stains and had completely scorched the seeds of afflictive habitual patterns. 
+{{milestone:{label:1.6,id:UT22084-090-005-42}}}They included, among others,  venerable Śāriputra, venerable Pūrṇo Maitrāyaṇī­putraḥ, venerable Kaphina, venerable Subhūti, venerable Mahā­maudgalyāyana, venerable Cunda, venerable Nanda, venerable Kāśyapa, venerable Mahākāśyapa, and venerable Uruvilvākāśyapa.{{page:{number:3,id:UT22084-090-005-659,folio:F.118.b}}}
+{{milestone:{label:1.7,id:UT22084-090-005-43}}}There were also the gods from the pure abodes, immeasurably limitless and beyond description, led by the god Maheśvara; many gods from the Brahmā realm, led by Brahmā, lord of the Sahā world; the god Suyāma along with his retinue of gods from the Heaven Free from Strife; and the gods Santuṣita, Nirmāṇarati, and Paranirmitavaśavartin as well as Śakra, lord of the gods, and his many entourages of gods.
+{{milestone:{label:1.8,id:UT22084-090-005-44}}}There were infinite, innumerable, and limitless asura lords, including Vemacitrin, lord of the asuras, Balin, Prahlāda, Rāhu, and Vairocana. 
+{{milestone:{label:1.9,id:UT22084-090-005-45}}}There were infinite, innumerable, and limitless nāga kings led by Sāgara, king of the nāgas, Takṣaka, Vāsuki, Śaṅkhapāla, Karkoṭaka, Padma, and Mahāpadma. 
+{{milestone:{label:1.10,id:UT22084-090-005-46}}}The kinnara king Druma and his entourage of many kinnara kings were there, as were the gandharva king Pañcaśikha with his entourage of many gandharva kings, the vidyādhara king Sarvārthasiddha along with his entourage of many vidyādhara kings, the garuḍa king Suparṇākṣa with his entourage of many garuḍa kings, and the yakṣa kings Vaiśravaṇa, Māṇibhadra, Pūrṇabhadra, and Pāñcika along with their entourages of many yakṣa kings.
+{{milestone:{label:1.11,id:UT22084-090-005-47}}}Hārītī and her entourage of five hundred children were there, as were the seven mothers of the world, the seven great rākṣasīs, and the seven great and foremost ṛṣis. {{page:{number:4,id:UT22084-090-005-660,folio:F.119.a}}}{{note:{index20,id:UT22084-090-005-48}}}
+{{milestone:{label:1.12,id:UT22084-090-005-49}}}Also in attendance were the lunar mansions that course in the sky, the gods of all the planets, the gods of the cardinal and intermediate directions, Pṛthivī, Sarasvatī, bhutās, vighnas, vināyakas, pretas and bhūtas with great magical powers, all the mountain kings, and Varuṇa, protector of the world, along with his entourage of ocean gods.{{note:{index21,id:UT22084-090-005-50}}}
+{{milestone:{label:1.13,id:UT22084-090-005-51}}}Also present were Virūḍhaka, Virūpākṣa, Daṇḍapāṇi, Nairṛta, Jātavedas, the seven great wind gods, and Īśāna with his wife and billionfold entourage. Nārāyaṇa and his entourage were present, as were Dattaka, Dāmaka, Śaśin, and Lohaka. Mahāgaṇapati was present, as was Megholka, the lord of vināyakas, with his entourage of many vināyakas and vighnas. The sixty koṭarās were present, as were as the Four Bhaginīs and their brother. Also present were Vajrasaṅkalā, the sixty-four vajradūtīs, Vajrasena, Subāhu, and Mūrdhaṭaka, together with their manifold entourages of members of the vajra family.{{note:{index22,id:UT22084-090-005-52}}}{{note:{index23,id:UT22084-090-005-945}}}{{note:{index24,id:UT22084-090-005-53}}}
+{{milestone:{label:1.14,id:UT22084-090-005-54}}}There were, moreover, infinite, innumerable, and limitless gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, bhūtas, pretas, piśācas, chāyās, unmādas, apasmāras, skandas, sādhyas, vyālagrāhas, and ostārakas, all with intense faith in the Buddha, Dharma, and Saṅgha. Also present were the god of the sun, the god of the moon, the god of the dusk, the god of the dawn, all the gods of the seasons, and the god of the earth.{{note:{index25,id:UT22084-090-005-55}}}
+{{milestone:{label:1.15,id:UT22084-090-005-56}}}The Blessed One, turner of the wheel of Dharma, had fully perfected the deeds of a buddha. He had completed the accumulations of merit and wisdom,  had fully taken hold of omniscience, and had mastered the perfections and levels for the sake of awakening. His body, adorned with the thirty-two marks of a great being, blazed brightly. His limbs and extremities were decorated with the eighty sublime characteristics, the top of his head was beyond the sight of all beings, and he understood all the activities of Māra. He comprehended the mentality and conduct of all beings and possessed the five eyes. He was replete with the most supreme of all characteristics and the wisdom of omniscience. He possessed all the qualities of a buddha, had defeated all the hordes of māras and foes, and was exalted in his use of speech, words, and verses. He roared with the roar of a bull and a lion and had completely removed the darkness of ignorance. He had been unflagging for immeasurable, countless billions of eons in the practice of the perfections of generosity, discipline, patience, diligence, concentration, insight, means, power, aspiration, and wisdom, as well as in the performance of austerities. His body was beautiful, adorned with the thirty-two major marks and the eighty sublime characteristics of a great being.{{page:{number:5,id:UT22084-090-005-661,folio:F.119.b}}}{{note:{index26,id:UT22084-090-005-57}}}
+{{milestone:{label:1.16,id:UT22084-090-005-58}}}He took his seat on a great lion throne that sat at the heart of a lotus upon a vajra and jewel. The throne chimed with the sound of many vajras, jewels, pearls, and lattices of bells. It sat solidly on a plinth made of many vajras and jewels and was arrayed with a pile of cushions bound with strings of red pearls that issued from the mouths of numerous sea monsters made of vajra and jewels. The throne sparkled brilliantly with the luster of jewels—chrysoberyl, great chrysoberyl, sapphire, great sapphire, and topaz—that were affixed to the pericarps of many jeweled lotuses. It was entirely alluring and was completely shaded with billions of parasols whose shafts were festooned with many sprigs of vajras and jewels. It was also abundantly beautified with many wish-fulfilling trees.{{page:{number:6,id:UT22084-090-005-662,folio:F.120.a}}}{{note:{index27,id:UT22084-090-005-59}}}{{note:{index28,id:UT22084-090-005-60}}}
+{{milestone:{label:1.17,id:UT22084-090-005-61}}}As the Blessed One sat on the vajra-jewel lotus throne the size of Mount Meru, his splendor blazed forth like the king of golden mountains. The area was engulfed in an orb of light brighter than a thousand suns. Like a full moon, he shone pleasingly throughout all worlds. He taught the Dharma while, like a great wish-fulfilling tree, he was in full blossom with the qualities of a buddha. He gave instructions on religious life that were virtuous in the beginning, middle, and end, excellent in word and meaning, and unique, perfect, pure, pristine, and genuine.{{note:{index29,id:UT22084-090-005-62}}}{{note:{index30,id:UT22084-090-005-63}}}
+{{milestone:{label:1.18,id:UT22084-090-005-64}}}Then, from the hair between the eyes of the Blessed One streamed a matrix of light rays called the revealer of the fields of all buddhas. This matrix of light rays flooded the entire trichiliocosm with its brilliance. It flooded with its brilliance as many buddhafields as there are grains of sand in the Ganges, where many blessed buddhas, seated on their lion thrones in celestial palaces, were teaching the Dharma to śrāvakas, bodhisattva mahāsattvas, monks, nuns, male and female laypeople, gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, and mahoragas. {{note:{index31,id:UT22084-090-005-65}}}
+{{milestone:{label:1.19,id:UT22084-090-005-66}}}Then the Blessed One spoke to the vast assembly:
+{{milestone:{label:1.20,id:UT22084-090-005-67}}}“Out of sympathy for all beings,{{note:{index32,id:UT22084-090-005-68}}}
+I will teach this dhāraṇī of the amulet
+That completely destroys
+All wrongdoing and offenses.
+{{milestone:{label:1.21,id:UT22084-090-005-69}}}“Just by hearing this,
+All misdeeds will be exhausted. 
+It grants happiness to all beings 
+And delivers them from all illnesses. 
+{{milestone:{label:1.22,id:UT22084-090-005-70}}}“Out of compassion for all beings, 
+The lord of the world taught it {{page:{number:7,id:UT22084-090-005-663,folio:F.120.b}}}
+To protect all embodied beings
+Destined for the lower realms.
+{{milestone:{label:1.23,id:UT22084-090-005-71}}}“When protected by this,
+One can enter the asura realm 
+And, likewise, travel to Aḍakavatī 
+And the dwelling place of rākṣasas.
+{{milestone:{label:1.24,id:UT22084-090-005-72}}}“When engaged in fierce and terrifying battle{{note:{index33,id:UT22084-090-005-73}}}
+With bhūtas, nāgas, and piśācas,
+One will not be defeated by one’s enemies
+Or by all the hordes of bhūtas. 
+{{milestone:{label:1.25,id:UT22084-090-005-74}}}“Memorizing just the title and uttering it
+Vanquishes all grahas 
+As well as skandas, unmādas,
+Apasmāras, ḍākinīs, and piśācas.
+{{milestone:{label:1.26,id:UT22084-090-005-75}}}“The radiant power of the amulet
+Paralyzes all the powerful beings
+Who devour vitality
+And bring harm to people.
+{{milestone:{label:1.27,id:UT22084-090-005-76}}}“It destroys violent kākhordas 
+And the hordes of enemy armies. 
+One will not be harmed by mantra rites
+And will be freed from root magic.{{note:{index34,id:UT22084-090-005-77}}}
+{{milestone:{label:1.28,id:UT22084-090-005-78}}}“One will not be affected by poison, poisonous compounds, and fire. 
+One will not be affected by weapons and water. 
+One will not be affected by lightning bolts. 
+One will not be harmed by seasonal winds.
+{{milestone:{label:1.29,id:UT22084-090-005-79}}}“The radiant power of this queen of incantations
+Will utterly defeat all foes.
+It will accomplish all one’s aims, 
+And one will always be triumphant. 
+{{milestone:{label:1.30,id:UT22084-090-005-80}}}“Whoever keeps the incantation fastened
+Around their neck or arm
+Will have all their needs fulfilled—
+Of this there is no doubt. 
+{{milestone:{label:1.31,id:UT22084-090-005-81}}}“They will always be protected
+By courageous bodhisattvas, {{note:{index35,id:UT22084-090-005-82}}}
+Buddhas, and solitary guides,{{note:{index36,id:UT22084-090-005-83}}}
+And likewise by nāga kings and lords of gods.
+{{milestone:{label:1.32,id:UT22084-090-005-84}}}“Whoever holds the dhāraṇī of the great amulet
+Will always be protected 
+By all śrāvakas and buddhas 
+And by the incantation goddess with her great magical powers. 
+{{milestone:{label:1.33,id:UT22084-090-005-85}}}“Vajrapāṇi, the lord of yakṣas, 
+And likewise the Four Great Kings, 
+Will protect one day and night—
+Of this there is no doubt.
+{{milestone:{label:1.34,id:UT22084-090-005-86}}}“Śakra with his gods,{{note:{index37,id:UT22084-090-005-87}}}
+Brahmā, Viṣṇu, Maheśvara,
+Nandikeśa, Mahākāla, 
+Kārttikeya, and Gaṇeśvara, {{page:{number:8,id:UT22084-090-005-664,folio:F.121.a}}}
+{{milestone:{label:1.35,id:UT22084-090-005-88}}}“All the hordes of mātṛs,
+And likewise the class of māras, 
+Ṛṣis with radiant power, 
+And the gods with miraculous powers—
+{{milestone:{label:1.36,id:UT22084-090-005-89}}}“Will all protect the one who holds
+The dhāraṇī of the amulet. 
+{{milestone:{label:1.37,id:UT22084-090-005-90}}}“The buddhas, who are great beings, 
+The goddesses of incantations with their might,
+Māmakī, Bhṛkuṭī, 
+The goddess Tārā, and Aṅkuśī,
+{{milestone:{label:1.38,id:UT22084-090-005-91}}}“Vajrasaṅkalā, Śvetā,
+And Mahāśvetā,
+Mahākālī, her dūtīs, 
+And the other vajradūtīs,
+{{milestone:{label:1.39,id:UT22084-090-005-92}}}Supāśī, Vajrapāśī,{{note:{index38,id:UT22084-090-005-93}}}
+Vajrapāṇi, Mahābalā,
+The great incantation goddess Vajramālā, 
+And likewise Amṛtakuṇḍalin,
+{{milestone:{label:1.40,id:UT22084-090-005-94}}}“The great goddess Aparājitā, 
+The mighty Kālakarṇī,
+The opulent Mahābhāgā 
+And Padmakuṇḍali,
+{{milestone:{label:1.41,id:UT22084-090-005-95}}}“Puṣpadantī, Maṇicūḍā,
+Svarṇakeśī, Piṅgalā,
+The goddess Mahātejā, 
+And the opulent goddess Vidyunmālinī,
+{{milestone:{label:1.42,id:UT22084-090-005-96}}}“The rākṣasī Ekajaṭā, 
+The protector named Buddhā, {{note:{index39,id:UT22084-090-005-97}}}
+The auspicious Kāpālinī, 
+And the opulent Laṅkeśvarī,{{note:{index40,id:UT22084-090-005-98}}}
+{{milestone:{label:1.43,id:UT22084-090-005-99}}}“And many more goddesses{{note:{index41,id:UT22084-090-005-100}}}
+Who look after beings 
+Will protect the one
+In whose hand the incantation is placed.
+{{milestone:{label:1.44,id:UT22084-090-005-101}}}“Hārītī and Pāñcika, 
+Śaṅkhinī, Kūṭadantinī,
+And Sarasvatī, goddess of good fortune, 
+Will follow and always protect one. 
+{{milestone:{label:1.45,id:UT22084-090-005-102}}}“Any woman who continually wears
+This great amulet
+Will accomplish all her wishes 
+And will always conceive sons.
+{{milestone:{label:1.46,id:UT22084-090-005-103}}}“Her pregnancy will proceed comfortably,
+And she will comfortably deliver.
+All illnesses and misdeeds
+Will be vanquished, without a doubt.
+{{milestone:{label:1.47,id:UT22084-090-005-104}}}“A person will become meritorious and powerful.
+Their wealth and their grain yield will always increase.
+Their words will be agreeable,
+And they will be worthy of veneration.
+{{milestone:{label:1.48,id:UT22084-090-005-105}}}“A pure person who keeps it, 
+Be they a man or a woman,
+Will exert great effort {{page:{number:9,id:UT22084-090-005-665,folio:F.121.b}}}
+To liberate all beings. 
+{{milestone:{label:1.49,id:UT22084-090-005-106}}}“They will always be happy 
+And free of all illness. 
+Even kings, with their harem and court,
+Will fall under their control.
+{{milestone:{label:1.50,id:UT22084-090-005-107}}}“They will perpetually shine with success. 
+Their bounty of merit will increase. 
+Their wishes will all be accomplished.
+They will enter all maṇḍalas.
+{{milestone:{label:1.51,id:UT22084-090-005-108}}}“They will always know the commitments, 
+As taught by the victorious ones,
+And nightmares will not occur.
+The amulet is the supreme vanquisher of misdeeds.
+{{milestone:{label:1.52,id:UT22084-090-005-109}}}“Along with negative deeds, 
+Foes, too, will be destroyed.
+It was taught by the lords of wisdom
+In order to destroy all grahas.
+{{milestone:{label:1.53,id:UT22084-090-005-110}}}“It bestows all desires. 
+Thus, it should be worn continually!
+Listen to me, host of bhūtas!
+I will now speak it!{{note:{index42,id:UT22084-090-005-112}}}
+{{milestone:{label:1.54,id:UT22084-090-005-111}}}I pay homage to all thus-gone ones!
+I pay homage to all buddhas and bodhisattvas!
+I pay homage to the Buddha, the Dharma, and the Saṅgha!
+{{milestone:{label:1.55,id:UT22084-090-005-115}}}Tadyathā oṁ vipula vipulagarbhe vipulavimale vipulagarbhe vimale jayagarbhe vajrajvālāgarbhe gatigahane gaganaviśodhane sarvapāpaviśodhane oṁ guṇavati gaganavicāriṇi gagariṇi gigi giri giriṇi giriṇi gamari gamari gaha gaha gargari gargari gagari gagari gambhari gambhari gabhi gabhi gahi gahi gamani gamani gari gari gubha gubha guha guha guru guru guruṇi cale guhaṇi guhaṇi guruṇi culu culu cale cale mucele mucele jaye vijaye sarvabhayavigate satva sarvagarbhasaṃrakṣaṇi siri siri bhiri bhiri miri miri miri miri giri giri ghiri ghiri ghiri ghiri samantaparṣaṇi.
+{{milestone:{label:1.56,id:UT22084-090-005-116}}}Blessed lady, guide of beings, universal guide, vanquisher of all foes, protect me from all dangers, threats, plagues, and illnesses! Protect me! {{page:{number:10,id:UT22084-090-005-666,folio:F.122.a}}}
+{{milestone:{label:1.57,id:UT22084-090-005-117}}}Ciri ciri viri viri dhiri dhiri vigatāvaraṇe viśodhane vividhāvaraṇavināśani muri muri muci muci muli muli cili cili kili kili mili mili kamale vimale jaye vijaye vijayāvahe jayavati viśeṣavati.
+{{milestone:{label:1.58,id:UT22084-090-005-118}}}Blessed lady who wears a jeweled crown and garland and who wears manifold types of garments! Blessed lady, great goddess of incantations who purifies all evil! Fully protect me everywhere! Protect me! {{note:{index43,id:UT22084-090-005-119}}}
+{{milestone:{label:1.59,id:UT22084-090-005-120}}}Huru huru muru muru rakṣa rakṣa mama.
+{{milestone:{label:1.60,id:UT22084-090-005-121}}}I have no protection, refuge, or recourse! Protect me! Protect me! Deliver me from all suffering!
+{{milestone:{label:1.61,id:UT22084-090-005-122}}}Caṇḍe caṇḍe caṇḍe caṇḍe caṇḍeni caṇḍeni vegavati sarvaduṣṭanivāriṇi vijayavāhini huru huru muru muru curu curu turu turu āyuḥpālani suravarapramathani sarvadevagaṇapūjite ciri cirri dhiri dhiri samantāvalokite prabhe prabhe suprabhe suprabhaviśuddhe sarvapāpaviśuddhe sarvapāpaviśodhane dhuru dhuru dharaṇi dhare dhare dhara sumu sumu sumu sumu musu musu ruru cale cālaya.
+{{milestone:{label:1.62,id:UT22084-090-005-123}}}You of splendorous body, protect me from the ill intentioned! Fulfill my wishes!
+{{milestone:{label:1.63,id:UT22084-090-005-124}}}Jayakamale kṣiṇi kṣiṇi varadāṅkuśe oṁ padmaviśuddhe śodhaya śodhaya śuddhe śuddhe bhara bhara bhiri bhiri bhuru bhuru maṅgalaviśuddhe pavitramukhi khaḍgini khaḍgini khara khara jvalitaśikhare samantāvalokitaprabhe suprabhaviśuddhe samantaprasāritāvabhāsitaśuddhe jvala jvala sarva­deva­gaṇa­grahanakṣatrasamākarṣaṇi satyaprati oṃ hrī traṃ tara tara tāraya tāraya. {{page:{number:11,id:UT22084-090-005-667,folio:F.122.b}}}
+{{milestone:{label:1.64,id:UT22084-090-005-125}}}O lady who peers with an elephant’s gaze! Deliver me from harm by humans! 
+{{milestone:{label:1.65,id:UT22084-090-005-126}}}Lahu lahu hulu hulu hutu hutu turu turu kiṇi kiṇi kṣiṇi kṣiṇi huṇi huṇi sarva­graha­bhakṣaṇi piṅgali piṅgali mucu mucu cumu cumu suvicare tara tara.
+{{milestone:{label:1.66,id:UT22084-090-005-127}}}O lady who peers with an elephant’s gaze! With the binding of the directions and the binding of the vajra fence and vajra lasso, deliver me from the eight great dangers, everywhere and in all ways! 
+{{milestone:{label:1.67,id:UT22084-090-005-128}}}Vajra­jvālāviśuddhe bhuri bhuri dhara dhara tiri tiri turu turu bhagavati garbha­viśuddhe garbha­saṃsodhaṇi kukṣisampūraṇi jvala jvala cala cala jvālani.
+{{milestone:{label:1.68,id:UT22084-090-005-129}}}May divine water pour down everywhere!
+{{milestone:{label:1.69,id:UT22084-090-005-130}}}Amṛtavarṣaṇi deva­tāvatāraṇi.
+{{milestone:{label:1.70,id:UT22084-090-005-131}}}O you with the body composed of the supreme ambrosia of the Sugata’s sublime speech, please anoint me! Purify all strife, contention, quarrels, disputes, nightmares, bad omens, inauspiciousness, and evil! Vanquish all yakṣas, rākṣasas, and nāgas! Protect me, always and everywhere, from all threats of harm and from all fears, calamities, epidemics, and illnesses! Protect me! 
+{{milestone:{label:1.71,id:UT22084-090-005-132}}}Bala bala balavati jaya jaya vijaya vijaya.
+{{milestone:{label:1.72,id:UT22084-090-005-133}}}Grant me victory always and everywhere! May this great incantation be successful for me! Accomplish the great maṇḍala! Accomplish the secret mantras! Destroy all obstructions! 
+{{milestone:{label:1.73,id:UT22084-090-005-134}}}Jaya jaya siddhi siddhi sidhya sidhya budhya budhya sūcaya sūcaya pūraya pūraya pūraṇi pūraṇi.
+{{milestone:{label:1.74,id:UT22084-090-005-135}}}Fulfill my wishes! O blessed lady whose body has risen from all incantations, triumphant one, supremely triumphant one who is the pristine essence of the thus-gone ones, please remain!  Please remain! Honor your commitment! See me through the dreadful eight great dangers!{{page:{number:12,id:UT22084-090-005-668,folio:F.123.a}}}
+{{milestone:{label:1.75,id:UT22084-090-005-136}}}Sara sara prasara prasara sarvāvaraṇaviśodhani samantākāramaṇḍalaviśuddhe vigate vigate vigatamale sarvamalaviśodhani kṣiṇi kṣiṇi sarvapāpaviśuddhe malavigati jayavati tejo tejovati vajra vajravati svāhā. 
+{{milestone:{label:1.76,id:UT22084-090-005-137}}}To he who is blessed throughout the three worlds, svāhā! 
+To he who is anointed by the crowns of the thus-gone ones,svāhā!{{note:{index44,id:UT22084-090-005-138}}}
+To he who is anointed by all bodhisattvas, svāhā!
+To he who is anointed by all deities,svāhā!{{note:{index45,id:UT22084-090-005-139}}}
+To he who is blessed by the essence of all thus-gone ones, svāhā!
+To he who has fulfilled the commitments of all thus-gone ones,svāhā!{{note:{index46,id:UT22084-090-005-140}}}
+To he who is like Indra and is beheld by Indra, svāhā!{{note:{index47,id:UT22084-090-005-141}}}
+To Brahmā, who dwells in his Brahmā realm,svāhā!{{note:{index48,id:UT22084-090-005-142}}}
+To he who is honored by Viṣṇu, svāhā!
+To he who is honored and worshiped by Maheśvara, svāhā!
+To he who is blessed by the power and vigor of the vajra-bearing Vajrapāṇi, svāhā!
+To Dhṛtarāṣṭra, svāhā!
+To Virūḍhaka, svāhā!
+To Virūpākṣa, svāhā! 
+To Vaiśravaṇa, svāhā!
+To he who is honored by the Four Great Kings, svāhā!
+To Yama, svāhā! 
+To he who is worshiped and honored by Yama, svāhā!
+To Varuṇa, svāhā!
+To Māruta, svāhā!
+To Mahāmāruta, svāhā!
+To Agni, svāhā!
+To he who is beheld by nāgas, svāhā!
+To the assemblies of gods, svāhā!
+To the assemblies of nāgas, svāhā!
+To the assemblies of yakṣas, svāhā! 
+To the assemblies of Yama, svāhā!{{note:{index49,id:UT22084-090-005-143}}}
+To the assemblies of rākṣasas, svāhā!
+To the assemblies of gandharvas, svāhā!
+To the assemblies of asuras, svāhā! 
+To the assemblies of garuḍas, svāhā! 
+To the assemblies of kinnaras, svāhā! 
+To the assemblies of mahoragas, svāhā!
+To the humans, svāhā! {{page:{number:13,id:UT22084-090-005-669,folio:F.123.b}}}
+To all nonhumans, svāhā! 
+To all grahas, svāhā!
+To all bhūtas, svāhā! 
+To the pretas, svāhā!
+To the piśācas, svāhā! 
+To the apasmāras, svāhā! 
+To the ostārakas,svāhā!{{note:{index50,id:UT22084-090-005-144}}}
+To the kumbhāṇḍas, svāhā!
+{{milestone:{label:1.77,id:UT22084-090-005-145}}}Oṁ dhuru dhuru svāhā turu turu svāhā muru muru svāhā hana hana sarvaśatrūn svāhā daha daha sarvaduṣṭānāṃ svāhā paca paca sarva­pratyarthika­pratyamitrānāṃ svāhā.
+{{milestone:{label:1.78,id:UT22084-090-005-146}}}Let the body of all those wicked-minded beings who are hostile to me blaze, svāhā!{{note:{index51,id:UT22084-090-005-147}}}
+{{milestone:{label:1.79,id:UT22084-090-005-148}}}To the blazing one, svāhā!
+To the brilliant one, svāhā!
+To the blazing vajra, svāhā! 
+To the blazing flame, svāhā! 
+To the pervasively blazing one, svāhā! 
+To Māṇibhadra, svāhā!
+To Pūrṇabhadra, svāhā!
+To Mahākāla, svāhā!
+To the assembly of mātṛs, svāhā!
+To the yakṣiṇīs, svāhā!
+To the rākṣasīs, svāhā!
+To the mātṛs of the sky, svāhā! 
+To those who live in the oceans, svāhā! 
+To those who move at night, svāhā! 
+To those who move during the day, svāhā!
+To those who move during the three periods of the day, svāhā!
+To those who move at the proper time, svāhā! 
+To those who move at the improper time, svāhā!
+To those who devour wombs, svāhā! 
+To those who seize wombs, svāhā!
+{{milestone:{label:1.80,id:UT22084-090-005-149}}}Hulu hulu svāhā oṁ svāhā svaḥ svāhā bhūḥ svāhā bhūvaḥ svāhā bhūr bhuvaḥ svāhā ciṭi ciciṭi svāhā viṭi viṭi svāhā dhāraṇi svāhā dhāraṇi svāhā agni svāhā tejovayuḥ svāhā cili cili svāhā mili mili svāhā sili sili svāhā budhya budhya svāhā sidhya sidhya svāhā maṇḍalabandhe svāhā sīmābandhe svāhā dhāraṇibhandhe svāhā sarvaśatrūṇāṃ bhañjaya svāhā jambhaya jambhaya svāhā stambhaya stambhaya svāhā chinda chinda svāhā bhinda bhinda svāhā bhañja bhañja svāhā bandha bandha svāhā mohaya mohaya svāhā maṇiviśuddhe svāhā sūrye svāhā sūryaviśuddhe svāhā śodhani svāhā viśodhani svāhā caṇḍe caṇḍe paripūrṇacaṇḍe svāhā grahebhyaḥ svāhā nakṣatrebhyaḥ svāhā śivibhyaḥ svāhā śāntibhyaḥ svāhā puṣṭibhyaḥ svāhā svastiyanebhyaḥ svāhā garbhadhare svāhā śivaṅkari svāhā śaṅkari svāhā śāntiṅkari svāhā puṣṭiṅkari svāhā balavardhani svāhā balavardhinikari svāhā  śrīkari svāhā śrīvardhani svāhā śrījvālini svāhā muci svāhā namuci svāhā muruci svāhā vegavati svāhā.{{page:{number:14,id:UT22084-090-005-670,folio:F.124.a}}}
+{{milestone:{label:1.81,id:UT22084-090-005-150}}}“Oṁ, blessed lady, stainless supreme body of all thus-gone ones! Pacify all my evil! May auspiciousness be mine!
+{{milestone:{label:1.82,id:UT22084-090-005-151}}}Oṁ muni muni vimuni vimuni dhari cala calani bhagavati bhayavigate bhayahariṇi bodhi bodhi bodhaya bodhaya buddhili buddhili cumbuli cumbuli svāhā sarvatathāgatahṛdayajuṣṭe svāhā. Oṁ muni muni munivare.
+{{milestone:{label:1.83,id:UT22084-090-005-152}}}May I be consecrated with the consecrations of the incantations of all thus-gone ones, all of which have been sealed with the great vajra armor seal!{{note:{index52,id:UT22084-090-005-153}}}
+{{milestone:{label:1.84,id:UT22084-090-005-154}}}Sarva­tathāgata­hṛdayādhiṣṭhānādhiṣṭita­vajre svāhā.
+{{milestone:{label:1.85,id:UT22084-090-005-156}}}A great brahmin and his retinue then entered into the assembly. The Blessed One addressed the great brahmin, “Great brahmin, this is the queen of incantations, the great amulet, a dhāraṇī that is an invincible essence-seal, a wish-fulfilling gem that sparkles all around with a pristine garland of flames.{{note:{index53,id:UT22084-090-005-157}}}
+{{milestone:{label:1.86,id:UT22084-090-005-158}}}“A son or daughter of noble family is freed from all their misdeeds as soon as they hear this dhāraṇī. Great brahmin, the body of a person in whose heart this incantation resides should be understood to be a vajra. Fire cannot harm their body. How do I know? Once, in the great city of Kapilavastu, the child Rāhulabhadra resided in his mother’s womb. At that time the Śākya girl Gopā threw herself into a fire, but a lotus appeared within it. Rāhulabhadra had brought this incantation to mind while he was dwelling in the womb, and he instantly quelled the fire by simply recollecting it. The fire did not touch the body of the Śākya girl Gopā. Why? This incantation has been blessed by all the thus-gone ones. That is why, great brahmin, the fire did not burn her.
+{{milestone:{label:1.87,id:UT22084-090-005-159}}}“Poison, too, cannot separate one from life. How so? Well, great brahmin, once, in the city called Śūrpāraka,  a wealthy and powerful merchant had a son who cast incantations. Through the power of his incantation he summoned the nāga king Takṣaka, but he was careless after summoning him and failed to control him. The nāga king angrily bit him, causing a painful sensation. He thought, ‘This is how my life ends.’ Although several magicians were called, none could cure him of the poison.{{page:{number:15,id:UT22084-090-005-671,folio:F.124.b}}}{{note:{index54,id:UT22084-090-005-160}}}
+{{milestone:{label:1.88,id:UT22084-090-005-161}}}“A very compassionate woman with lay vows named Vimalaviśuddhi lived in the city of Śūrpāraka. She knew to recite this great queen of incantations, so she went to where the man was staying and uttered this great incantation. By just reciting it to him once, the poison vanished and he regained consciousness. After he was delivered from that intense suffering, the merchant’s son took the mantra of the great incantation to heart, precisely according to the prescribed procedure.
+{{milestone:{label:1.89,id:UT22084-090-005-162}}}“But how do we really know, great brahmin? In the great city of Vārāṇasī, during the reign of a king known by the name Brahmadatta, the monarch who ruled the land along the eastern border amassed a four-division army and surrounded Vārāṇasī in preparation for attack. The ministers said to King Brahmadatta, ‘Your Majesty, if the enemy army should take the city, what tactic could we employ to defeat them? Please tell us!’ The king then declared, ‘Do not worry! I have a queen of incantations called the great amulet. With it I will defeat and pulverize this four-division army!’ The ministers all bowed their heads and said, ‘O great king! What is this thing about which we have never before heard?’ The king replied,  ‘I will demonstrate it.’ Thereupon, King Brahmadatta washed his head with various perfumes, donned clean clothes, and wrote down the great queen of incantations precisely as prescribed. Placing it inside his topknot, he used the great queen of incantations as his armor and entered into battle. He then singlehandedly defeated the entire four-division army. Defeated, the enemy monarch was released once he took refuge in the incantation.{{page:{number:16,id:UT22084-090-005-672,folio:F.125.a}}}{{note:{index55,id:UT22084-090-005-163}}}
+{{milestone:{label:1.90,id:UT22084-090-005-164}}}“Great brahmin, this directly reveals the great power of the queen of incantations, which has been blessed by the essence and seal of all thus-gone ones. Given this evidence, it should be upheld. It should be seen as equal to all thus-gone ones. It should be viewed as something that at a future time, in future contexts, will benefit beings who have short lifespans, little merit, and meager possessions. Great brahmin, anyone who writes the great amulet, queen of incantations precisely as prescribed and fastens it around their arm or around their neck should be understood to be blessed by all thus-gone ones. They should be understood to have the body of all thus-gone ones. They should be understood to have a great vajra body. They should be understood to possess the essence of the relics of all thus-gone ones. They should be understood to have the eye of all thus-gone ones. They should be understood to have a great vajra body. They should be understood to possess a body of blazing flame. They should be understood to possess indestructible armor. They should be understood as one who vanquishes all foes. They should be understood as one who overcomes all obscurations and misdeeds. They should be understood as one who purifies migration to the hells.{{note:{index56,id:UT22084-090-005-165}}}
+{{milestone:{label:1.91,id:UT22084-090-005-166}}}“Why? This can be understood from a previous event. Great brahmin, in another land there was a monk  who lacked faith, had lapsed in his training in the family of the Thus-Gone One, and had become a thief. He stole from the communal supplies and consumed the articles amassed by the saṅgha from the four directions, taking them all as his own. Later, he was afflicted with a severe illness and experienced intense pain. {{page:{number:17,id:UT22084-090-005-673,folio:F.125.b}}}{{note:{index57,id:UT22084-090-005-167}}}{{note:{index58,id:UT22084-090-005-168}}}
+{{milestone:{label:1.92,id:UT22084-090-005-169}}}“Distressed, and with no recourse or protection, he wailed loudly. Then, great brahmin, a man with lay vows who lived in the area heard his wailing. He approached the monk, wrote down the queen of incantations, the great amulet, and fastened it around the monk’s neck. As soon as he attached the queen of incantations, the great amulet, around the monk’s neck, the monk’s painful sensations were completely soothed, and he was released from every illness. He spent that night restored to health, and then he died in a state of mindfulness. When he discarded his body, he was born in the great Avīci Hell. The other monks placed his corpse on the funeral pyre, with the queen of incantations, the great amulet, still fastened to his neck. As soon as the monk was born in the Avīci Hell, all the painful sensations of the beings there were completely quelled, and they were satiated with every comfort. All the roaring fires in the Avīci Hell went out completely. Yama’s minions were all surprised and reported in detail to Yama, king of the law:{{note:{index59,id:UT22084-090-005-170}}}{{note:{index60,id:UT22084-090-005-171}}}
+{{milestone:{label:1.93,id:UT22084-090-005-172}}}“ ‘The unbearable suffering of beings, 
+Caused by their karmic actions, has been totally quelled. 
+It is completely amazing, Your Majesty,
+What is being witnessed in the narrow confines of hell!
+{{milestone:{label:1.94,id:UT22084-090-005-173}}}“ ‘The burning coals, 
+Ever present on the bodies of beings, have gone out. 
+The saws no longer work.
+The razorblades do not cut. {{page:{number:18,id:UT22084-090-005-674,folio:F.126.a}}}
+{{milestone:{label:1.95,id:UT22084-090-005-174}}}“ ‘The iron-trunked śālmali trees have split. 
+All the iron cauldrons have cooled. 
+In the forest of sword leaves,
+The leaves born from karma do no harm. 
+{{milestone:{label:1.96,id:UT22084-090-005-175}}}“ ‘Yama, King of the Law,
+You govern people with justice. 
+It is right for you to tell us—
+The reason for this is no trifling thing!’
+{{milestone:{label:1.97,id:UT22084-090-005-176}}}“When the embodiment of the Law, 
+The King of the Law, resolute in justice, 
+Heard such words
+From those bereft of compassion, 
+He said, ‘Tell me immediately what happened! 
+Tell me what it is like!’ 
+{{milestone:{label:1.98,id:UT22084-090-005-177}}}“Then Yama’s cruel minions, 
+Wicked in their disposition, 
+Said to Yama, 
+King of the Law:
+{{milestone:{label:1.99,id:UT22084-090-005-178}}}“ ‘A great being, Your Majesty, 
+Was born in the narrow confine of this Avīci Hell.
+Avīci is its name, 
+And so it is called a narrow confine.
+{{milestone:{label:1.100,id:UT22084-090-005-179}}}“ ‘This person, who made beings happy—
+We see he has diverse karma.
+Being happy everywhere, 
+He is now going to a divine realm.’ 
+{{milestone:{label:1.101,id:UT22084-090-005-180}}}“When Yama perceived this,
+The King of the Law was amazed and said:
+{{milestone:{label:1.102,id:UT22084-090-005-181}}}“ ‘In a previous lifetime,
+The body of this miraculous person
+Was beautified by the amulet
+Fastened around his neck, 
+Just as the caitya of the Teacher was beautified
+By many hundreds of physical remains.’
+{{milestone:{label:1.103,id:UT22084-090-005-182}}}“Then the yakṣa guardians of hell said to Yama, King of the Law: ‘Your Majesty, why is this called an amulet?’ 
+“The King of the Law replied: 
+{{milestone:{label:1.104,id:UT22084-090-005-184}}}“ ‘One who recollects it, word for word,
+Will not go to the lower realms. 
+The insightful who meditate on the amulet
+Go to pleasant realms. 
+{{milestone:{label:1.105,id:UT22084-090-005-185}}}“ ‘You guardians of hell—
+Go to Puṣḳalāvatī!
+Look at the tall pyre there, 
+Surrounded by gods!
+After seeing it, 
+You will feel love for all beings!’
+{{milestone:{label:1.106,id:UT22084-090-005-186}}}“Yama’s minions went that very night to Puṣḳalāvatī. 
+{{milestone:{label:1.107,id:UT22084-090-005-187}}}“There and then, {{page:{number:19,id:UT22084-090-005-675,folio:F.126.b}}}
+Close to the king’s palace, 
+They saw a pyre engulfed
+In a single blazing light. 
+{{milestone:{label:1.108,id:UT22084-090-005-188}}}“They also saw a human corpse
+With the amulet fastened around its neck. 
+Gods, nāgas, gandharvas, 
+Yakṣas, rākṣasas, and kinnaras
+{{milestone:{label:1.109,id:UT22084-090-005-189}}}“Were all around it, 
+Performing unexcelled worship. 
+The yakṣas then named it
+The Amulet Pyre.
+{{milestone:{label:1.110,id:UT22084-090-005-190}}}“Then, when they understood what Yama, King of the Law, had recognized, the yakṣas returned and reported everything in detail, saying, ‘Your Majesty, it is exactly as you said.’ 
+{{milestone:{label:1.111,id:UT22084-090-005-191}}}“As soon as the yakṣas spoke their final word, the great being discarded his hell-realm body and was born among the gods of the Thirty-Three. For that reason he was called the god Pratisarāpūrvin.
+{{milestone:{label:1.112,id:UT22084-090-005-192}}}“Great brahmin, such was fully understood in the past. Consequently, this great amulet should definitely be memorized. It should be written down. It should be recited aloud. It should always be attached to the body as prescribed and be worn. It continuously frees one from all suffering and misfortune. It delivers from all the terrors of the lower realms. One can no longer be struck down by lightning. How is it that one cannot be struck by lightning? Great brahmin, this is understood from the past. 
+{{milestone:{label:1.113,id:UT22084-090-005-193}}}“In the prominent city of Hiṅgumardana lived a prominent merchant named Vimalaśaṅkha. He was very wealthy with much gold, and his treasury and granary were abundantly full. He was also renowned as a trader. At one time this great trader procured a large ship and set out on the ocean, where sea monsters seized his vessel. Nāgas, wishing to destroy the vessel, became agitated, bellowed roars of thunder, hurled bolts of lightning and meteors, and began to cast down thunderbolts. The merchants were plunged into distress. Seeing the violently agitated nāgas, the bolts of lightning  and meteors, and the rain of thunderbolts, and seeing their vessel seized by sea monsters, they began to wail. They prayed to their respective deities, but none came to their aid. They then approached their stable-minded captain and woefully said, ‘O great being, please protect and deliver us from this great danger.’ The stable-minded and intelligent captain then said to the distraught merchants:{{page:{number:20,id:UT22084-090-005-676,folio:F.127.a}}}
+{{milestone:{label:1.114,id:UT22084-090-005-194}}}“ ‘Fear not! Fear not, O merchants!
+Come to your senses!
+I will deliver you
+From the sea of great suffering!’
+{{milestone:{label:1.115,id:UT22084-090-005-195}}}“Then, having regained their composure, 
+The merchants said: 
+{{milestone:{label:1.116,id:UT22084-090-005-196}}}“ ‘O great being, please promptly tell us 
+What will free us from the obstructors! 
+Keen one, it is on your power 
+That our lives depend.
+Tell us about your deep insight
+And what you will do next.’
+{{milestone:{label:1.117,id:UT22084-090-005-197}}}“Then, the leader of the traders
+Said these words to them:
+“ ‘I have a great incantation
+That is renowned as an amulet. 
+{{milestone:{label:1.118,id:UT22084-090-005-198}}}“ ‘Powerful and mighty, 
+It dispels all harm doers.
+With it, I will deliver us
+From the great danger of intense suffering.’
+{{milestone:{label:1.119,id:UT22084-090-005-199}}}“Then the great trader wrote down this great queen of incantations and fastened it to the tip of a flag. As soon as he fastened the great amulet, the great queen of incantations, to the tip of the flag, the sea monsters all saw the vessel become a single flame. The nāgas, adopting a loving attitude, approached them and began to offer worship. The sea monsters were burned by the power of the great amulet, queen of incantations, and they dispersed and disappeared. The great nāgas even transported the group of travelers to an island of jewels. {{page:{number:21,id:UT22084-090-005-677,folio:F.127.b}}}
+{{milestone:{label:1.120,id:UT22084-090-005-200}}}“Thus, the great amulet, a great queen of incantations replete with wisdom, is blessed by all thus-gone ones. Great brahmin, this is why it is called a great incantation. It should surely be fastened to the tip of a flag and carried. It pacifies all wind, cold, unseasonable clouds, lightning, and thunderbolts. It helps one escape from conflicts and disputes with gods, humans, and asuras. All biting flies, mosquitoes, locusts, rats, and other types of creatures, in their various forms, that are injurious to crops will be rendered powerless and be pacified. All hostile beasts, birds, and predators will vanish. All flowers, fruits, leaves, trees, medicinal plants, grain, and so forth will increase and become juicy, delicious, and tender. They will all ripen to perfection. Disasters from excess or inadequate rain will not occur. It will rain seasonably, not unseasonably. The great nāgas who live in the area will pour down torrents of rain perfectly, season after season. In any land the great amulet, queen of incantations, circulates, beings will come to know it, worship and revere it with various perfumes, incenses, and flowers, wrap it in various fabrics, fasten it to the tips of flags, and circumambulate it while singing and playing instruments and cymbals. These great people will then have their expectations fulfilled by the gods, such as Śakra and Brahmā, precisely in accordance with their wishes. The more accurately it is done as prescribed, the more effective it will be. 
+{{milestone:{label:1.121,id:UT22084-090-005-201}}}“A person who wants a son gets a son.
+The pregnant woman will be well. {{page:{number:22,id:UT22084-090-005-678,folio:F.128.a}}}{{note:{index61,id:UT22084-090-005-202}}}
+The fetus will develop nicely, 
+And the child will be born easily. 
+The fetus will develop according to the proper stages
+And be born at the proper time. 
+{{milestone:{label:1.122,id:UT22084-090-005-203}}}“How can I be sure? Listen as before, great brahmin! Right here, in the land of Magadha, there was a king named Prasāritapāṇi who did not have a son. Why was he called Prasāritapāṇi? As soon as the king was born, he extended his hands, grabbed his mother’s breasts, and suckled to his satisfaction. Once he touched the two breasts, they turned a golden color, and their milk consistently increased. The king was thus named Prasāritapāṇi. Moreover, when beggars came to the king, the king would extend his right hand into the sky. Because the king was a bodhisattva, the gods with strong devotion for the Buddha would fill his hand with gold, gems, and special divine jewels. The king thus gave liberally to all the beggars who approached him. With a mere thought, the king gave every comfort and wealth to all beggars in accordance with their wishes. {{note:{index62,id:UT22084-090-005-204}}}{{note:{index63,id:UT22084-090-005-205}}}
+{{milestone:{label:1.123,id:UT22084-090-005-206}}}“Because he wanted a son, the king performed extensive worship and paid great homage to the gods, but no son was granted to him. He began to pay homage before the reliquaries of the previous thus-gone ones. There he worshiped and paid homage, presented gifts, maintained temporary vows, and performed great meritorious deeds. The gifts he offered were inexhaustible. Why was that? 
+{{milestone:{label:1.124,id:UT22084-090-005-207}}}“Previously, great brahmin, in the prominent market town of Kuśinagara in the Malla region, right here in the land of Magadha, there lived a prominent merchant named Dharmamati. He was a great being whose mind was set on the Dharma and who followed the doctrine of the Blessed One Prabhūtaratna. Driven by deep compassion for all beings, he taught the Dharma, beginning with the queen of incantations, the great amulet.  Once, a pauper heard those teachings and told the wealthy merchant, ‘I will work in your lordship’s house as a servant and listen to the Dharma. When I earn something, I will honor the Dharma with it!’ He thus worked in the merchant’s house and listened to the Dharma. Later, the wealthy merchant gave him a gold coin. The pauper formed the motivation to awaken in order to protect all beings, regarded all beings as equal, offered a handful of jewels to the great amulet, and made the aspiration, ‘Through the great fruition of this generosity, may my poverty and the poverty of all beings be totally eradicated!’ That is why Prasāritapāṇi’s generosity is inexhaustible. {{page:{number:23,id:UT22084-090-005-679,folio:F.128.b}}}{{note:{index64,id:UT22084-090-005-208}}}{{note:{index65,id:UT22084-090-005-209}}}{{note:{index66,id:UT22084-090-005-210}}}
+{{milestone:{label:1.125,id:UT22084-090-005-211}}}“Prasāritapāṇi thus performed many diverse meritorious deeds. He worshiped everyone from gods up to the blessed buddhas. When he did, the gods of the pure abodes appeared to him in a dream and declared, ‘O great king! There is a great dhāraṇī, a queen of incantations called the great amulet. It is a wish-fulfilling gem, glittering all around with a pristine garland of flames, whose seal and essence are invincible. If you write it as prescribed, as it is taught in the ritual manual, and fasten it as prescribed to the body of the principal queen who has been observing a fast, you will then have a son.’ 
+{{milestone:{label:1.126,id:UT22084-090-005-212}}}“When the king awoke and the night passed, he assembled all the brahmin diviners versed in calculations, writing, lunar mansions, and celestial bodies. Then, on the day of Puṣya, the king of constellations, they meticulously washed the body of the principal queen, precisely in accordance with the ritual manual. She observed a fast, after which this amulet, a great queen of incantations, was written as prescribed and fastened around her neck. The king then performed extensive worship to the caityas of the buddhas and gifted many spectacular gems to beings.  When nine months had passed, a handsome, good-looking, and attractive boy was born, replete with a fine complexion and a perfect figure. Knowing this, great brahmin, this great queen of incantations, revered by all thus-gone ones, is renowned as a wish-fulfilling and invincible great jewel amulet. {{page:{number:24,id:UT22084-090-005-680,folio:F.129.a}}}
+{{milestone:{label:1.127,id:UT22084-090-005-213}}}“It is the perpetual crown jewel of Śakra. When Śakra, lord of the gods, wishes to wage war on the asuras, he uses it as armor and fastens it to the crown of his head and then defeats them all. Having defeated the enemy, he successfully, easily, and happily enters the city of the gods. He remains undefeated by all the asuras.
+{{milestone:{label:1.128,id:UT22084-090-005-214}}}“Thus, great brahmin, a bodhisattva who wears the great amulet, great queen of incantations, is unaffected by all māras from the moment he first engenders the intent to awaken. A person who fastens it to their body or neck will be blessed by all thus-gone ones. They will be fully protected by all bodhisattvas, and they will always and continually be venerated, worshiped, and honored by all gods, humans, kings, ministers, brahmins, and householders. They will be respected and worshiped by all gods, asuras, garuḍas, kinnaras, and mahoragas. Even the Blessed One, the vanquisher of demonic hordes, will call them a great being. They will be free of all illness, and all infectious diseases, disasters, and epidemics will be quelled. This great being will be free of all anguish and will be forever guarded, protected, and concealed by all the gods. {{page:{number:25,id:UT22084-090-005-681,folio:F.129.b}}}
+{{milestone:{label:1.129,id:UT22084-090-005-215}}}“Once one has written down these essential syllables of this invincible great mantra, one should constantly wear them fastened to the body. They should be continually brought to mind and be recited. One should meditate upon them intently. All suffering, nightmares, bad omens, and inauspicious events will be vanquished, and every sublime joy will occur.
+“Here is the mantra formula, which brings about any effect and accomplishes virtue: 
+{{milestone:{label:1.130,id:UT22084-090-005-217}}}Tadyathā oṁ amṛte amṛtavare vare vare pravare viśuddhe hūṁ hūṁ phaṭ phaṭ svāhā. 
+{{milestone:{label:1.131,id:UT22084-090-005-218}}}Oṁ amṛtavilokini garbhe saṃrakṣaṇi ākarṣaṇi hūṁ hūṁ phaṭ phaṭ svāhā.
+“That was the invincible essence mantra. 
+{{milestone:{label:1.132,id:UT22084-090-005-220}}}Oṁ vimale vipule jayavare jayavāhini amṛte viraje hūṁ hūṁ phaṭ phaṭ svāhā. 
+{{milestone:{label:1.133,id:UT22084-090-005-221}}}Oṁ bhara bhara sambhara sambhara indriyabalaviśodhani ruru cale hūṁ hūṁ phaṭ phaṭ svāhā.
+“That was the quintessence incantation.
+{{milestone:{label:1.134,id:UT22084-090-005-223}}}Oṁ maṇidhari vajriṇi mahāpratisare hūṁ hūṁ phaṭ phaṭ svāhā.
+“That was the supremely secret essence mantra.
+{{milestone:{label:1.135,id:UT22084-090-005-225}}}“These dhāraṇī-mantra formulas were uttered in unison, as a single utterance, by all the buddhas and bodhisattvas. These mantras are the essence and armor of the great amulet, great queen of incantations. They are sealed by the seal of all thus-gone ones. If even hearing them is rare, how much more so is writing them down, reciting them, reading them, memorizing them, or teaching them to others? These activities should be understood as fulfilling the aims of the Buddha. This dhāraṇī has been praised, rejoiced in, and prophesied by all thus-gone ones.
+{{milestone:{label:1.136,id:UT22084-090-005-226}}}“This invincible dhāraṇī, the great amulet, is exceptionally rare. It is exceedingly difficult even to hear the name of this great amulet. This great dhāraṇī purifies all evil. It is strong, mighty,  splendorous, and shining. Its good qualities are extolled widely. It is the powerful vanquisher of all the gods of the māra realm. It severs Māra’s noose, which binds habitual patterns together. It neutralizes those with harmful intent who use rival mantras and mudrās, poison, kākhordas, the enlistment of kiraṇas, and hostile magic. It protects those who take great pleasure in making the finest offerings to all buddhas, bodhisattvas, and noble assemblies. It protects those dedicated to comprehending, writing down, reading, reciting, speaking, listening to, and memorizing the Great Vehicle. Great brahmin, this great amulet, queen of incantations, which perfects one all the way to the complete awakening of buddhahood, is utterly unassailable. Just like me, the teacher, the vanquisher of foes, it receives great reverence everywhere.{{page:{number:26,id:UT22084-090-005-682,folio:F.130.a}}}
+{{milestone:{label:1.137,id:UT22084-090-005-227}}}“How do we know this? We know from the past that this queen of incantations vanquishes all vighnas and vināyakas. Once, when the blessed, thus-gone, worthy, completely perfect Buddha named Vipula­praha­sita­vadanamaṇi­kanakaratnojjvalaraśmi­prabhāsābhyudgata­rāja first reached full awakening, he approached the seat of awakening with the intention to turn the wheel of Dharma that is exalted by all buddhas. At that time, many billions of māras along with their helpers surrounded the Blessed One. They magically appeared and approached him in many hideous forms, terrifying to behold, while emitting cacophonous noises and wielding the power specific to māras to create myriad miraculous appearances and rain down of many types of weapons.  They surrounded the Blessed One on all four sides and began to create obstacles. Vipula­praha­sita­vadanamaṇi­kanakaratnojjvalaraśmi­prabhāsābhyudgata­rāja remained silent for a moment as he mentally repeated the queen of incantations, the great amulet, seven times.{{page:{number:27,id:UT22084-090-005-683,folio:F.130.b}}}
+{{milestone:{label:1.138,id:UT22084-090-005-228}}}“As soon as he had recited the great amulet, great queen of incantations, all the evil māras instantly saw many billions of men wearing armor and carrying blazing swords, axes, nooses, clubs, and tridents emerge from each of the Blessed One’s pores. The men said, ‘Capture! Capture! Bind! Bind the hostile māras attempting to harm the Blessed One! Vanquish all the hostile māras! Pulverize the life force of all the hostile grahas, vighnas, and vināyakas!’ Once all the demons had been tamed by the sword of love, some took up the foundational training, others were even prophesied to reach unexcelled, perfect, and complete awakening, while others took up practices in between.{{note:{index67,id:UT22084-090-005-229}}}
+{{milestone:{label:1.139,id:UT22084-090-005-230}}}“Other powerful beings who witnessed the great men emerge from the Thus-Gone One’s pores cowered in the city. With their miraculous power diminished and their confidence, strength, and courage lost, their bows and arrows broke and they fled. Once the Thus-Gone One had vanquished all vighnas, vināyakas, and evil māras, he turned the wheel of Dharma as other buddhas had done before. He then crossed over and reached the far shore.
+{{milestone:{label:1.140,id:UT22084-090-005-231}}}“Great brahmin, by simply recollecting the great amulet, queen of incantations,  its fierce strength and its transcendent, miraculous power will deliver beings with both pure and hostile intentions from all suffering and danger. Therefore, great brahmin, it should be brought to mind by constantly recollecting it. And it should be written down and always fastened to the body so it can be worn.{{page:{number:28,id:UT22084-090-005-684,folio:F.131.a}}}
+{{milestone:{label:1.141,id:UT22084-090-005-232}}}“How do we know? Listen as before! In the city of Ujjayani, in the land of King Brahmadatta, there was a man who committed a crime. King Brahmadatta ordered the executioners to kill him, so they led the man away as the king had ordered. They reached a mountain cavern, drew their swords from their scabbards, and were preparing to execute the man when he recollected the great amulet, queen of incantations, which had been written down and fastened around his right arm. Through the power of that great man’s incantation, the swords became a single flame and shattered to pieces that scattered like dust. The executioners reported in detail what they had witnessed to the king. Enraged, the king commanded them, ‘Hey, men, elsewhere there is a yakṣa cave in which there are many hundreds of thousands of yakṣas who eat raw flesh. Take him there and leave him!’ The executioners thus left the man in the yakṣa cave. The moment he was left in the yakṣa cave, the yakṣas were delighted and rushed at him, thinking they were going to get to eat human flesh. Yet, by the power of the amulet, they saw the man as a single flame blazing with light. Seeing that, they all became frightened. Then they saw that their own bodies were being burned. Amazed, they led the man outside the cave and began to circumambulate him.
+{{milestone:{label:1.142,id:UT22084-090-005-233}}}“As before, the executioners reported this in detail to the king. The king grew even angrier.  Outraged, he commanded them, ‘Well then, go right away! Chain him up and toss him into the river!’ The executioners led the man away and tossed him into the river. The moment the man was tossed in the river, it was as though he were sitting in a field: the river had disappeared, and the chains had broken into pieces. When the king heard about this, he was shocked, stared with wide eyes, and said, ‘Wow! This man is amazing! I wonder why.’ Then the king summoned the man and said, ‘Man! What do you know?’ The man replied, ‘Great King! I do not know anything at all other than to wear the great amulet, the great queen of incantations. This, Your Majesty, is its power.’ The king said, ‘This is spectacular! It is a well-spoken, great incantation!{{page:{number:29,id:UT22084-090-005-685,folio:F.131.b}}}
+{{milestone:{label:1.143,id:UT22084-090-005-234}}}“ ‘It confounds the cudgel of the Lord of Death.
+It is blessed by all buddhas.
+It delivers all beings.
+It frees from all sickness and pain.
+{{milestone:{label:1.144,id:UT22084-090-005-235}}}“ ‘This majestic great incantation
+Saves from untimely death.
+It cures severe illness.
+It was uttered by the compassionate lords.’
+{{milestone:{label:1.145,id:UT22084-090-005-236}}}“Then, in an ecstatic mood, the king worshiped and praised the great amulet, queen of incantations. He elevated the man to high rank, and in front of his own people he anointed the man as lord of the city.{{note:{index68,id:UT22084-090-005-237}}}
+{{milestone:{label:1.146,id:UT22084-090-005-238}}}“Thus, great brahmin, this queen of incantations, the great amulet, receives great honor everywhere. It cannot be transgressed by any wicked being. Therefore, this great queen of incantations, which has been previously understood, is utterly unassailable. It should thus always and without a doubt be worn fastened on the body. Great brahmin, this queen of incantations should be written down as prescribed during an auspicious constellation.”{{note:{index69,id:UT22084-090-005-239}}}
+{{milestone:{label:1.147,id:UT22084-090-005-240}}}Then the great brahmin, in an ecstatic mood, prostrated to the Blessed One with his five limbs touching the ground and asked, “O venerable Blessed One,  what is the procedure for writing down this great queen of incantations?” {{page:{number:30,id:UT22084-090-005-686,folio:F.132.a}}}
+{{milestone:{label:1.148,id:UT22084-090-005-241}}}The Blessed One said, 
+“Listen, great brahmin! 
+Out of compassion for all beings 
+I will explain it to you. 
+{{milestone:{label:1.149,id:UT22084-090-005-242}}}“It can make beings happy,
+Deliver beings from their confining karma,
+Free them from their illnesses, 
+Bring pregnancy to women,
+And heal the wounds
+Of all beings’ poverty.
+{{milestone:{label:1.150,id:UT22084-090-005-243}}}“During the constellation called Puṣya,
+One should observe the temporary vows
+And, immersed in the worship of the Buddha,
+Engender the motivation to awaken.
+{{milestone:{label:1.151,id:UT22084-090-005-244}}}“With a heart moistened by compassion 
+And replete with kindness, 
+One constantly makes effort
+To bring benefit to all beings.
+{{milestone:{label:1.152,id:UT22084-090-005-245}}}“One should first bathe
+In a solution of sandal, saffron, and musk,{{note:{index70,id:UT22084-090-005-246}}}
+Then don clean garments 
+That have been scented with incenses. 
+{{milestone:{label:1.153,id:UT22084-090-005-247}}}“Next, a maṇḍala should be fashioned
+Out of a mixture of earth and dung.
+{{milestone:{label:1.154,id:UT22084-090-005-248}}}“Four full vases should be set out,
+With a fifth placed at the maṇḍala’s center.
+{{milestone:{label:1.155,id:UT22084-090-005-249}}}“Valuable flowers, incenses, and perfumes
+Should be placed on the maṇḍala.
+Incense made of five ingredients—
+Sandal, fenugreek, aloeswood, frankincense, and sugar—
+Should be offered as prescribed
+And according to season. 
+The maṇḍala should be decorated
+With various grains, flowers, fruits, seeds, and perfumes.
+{{milestone:{label:1.156,id:UT22084-090-005-250}}}“The oblation vases should be filled
+With ghee, honey, milk,
+Porridge, rice pudding, and so forth. 
+Adorned with auspicious symbols, 
+They should be placed in the four directions. 
+A fifth vase should be placed in the middle,
+And bowls filled with perfumes
+Should be placed in the four corners.
+{{milestone:{label:1.157,id:UT22084-090-005-251}}}“Four stakes of cutch tree wood,
+Tied tightly all around
+With strings of five different colors, {{page:{number:31,id:UT22084-090-005-687,folio:F.132.b}}}
+Should be planted outside the maṇḍala.{{note:{index71,id:UT22084-090-005-252}}}
+{{milestone:{label:1.158,id:UT22084-090-005-253}}}“Once that is done, brahmin,{{note:{index72,id:UT22084-090-005-254}}}
+One who seeks their own attainment should write it down.
+One who desires its benefits
+Should write it while eating only white foods. 
+It can be written on cloth, fabric, birch bark,
+Or anything else that is suitable. 
+{{milestone:{label:1.159,id:UT22084-090-005-255}}}“For women who desire sons, 
+It should be well written with cow bile. 
+In the center should be painted a boy 
+Who is adorned with every ornament.
+{{milestone:{label:1.160,id:UT22084-090-005-256}}}“He should likewise be holding
+A vase full of gems in his left hand 
+And be sitting on a lotus
+Ornamented and in full bloom.
+{{milestone:{label:1.161,id:UT22084-090-005-257}}}“He should be depicted as invincible 
+And adorned with gems, pearls, gold, 
+And a variety of different jewels.
+Mountains should be drawn in the four corners.{{note:{index73,id:UT22084-090-005-258}}}
+{{milestone:{label:1.162,id:UT22084-090-005-259}}}“If one wants to live happily,
+It should be carefully drawn like that.
+{{milestone:{label:1.163,id:UT22084-090-005-260}}}“When specifically for a man,
+It should be drawn in saffron.
+Then his desired aims
+Will be fulfilled—of this there is no doubt.
+{{milestone:{label:1.164,id:UT22084-090-005-261}}}“One should draw two, three, 
+Four, or even five lotuses. 
+The great variety of symbolic insignia 
+Should be drawn on the lotus. 
+{{milestone:{label:1.165,id:UT22084-090-005-262}}}“The lotuses should likewise be drawn
+With their filaments all around.
+They should be drawn with petals open
+And a silk ribbon tied to their stem.
+{{milestone:{label:1.166,id:UT22084-090-005-263}}}“A lotus drawn with a trident on it
+Has eight petals and is bound with silk ribbon. 
+Likewise, a lotus with an axe
+Is drawn with eight petals. 
+{{milestone:{label:1.167,id:UT22084-090-005-264}}}“When a sword is drawn with a lotus, 
+That lotus should be white. 
+A conch shell can also be depicted on a lotus,
+Which should be elaborate in all ways.
+{{milestone:{label:1.168,id:UT22084-090-005-265}}}“In all cases an adept should draw
+The attributes as they are prescribed.
+{{milestone:{label:1.169,id:UT22084-090-005-266}}}“In contexts of harmful intent,
+Images of children should not be drawn.
+There should be drawn the form of a god 
+That is adorned with various ornaments.
+{{milestone:{label:1.170,id:UT22084-090-005-267}}}“For monks, the vajra holder should be drawn
+Energetically threatening yakṣas.{{note:{index74,id:UT22084-090-005-268}}}
+The Four Great Kings should be drawn
+On each of the four sides.
+{{milestone:{label:1.171,id:UT22084-090-005-269}}}“Īśvara should be painted for brahmins, 
+Maheśvara for kṣatriyas; 
+For śūdras the ever-peaceful Viṣṇu
+Should be well drawn. {{page:{number:32,id:UT22084-090-005-688,folio:F.133.a}}}
+For vaiśyas should be drawn Vaiśravaṇa
+And Indra, the lord of the gods. 
+{{milestone:{label:1.172,id:UT22084-090-005-270}}}“Prajāpati, the wise one, 
+Should be drawn for boys. 
+{{milestone:{label:1.173,id:UT22084-090-005-271}}}“For women of dark complexion, 
+A wrathful figure should be drawn.
+For the fair complexioned,
+One beautiful and famous should be drawn.
+{{milestone:{label:1.174,id:UT22084-090-005-272}}}“For large women, Māṇibhadra
+Should be carefully drawn, 
+For slight women, Pūrṇabhadra,
+As I, the self-existing one, have taught. 
+{{milestone:{label:1.175,id:UT22084-090-005-273}}}“For pregnant women, Mahākālī
+And the brahmā gods should be drawn.
+Other deities should also be drawn
+According to the prescriptions outlined above.
+{{milestone:{label:1.176,id:UT22084-090-005-274}}}“When drawn correctly,
+After carefully following the protocols,
+An amulet that is constantly tied to one’s neck
+Will bring about good fortune.
+{{milestone:{label:1.177,id:UT22084-090-005-275}}}“One should paint a flaming wish-fulfilling gem
+Atop a flag with the lotus at the tip.
+A lasso or similarly a wheel
+Should be drawn at the center of a lotus.
+{{milestone:{label:1.178,id:UT22084-090-005-276}}}“One should draw a vajra above the lotus, 
+And a hammer at the lotus’s center. 
+A spear should be drawn atop the lotus,
+Just as it occurs in the rite.
+{{milestone:{label:1.179,id:UT22084-090-005-277}}}“As stipulated in the rite,
+One should draw all gems 
+With tips aflame, aglow with light
+And bound with silk. 
+{{milestone:{label:1.180,id:UT22084-090-005-278}}}“Hooded nāgas with nine heads
+And flaming gems
+Should be carefully drawn,
+Each with vajras in their hearts.{{note:{index75,id:UT22084-090-005-279}}}
+{{milestone:{label:1.181,id:UT22084-090-005-280}}}“The adept should always paint
+Bala and Sārthavāha for kings.
+{{milestone:{label:1.182,id:UT22084-090-005-281}}}“For all vidyādharas,
+The vidyā goddess should be drawn.
+The sun and moon with the lunar mansions, 
+The eight planets, Rāhu, and Ketu should also be drawn. {{note:{index76,id:UT22084-090-005-282}}}
+{{milestone:{label:1.183,id:UT22084-090-005-283}}}“If painted carefully as prescribed
+And worn by an intelligent person, 
+Even the impotent and eunuchs
+Will obtain a son.
+{{milestone:{label:1.184,id:UT22084-090-005-284}}}“The amulet accomplishes all aims,
+Brings auspiciousness, and quells all misdeeds. 
+As the self-existing one has taught, 
+The most sublime state will be attained. 
+{{milestone:{label:1.185,id:UT22084-090-005-285}}}“One will have supreme happiness in this world, 
+And one will have supreme happiness in the next world too.
+The god realms, such as the Heaven of the Thirty-Three,
+Will become one’s home. {{page:{number:33,id:UT22084-090-005-689,folio:F.133.b}}}
+{{milestone:{label:1.186,id:UT22084-090-005-286}}}“The great being will be born
+In beautiful and pleasant Jambudvīpa
+In an exalted, renowned family,
+In a leading kṣatriya family,
+Or in a leading brahmin family 
+And will always have the incantation and be happy.
+{{milestone:{label:1.187,id:UT22084-090-005-287}}}“The amount of merit obtained
+By a person wearing the amulet 
+Is a quantity of merit 
+All the buddhas cannot describe. 
+{{milestone:{label:1.188,id:UT22084-090-005-288}}}“The gates to the hells are closed. 
+The gates to the heavens are opened. 
+One will be prosperous and happy
+And highly intelligent.
+{{milestone:{label:1.189,id:UT22084-090-005-289}}}“One will constantly be encouraged
+By buddhas and bodhisattvas,
+Experience intense physical pleasure,
+And have great strength. 
+{{milestone:{label:1.190,id:UT22084-090-005-290}}}“Just as the Victorious One has said, 
+One will become a universal monarch,
+Be encouraged by gods and humans,
+And strike fear in the evil minded. 
+This will not take long,
+Because of the well-spoken incantation. 
+{{milestone:{label:1.191,id:UT22084-090-005-291}}}“One will not be harmed by weapons, 
+By poison, or even by fire.
+Even the misfortunes of untimely death
+Will stay far away.
+{{milestone:{label:1.192,id:UT22084-090-005-292}}}“In every situation,
+Encounters with bhūtas and grahas, 
+Disputes, the dangers of water and fire,
+Predators, snakes, lions, 
+Nāgas, and unbearable illness 
+Will be prevented for those
+Who have this well-spoken incantation,
+Whether it is heard, seen, or touched. 
+{{milestone:{label:1.193,id:UT22084-090-005-293}}}“They will be supreme among all beings
+And will be the object of worship
+By all māras in every way.
+Listen! I will explain this properly.” 
+{{milestone:{label:1.194,id:UT22084-090-005-294}}}This concludes the ritual procedure of “the great amulet,” the queen of incantations. 
+{{milestone:{label:1.195,id:UT22084-090-005-296}}}“Out of compassion for all beings, I will next explain the ritual procedure for protecting the vidyādhara. 
+{{milestone:{label:1.196,id:UT22084-090-005-297}}}“The ritual of protection, 
+Which brings great accomplishment, 
+Is effective, without a doubt, 
+For whatever it is used to protect.
+{{milestone:{label:1.197,id:UT22084-090-005-298}}}“It frees from fear, prevents fevers, {{page:{number:34,id:UT22084-090-005-690,folio:F.134.a}}}
+Wards off the influence of celestial bodies,
+Brings harmony with the lunar mansions, 
+And breaks the chain of karma.
+{{milestone:{label:1.198,id:UT22084-090-005-299}}}“Indigestible food, traversed hexes, 
+The actions of one’s enemies,
+The evil eye, written hexes,
+And dreadful kākhordas, 
+{{milestone:{label:1.199,id:UT22084-090-005-300}}}“Mantra-infused powders, 
+Poisonous compounds, and poisoned food—
+All of these will be pacified 
+For one who wears the protection. 
+{{milestone:{label:1.200,id:UT22084-090-005-301}}}“One who transgresses the incantation
+Will bear the consequence of retribution.{{note:{index77,id:UT22084-090-005-302}}}
+Threatened by the amulet’s curse,
+Dreadful rival armies 
+And fearsome enemies will flee.
+{{milestone:{label:1.201,id:UT22084-090-005-303}}}“Omniscient buddhas and gentle bodhisattvas
+Will afford their protection.
+Śrāvakas of great austerity
+And pratyekabuddhas will afford protection.
+{{milestone:{label:1.202,id:UT22084-090-005-304}}}“Moreover, gods and nāgas
+With miraculous powers and myriad forms 
+Offer protection to those
+Who always make use of it.
+{{milestone:{label:1.203,id:UT22084-090-005-305}}}“The Sage has said,
+‘Merely by hearing
+This queen of incantations, 
+The best of humans is always fearless.’
+{{milestone:{label:1.204,id:UT22084-090-005-306}}}“Nightmares, misdeeds, 
+Severe epidemics, 
+Contagions, severe illness, 
+Royal consumption,{{note:{index78,id:UT22084-090-005-307}}}
+{{milestone:{label:1.205,id:UT22084-090-005-308}}}“The other myriad types of illness,
+Including, boils, rashes, scabs,
+And the infectious diseases 
+That grip all people,
+{{milestone:{label:1.206,id:UT22084-090-005-309}}}“And perniciously harmful beings
+Who seize humans—
+None of these will occur
+When one has powerful protection. 
+Even prisoners will be freed
+When protected by it.{{note:{index79,id:UT22084-090-005-310}}}
+{{milestone:{label:1.207,id:UT22084-090-005-311}}}“Drawing the amulet
+Will also increase the lifespan
+Of one who is snared by the lasso of time
+And led to Yama’s realm.
+{{milestone:{label:1.208,id:UT22084-090-005-312}}}“One whose lifespan has run out, 
+Or who will die in a week, {{page:{number:35,id:UT22084-090-005-691,folio:F.134.b}}}
+Will continue to live, without a doubt, 
+Simply by writing it down.
+{{milestone:{label:1.209,id:UT22084-090-005-313}}}“By performing the protection as prescribed,
+Or even by merely hearing it,
+One attains auspiciousness in all situations
+And lives happily according to one’s wishes.
+{{milestone:{label:1.210,id:UT22084-090-005-314}}}“The one hundred billion
+Sixty-eight thousand
+Gods of the Heaven of the Thirty-Three,
+Who all dwell at the court of Śakra, 
+Will follow and dwell near such a being
+So that they can protect them. 
+{{milestone:{label:1.211,id:UT22084-090-005-315}}}“The four protectors of the world
+And mighty Vajrapāṇi, 
+Along with hundreds of classes of vidyā deities, 
+Will be present to continually provide protection.
+{{milestone:{label:1.212,id:UT22084-090-005-316}}}“The benevolent Candra, Sūrya, 
+Brahmā, Viṣṇu and Maheśvara, 
+Māṇibhadra and Yama, 
+The mighty Baladeva, 
+{{milestone:{label:1.213,id:UT22084-090-005-317}}}“The great hero Pūrṇabhadra,
+Hārītī with her children, 
+Pāñcāla and Pāñcika, 
+Kārttikeya and Gaṇeśvara, 
+{{milestone:{label:1.214,id:UT22084-090-005-318}}}“The great goddess Śrī, 
+Vaiśravaṇa and Sarasvatī, 
+Śaṅkhinī and Puṣpadantī, 
+And likewise Ekajaṭā 
+And Dhanyā the great yakṣī{{note:{index80,id:UT22084-090-005-319}}}
+Will always provide protection.
+{{milestone:{label:1.215,id:UT22084-090-005-320}}}“Even the impotent will produce sons,
+And the child will be healthy in the womb. 
+For as long as that child lives
+This incantation will be their great protector.
+{{milestone:{label:1.216,id:UT22084-090-005-321}}}“The amulet always grants victory to heroes
+Waging battle against fierce armies.
+Gods with confidence in the Dharma
+Use this amulet to grant boons.{{note:{index81,id:UT22084-090-005-322}}}
+{{milestone:{label:1.217,id:UT22084-090-005-323}}}“If drawn with reverence
+In order to vanquish evil deeds,
+The thus-gone ones will watch over one,
+As will bodhisattvas.
+{{milestone:{label:1.218,id:UT22084-090-005-324}}}“One’s fame will spread,
+And merit and lifespan will increase.
+One’s wealth and grain
+Will also be abundant, without doubt.
+{{milestone:{label:1.219,id:UT22084-090-005-325}}}“One will sleep easily
+And wake up easily.
+One will be invincible to the hosts of bhūtas 
+And the rest of one’s foes too.
+{{milestone:{label:1.220,id:UT22084-090-005-326}}}“Even when in the midst of battle,
+Employing this incantation
+Offers unexcelled protection
+That always ensures victory. {{page:{number:36,id:UT22084-090-005-692,folio:F.135.a}}}
+{{milestone:{label:1.221,id:UT22084-090-005-327}}}“The incantation is easily accomplished; 
+There will be no impediment to it.
+It fulfills all wishes
+And is an entry point to all maṇḍalas.
+{{milestone:{label:1.222,id:UT22084-090-005-328}}}“One will, in all lifetimes, 
+Quickly learn the samayas. 
+One will inspire confidence
+In upholding the qualities of the victors.
+{{milestone:{label:1.223,id:UT22084-090-005-329}}}“Every auspiciousness will be perfected.
+Every wish will be fulfilled.
+By simply drawing this amulet,
+Every happiness will be achieved.
+{{milestone:{label:1.224,id:UT22084-090-005-330}}}“Having died happily,
+One will travel to higher realms.
+{{milestone:{label:1.225,id:UT22084-090-005-331}}}“ ‘In quarrels and arguments, 
+And in battles that are extremely violent, 
+One will be free of all fears.’ 
+So the Victorious One has said.
+{{milestone:{label:1.226,id:UT22084-090-005-332}}}“One will always remember previous lives, 
+In life after life, without a doubt.
+Kings, with their queens and courts, 
+Will fall under one’s control. 
+{{milestone:{label:1.227,id:UT22084-090-005-333}}}“One will be famed as virtuous in the world 
+And will always be in harmony.
+One will be loved by everyone, 
+Be they gods or humans.
+{{milestone:{label:1.228,id:UT22084-090-005-334}}}“One will always be protected 
+Throughout both the day and the night. 
+This incantation contains the complete mantra formula 
+Uttered by the completely perfect buddhas.
+{{milestone:{label:1.229,id:UT22084-090-005-335}}}“I pay homage to the Buddha!
+I pay homage to the Dharma!
+I pay homage to the Saṅgha!
+I pay homage to the blessed, thus-gone, worthy, completely perfect Buddha, the compassionate Sage of the Śākyas!
+I pay homage to all the completely perfect buddhas!
+{{milestone:{label:1.230,id:UT22084-090-005-338}}}“After reverentially paying homage to them, 
+So that the Buddha’s teaching will spread,
+I will now teach it
+Out of compassion for all beings.”
+{{milestone:{label:1.231,id:UT22084-090-005-339}}}As soon as this magnificent incantation, 
+Which defeats powerful opponents, 
+Was uttered by the Sage
+As he sat on the vajra seat,
+{{milestone:{label:1.232,id:UT22084-090-005-340}}}The māras and their kin, 
+And all the grahas, vināyakas, 
+And vighnas that exist, {{page:{number:37,id:UT22084-090-005-693,folio:F.135.b}}}
+Dispersed that very moment.
+{{milestone:{label:1.233,id:UT22084-090-005-341}}}Tadyathā oṁ giri giri giriṇi giriṇi girivati guṇavati ākāśavati ākāśaviśuddhe sarvapāpavigate ākāśe gaganatale ākāśavicāriṇi jvalitaśikhare maṇimauktikakhacitamaulidhare sukeśesuvaktre sunetre suvarṇe suvarṇagauri atīte anutpanne anāgate pratyutpannenamaḥ sarveṣāṃ buddhānāṃ jvalitatejaṣāṃ buddhe subuddhe bhagavati surakṣaṇi sukṣeme suprabhe sudame sudānte vare varte bhagavati bhadravati bhadre subhadre vimale jayabhadre pracaṇḍe caṇḍe pracaṇḍe pracaṇḍe vajracaṇḍe mahācaṇḍe mahācaṇḍe ghori gāndhāri ghauri cauri caṇḍāli mātaṅgi varcasi pukkasi sumati śāvari śāvari śaṅkari dramiḍi drāmiḍi raudriṇi sarvagrahavidāriṅi arthasādhani hana hana sarvaśatrūṇāṃ daha daha sarvaduṣṭān pretapiśācaḍākinīnāṃ manuṣyāmanuṣyāṇāṃ ca paca paca hrīdayaṃ.{{note:{index82,id:UT22084-090-005-342}}}{{note:{index83,id:UT22084-090-005-343}}}
+{{milestone:{label:1.234,id:UT22084-090-005-344}}}Crush the life force of all wicked grahas! Blessed lady, destroy, destroy all my misfortunes! Protect, protect me everywhere from all perils and disasters! Bind all wicked ones!
+{{milestone:{label:1.235,id:UT22084-090-005-345}}}Sarvakilbiṣanāśani mārtaṇḍe mṛtyudaṇḍanivāraṇi mānadaṇḍe mānini mahāmānini mahāviṇiṭi cale cale ciṭi ciṭi viṭi viṭi niṭi niṭi tiṭi tiṭi natuṭi gauriṇi vīriṇi pravarasamare caṇḍāli mātaṅgi rundhasi sarasi varcasi sumati pukkasi śavari śāvari śaṅkari dramiḍi drāmiḍi dahani pacani mathani mardani sarale sarale saralambhe hīnamadhyotkṛṣṭavidāriṇi vidhāriṇi vidhāriṇi mahile mahile mahāmahile nigaḍe nigaḍabhañje matte mattini dānti  cakre cakravākini jvale jvale jvāle jvāle jvalini śavari śavari śāvari śāvari sarvavyādhiharaṇi cūḍi cūḍi cūḍini cūḍini mahācūḍiṇi nimi nimi nimindhari trilokadahani trilokālokakari traidhātukavyavalokini vajra­para­śupāśamudgarakhaḍgaśaṅkha­cakratriśūla­cintāma­ṇimahāvidyā­dhāriṇi.{{page:{number:38,id:UT22084-090-005-694,folio:F.136.a}}}
+{{milestone:{label:1.236,id:UT22084-090-005-346}}}Protect me, protect me everywhere, any place I may be, from all wicked ones, all dangers from humans and nonhumans, all illnesses, and all dangers!
+{{milestone:{label:1.237,id:UT22084-090-005-347}}}Vajre vajre vajavati vajrapāṇidhare hili hili mili mili kili kili cili cili vili vili sili sili vara vara varade sarvatra jayalabdhe svāhā sarvapāpavidāriṇi svāhā sarvatra sarvavyādhiharaṇi svāhā sarvatra sarvaśatrubhayaharaṇi svāhā sarvabharaṇi svāhā svastir bhavatu māṃ svāhā śāntiṅkari svāhā puṣṭiṅkari svāhā balavardhani svāhā jayatu jaye jaye jayavati kamale vimale vipule svāhā sarvatathāgatamūrte svāhā oṁ bhūri mahāśānti svāhā oṁ bhūri bhūri vajravati sarvatathāgatahṛdayapūraṇi āyuḥsandhāraṇi bala bala balavati oṁ jayavidye hūṁ hūṁ phaṭ phaṭ svāhā.
+{{milestone:{label:1.238,id:UT22084-090-005-348}}}“Great brahmin, this dhāraṇī, the mantra formula for the incantation, is the body of the Thus-Gone One. Anyone who is protected and safeguarded by it, who is embraced and cared for, who becomes peaceful and fortunate through it, and who uses it to escape punishment and weapons will see their lifespan increase, even after it has run out, and will live a long, happy life. They will have perfect memory. Through exorcism alone, and by simply being rubbed with a vajra, they will be delivered from untimely death and severe illness. All their ailments will be pacified.  Even chronic illness will cease simply by being rubbed. If one recites it every day, one will become very smart. One will become rich in charisma, strength, vigor, and confidence. All one’s misdeeds and karmic obscurations that must surely be experienced will be entirely exhausted. All buddhas, bodhisattvas, gods, nāgas, yakṣas, and so forth will augment one’s physical vitality, strength, and vigor. One will become very joyful. {{page:{number:39,id:UT22084-090-005-695,folio:F.136.b}}}
+{{milestone:{label:1.239,id:UT22084-090-005-349}}}“Great brahmin, if the syllables of the mantra formula of this great incantation so much as enter the ears of beings who have taken animal births—such as beasts and birds—those beings will all become irreversible from unexcelled, perfectly complete awakening. Thus, what need is there to speak of what will happen when the dhāraṇī of the great amulet is heard just once by sons and daughters of noble families, monks and nuns, men and women observing lay vows, kings, ministers, brahmins, kṣatriyas, or others with faith in it who, after hearing it, with great faith, reverence, and lofty intentions write it down, commission others to write it down, memorize it, recite it aloud, meditate upon it intensively, or explain it to others in detail. Then, great brahmin, they will not face the eight kinds of untimely death. Their bodies will not incur severe illness, nor will they be harmed by fire, poison, weapons, poisonous compounds, kākhordas, kiraṇas, mantra rituals, or powdered concoctions. They will not experience pain in their limbs, will not be afflicted with fever, and will not have headaches.  Their bodies will not be beset by one-day, two-day, three-day, four-day, or seven-day fevers. They will sleep lucidly and comfortably and awaken easily and lucidly. They will reach great nirvāṇa. They will immediately attain great supremacy aligned with the Dharma. They will recollect each and every lifetime in which they have been born. They will become loved by all beings and be objects of veneration. They will be delivered from all dark migrations into the hells and births as animals or pretas. They will illuminate all beings with their light, just as the orb of the sun does. They will soothe the minds of all beings with the ambrosia of the Dharma, just as the orb of the moon soothes the bodies of all beings with the power of its ambrosia.{{page:{number:40,id:UT22084-090-005-696,folio:F.137.a}}}
+{{milestone:{label:1.240,id:UT22084-090-005-350}}}“Through the power of the great amulet, the great queen of incantations, one cannot be hurt by any wicked yakṣas, rākṣasas, bhūtas, pretas, piśācas, unmādas, apasmāras, ḍākinīs, and grahas or by vināyakas, vighnas, and the like. When they approach, one should recollect this great queen of incantations.
+{{milestone:{label:1.241,id:UT22084-090-005-351}}}“It is also the case that the power of this great amulet, the great queen of incantations, will bring all those wicked beings under the control of the vidyādhara so they will obey his command. He will fear no enemy and will not be overcome by any enemy troops, kings, eminent ministers, brahmins, or householders. Even when a condemned man is being borne down on by executioners, their weapons will break into pieces, as though they were made of dust.  At that very moment all phenomena will become manifest to him, and the power of his mindfulness will increase.{{page:{number:41,id:UT22084-090-005-697,folio:F.137.b}}}
+{{milestone:{label:1.242,id:UT22084-090-005-352}}}“A supreme destroyer of rākṣasas, 
+This amulet purifies and removes misdeeds.
+It brings prosperity, produces intelligence,
+And enhances all good qualities. 
+{{milestone:{label:1.243,id:UT22084-090-005-353}}}“It provides every auspiciousness
+And destroys every inauspiciousness. 
+It causes good dreams
+And removes nightmares.
+{{milestone:{label:1.244,id:UT22084-090-005-354}}}“This mighty incantation
+Is the best protection for women and men.
+It always instantly delivers them
+From remote and impassable places. 
+Just as the perfect Buddha has said,
+They attain all their wishes.
+{{milestone:{label:1.245,id:UT22084-090-005-355}}}“If, having lost one’s way, 
+One recollects this incantation, 
+One will quickly find the road, 
+Along with the best food and drink. 
+{{milestone:{label:1.246,id:UT22084-090-005-356}}}“However much nonvirtue
+Of body, speech, and mind
+Has been committed in previous lives, 
+It will all be purified.
+{{milestone:{label:1.247,id:UT22084-090-005-357}}}“Through recollecting, wearing, 
+Comprehending, writing down, 
+Chanting, reading, 
+Reciting, or teaching this incantation to others,
+One will, before long, 
+Come to comprehend all phenomena.
+{{milestone:{label:1.248,id:UT22084-090-005-358}}}“When thus discovering the taste of Dharma,
+All misdeeds will be exhausted.
+All aims, each and every thing desired, 
+Will be fulfilled. 
+{{milestone:{label:1.249,id:UT22084-090-005-359}}}“It will completely protect one
+From every fear of death,
+From kings, fire, and water, 
+From lightning, and likewise from thieves.
+{{milestone:{label:1.250,id:UT22084-090-005-360}}}“Armies confronted in battle, opponents, 
+And fearsome carnivorous beasts
+Will all flee the incantation
+When it is recited a hundred thousand times. 
+{{milestone:{label:1.251,id:UT22084-090-005-361}}}“This incantation, this accomplishment most sublime, 
+Was taught by all the buddhas. 
+When spoken it allows no resistance
+To completing the requisites for awakening.{{note:{index84,id:UT22084-090-005-362}}}
+{{milestone:{label:1.252,id:UT22084-090-005-363}}}“If one uses this incantation,
+In any situation, {{page:{number:42,id:UT22084-090-005-698,folio:F.138.a}}}
+For the sake of oneself or others,
+The incantation will surely fulfill
+Whatever activity is desired
+Without any need for effort.
+{{milestone:{label:1.253,id:UT22084-090-005-364}}}“Now I will explain
+How to heal the sick.
+A square maṇḍala should be formed{{note:{index85,id:UT22084-090-005-365}}}
+Using a mixture of soil and dung.
+{{milestone:{label:1.254,id:UT22084-090-005-366}}}“A beautiful maṇḍala should be painted
+With powders of five different colors. 
+On it the adept should place {{note:{index86,id:UT22084-090-005-367}}}
+Four full vases as prescribed.
+{{milestone:{label:1.255,id:UT22084-090-005-368}}}“It should be strewn with flower petals
+And scented with sublime incense.
+To subdue a great being,
+An oblation rite should also be performed.{{note:{index87,id:UT22084-090-005-369}}}
+{{milestone:{label:1.256,id:UT22084-090-005-370}}}“As before, flowers and perfumes
+Should be offered as prescribed.
+Four arrows, bound with cloth, 
+Should be set in the maṇḍala’s four corners. 
+{{milestone:{label:1.257,id:UT22084-090-005-371}}}“Next, the patient’s body
+Should be bathed with fragrant perfume,
+Dressed in clean clothes,
+And laid in the center of the maṇḍala. 
+{{milestone:{label:1.258,id:UT22084-090-005-372}}}“Then, seated facing east, 
+The adept should speak the incantation. 
+By reciting it seven times, 
+He should effect the patient’s protection.
+{{milestone:{label:1.259,id:UT22084-090-005-373}}}“If this incantation is then recited
+Twenty-one times
+On behalf of the patient,
+All illness will be cured.
+{{milestone:{label:1.260,id:UT22084-090-005-374}}}“Next, the oblation vase
+Should be infused with mantra seven times.
+The food, too, should be infused with mantras,
+And the oblations and flowers as prescribed.
+{{milestone:{label:1.261,id:UT22084-090-005-375}}}“They should be scattered seven times
+On the southern side, 
+Precisely seven times to the west, 
+And precisely seven times to the north. 
+{{milestone:{label:1.262,id:UT22084-090-005-376}}}“Seven times below and above 
+Will effect the protection. 
+When this is done, best of brahmins,{{note:{index88,id:UT22084-090-005-377}}}
+One is delivered from all suffering. 
+{{milestone:{label:1.263,id:UT22084-090-005-378}}}“This protection was perfectly explained
+By the protector, the Lion of the Śākyas.
+There is no better protective incantation
+In the three realms than this.
+{{milestone:{label:1.264,id:UT22084-090-005-379}}}“One will not die, grow old, get sick,
+Encounter the unpleasant, or part from loved ones.
+{{milestone:{label:1.265,id:UT22084-090-005-380}}}“If one vigorously applies
+This incantation to their own body, {{page:{number:43,id:UT22084-090-005-699,folio:F.138.b}}}
+The army of the Lord of Death will revere them. 
+Even Yama, the sublime King of the Law, 
+Will reverentially pay homage.
+{{milestone:{label:1.266,id:UT22084-090-005-381}}}“ ‘Experience my hell briefly,’ he will say,
+‘Then go to the city of gods!’
+This one with great miraculous power 
+Will use many palatial crafts{{note:{index89,id:UT22084-090-005-382}}}
+To travel to the beautiful abode of the gods.
+There, they will thus always be revered
+By gods, humans, yakṣas, and rākṣasas. 
+{{milestone:{label:1.267,id:UT22084-090-005-383}}} “One will always be followed and protected
+By Vajrapāṇi, lord of the yakṣas, 
+Indra, husband of Śacī, 
+Hārītī and Pāñcika, 
+The protectors of the world with their great miraculous powers, 
+The moon, the sun, the lunar mansions, 
+The celestial bodies who are supremely cruel, 
+All the great nāgas, 
+The gods, and likewise the ṛṣis, 
+Asuras, garuḍas, gandharvas, 
+Kinnaras, and mahoragas. 
+{{milestone:{label:1.268,id:UT22084-090-005-384}}}“The wise one who writes
+The mighty incantation of great miraculous power
+And wears it fastened to their arm 
+Will receive great reverence 
+And always have good fortune.”
+{{milestone:{label:1.269,id:UT22084-090-005-385}}}This concludes the noble queen of incantations “The Great Amulet.”
+{{milestone:{label:c.1,id:UT22084-090-005-386}}}This was translated by the Indian preceptors Jinamitra and Dānaśīla and the translator-editor Bandé Yeshé Dé. It was then finalized after revising it based on the new lexicon. Later, the lotsāwa Shönu Pal revised it based on a Sanskrit manuscript that had been in the possession of the Dharma lord Chak Lotsāwa.

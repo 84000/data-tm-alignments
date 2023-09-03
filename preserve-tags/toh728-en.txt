@@ -1,0 +1,242 @@
+{{translation:{id:UT22084-094-005,key:toh728,version:1.0.11,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Hundred and Eight Names of the Goddess Tārā
+{{milestone:{label:1.1,id:UT22084-094-005-11}}} Homage to the great goddess Tārā, the completely victorious jewel, who, with her exquisite necklace, garments, and lower robes, is a canopy for the great worldly realm. {{page:{number:1,id:UT22084-094-005-154,folio:F.219.a}}}{{page:{number:2,id:UT22084-094-005-155,folio:F.219.b}}}
+At that time, the goddess Tārā uttered this supreme dhāraṇī, which had never been seen or heard before:
+{{milestone:{label:1.2,id:UT22084-094-005-13}}}oṁ trailokyavijaya | acittajaya | aniracijataya | sujaya | vijaya | mahājaya | vijaya | jaya jaya | he he | smara smara | vara vara varada | mahādevi | vilasa | vilasa | vilasa | vaja amotakari vijayadevi | hī hī | kiṇi kiṇi vilambase | smara smara | mahāprajñā anipata | vajramahākāruṇika | bhagini hruṃ hruṃ | sphuṭa sphuṭa | sphoṭa sphoṭa | āveśaya āveśaya | dhuna dhuna | vidhuna vidhuna | kampa kampa | kampaya | surabhigandha | atisita | mukhe haladavala | saṃgarājana | vimavigi | vināśaya vināśaya | he bhagavati | santrāsaya vighanān | parivalāya asmākaṃ asmākaṃ | mādani mādani | saṃbodhaya | saṃmohaya | hara hara | hiri hiri | huru huru | vitakara | varaja | haṃ haṃ | trotāya | haṃ haṃ | santratāya | santroya | manta manta | marda marda | cara cara | saṃcara saṃcara | vega vega vegavati | namo namo namaḥ svāhā |{{note:{index2,id:UT22084-094-005-14}}}{{note:{index3,id:UT22084-094-005-15}}}{{note:{index4,id:UT22084-094-005-16}}}{{note:{index5,id:UT22084-094-005-17}}}{{note:{index6,id:UT22084-094-005-18}}}
+{{milestone:{label:1.3,id:UT22084-094-005-19}}}Upon hearing this great mantra,
+Supremely renowned in the three realms,
+The assemblies of gods and asuras,
+Together with the hordes of rākṣasas, 
+Yakṣas, kinnaras, mahoragas,
+Bhūtas, gandharvas, and vināyakas,
+Grew afraid and hung their heads low.
+With their mighty arms trembling, they said:
+{{milestone:{label:1.4,id:UT22084-094-005-20}}}“Homage to you, Tārā, the broad-eyed one,
+Who turns away the speech of Kāmadeva,
+So that your names may fill the three realms!{{note:{index7,id:UT22084-094-005-21}}}
+{{milestone:{label:1.5,id:UT22084-094-005-22}}}“Proclaimer of Avalokiteśvara’s lineage,
+Light renowned for its greatness, O broad-eyed one, 
+You came into being to help sentient beings!”
+{{milestone:{label:1.6,id:UT22084-094-005-23}}}Then, all the gods and asuras,
+Such as Śiva and the others, gathered together.
+The lords among vidyādharas 
+And the vidyādharas themselves
+Draped their upper garments across their shoulders,
+Performed excellent circumambulations, and, 
+Bending their knees to the ground, 
+Spoke the following words: {{page:{number:3,id:UT22084-094-005-156,folio:F.220.a}}}
+{{milestone:{label:1.7,id:UT22084-094-005-24}}}“O Tārā, goddess of blazing light, 
+To you we pay homage! Homage! Homage to you!
+Your hundred and eight peerless and pristine names
+We will now recite:
+{{milestone:{label:1.8,id:UT22084-094-005-25}}}“Glorious, exalted one, ever victorious and propitious,
+Your extrasensory powers are as swift as Prajāpati’s.
+Your fierceness instills fear in the Lord of Love,{{note:{index8,id:UT22084-094-005-26}}}
+Yet you are free of carelessness and conceit.
+{{milestone:{label:1.9,id:UT22084-094-005-27}}}“Your eyes, face, and navel 
+Are lotus-like and exude purity.
+Your broad, beautiful eyes glow blue{{note:{index9,id:UT22084-094-005-28}}}
+Like the blue of the utpala flower.
+{{milestone:{label:1.10,id:UT22084-094-005-29}}}“You protect all those worthy of care,
+Granting them happiness, strength, and beauty.
+Protector and fierce guardian,
+You enact the deeds of the Three Jewels. 
+{{milestone:{label:1.11,id:UT22084-094-005-30}}}“Your lips and fingernails shine red.
+With bloodshot eyes you gaze.
+Joyful, lotus-like force of joy, 
+You are the color of the lotus, in whose hues you delight! 
+{{milestone:{label:1.12,id:UT22084-094-005-31}}}“With your extraordinary strength and frightful attire
+You tame and pacify the three worlds.
+Subduer who acts to tame beings,
+Noble one, you are praised as supreme among all.{{note:{index10,id:UT22084-094-005-32}}}
+{{milestone:{label:1.13,id:UT22084-094-005-33}}}“Holder of the vajra of resplendent clarity that tames beings,
+Utterly victorious clear light,
+You are awake, beyond taint or stain,
+And you are honored by Candra and the outstanding gods.{{note:{index11,id:UT22084-094-005-34}}}
+{{milestone:{label:1.14,id:UT22084-094-005-35}}}“Your beautiful beams of light
+Pervade all objects of desire.{{note:{index12,id:UT22084-094-005-36}}}
+Majestic in your battle with Varuṇa,
+Supreme one, your mind is naturally expansive and pervasive.
+{{milestone:{label:1.15,id:UT22084-094-005-37}}}“With your triple crown ornament, three belly folds, and three eyes{{note:{index13,id:UT22084-094-005-38}}}
+You clear away the three defilements.
+Dispeller of phenomenal existence, lady of deep virtue,
+You are also renowned for your eloquence.
+{{milestone:{label:1.16,id:UT22084-094-005-39}}}“You grant victory and merit
+And fearlessly vanquish evil.
+Lady of peace who grants wealth and luster,
+Your form, belly, and bosom are most elegant!
+{{milestone:{label:1.17,id:UT22084-094-005-40}}}“Lady of illusion who tames the field of illusory displays,{{note:{index14,id:UT22084-094-005-41}}}
+You uphold discipline and dispel all impurity.
+Holding a garland, you bring elation,
+Grant exhilaration, and remove all conceit.{{note:{index15,id:UT22084-094-005-42}}}
+{{milestone:{label:1.18,id:UT22084-094-005-43}}}“Wrathful lady who inspires splendor,
+White lady of bliss who brings peace,
+Sovereign lady of all living beings, noble and mighty goddess, {{page:{number:4,id:UT22084-094-005-157,folio:F.220.b}}}
+You hold and bestow sacred knowledge.{{note:{index16,id:UT22084-094-005-44}}}
+{{milestone:{label:1.19,id:UT22084-094-005-45}}}“Your moon-like face glows with moonlight,
+Stealing away the moon’s own effulgence.
+Lady who delights in robbing the radiance of the sun,
+You are beautiful, exalted, and wholly at peace! 
+{{milestone:{label:1.20,id:UT22084-094-005-46}}}“Blissful steppingstone to happiness,{{note:{index17,id:UT22084-094-005-47}}}
+You remove all that stands in the way of good fortune.
+You make wealth increase and merit ever-victorious. 
+You gleam like gold and silver from the Jambu River. 
+{{milestone:{label:1.21,id:UT22084-094-005-48}}}“Dispeller of fears and bestower of fearlessness,
+You are Tārā; your face is like the moon.
+You never stray far from any sentient being.
+You bring joy and are worthy of worship and homage. 
+{{milestone:{label:1.22,id:UT22084-094-005-49}}}“Your exalted garments glimmer with blue hues;
+You are beautifully adorned with red ornaments;
+And, like Gaṅgā, you dress in yellow clothing.
+Blazing white lady, you are all-seeing! 
+{{milestone:{label:1.23,id:UT22084-094-005-50}}}“Fragrant as a ball of bezoar,
+You are the adamantine Varuṇa and retinue.
+Fearsome lady, queen of the supreme maṇḍala,
+With your white teeth you laugh and smile. 
+{{milestone:{label:1.24,id:UT22084-094-005-51}}}“You wear armlets, earrings, and bracelets
+And are wreathed in glimmering crystal necklaces.
+Lady with a face of beauty, wearing a superb sash,
+You are accompanied by the one who holds a sprig of neem leaves.{{note:{index18,id:UT22084-094-005-52}}}
+{{milestone:{label:1.25,id:UT22084-094-005-53}}}“You wear a jeweled diadem, hold a jewel,
+And are adorned with jeweled ornaments.
+You are adorned with a band of beautiful gems,
+And sparkle like precious stones.
+{{milestone:{label:1.26,id:UT22084-094-005-54}}}“Vajra lady, you radiate with blazing colors,
+Awakening men and women both.
+Fanged one who wields the rod of peace,{{note:{index19,id:UT22084-094-005-55}}}
+You are as strong as Brahmā and as swift as the wind.{{note:{index20,id:UT22084-094-005-56}}}
+{{milestone:{label:1.27,id:UT22084-094-005-57}}}“You are the woman who descends from the sky
+And shines with the light of a supreme goddess.{{note:{index21,id:UT22084-094-005-58}}}
+Luminous one who conquers through desire,
+You have vanquished the torment of desire.
+{{milestone:{label:1.28,id:UT22084-094-005-59}}}“Wrathful one with a topknot and diadem, victorious one, 
+You are Brahmā and have the speech of Brahmā.
+Your beautiful voice rings like the call of the kalaviṅka.{{note:{index22,id:UT22084-094-005-60}}}
+Sovereign of the world, you are born within the supreme family!
+{{milestone:{label:1.29,id:UT22084-094-005-61}}}“Fierce lady adorned with the resplendence of jewels
+And holding a staff with adamantine leaves,
+Your immaculate earrings sway as you move.
+Such is how you dawn in the minds of those in Yama’s realm.{{note:{index23,id:UT22084-094-005-62}}}
+{{milestone:{label:1.30,id:UT22084-094-005-63}}}“You are the one taking the form of a vidyādharī.
+You are endowed with five strengths and bestow strength. {{page:{number:5,id:UT22084-094-005-158,folio:F.221.a}}}
+Wielding strength as well as absence of strength,{{note:{index24,id:UT22084-094-005-64}}}
+You cut with the blade of wisdom.
+{{milestone:{label:1.31,id:UT22084-094-005-65}}}“You are crafty and full of art,
+And your voice resounds mightily,
+Like a bouquet of campaka flowers
+Brightens a courtyard or hall from above.{{note:{index25,id:UT22084-094-005-66}}}
+{{milestone:{label:1.32,id:UT22084-094-005-67}}}Wrathful one, you hold a bouquet in your hand
+And are an excellent support for yellow-clad monastics.{{note:{index26,id:UT22084-094-005-68}}}
+Fortunate one, you are decked in ornaments{{note:{index27,id:UT22084-094-005-69}}}
+And experience great delight. 
+{{milestone:{label:1.33,id:UT22084-094-005-70}}}“Vajra fury who brings joy,
+You are endowed with the signs and great strength of your lineage.
+With your bliss, intelligence, and adamantine means,
+You bestow understanding and increase wisdom. {{note:{index28,id:UT22084-094-005-71}}}
+{{milestone:{label:1.34,id:UT22084-094-005-72}}}“Goddess of the resplendent diadem,
+Your manner is greater than all the gods.
+As Nārāyaṇī, you dispel negativity,
+And you delight in auspiciousness and modesty. 
+{{milestone:{label:1.35,id:UT22084-094-005-73}}}“Lady of gladness, you delight all who associate with you
+And you delight in those who delight in wholesome conduct.
+Delightful lady who exudes delight,
+You are an excellent support for all qualities.{{note:{index29,id:UT22084-094-005-74}}}
+{{milestone:{label:1.36,id:UT22084-094-005-75}}}“Lady who emanates buddha emanations,
+And who works to dispel pride,
+You destroy karma and afflictions,
+And conquer all forms of desire.
+{{milestone:{label:1.37,id:UT22084-094-005-76}}}“You are a buddha with the ten knowledges,
+And you uphold the ten perfections.
+You have reached the ten grounds,
+And shine bright with the light of the ten strengths. 
+{{milestone:{label:1.38,id:UT22084-094-005-77}}}“You wear a vajra diadem and wield a vajra.
+With your subtle vajra you clear away asuras.
+With the vajra of time you bring elation,{{note:{index30,id:UT22084-094-005-78}}}
+And you wield the vajra hook of bliss and glory.
+{{milestone:{label:1.39,id:UT22084-094-005-79}}}“Charming lady who holds a vajra in her hand
+And wields a vajra lasso, an excellent lasso,
+You are captivating; you bring satisfaction to the mind,
+And you dispel all opponents and obstacle makers.
+{{milestone:{label:1.40,id:UT22084-094-005-80}}}“You bring about contentment and great happiness,
+And reveal the way of play and dance.
+Rich in Dharma, you have the radiance of halāhala.
+Giver of the Dharma, your gaze is vast.
+{{milestone:{label:1.41,id:UT22084-094-005-81}}}“You are a vajra emanation,
+And are said to be vajra nectar.
+Great goddess, powerful with a blazing vajra,
+To you we pay homage!
+{{milestone:{label:1.42,id:UT22084-094-005-82}}}“With this praise of ours,
+We recite your hundred and eight sublime names.
+Amazing! The supreme Blessed One herself{{page:{number:6,id:UT22084-094-005-159,folio:F.221.b}}}{{note:{index31,id:UT22084-094-005-83}}}
+Has spoken the most sublime of utterances.”{{note:{index32,id:UT22084-094-005-84}}}
+{{milestone:{label:1.43,id:UT22084-094-005-85}}}Then, the magnificent goddess Tārā,
+Who is like the light of the moon
+And blazes with radiance,
+Revealed a smile and spoke:
+{{milestone:{label:1.44,id:UT22084-094-005-86}}}“Maheśvara and the rest of you, 
+Listen now to my words.
+Always be agreeable with everyone
+As you strive to attain the ten strengths. 
+At all times, protect the great way 
+Of the thus-gone ones.
+Keeping your minds on the path of peace, 
+You must cross over the unbearable ocean of cyclic existence, 
+Which is the source of great terrors
+And is so difficult to ford.
+Setting your mind upon the city of nirvāṇa,
+You must strive for it and enter it.”
+{{milestone:{label:1.45,id:UT22084-094-005-87}}}Then Tārā, whose face is as beautiful 
+As a garland of the sun’s blazing rays,
+Spoke the following words
+Like the rumbling thunder of the Thus-Gone One:
+{{milestone:{label:1.46,id:UT22084-094-005-88}}}“O wonder! This excellent vidyāmantra of Tārā
+Clears away all darkness,
+Creates immense power and strength,
+And cuts through all obscurations.
+{{milestone:{label:1.47,id:UT22084-094-005-89}}}“This dhāraṇī, which brings so much joy,
+Will not be heard by the masses
+Who have not purified themselves
+By cultivating inner confidence.
+{{milestone:{label:1.48,id:UT22084-094-005-90}}}“This great samaya, the samaya of this vidyāmantra,
+Will arise for those
+Who have developed stable confidence,
+From their prior efforts toward buddhahood.
+{{milestone:{label:1.49,id:UT22084-094-005-91}}}“Whoever upholds this sublime, indestructible dhāraṇī-mantra,
+Which quells all afflictions,
+Eliminates all negativity,
+And nurtures all beings—{{note:{index33,id:UT22084-094-005-92}}}
+Whoever, in meditative equipoise,
+Hears it, reads it, or keeps it in mind—
+Will accomplish all their aims
+As was stated by the Self-Arisen One. 
+{{milestone:{label:1.50,id:UT22084-094-005-93}}}“They will be liberated from all affliction, 
+Become the most excellent of sentient beings, 
+And will be equal to the thus-gone ones
+Who are immersed in knowledge of every world’s phenomena.
+{{milestone:{label:1.51,id:UT22084-094-005-94}}}“Whoever chants these hundred and eight names
+And praises Tārā’s moon-like face in this way {{page:{number:7,id:UT22084-094-005-160,folio:F.222.a}}}
+Will reach buddhahood itself.
+They will accomplish all their aims
+And gain control over kings, powerful people, 
+And any number of other beings.
+{{milestone:{label:1.52,id:UT22084-094-005-95}}}“This praise, known as The Hundred and Eight Names of the Goddess Tārā with a Lovely Face,
+Fills the many worlds 
+And dispels all afflictions and everything untoward!
+{{milestone:{label:1.53,id:UT22084-094-005-96}}}“Her body, which is like the supreme mountain of thus-gone ones,
+Shakes the mountain ascended by the clans of māras.
+She is the light that fully awakens gods and humans.
+{{milestone:{label:1.54,id:UT22084-094-005-97}}}“This eminent one is renowned for her profound dedication
+To the great collection of well-spoken teachings
+Ceaselessly transmitted by the most eminent of the Victor’s heirs
+Through their stability in the unique powers.{{note:{index34,id:UT22084-094-005-98}}}
+Appearing for the benefit of all, she condenses this Dharma,
+And thus expertly soothes the fevers of the mind.”
+{{milestone:{label:1.55,id:UT22084-094-005-99}}}After these words that dispel unbearable afflictions,
+And which produce a tranquil mind,
+Were spoken by the supreme Victor,
+Tārā remained still and did not speak further.
+{{milestone:{label:1.56,id:UT22084-094-005-100}}}Astonished and enraptured by the sublime goddess Tārā,
+The entire assembly of devas and asuras was filled with joy and wonder
+Upon hearing these instructive words that evoke deep joy and grant happiness and long life.
+Overjoyed, they joined their hands above their heads as their speech was stilled.
+{{milestone:{label:1.57,id:UT22084-094-005-101}}}This completes the dhāraṇī named “Supreme Tārā, the Hundred and Eight Names of the Goddess Tārā.”

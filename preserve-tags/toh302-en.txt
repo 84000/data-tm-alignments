@@ -1,0 +1,127 @@
+{{translation:{id:UT22084-072-002,key:toh302,version:1.0.5,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Sūtra on What Mendicants Hold Most Dear
+{{milestone:{label:1.1,id:UT22084-072-002-38}}} Homage to the Omniscient One. {{page:{number:1,id:UT22084-072-002-143,folio:F.125.a}}}{{page:{number:2,id:UT22084-072-002-147,folio:F.125.b}}}
+Thus did I hear at one time. The Blessed One was residing in the Blooming Lotus Monastery in the great city of Śrāvastī together with a retinue that consisted of a saṅgha of 12,500 mendicants. At that time, among the assembled retinue of the Blessed One, there was a noble one called Upāli, whose senses were disciplined, who was well learned, and who had profound wisdom. He was devoted to the Dharma and Vinaya excellently taught by the Blessed One, and he held them in the highest esteem. Upāli rose from his seat, draped his upper robe over one shoulder, and, kneeling on his right knee with palms joined at his heart, he smiled and supplicated the Blessed One with these words:
+{{milestone:{label:1.2,id:UT22084-072-002-41}}}“Arisen like a lotus from the mud of saṃsāra, 
+Protector, unshakable like a mountain, your sage’s body
+Ornamented by the adornments of the minor marks and beautiful with the blossoms of the major marks,
+One never tires of looking at you. To you, utterly supreme, I pay homage!
+{{milestone:{label:1.3,id:UT22084-072-002-42}}}“Since there are only mendicants residing here, I supplicate you, 
+O Sage, to please teach us who are gathered here these four points: 
+The nature of mendicants, their types, 
+The usage of the term, and their obligations.”
+{{milestone:{label:1.4,id:UT22084-072-002-43}}}The blessed Well-Gone One was very pleased
+And, looking at Upāli, responded as follows:{{note:{index16,id:UT22084-072-002-44}}}
+{{milestone:{label:1.5,id:UT22084-072-002-45}}}“Listen well, Upāli, my son,
+For I will satisfy you 
+And explain this for the benefit of mendicants.
+{{milestone:{label:1.6,id:UT22084-072-002-46}}}“Mendicants are the victory banner of the Dharma,
+And mendicants are the adamantine life pillar.{{note:{index17,id:UT22084-072-002-47}}}
+Mendicants are those who have abandoned suffering,
+And mendicants are the heirs of the victorious ones.
+Mendicants are those who have cut the life force of afflictions,
+And mendicants are those who enter the garden of liberation.
+{{milestone:{label:1.7,id:UT22084-072-002-48}}}“The very nature of mendicants is restraint,{{note:{index18,id:UT22084-072-002-49}}}
+And their completely pure obligations are the two hundred and fifty precepts,{{page:{number:3,id:UT22084-072-002-144,folio:F.126.a}}}{{note:{index19,id:UT22084-072-002-50}}}
+Such as those on the four root downfalls, which comprise disciplined conduct.
+{{milestone:{label:1.8,id:UT22084-072-002-51}}}“As for the types of mendicants, what are they called?
+There are those who hold only the outer attributes, and there are genuine mendicants. 
+{{milestone:{label:1.9,id:UT22084-072-002-52}}}“As for the usage of the term, because their afflictions are completely exhausted,{{note:{index20,id:UT22084-072-002-53}}}
+Because they arouse wholesomeness, beg for food, {{note:{index21,id:UT22084-072-002-54}}}
+Abide in peace, have entered the path, 
+Lead a proper life, have abandoned attachment, 
+And are attractive, for these reasons they are called ‘mendicants.’{{note:{index22,id:UT22084-072-002-55}}}
+{{milestone:{label:1.10,id:UT22084-072-002-56}}}“Mendicant means adorned:{{note:{index23,id:UT22084-072-002-57}}}
+They are well adorned by the adornment of abandoning adornment.
+Having abandoned attachment, they practice with great attachment.
+They enjoy the unsurpassed balm, ablution, food, 
+Ornament, garment, and color,{{note:{index24,id:UT22084-072-002-58}}}
+And when it comes to horses, elephants, palanquins, and the like,
+They ride the unsurpassed mount.{{note:{index25,id:UT22084-072-002-59}}}
+Those who have acquired these are mendicants,
+And those who have not acquired these are not mendicants.”
+{{milestone:{label:1.11,id:UT22084-072-002-60}}}Upāli then supplicated 
+The Blessed One with the following words:{{note:{index26,id:UT22084-072-002-61}}}
+{{milestone:{label:1.12,id:UT22084-072-002-62}}}“How is that? The Well-Gone One has given a derivation{{note:{index27,id:UT22084-072-002-63}}}
+That is difficult to understand.
+Well-Gone One, please shed light 
+On those words’ obscurity 
+With the lamp of your words!” 
+{{milestone:{label:1.13,id:UT22084-072-002-64}}}The Blessed One responded:
+{{milestone:{label:1.14,id:UT22084-072-002-65}}}“Having completely abandoned worldly ornaments 
+Such as gold, adorn yourself 
+With the supreme ornament of compassion!
+Wear not worldly garments, but the garment of training—
+That is the excellent, supreme garment.
+{{milestone:{label:1.15,id:UT22084-072-002-66}}}“Anoint yourself not with camphor or the like, 
+But with the supreme balm of disciplined conduct.
+The most beautiful color is not white or red or the like, 
+But the color of faith.
+The swiftest mount is not a worldly mount, 
+But the unsurpassed mount of diligence.
+{{milestone:{label:1.16,id:UT22084-072-002-67}}}“The Dharma practice of meditative stability is the supreme nourishment
+Whose taste is more refined than rice pudding. 
+In the celestial palace of the saṅgha gathering,
+Apply yourself fully on the seat of calm abiding!
+{{milestone:{label:1.17,id:UT22084-072-002-68}}}“Those endowed with these do not fall back.
+They are genuine mendicants.
+{{milestone:{label:1.18,id:UT22084-072-002-69}}}“Those who have the three main robes and the five accompanying implements 
+Along with the sage’s bowl and staff,
+Who are completely restrained in body, speech, and mind,
+And who show ascetic discipline in their conduct—{{note:{index28,id:UT22084-072-002-70}}}
+They are also genuine mendicants.
+{{milestone:{label:1.19,id:UT22084-072-002-71}}}“Both types of genuine mendicants will approach the city of liberation {{page:{number:4,id:UT22084-072-002-145,folio:F.126.b}}}
+And experience the supreme bliss of liberation.
+{{milestone:{label:1.20,id:UT22084-072-002-72}}}“As for the other type—those who are disingenuous— {{note:{index29,id:UT22084-072-002-73}}}
+With their alms bowls and other implements ablaze,
+They will be boiled like molten iron 
+In the hells for four thousand eons. 
+{{milestone:{label:1.21,id:UT22084-072-002-74}}}“The disciplined conduct of some brings happiness; 
+The disciplined conduct of others is the cause of suffering.
+Possessing disciplined conduct is supreme happiness;
+Disordered disciplined conduct is suffering.
+{{milestone:{label:1.22,id:UT22084-072-002-75}}}“One who restrains oneself most excellently through disciplined conduct,
+Such a person gains a beautiful outer appearance.
+The merit amassed by a person 
+Who, even for a single day, closely abides by the Vinaya
+And places their trust in the training of disciplined conduct 
+Is without measure.
+Accumulate it and bring forth the result of buddhahood!
+{{milestone:{label:1.23,id:UT22084-072-002-76}}}“Deceiving yourself, 
+Claiming, ‘I am a mendicant,’
+Based merely on the outer appearance 
+Of bearing the Well-Gone One’s victory banner,{{note:{index30,id:UT22084-072-002-77}}}
+Yet not abiding by the training,
+Is like tying a sword to the trunk of a mad elephant,{{note:{index31,id:UT22084-072-002-78}}}
+Or like a pregnant woman drinking overly sour liquids.
+{{milestone:{label:1.24,id:UT22084-072-002-79}}}“The seeds from misdeeds that such a person amasses
+In a single day are without measure,
+And they only commit 
+All sorts of harms against themselves. 
+{{milestone:{label:1.25,id:UT22084-072-002-80}}}“Rather than not abiding by the training
+While bearing the Well-Gone One’s victory banner, 
+It would be better if that person were to cast off this outer appearance and remain a householder
+The moment they no longer abide by the training.{{note:{index32,id:UT22084-072-002-81}}}
+{{milestone:{label:1.26,id:UT22084-072-002-82}}}“A holder of the outer attributes who does not abide by the training—
+This worldly person 
+Will fail to appeal to anyone’s heart,
+And they will become the object of everyone’s disparagement.
+{{milestone:{label:1.27,id:UT22084-072-002-83}}}“It is explained that, like branches that grow
+For a long time from a strong trunk,
+If that person has only the outer attributes for a long time,
+Reprehensible talk will increase, 
+And misdeeds too will increase.
+{{milestone:{label:1.28,id:UT22084-072-002-84}}}“Disciplined conduct is supreme happiness. 
+Disciplined conduct is the path to liberation.
+Disciplined conduct is the field of good qualities. 
+Disciplined conduct is the cause of buddhahood.
+{{milestone:{label:1.29,id:UT22084-072-002-85}}}“Disciplined conduct is most supreme. 
+Protect it like your own eyes!
+It is unwise and foolish to cast aside
+Disciplined conduct, even if your life is at stake.
+{{milestone:{label:1.30,id:UT22084-072-002-86}}}“If you lose your life, you will be reborn thereafter, {{page:{number:5,id:UT22084-072-002-146,folio:F.127.a}}}
+But disciplined conduct, once lost, will not be like that.{{note:{index33,id:UT22084-072-002-87}}}
+Therefore, Upāli and all you others,
+Hold on to it firmly!”
+{{milestone:{label:1.31,id:UT22084-072-002-88}}}Thus proclaimed the Blessed One, and Upāli and the other mendicants praised what the Blessed One had said. 
+{{milestone:{label:1.32,id:UT22084-072-002-89}}}This completes “The Sūtra on What Mendicants Hold Most Dear.”

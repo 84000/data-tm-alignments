@@ -1,0 +1,10 @@
+{{translation:{id:UT22084-089-007,key:toh550,version:1.0.6,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble
+Procedure for Mañjuśrī's Single-Syllable Mantra
+{{milestone:{label:1.1,id:UT22084-089-007-12}}}tadyathā | oṁ kṣṇīṁ ||{{note:{index5,id:UT22084-089-007-13}}}
+{{milestone:{label:1.2,id:UT22084-089-007-14}}}This single-syllable mantra is exceedingly secret,  for it accomplishes every aim and performs every action. As the essence of all the tathāgatas, it fulfills all hopes.{{page:{number:2,id:UT22084-089-007-41,folio:F.15.a}}}
+{{milestone:{label:1.3,id:UT22084-089-007-15}}}Holding a tooth stick incanted with the mantra will cure toothache. Sea salt incanted seven times with the mantra, when applied to the eyes, will cure eye disease.
+{{milestone:{label:1.4,id:UT22084-089-007-17}}}If a person has a weapon fragment lodged inside of them, consecrate old and melted butter seven or one hundred and eight times with the mantra and give it to them to drink, or apply it to the wound, and the fragment will be expelled.
+{{milestone:{label:1.5,id:UT22084-089-007-18}}}Indigestion, swelling, dysentery, and feverish diarrhea will be cured by eating mu rang salt, sea salt, or any other suitable rock salt incanted seven times with the mantra, and recovery will be the very same day.{{note:{index6,id:UT22084-089-007-19}}}
+{{milestone:{label:1.6,id:UT22084-089-007-20}}}Sweeping motions made with a raven’s feather incanted seven times with the mantra will heal illnesses of the brain.
+{{milestone:{label:1.7,id:UT22084-089-007-21}}}This concludes the noble “Procedure for Mañjuśrī’s Single-Syllable Mantra.”

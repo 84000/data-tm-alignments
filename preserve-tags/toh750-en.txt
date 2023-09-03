@@ -1,0 +1,50 @@
+{{translation:{id:UT22084-095-005,key:toh750,version:1.0.12,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Dhāraṇī
+Vajra Conqueror
+{{milestone:{label:1.1,id:UT22084-095-005-14}}} Homage to all buddhas and bodhisattvas!{{page:{number:1,id:UT22084-095-005-132,folio:F.265.b}}}
+{{milestone:{label:1.2,id:UT22084-095-005-15}}}Thus did I hear at one time. The Blessed One was abiding in the vajra. Through the power of the Buddha, Vajrapāṇi consecrated his entire body as vajra and entered the vajra absorption. Then, through the power of the Buddha, the blessings of all buddhas, and the blessings of all bodhisattvas, Vajrapāṇi proclaimed the vajra essence that emanated from vajra wrath. It is invulnerable, indivisible, indestructible, true, durable, stable, completely indestructible, and completely invincible. It routs all beings, expels all beings, interrupts all spells, subdues all spells, counters all activities, and routs all actions. It destroys all grahas, liberates all grahas, summons all bhūtas, and annihilates all bhūtas.  It enacts the activities of all spells, accomplishes what has not been accomplished, and preserves what has been accomplished. It fulfills all desires and protects all beings. It pacifies and enriches. It paralyzes all beings and stupefies all beings. Through the power of the Buddha, Vajrapāṇi proclaimed this exceedingly powerful mantra:{{page:{number:2,id:UT22084-095-005-134,folio:F.266.a}}}{{note:{index9,id:UT22084-095-005-16}}}
+{{milestone:{label:1.3,id:UT22084-095-005-17}}}“namo ratna­trayāya | namaś caṇḍa­vajra­pāṇaye | mahā­yakṣa­senāpataye | tadyathā | oṁ truṭa truṭa | troṭaya troṭaya | sphuṭa sphuṭa | sphoṭaya sphoṭaya | ghūrṇa ghūrṇa | ghūrṇa­paya ghūrṇa­paya | sarva­satvāni | bodhaya bodhaya | saṃ­bodhaya saṃ­bodhaya |  bhrama bhrama | saṃbhramaya saṃ­bhramaya | sarva­bhūtāni kuṭa kuṭa | saṃkuṭaya saṃ­kuṭaya | sarva­śatrūn ghaṭa ghaṭa | saṃgha­ṭaya saṃgha­ṭaya | sarva­vidyā vajra vajra | sphoṭaya vajra vajra | kaṭa vajra vajra | maṭa vajra vajra | matha vajra vajra | aṭṭahāsanīla vajra | suvajrāya svāhā | he phullu | niruphullu | nigṛhṇa kullu | mili cullu | kuru­kullu | vajra­vijayāya svāhā | kīli kīlāya svāhā | kaṭa kaṭa | maṭa maṭa | raṭa raṭa | moṭana pramoṭanāya svāhā | caranicara | hara hara | sara sara māraya | vajra­vīdārāya svāhā | chinda chinda | bhinda bhinda | mahā­kīli­kīlāya svāhā | bandha bandha | krodha krodha | kīli­kīlāya svāhā | curu curu caṇḍala­kīli kīlāya svāhā | trāsaya trāsaya | vajrakīli kīlāya | hara hara vajra­dharāya svāhā | prahara prahara | vajra­prabhañjanāya svāhā | matisthira vajra | śrutisthira vajra | pratisthira vajra | mahā­vajra | apratihata vajra | amogha vajra | ehi vajra | śīghraṁ vajrāya svāhā | dhara dhara dhiri dhiri dhuru dhuru sarva­vajra­kulamāvartāya svāhā | amukam māraya phaṭ | namas samanta­vajrānām | sarva­balam āvartaya | mahābale | kaṭabale | tatale | acale | maṇḍalamāye | ativajra | mahābale | vegaraṇa | ajite | jvala jvala | ti ṭi ti ṭi | piṅgale | daha daha | tejovati | tili tili | bandha bandha | mahā­bale | vajrāṃkuśajvālaya svāhā |{{page:{number:3,id:UT22084-095-005-136,folio:F.266.b}}}{{note:{index10,id:UT22084-095-005-18}}}{{note:{index11,id:UT22084-095-005-19}}}{{note:{index12,id:UT22084-095-005-20}}}{{note:{index13,id:UT22084-095-005-21}}}{{note:{index14,id:UT22084-095-005-22}}}{{note:{index15,id:UT22084-095-005-23}}}{{note:{index16,id:UT22084-095-005-24}}}{{note:{index17,id:UT22084-095-005-25}}}{{note:{index18,id:UT22084-095-005-26}}}{{note:{index19,id:UT22084-095-005-27}}}{{note:{index20,id:UT22084-095-005-28}}}{{note:{index21,id:UT22084-095-005-29}}}{{note:{index22,id:UT22084-095-005-30}}}{{note:{index23,id:UT22084-095-005-31}}}{{note:{index24,id:UT22084-095-005-32}}}{{note:{index25,id:UT22084-095-005-33}}}{{note:{index26,id:UT22084-095-005-34}}}{{note:{index27,id:UT22084-095-005-35}}}{{note:{index28,id:UT22084-095-005-36}}}{{note:{index29,id:UT22084-095-005-37}}}{{note:{index30,id:UT22084-095-005-38}}}{{note:{index31,id:UT22084-095-005-39}}}{{note:{index32,id:UT22084-095-005-40}}}{{note:{index33,id:UT22084-095-005-41}}}{{note:{index34,id:UT22084-095-005-42}}}{{note:{index35,id:UT22084-095-005-43}}}{{note:{index36,id:UT22084-095-005-44}}}{{note:{index37,id:UT22084-095-005-45}}}{{note:{index38,id:UT22084-095-005-46}}}{{note:{index39,id:UT22084-095-005-47}}}{{note:{index40,id:UT22084-095-005-48}}}{{note:{index41,id:UT22084-095-005-49}}}{{note:{index42,id:UT22084-095-005-50}}}{{note:{index43,id:UT22084-095-005-51}}}{{note:{index44,id:UT22084-095-005-52}}}{{note:{index45,id:UT22084-095-005-53}}}{{note:{index46,id:UT22084-095-005-54}}}{{note:{index47,id:UT22084-095-005-55}}}{{note:{index48,id:UT22084-095-005-56}}}{{note:{index49,id:UT22084-095-005-57}}}{{note:{index50,id:UT22084-095-005-58}}}{{note:{index51,id:UT22084-095-005-59}}}{{note:{index52,id:UT22084-095-005-60}}}{{note:{index53,id:UT22084-095-005-61}}}
+{{milestone:{label:1.4,id:UT22084-095-005-62}}}“namo ratna­trayāya | namaś caṇḍa­vajra­pāṇaye | mahā­yakṣa­senāpataye | tadyathā | oṁ hara hara vajra | matha matha vajra | dhuna dhuna vajra | daha daha vajra | paca paca vajra | dhara dhara vajra | dhāraya dhāraya vajra | dāruṇa dāruṇa vajra | chinda chinda vajra | bhinda bhinda vajra | hūṁ phaṭ ||{{note:{index54,id:UT22084-095-005-63}}}{{note:{index55,id:UT22084-095-005-64}}}{{note:{index56,id:UT22084-095-005-65}}}{{note:{index57,id:UT22084-095-005-66}}}{{note:{index58,id:UT22084-095-005-67}}}{{note:{index59,id:UT22084-095-005-68}}}{{note:{index60,id:UT22084-095-005-69}}}{{note:{index61,id:UT22084-095-005-70}}}{{note:{index62,id:UT22084-095-005-71}}}{{note:{index63,id:UT22084-095-005-72}}}{{note:{index64,id:UT22084-095-005-73}}}{{note:{index65,id:UT22084-095-005-74}}}
+{{milestone:{label:1.5,id:UT22084-095-005-75}}}“namaś caṇḍa­vajra­krodhāya | hulu hulu | tiṣṭha tiṣṭha | bandha bandha | hana hana | amṛte hūṁ phaṭ ||{{note:{index66,id:UT22084-095-005-76}}}{{note:{index67,id:UT22084-095-005-77}}}{{note:{index68,id:UT22084-095-005-78}}}{{note:{index69,id:UT22084-095-005-79}}}{{note:{index70,id:UT22084-095-005-80}}}{{note:{index71,id:UT22084-095-005-81}}}
+{{milestone:{label:1.6,id:UT22084-095-005-82}}}“Purifying all negativity 
+And annihilating all suffering,
+This, the root of all tantras,{{note:{index72,id:UT22084-095-005-83}}}
+Is well adorned by every kind of splendor.
+{{milestone:{label:1.7,id:UT22084-095-005-84}}}“All beings with declining faculties,
+Those whose longevity is diminished or weakened, 
+Those in poverty or beset with desire, 
+Those whom the deities have abandoned,
+{{milestone:{label:1.8,id:UT22084-095-005-85}}}“Those who are at odds with their families,
+Oppressed servants and slaves, 
+Parties in disagreement with each other, 
+Those harmed by loss of wealth,
+{{milestone:{label:1.9,id:UT22084-095-005-86}}}“Those who are pained by weariness and grief,
+Fearful and destitute people,
+Those harmed by planets, constellations, curses,
+And unbearable grahas,
+{{milestone:{label:1.10,id:UT22084-095-005-87}}}“And even those who have nightmares 
+Born from their weariness and grief—
+This will cleanse them completely; 
+All should listen to this sacred discourse.
+{{milestone:{label:1.11,id:UT22084-095-005-88}}}“Those whose minds are virtuous and pure 
+And who are dressed in clean clothes
+Should listen to this discourse—
+The profound domain of the buddhas.
+{{milestone:{label:1.12,id:UT22084-095-005-89}}}“Then, through the splendor of this discourse,
+Even the most unbearable diseases
+Of all living beings
+Will be quelled.
+{{milestone:{label:1.13,id:UT22084-095-005-90}}}“Beings’ lifespans and merit will increase, 
+And they will be liberated from all negativity.
+Gather jewels, mustard seeds, doob grass,
+Gems, flawless sandalwood,
+{{milestone:{label:1.14,id:UT22084-095-005-91}}}“Crystals, diamonds, and flowers,
+And use water to fill a vase of proper material, 
+Such as gold or silver,
+And wrap it in clean cloth. 
+{{milestone:{label:1.15,id:UT22084-095-005-92}}}“After reciting the vajra conqueror
+Twenty-one or one hundred and eight times,
+A king should, in this way, 
+Always perform ablutions.
+{{milestone:{label:1.16,id:UT22084-095-005-93}}}This concludes the dhāraṇī “Vajra Conqueror.”
+{{milestone:{label:c.1,id:UT22084-095-005-94}}}This text was translated, edited, and finalized by the Indian preceptors Jinamitra and Dānaśīla, along with the Tibetan translator Bandé Yeshé Dé.

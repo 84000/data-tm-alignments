@@ -1,0 +1,113 @@
+{{translation:{id:UT22084-081-007,key:toh438,version:1.2.22,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}Praise to Tārā with Twenty-One Verses of Homage
+and Their Benefits
+{{milestone:{label:1.1,id:UT22084-081-007-16}}} Homage to the honored, noble lady Tārā!{{page:{number:1,id:UT22084-081-007-115,folio:F.42.b}}}
+{{milestone:{label:1.2,id:UT22084-081-007-17}}}Homage to Tārā, swift and gallant,
+Whose glance is instantaneous like lightning.
+You arose from the heart of the blossoming lotus
+That is the face of the lord of the three worlds.
+{{milestone:{label:1.3,id:UT22084-081-007-18}}}Homage to you whose face resembles
+One hundred autumn full moons gathered; 
+Your brilliant radiance blazes,{{note:{index11,id:UT22084-081-007-19}}}
+Like a thousand clusters of stars. 
+{{milestone:{label:1.4,id:UT22084-081-007-20}}}Homage to you, whose hand is graced 
+By a golden-blue lotus flower.{{note:{index12,id:UT22084-081-007-21}}}
+You embody generosity, diligence, endurance,
+Serenity, patience, and concentration. 
+{{milestone:{label:1.5,id:UT22084-081-007-22}}}Homage to you, whose triumphs are endless,
+Jewel on the Tathāgata’s crown. 
+You are well attended to by the heirs of the victors,
+Who have mastered all the perfections. 
+{{milestone:{label:1.6,id:UT22084-081-007-23}}}Homage to Tuttārā, who with hūṁ{{note:{index13,id:UT22084-081-007-24}}}
+Fulfills all wishes to the bounds of space.{{note:{index14,id:UT22084-081-007-25}}}
+You trample the seven worlds underfoot,{{note:{index15,id:UT22084-081-007-26}}}
+And possess the strength to summon all. 
+{{milestone:{label:1.7,id:UT22084-081-007-27}}}Homage to you, praised by Śakra, 
+Agni, Brahmā, maruts, and Śiva.
+The hosts of bhūtas, vetālas, gandharvas,{{note:{index16,id:UT22084-081-007-28}}}
+And yakṣas pay tribute to you. 
+{{milestone:{label:1.8,id:UT22084-081-007-29}}}Homage to you, who with traṭ and phaṭ{{page:{number:2,id:UT22084-081-007-116,folio:F.43.a}}}{{note:{index17,id:UT22084-081-007-30}}}
+Crush the magical devices of other traditions.
+With your right leg bent and your left leg extended,
+You shine amid flames blazing wildly. 
+{{milestone:{label:1.9,id:UT22084-081-007-31}}}Homage to Turā, the fearsome lady, 
+Destroyer of the most powerful demons.{{note:{index18,id:UT22084-081-007-32}}}
+With your lotus face and stern frown,
+You are the slayer of each and every foe! 
+{{milestone:{label:1.10,id:UT22084-081-007-33}}}Homage to you, whose fingers grace your heart,
+Displaying the mudrā of the Three Jewels.
+Graced by wheels in all directions,
+Your natural radiance overwhelms all.{{note:{index19,id:UT22084-081-007-34}}}
+{{milestone:{label:1.11,id:UT22084-081-007-35}}}Homage to you, supremely joyous,
+Your splendorous crown spreading garlands of light.
+Tuttārā, smiling and laughing,
+You bring demons and worlds within your control.{{note:{index20,id:UT22084-081-007-36}}}
+{{milestone:{label:1.12,id:UT22084-081-007-37}}}Homage to you, who can summon
+The hosts of earthly guardians.
+Knitting your quivering brows, with the syllable hūṁ
+You deliver from every misfortune.
+{{milestone:{label:1.13,id:UT22084-081-007-38}}}Homage to you, so brightly adorned,
+With a sliver of moon as your crown,{{note:{index21,id:UT22084-081-007-39}}}
+Your locks always graced by Amitābha,
+Whose bright light streams forever forth.
+{{milestone:{label:1.14,id:UT22084-081-007-40}}}Homage to you, seated amid blazing flames
+That resemble the fire that ends an eon.
+Immersed in joy, your right leg extends, and the left is bent. 
+Thus, you crush legions of foes.
+{{milestone:{label:1.15,id:UT22084-081-007-41}}}Homage to you, who on the earth’s surface
+Strike your palms and stamp your feet;
+The hūṁ that is formed by your frown
+Smashes the seven netherworlds to nothing but dust.
+{{milestone:{label:1.16,id:UT22084-081-007-42}}}Homage to you, blissful, gracious, and tranquil,
+Whose domain is the peace of nirvāṇa.
+In perfect union with svāhā and oṁ,
+You lay to waste every terrible evil.
+{{milestone:{label:1.17,id:UT22084-081-007-43}}}Homage to you, who, immersed in rapture,
+Shatter the bodies of all foes.
+You shine with the knowledge-syllable hūṁ,
+As your mantra’s ten syllables are set forth.{{note:{index22,id:UT22084-081-007-44}}}
+{{milestone:{label:1.18,id:UT22084-081-007-45}}}Homage to Turā, your feet stomping,
+Formed from the seed of the syllable hūṁ.
+The mountains of Meru, Mandara, and Vindhya,{{note:{index23,id:UT22084-081-007-46}}}
+And all the three worlds—you cause them to quake.
+{{milestone:{label:1.19,id:UT22084-081-007-47}}}Homage to you, who hold in your hand 
+A deer-marked moon like a divine lake.
+With tāra uttered twice and then with phaṭ, {{page:{number:3,id:UT22084-081-007-117,folio:F.43.b}}}
+You eliminate all poisons.
+{{milestone:{label:1.20,id:UT22084-081-007-48}}}Homage to you, sovereign of divine hosts,
+Served by gods and kinnaras. 
+Your resplendence, an armor of joy, 
+Pacifies strife and clears away nightmares.
+{{milestone:{label:1.21,id:UT22084-081-007-49}}}Homage to you, whose two eyes shine brightly
+Like the sun and the moon when it’s full.
+Tuttārā, with twice-uttered hara,
+You pacify the most intractable ills.
+{{milestone:{label:1.22,id:UT22084-081-007-50}}}Homage to you, who have the power to pacify,{{note:{index24,id:UT22084-081-007-51}}}
+You display the three true natures.{{note:{index25,id:UT22084-081-007-52}}}
+Turā, supreme lady, you destroy
+The hordes of grahas, vetālas, and yakṣas.
+{{milestone:{label:1.23,id:UT22084-081-007-53}}}This praise by means of the root mantra—
+The twenty-one verses of homage
+Should be recited in earnest by the wise,{{note:{index26,id:UT22084-081-007-54}}}
+Who are filled with devotion for the goddess.
+{{milestone:{label:1.24,id:UT22084-081-007-55}}}Recalling it at dusk and also when rising at dawn 
+Will grant them freedom from every fear.
+It will pacify all misdeeds, 
+And destroy all evil destinies.
+{{milestone:{label:1.25,id:UT22084-081-007-56}}}Soon they will receive empowerment
+From seventy million conquerors.
+Beyond this, they shall attain greatness, 
+And proceed to the ultimate state of buddhahood.
+{{milestone:{label:1.26,id:UT22084-081-007-57}}}If they recall this praise all dreadful poisons,
+Whether natural or manufactured,
+Whether eaten or imbibed,
+Will be utterly neutralized.
+{{milestone:{label:1.27,id:UT22084-081-007-58}}}This will dispel the heap of suffering
+Inflicted by grahas, infectious diseases, and poisons,
+Even in other beings.
+If chanted twice, thrice, or seven times, 
+{{milestone:{label:1.28,id:UT22084-081-007-59}}}Those who want children will come to have them,
+Those who seek wealth will come to have that,
+Each and every wish will be fulfilled,
+And obstacles, entirely vanquished, will be no more.
+{{milestone:{label:1.29,id:UT22084-081-007-60}}}This completes the praise to the Blessed Tārā as spoken by the completely perfect Buddha.

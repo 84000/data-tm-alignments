@@ -1,0 +1,109 @@
+{{translation:{id:UT22084-096-062,key:toh813,version:1.1.22,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Aspiration Prayer from “Destroyer of the Great Trichiliocosm”
+{{milestone:{label:1.1,id:UT22084-096-062-34}}} Homage to the Three Jewels! {{page:{number:1,id:UT22084-096-062-121,folio:F.253.a}}}
+{{milestone:{label:1.2,id:UT22084-096-062-35}}}In this world or beyond there is nothing—
+Not even a precious gem in the higher realms—
+That equals the Thus-Gone One, the god of gods,
+The supreme among humans.
+Thus, he is called the most precious gem.
+By this truth may there be well-being here! 
+{{milestone:{label:1.3,id:UT22084-096-062-36}}}There is nothing at all comparable to the Dharma
+Of uncompounded, quiescent ambrosia—
+The uncompounded ambrosia of extinction and dispassion
+Discerned by the Sage of the Śākyas through his knowledge.
+Thus, it is called the most precious gem.
+By this truth may there be well-being here! 
+{{milestone:{label:1.4,id:UT22084-096-062-37}}}There is nothing comparable to the absorption
+That perceives the vajra-like, nondual path—{{note:{index14,id:UT22084-096-062-38}}}{{note:{index15,id:UT22084-096-062-39}}}
+The manifestation, in due order, of what is most desired,
+The permanent accomplishment of the teacher’s absolute practice.
+Thus, it is called the most precious gem.
+By this truth may there be well-being here! 
+{{milestone:{label:1.5,id:UT22084-096-062-40}}}The eight great kinds of person praised
+And called the four pairs,
+Extolled as “venerable” by the Thus-Gone One,
+The incomparable person, the Great Sage,
+Yield great fruits when offered to,
+Like seeds planted in a fertile field—
+This is called the most precious gem of the Saṅgha.
+By this truth may there be well-being here! 
+{{milestone:{label:1.6,id:UT22084-096-062-41}}}Since those who strive with firm resolve
+And enter Gautama’s teaching
+Gain access to ambrosia,
+Remove darkness, and attain nirvāṇa, {{page:{number:2,id:UT22084-096-062-123,folio:F.253.b}}}
+They are called the most precious gem of the Saṅgha.
+By this truth may there be well-being here!{{note:{index16,id:UT22084-096-062-42}}}
+{{milestone:{label:1.7,id:UT22084-096-062-43}}}As soon as they connect with this vision,
+Belief in the transitory collection,
+Ethical discipline in the form of extreme austerity,
+And doubt are simultaneously cast off,
+And they see the truths of the noble ones. 
+Thus, they are called the most precious gem of the Saṅgha.
+By this truth may there be well-being here!{{note:{index17,id:UT22084-096-062-44}}}
+{{milestone:{label:1.8,id:UT22084-096-062-45}}}With body, speech, or mind
+They never produce the threefold evil deeds,
+And even when they suddenly do, they do not conceal them,
+And in that way, their view is not tainted with grasping.
+Thus, they are called the most precious gem of the Saṅgha.
+By this truth may there be well-being here! 
+{{milestone:{label:1.9,id:UT22084-096-062-46}}}Just as a threshold beam planted in the ground
+Is unmoved by winds from the four directions,
+So are the members of the saṅgha of noble ones,
+Who have insight into the highest path of the noble ones.
+Thus, they are called the most precious gem of the Saṅgha.
+By this truth may there be well-being here! 
+{{milestone:{label:1.10,id:UT22084-096-062-47}}}Those who cultivate with profound wisdom
+The eloquently taught truths of the noble ones
+And consider giving away even their own bodies
+Never encounter the eight perils.
+Thus, they are called the most precious gem of the Saṅgha.
+By this truth may there be well-being here! 
+{{milestone:{label:1.11,id:UT22084-096-062-48}}}Just as a flame extinguished by the wind
+Cannot be taken up and counted,
+So do the offspring of the buddhas
+Become indemonstrable
+Once they have discarded all fetters.
+Thus, they are called the most precious gem of the Saṅgha.
+By this truth may there be well-being here! 
+{{milestone:{label:1.12,id:UT22084-096-062-49}}}May all sentient beings, moving or still, be well here!
+And may they pay homage to the Buddha,
+The supreme teacher, venerated by gods and humans!
+May there be well-being here today! 
+{{milestone:{label:1.13,id:UT22084-096-062-50}}}May all sentient beings, moving or still, be well here!
+May they pay homage to the Dharma,
+The peaceful dispassion venerated by gods and humans!
+May there be well-being here today! {{page:{number:3,id:UT22084-096-062-125,folio:F.254.a}}}
+{{milestone:{label:1.14,id:UT22084-096-062-51}}}May all sentient beings, moving or still, be well here!
+May they pay homage to the Saṅgha,
+The supreme assembly venerated by gods and humans!
+May there be well-being here today! 
+{{milestone:{label:1.15,id:UT22084-096-062-52}}}May all sentient beings, moving or still, 
+Be well here! 
+{{milestone:{label:1.16,id:UT22084-096-062-53}}}May whatever bhūtas are assembled here,
+All those who dwell upon the earth or in the sky,
+Act always lovingly toward all creatures
+And practice Dharma day and night!{{note:{index18,id:UT22084-096-062-54}}}
+{{milestone:{label:1.17,id:UT22084-096-062-55}}}By the truth that the Victorious One, having vanquished his foes,
+Spoke truthfully, without falsehood,
+May there be well-being here,
+And may all be delivered from grave perils!{{note:{index19,id:UT22084-096-062-56}}}
+{{milestone:{label:1.17,id:UT22084-096-062-55}}}✦  ✦  ✦
+{{milestone:{label:1.18,id:UT22084-096-062-57}}}By the majesty of all the buddhas,{{note:{index20,id:UT22084-096-062-58}}}
+The majesty of the pratyekabuddhas,
+The powers of the arhats,
+And all the secret mantra holders,
+{{milestone:{label:1.19,id:UT22084-096-062-59}}}By the wisdom of Śāriputra,
+The supernatural power of Maudgalyāyana,
+The vision of Aniruddha,
+And the ascetic practices of Kāśyapa;
+{{milestone:{label:1.20,id:UT22084-096-062-60}}}By the previous attainments of Kauṇḍinya,
+The learning of Ānanda,
+The benevolence of Brahmā,
+And the supremacy of Śatakratu;
+{{milestone:{label:1.21,id:UT22084-096-062-61}}}By the territories of the guardians of the world,
+The power of Maheśvara,
+The might of the generals,
+And the supernatural splendor of Hārītī—
+{{milestone:{label:1.22,id:UT22084-096-062-62}}}Through their might and majesty,
+May poison be removed from me!
+{{milestone:{label:1.23,id:UT22084-096-062-63}}}This completes the aspiration prayer from the words spoken in “Destroyer of the Great Trichiliocosm.”

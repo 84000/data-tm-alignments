@@ -1,0 +1,123 @@
+{{translation:{id:UT22084-060-002,key:toh173,version:1.0.7,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble Mahāyāna Sūtra
+Questions on Selflessness
+{{milestone:{label:1.1,id:UT22084-060-002-9}}} Homage to all buddhas and bodhisattvas. {{page:{number:1,id:UT22084-060-002-10,folio:F.5.b}}}
+{{milestone:{label:1.2,id:UT22084-060-002-11}}}Now, the tīrthikas—those who hold views based on objects and who engage in concepts and analysis—went among the followers of the Mahāyāna. Respectfully, with joined palms, they asked these questions on selflessness: “Sons of noble family, the Omniscient One taught that there is no self in the body. If there truly is no self in the body, then how do playfulness, laughter, crying, enjoyment, anger, pride, jealousy, calumny, and so forth come about? Is there truly a self in the body or not? It would be proper for you to dispel our doubts.” {{note:{index3,id:UT22084-060-002-12}}}
+{{milestone:{label:1.3,id:UT22084-060-002-13}}}The followers of the Mahāyāna replied, “Friends, it should not be said that there truly is or is not a self in the body, because to say in this case that there truly is or is not a self is mistaken speech. Now, if there were a self, then why is it not perceptible at all, even after searching through the hair, nails, skin, head, flesh, bones, marrow, fat, ligaments, liver, intestines, throat, hands, feet, limbs, and other minor parts, both inside and outside the body?”
+{{milestone:{label:1.4,id:UT22084-060-002-16}}}The tīrthikas said, “The self is only visible to those who have the divine eye. How could it be visible to us who only have eyes of flesh?”
+{{milestone:{label:1.5,id:UT22084-060-002-17}}}The followers of the Mahāyāna replied, “It is not seen even by those with the divine eye. For how can something that has no color, form, or shape be seen?”{{note:{index4,id:UT22084-060-002-18}}}
+{{milestone:{label:1.6,id:UT22084-060-002-19}}}The tīrthikas asked,  “Then is it nonexistent?” {{page:{number:2,id:UT22084-060-002-20,folio:F.6.a}}}
+The followers of the Mahāyāna said, “To say that it is nonexistent or to say that it is existent is mistaken speech. If it is nonexistent, then why do playfulness, laughter, crying, enjoyment, anger, pride, jealousy, calumny, and so forth arise so clearly? Therefore, it is not correct to say that it is nonexistent. One should not say that it is existent or nonexistent. Since this would be a fault, one should not say that it exists or that it does not exist.”{{note:{index5,id:UT22084-060-002-21}}}
+{{milestone:{label:1.7,id:UT22084-060-002-22}}}The tīrthikas asked, “Then what is apprehended in this case?” 
+The followers of the Mahāyāna said, “Nothing at all is apprehended.” 
+{{milestone:{label:1.8,id:UT22084-060-002-23}}}The tīrthikas asked, “Is it as empty as the sky?”
+The followers of the Mahāyāna said, “Friends, it is exactly like that! It is as empty as the sky.”
+{{milestone:{label:1.9,id:UT22084-060-002-24}}}The tīrthikas asked, “If that is so, then how should one view playfulness, laughter, crying, enjoyment, anger, pride, jealousy, calumny, and so forth?” 
+{{milestone:{label:1.10,id:UT22084-060-002-25}}}The followers of the Mahāyāna said, “They should be regarded as like an illusion, a dream, and a magical deception.” 
+{{milestone:{label:1.11,id:UT22084-060-002-26}}}The tīrthikas asked, “How are they like an illusion, a dream, and a magical deception?” 
+The followers of the Mahāyāna said, “An illusion is a mere analogy. A dream is a mere appearance that is not graspable, empty by nature, and nonexistent in essence. A magical deception is intentionally fabricated. This is the way things are, friends. You should regard all these things as being like an illusion, a dream, and a magical deception. 
+{{milestone:{label:1.12,id:UT22084-060-002-27}}}“Moreover, the distinction between the relative and the ultimate should be pointed out. In this regard, the relative consists in the conception ‘this is self, that is other.’ To conceptualize a soul, a person,  an individual, an agent, an observer, wealth, children, wives, friends, relatives, and so forth is called the relative. {{page:{number:3,id:UT22084-060-002-28,folio:F.6.b}}}
+{{milestone:{label:1.13,id:UT22084-060-002-29}}}“Where there is no self, no other, no soul, no person, no individual, no agent, no observer, no wealth, no children, no wives, no friends, no relatives, and so forth, this is called the ultimate. The relative consists in habitually labeling all things, in the results of virtuous and nonvirtuous deeds, and in birth and cessation. {{note:{index6,id:UT22084-060-002-30}}}
+{{milestone:{label:1.14,id:UT22084-060-002-31}}}“The very essence of suchness, where there are no virtuous results, no nonvirtuous results, no birth, and no cessation, is beyond both pollution and purification. This is the middle way teaching to strive for in practice. In this regard, it is said: {{note:{index7,id:UT22084-060-002-32}}}
+{{milestone:{label:1.15,id:UT22084-060-002-33}}}“Relative and ultimate
+Are explained as two categories:
+The relative comprises worldly phenomena; 
+The ultimate is beyond the worldly. 
+{{milestone:{label:1.16,id:UT22084-060-002-34}}}“Engaging with relative phenomena,
+Sentient beings are overpowered by emotional defilements. 
+Not knowing the ultimate at all, 
+They wander for a long time in saṃsāra.
+{{milestone:{label:1.17,id:UT22084-060-002-35}}}“The unwise form the concepts
+Of relative worldly phenomena.
+Due to such conceptualization,
+They experience suffering. 
+{{milestone:{label:1.18,id:UT22084-060-002-37}}}“Ordinary individuals, due to their immaturity,
+Do not know the path of liberation.{{note:{index8,id:UT22084-060-002-38}}}
+They experience sundry forms
+Of unending suffering.{{note:{index9,id:UT22084-060-002-39}}}
+{{milestone:{label:1.19,id:UT22084-060-002-40}}}“Oblivious to the ultimate,
+Where worldly existence ceases,
+They are born and cease.
+Although birthless, they come and go.
+{{milestone:{label:1.20,id:UT22084-060-002-41}}}“Fools who dwell on worldly phenomena
+Will rove around like a wheel.
+In saṃsāra, the place of suffering,
+They will revolve again and again.{{note:{index10,id:UT22084-060-002-42}}}
+{{milestone:{label:1.21,id:UT22084-060-002-43}}}“Just as the sun and the moon 
+Continue to come and go, 
+Likewise, these beings, transmigrating in the world,
+Come and go, again and again.
+{{milestone:{label:1.22,id:UT22084-060-002-44}}}“The whole of saṃsāra is impermanent and unstable, {{page:{number:4,id:UT22084-060-002-46,folio:F.7.a}}}{{note:{index11,id:UT22084-060-002-45}}}
+Disintegrating at every moment.
+That is why, by knowing the ultimate,
+One abandons the state of relative reality.
+{{milestone:{label:1.23,id:UT22084-060-002-47}}}“Devas from the higher realms,
+As well as gandharvas, apsarases, and humans,{{note:{index12,id:UT22084-060-002-48}}}
+Are all subject to transmigration—
+All this is the result of the relative.
+{{milestone:{label:1.24,id:UT22084-060-002-49}}}“Siddhas, vidyādharas, and yakṣas, 
+Gandharvas and mahoragas,{{note:{index13,id:UT22084-060-002-50}}}
+Go again and again to hell— 
+All this is the result of the relative.
+{{milestone:{label:1.25,id:UT22084-060-002-51}}}“Those with great perseverance who come to abide
+In the abode of the devas due to good qualities
+Must again pass away and fall from the higher realms—
+All this is the result of the relative.{{note:{index14,id:UT22084-060-002-52}}}
+{{milestone:{label:1.26,id:UT22084-060-002-53}}}“Whoever attains the supreme state 
+Of Śakra or of a universal monarch 
+Will once again enter the birthplace of animals—
+All this is the result of the relative.
+{{milestone:{label:1.27,id:UT22084-060-002-54}}}“Abandoning the great bliss{{note:{index15,id:UT22084-060-002-55}}}
+Of the devas of the higher realms,
+A yogin should always meditate
+On the mind of awakening, which is luminosity.
+{{milestone:{label:1.28,id:UT22084-060-002-56}}}“Essenceless, unapprehendable,
+Entirely empty, groundless,
+And beyond all conceptual elaboration—
+Such is the definition of the mind of awakening.
+{{milestone:{label:1.29,id:UT22084-060-002-57}}}“Neither hard nor soft, 
+Neither warm nor cold, 
+Neither tangible nor graspable— 
+Such is the definition of the mind of awakening.
+{{milestone:{label:1.30,id:UT22084-060-002-58}}}“Neither long nor short, 
+Neither round nor triangular, 
+Neither thin nor thick—
+Such is the definition of the mind of awakening.{{note:{index16,id:UT22084-060-002-59}}}
+{{milestone:{label:1.31,id:UT22084-060-002-60}}}“Beyond meditation, 
+Out of range for tīrthikas,
+And having the perfection of insight as its practice—{{note:{index17,id:UT22084-060-002-61}}}
+Such is the definition of the mind of awakening.
+{{milestone:{label:1.32,id:UT22084-060-002-62}}}“Beyond analogy, it is nothing to meditate on.
+The supreme unseen abode,
+Completely pure by nature—
+Such is the definition of the mind of awakening. 
+{{milestone:{label:1.33,id:UT22084-060-002-63}}}“All things are like foam,
+Essenceless like water bubbles, 
+Neither permanent nor having self.
+They are similar to magical illusions and mirages.
+{{milestone:{label:1.34,id:UT22084-060-002-64}}}“Like a vase that is made from a lump of clay,{{note:{index18,id:UT22084-060-002-105}}}
+Beings are filled with conceptual elaborations‍—
+Desire, anger, and so forth‍—
+They are utterly illusion-like.
+{{milestone:{label:1.35,id:UT22084-060-002-65}}}“Just as in the morning where there was a dew drop 
+A moment later there is nothing to be seen, {{page:{number:5,id:UT22084-060-002-66,folio:F.7.b}}}
+So, too, when one sees the perfection of insight
+The intellect gives way to the unconditioned.{{note:{index19,id:UT22084-060-002-67}}}
+{{milestone:{label:1.36,id:UT22084-060-002-68}}}“Continuous laughter and play,
+Talking, singing, music,
+The enjoyment of material things, and so forth
+Are all similar to dreams. 
+{{milestone:{label:1.37,id:UT22084-060-002-69}}}“Things constructed by beings
+Are all similar to dreams.
+Dreams are imaginings of the mind. 
+Mind itself is like the sky. 
+{{milestone:{label:1.38,id:UT22084-060-002-70}}}“One who constantly meditates{{note:{index20,id:UT22084-060-002-103}}}
+On this way of the perfection of insight
+Becomes free of all entities
+And attains the supreme state.{{note:{index21,id:UT22084-060-002-104}}}
+{{milestone:{label:1.39,id:UT22084-060-002-71}}}“Those who uphold, with meditation,
+The highest awakening
+Cultivated by all the buddhas
+Will gain the fruit of the Mahāyāna.”{{note:{index22,id:UT22084-060-002-72}}}
+{{milestone:{label:1.40,id:UT22084-060-002-73}}}Here ends the noble Mahāyāna sūtra “Questions on Selflessness.”
+{{milestone:{label:c.1,id:UT22084-060-002-74}}}Translated, edited, and finalized by the Indian preceptor Kamalagupta and the great Tibetan editor-translator Bhikṣu Rinchen Sangpo.

@@ -1,0 +1,693 @@
+{{translation:{id:UT22084-090-003,key:toh559,version:1.0.0,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Queen of Incantations
+The Great Peahen
+{{milestone:{label:1.1,id:UT22084-090-003-30}}} I pay homage to all past, future, and present buddhas, bodhisattvas, śrāvakas, and pratyekabuddhas! {{page:{number:1,id:UT22084-090-003-1747,folio:F.87.b}}}
+{{milestone:{label:1.2,id:UT22084-090-003-31}}}I pay homage to the Buddha! I pay homage to the Dharma! I pay homage to the Saṅgha! 
+{{milestone:{label:1.3,id:UT22084-090-003-32}}}I pay homage to the seven completely perfect buddhas, together with their saṅgha of śrāvakas! I pay homage to the arhats in the world! I pay homage to all bodhisattvas, led by Maitreya! I pay homage to the non-returners! I pay homage to the once-returners! I pay homage to the stream enterers! I pay homage to those in the world who have gone correctly! I pay homage to those who have progressed correctly! Having paid homage to them, I will now recite the great peahen, the queen of incantations.
+{{milestone:{label:1.4,id:UT22084-090-003-33}}}May this incantation be successful for me! Assemblies of bhūtas, whether coursing on earth, in the sky, or in water, gods, nāgas, asuras, maruts, garuḍas, gandharvas, kinnaras, mahoragas, yakṣas, rākṣasas, pretas, piśācas, bhūtas, kumbhaṇḍas, pūtanas, kaṭapūtanas, skandas, unmādas, chāyās, apasmāras, and ostārakas—listen to me!
+{{milestone:{label:1.5,id:UT22084-090-003-34}}}Assemblies of bhūtas who sap vitality, devour wombs, drink blood, and devour fat, flesh, grease, marrow,  and offspring! You who sap life force and devour oblations, flower garlands, perfumes, incense, flowers, fruits, grains, and burnt offerings! You who devour pus and feces, drink urine, devour leftovers, saliva, phlegm, snot, filth, and vomit, and drink from cesspools! All you with evil, wicked, and violent intentions, who steal the life force of others—listen to me! I will recite the great peahen, the queen of incantations! I will also give you perfume, flowers, incense, and oblations! {{page:{number:2,id:UT22084-090-003-1748,folio:F.88.a}}}
+{{milestone:{label:1.6,id:UT22084-090-003-35}}}All you grahas with evil, wicked, and violent intentions toward me, who steal the life force of others and devour their vitality—depart! 
+{{milestone:{label:1.7,id:UT22084-090-003-36}}}All you with gentle, loving, and virtuous intentions—listen to me! All you with devotion the Buddha, Dharma, and Saṅgha—listen to me! 
+{{milestone:{label:1.8,id:UT22084-090-003-37}}}It is like this: “Kālī, Karālī, Kumbhāṇḍī, Śaṅkhinī, Kamalākṣī, Hārītī, Harikeśī, Śrīmatī, Haripiṅgalī, Lambā, Pralambā, Kālapāśā, Kalaśodarī, Yamadūtī, Yamarākṣasī, and Bhūtagrasanī! Accept these flowers, incense, perfumes, and oblations that I will offer you! Protect me from all perils and misfortunes!  May I live a hundred years! May I see a hundred autumns! May the words of the incantation be fulfilled for me! Svāhā!” {{page:{number:3,id:UT22084-090-003-1749,folio:F.88.b}}}{{note:{index23,id:UT22084-090-003-38}}}
+{{milestone:{label:1.9,id:UT22084-090-003-39}}}Thus did I hear at one time. The Blessed One was dwelling in Jetavana at Anāthapiṇḍada’s grove in Śrāvastī. At that time, there was also a tender, young, a monk named Svāti staying at Anāthapiṇḍada’s grove of Jetavana in Śrāvastī. It had not been long since he had set forth, was ordained, and entered the teachings and monastic discipline. While he was gathering wood for the saṅgha’s steam bath–house, a large black snake emerged from the hollow of a rotten log and bit him on the big toe of his right foot. His body went weak, and he collapsed onto the ground. He lay there with his eyes rolled back, vomiting foam. Venerable Ānanda saw the monk Svāti lying there collapsed on the ground, afflicted, suffering, and extremely ill, with his eyes rolled back, vomiting foam. Witnessing this, he rushed to the Blessed One, bowed at his feet, and stood to one side. 
+{{milestone:{label:1.10,id:UT22084-090-003-40}}}Standing to one side, Venerable Ānanda asked, “Venerable Blessed One! Here at Jetavana, at Anāthapiṇḍada’s grove in Śrāvastī, there is a tender, young monk named Svāti. It has not been long since he set forth, was ordained, and entered the teachings and monastic discipline. He was gathering wood for the saṅgha’s steam bath–house when a large black snake emerged from the hollow of a rotten log and bit him on the big toe of his right foot. His body went weak, he collapsed to the ground and curled up, and he is lying there with his eyes rolled back, vomiting foam. Venerable Blessed One! How should I treat him?” {{page:{number:4,id:UT22084-090-003-1750,folio:F.89.a}}}
+{{milestone:{label:1.11,id:UT22084-090-003-41}}}The Blessed One said to Venerable Ānanda, “Ānanda! Go and make use of the Thus-Gone One’s speech! Use the great peahen, queen of incantations, to protect the monk Svāti against gods, grahas, nāga grahas, asura grahas, marut grahas, garuḍa grahas, gandharva grahas, kinnara grahas, mahoraga grahas, yakṣa grahas, rākṣasa grahas, preta grahas, piśāca grahas, bhūta grahas, kumbhaṇḍa grahas, pūtana grahas, kaṭapūtana grahas, skanda grahas, unmāda grahas, chāyā grahas, apasmāra grahas, ostāraka grahas, nakṣatra grahas, kṛtyā rites, kākhordas, kiraṇas, vetālas, ciccakas, preṣakas, indigestible food, evil vomit, wicked chāyās, the evil eye, written hexes, traversed hexes, neglected spirits, one-day fevers, two-day fevers, three-day fevers, four-day fevers, weeklong fevers, half-month fevers, month-long fevers, daily fevers, momentary fevers, chronic fevers, intermittent fevers, fevers from bhūtas, fevers from humans, fevers from nonhumans, and fevers that arise from wind disorders, bile disorders, phlegm disorders, or their combination, as well as all other fevers! Use this incantation to guard him! Conceal him! Protect him! Care for him! Nurture him! Bring about his tranquility and well-being! Keep away punishments and weapons! Counteract the poison! Neutralize the poison! Draw a boundary! Bind the earth! Remove headaches! Remove splitting headaches! Remove loss of appetite, eye illness, nose illness, mouth illness, throat illness,  heart disease, sore throat, earache, toothache, heart pain, side pain, backache, stomachache, cheek pain, urinary tract pain, male genital pain, female genital pain, hip pain, thigh pain, calf pain, hand pain, foot pain, and pain in the major and minor appendages! May all buddhas grant me well-being in the night, well-being in the day, well-being at midday, and well-being day and night! {{page:{number:5,id:UT22084-090-003-1751,folio:F.89.b}}}{{note:{index24,id:UT22084-090-003-42}}}{{note:{index25,id:UT22084-090-003-43}}}{{note:{index26,id:UT22084-090-003-44}}}{{note:{index27,id:UT22084-090-003-45}}}{{note:{index28,id:UT22084-090-003-46}}}{{note:{index29,id:UT22084-090-003-47}}}{{note:{index30,id:UT22084-090-003-48}}}{{note:{index31,id:UT22084-090-003-49}}}
+{{milestone:{label:1.12,id:UT22084-090-003-50}}}Tadyathā iḍi viḍi kiḍi hiḍi miḍi niḍi meṭhedodumbāāḍe ghāḍe durgāḍe hariṇi vaguḍe pāṃśu piśāciṇivarṣaṇi ārohaṇi ārohiṇi ele mele tele tili tilimele mele timi timidume dume dudume iṭṭi miṭṭi viṣṭhavandecapale vimale hulu huluaśvamukhi kāli kāli karāli mahākāli prakīrṇakeśi kulu kulu vaphulu vaphulu kolu kolu hulu hulu vahulu vahuluvosādumbā dodumbā dumadumbāgolāyā velāyā parivelāyā piśu piśu hili hili hili hili hili mili mili mili mili mili tili tili tili tili tili culu culu culu culu culu muhu muhu muhu muhu muhu muhu muhu muhu muhu muhu mulu mulu mulu mulu mulu mulu hu hu hu hu hu hu hu hu hu hu vā vā vā vā vā vā vā vā vā vā pā pā pā pā pā pā pā pā pā pā jāla jāla jāla jāla jāla jāla jāla jāla jāla jāla dama damani tapa tapani jvala jvalani paca pacani dundubhi garjani varṣaṇi sphoṭani tapani tāpani pacani pācani hāriṇi kāriṇi kimini kampani mardani maṇḍikite kṣemaṅkari makari śākari śarkari karkari śavari śaṅkari jvala jvalani dumadumbani sukusume golāyā velāyā parivelāyā.{{note:{index32,id:UT22084-090-003-51}}}{{note:{index33,id:UT22084-090-003-52}}}{{note:{index34,id:UT22084-090-003-53}}}{{note:{index35,id:UT22084-090-003-54}}}{{note:{index36,id:UT22084-090-003-55}}}{{note:{index37,id:UT22084-090-003-56}}}{{note:{index38,id:UT22084-090-003-57}}}{{note:{index39,id:UT22084-090-003-58}}}{{note:{index40,id:UT22084-090-003-59}}}{{note:{index41,id:UT22084-090-003-60}}}{{note:{index42,id:UT22084-090-003-61}}}{{note:{index43,id:UT22084-090-003-62}}}{{note:{index44,id:UT22084-090-003-63}}}{{note:{index45,id:UT22084-090-003-64}}}{{note:{index46,id:UT22084-090-003-65}}}{{note:{index47,id:UT22084-090-003-66}}}{{note:{index48,id:UT22084-090-003-67}}}{{note:{index49,id:UT22084-090-003-68}}}{{note:{index50,id:UT22084-090-003-69}}}{{note:{index51,id:UT22084-090-003-70}}}{{note:{index52,id:UT22084-090-003-71}}}{{note:{index53,id:UT22084-090-003-72}}}{{note:{index54,id:UT22084-090-003-73}}}{{note:{index55,id:UT22084-090-003-74}}}{{note:{index56,id:UT22084-090-003-75}}}{{note:{index57,id:UT22084-090-003-76}}}{{note:{index58,id:UT22084-090-003-77}}}{{note:{index59,id:UT22084-090-003-78}}}{{note:{index60,id:UT22084-090-003-79}}}{{note:{index61,id:UT22084-090-003-80}}}
+{{milestone:{label:1.13,id:UT22084-090-003-81}}}“May the god shower down rain everywhere! Ilikisi svāhā! {{note:{index62,id:UT22084-090-003-82}}}
+{{milestone:{label:1.14,id:UT22084-090-003-83}}}“I am benevolent toward Dhṛtarāṣṭra.{{note:{index63,id:UT22084-090-003-84}}}
+I also am benevolent toward Airāvaṇa.
+I am benevolent toward Virūpākṣa. {{page:{number:6,id:UT22084-090-003-1752,folio:F.90.a}}}
+I also am benevolent toward Kṛṣnagotamaka. 
+{{milestone:{label:1.15,id:UT22084-090-003-85}}}“I am friendly with the nāga king Maṇi and with Vāsuki.
+I always have goodwill for the nāgas under Daṇḍapāda and Pūrṇabhadra. 
+I have goodwill for the nāgas Nanda and Upananda,
+Who are beautiful and renowned
+And with their great miraculous powers 
+Can even vie with the gods and asuras in battle.
+{{milestone:{label:1.16,id:UT22084-090-003-86}}}“I am friendly with Anavatapta,
+Varuṇa, and Mandūraka. 
+I am friendly with Takṣaka and Ananta, 
+And likewise with Vāsūmukha.
+I am friendly with Aparājita. 
+{{milestone:{label:1.17,id:UT22084-090-003-87}}}“I am friendly with Chitvāsuta, 
+And always with Mahāmanasvin, 
+And likewise with Manasvin.
+{{milestone:{label:1.18,id:UT22084-090-003-88}}}“Kālaka, Apalāla,
+Bhogavān, Śrāmaṇeraka,{{note:{index64,id:UT22084-090-003-89}}}
+Dadhimukha, Maṇi, 
+Pauṇdarīka, Diśāmpati, 
+Karkoṭaka, Śaṅkhapāla,
+Both Kambala and Aśvottara—
+I am always benevolent
+Toward these nāga kings.
+{{milestone:{label:1.19,id:UT22084-090-003-90}}}“I am friendly with 
+Sāketa and Kumbhīra, 
+And likewise with Sūciloma, 
+Uragādhipa, Kāla, and Ṛṣika. 
+{{milestone:{label:1.20,id:UT22084-090-003-91}}}“I am also friendly with 
+Pūraṇakarṇa and Śakaṭamukha,
+And always with Koluka, 
+Sunanda, and Vātsīputra.
+{{milestone:{label:1.21,id:UT22084-090-003-92}}}“I am friendly with Elapatra
+And with Lamburaka. 
+{{milestone:{label:1.22,id:UT22084-090-003-93}}}“The nāgas under Amaṇuṣa, 
+Those under Uttaramānuṣa, 
+The great nāga Mṛgila,
+The renowned Mucilinda,
+The nāgas who course in the earth, 
+Live in the water, 
+Course in the sky, 
+And dwell on Mount Meru, 
+Those with one head, and those with two heads—
+I am always benevolent toward them.
+{{milestone:{label:1.23,id:UT22084-090-003-94}}}“I am benevolent toward those without legs.
+I am benevolent toward those with two legs.
+I am benevolent toward those with four legs. 
+I am benevolent toward those with many legs.
+{{milestone:{label:1.24,id:UT22084-090-003-95}}}“May those without legs do me no harm!
+May those with two legs do me no harm!
+May those with four legs do me no harm!
+May those with many legs do me no harm!
+{{milestone:{label:1.25,id:UT22084-090-003-96}}}“I am benevolent toward all nāgas
+Who dwell in the water.
+I am benevolent toward all bhūtas
+Who dwell on the land. 
+{{milestone:{label:1.26,id:UT22084-090-003-97}}}“I am benevolent toward all beings
+Who have settled here! {{page:{number:7,id:UT22084-090-003-1753,folio:F.90.b}}}
+May all beings, all living creatures, 
+And all bhūtas, too,
+Always be nothing but well!
+{{milestone:{label:1.27,id:UT22084-090-003-98}}}“May everyone be free of illness!
+May everyone see goodness!
+May there be no misdeeds at all!
+{{milestone:{label:1.28,id:UT22084-090-003-99}}}“Immersed in a benevolent attitude, 
+I will neutralize poison!
+I will guard and nurture, 
+And likewise I will protect!
+{{milestone:{label:1.29,id:UT22084-090-003-100}}}“Homage to the Buddha! Homage to awakening!
+Homage to the liberated one! Homage to liberation! 
+Homage to the tranquil one! Homage to tranquility!
+Homage to the emancipated one! Homage to emancipation!
+Homage to the brahmins who have discarded evil qualities! 
+May they all protect me! 
+{{milestone:{label:1.30,id:UT22084-090-003-101}}}“May they protect me from all perils, misfortunes, epidemics, mental disturbances, fevers, illnesses, grahas, and poisons! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.31,id:UT22084-090-003-102}}}“Long ago, Ānanda, there was a peacock king named Suvarṇāvabhāsa who lived on the southern slope of Himavat, a king of mountains. In the morning he secured his health and good fortune through the great peahen, queen of incantations, and lived happily during the day. In the evening he used it to secure his health and good fortune, and he lived happily during the night. 
+{{milestone:{label:1.32,id:UT22084-090-003-103}}}“Homage to the Buddha!
+Homage to the Dharma!
+Homage to the Saṅgha!
+Homage to the great peahen, queen of incantations!
+{{milestone:{label:1.33,id:UT22084-090-003-104}}}Tadyathā hu hu hu hu hu hu nāga le le le dumba le le le nāga le le le huya huya vija vija thusu thusu gulu gulu hu cejini cejini agulu elā melā elā melā tilī melā ili mitte ile tili mitte dumbe sudumbe tosu tosu golā velā capalā vimalā iṭṭiri bhiṭṭiri riṭṭiri namo buddhānāṃ cilikisi godohikānāṃ namo arhatāṃ hāla hāla. {{note:{index65,id:UT22084-090-003-105}}}{{note:{index66,id:UT22084-090-003-106}}}{{note:{index67,id:UT22084-090-003-107}}}{{note:{index68,id:UT22084-090-003-108}}}{{note:{index69,id:UT22084-090-003-109}}}{{note:{index70,id:UT22084-090-003-110}}}{{note:{index71,id:UT22084-090-003-111}}}{{note:{index72,id:UT22084-090-003-112}}}
+{{milestone:{label:1.34,id:UT22084-090-003-113}}}“May the god shower down rain everywhere! Homage to the buddhas! Svāhā! {{page:{number:8,id:UT22084-090-003-1754,folio:F.91.a}}}
+{{milestone:{label:1.35,id:UT22084-090-003-114}}}“Once, Suvarṇāvabhāsa did not secure his protection and good fortune through the great peahen, queen of incantations, and became transfixed by pleasures. Intoxicated with lust, he was stupefied and became as though unconscious. Thus completely agitated, he wandered from garden to garden, park to park, and mountain slope to mountain slope with numerous young forest peahens until he unwittingly entered a mountain fissure. There, some low caste youths, pernicious foes who had been seeking an opportunity to harm him for a long time, captured him with a peacock snare. Amid these enemies he regained his memory and brought to mind the great peahen, queen of incantations. {{note:{index73,id:UT22084-090-003-115}}}
+{{milestone:{label:1.36,id:UT22084-090-003-116}}}“Homage to the Buddha!
+Homage to the Dharma!
+Homage to the Saṅgha!
+Homage to the great peahen, queen of incantations!
+{{milestone:{label:1.37,id:UT22084-090-003-117}}}Tadyathā hu hu hu hu hu nāga le le le dumba le le le nāga le le le huya huya huya vija vija thusu thusu gulu gulu hu cejini cejini agulu ilā melā ili melā tili melā ili mitte ili tili mitte dumbe sudumbe tosu tosu golā velā capalā vimalā iṭṭiri bhiṭṭiri riṭṭiri namo buddhānāṃ cilikisi godohikānāṃ namo arhatāṃ hāla hāla. {{note:{index74,id:UT22084-090-003-118}}}{{note:{index75,id:UT22084-090-003-119}}}{{note:{index76,id:UT22084-090-003-120}}}{{note:{index77,id:UT22084-090-003-121}}}{{note:{index78,id:UT22084-090-003-122}}}{{note:{index79,id:UT22084-090-003-123}}}
+{{milestone:{label:1.38,id:UT22084-090-003-124}}}“May the god shower rain down everywhere! Homage to the buddhas! Svāhā!
+{{milestone:{label:1.39,id:UT22084-090-003-125}}}“Then, delivered from that torment, he successfully and safely returned to his own land, where he also chanted the following secret mantra syllables: 
+{{milestone:{label:1.40,id:UT22084-090-003-126}}}“Homage to the Buddha!
+Homage to the Dharma!
+Homage to the Saṅgha!
+Homage to Suvarṇāvabhāsa, king of peacocks!
+Homage to the great peahen, queen of incantations! 
+{{milestone:{label:1.41,id:UT22084-090-003-127}}}Tadyathā siddhe susiddhe mocani mokṣani mukte vimukte amale vimale nirmale aṇḍare paṇḍare maṅgalye maṅgalye hiraṇye hiraṇyagarbhe ratne ratnagarbhe bhadre subhadre samantabhadre śrībhadre sarvārthasādhani paramārthasādhani sarvānarthapraśamani sarvamaṅgalasādhani sarvamaṅgalavādhani yaśovati manasi mānasi mahāmānasi acyute adbhute adbhyanabhute mukte vimukte mocani mokṣani brahme araje viraje vimale amṛte amṛtavarṣaṇi amare amaraṇi brahme brahmasvare pūrṇe pūrṇamanorathe amṛte amṛtasañjīvani śrībhadre candre candraprabhe sūrye sūryakānte vītabhaye sarvasuvarṇe suvarṇaprabhe brahmaghoṣe brahmajuṣṭhe sarvatrāpratihate svāhā.{{page:{number:9,id:UT22084-090-003-1755,folio:F.91.b}}}{{note:{index80,id:UT22084-090-003-128}}}{{note:{index81,id:UT22084-090-003-129}}}{{note:{index82,id:UT22084-090-003-130}}}{{note:{index83,id:UT22084-090-003-131}}}{{note:{index84,id:UT22084-090-003-132}}}{{note:{index85,id:UT22084-090-003-133}}}{{note:{index86,id:UT22084-090-003-134}}}{{note:{index87,id:UT22084-090-003-135}}}{{note:{index88,id:UT22084-090-003-136}}}{{note:{index89,id:UT22084-090-003-137}}}{{note:{index90,id:UT22084-090-003-138}}}{{note:{index91,id:UT22084-090-003-139}}}{{note:{index92,id:UT22084-090-003-140}}}{{note:{index93,id:UT22084-090-003-141}}}{{note:{index94,id:UT22084-090-003-142}}}
+{{milestone:{label:1.42,id:UT22084-090-003-143}}}“Homage to all buddhas! May I have well-being and be protected! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.43,id:UT22084-090-003-144}}}Tadyathā huci śuci ghuci muci svāhā!{{note:{index95,id:UT22084-090-003-145}}}{{note:{index96,id:UT22084-090-003-146}}}
+{{milestone:{label:1.44,id:UT22084-090-003-147}}}“Ānanda, you may think that the peacock king named Suvarṇāvabhāsa was someone else at that time. It should not be seen that way. Why is that? Well, Ānanda, at that time, I myself was the peacock king named Suvarṇāvabhāsa. Ānanda, I, too, will now recite the essence mantra of the great peahen, queen of incantations.
+{{milestone:{label:1.45,id:UT22084-090-003-148}}}Tadyathā ili mitte tili mitte tili mili mitte tili mili mili tili tili mitte vili mili mitti vili mili mitti vili mili mili tili mili sudumbā dumbā suvaca cirikisiya bhinna miṭi namo buddhānāṃ cilikisi prāntamūle itihārā lohitamūle dumbā sudumbā kuṭṭi kuṇaṭṭi kukunaṭṭi tili kuñja nāṭṭi.{{note:{index97,id:UT22084-090-003-149}}}{{note:{index98,id:UT22084-090-003-150}}}{{note:{index99,id:UT22084-090-003-151}}}{{note:{index100,id:UT22084-090-003-152}}}{{note:{index101,id:UT22084-090-003-153}}}{{note:{index102,id:UT22084-090-003-154}}}{{note:{index103,id:UT22084-090-003-155}}}{{note:{index104,id:UT22084-090-003-156}}}{{note:{index105,id:UT22084-090-003-157}}}{{note:{index106,id:UT22084-090-003-158}}}{{note:{index107,id:UT22084-090-003-159}}}{{note:{index108,id:UT22084-090-003-160}}}{{note:{index109,id:UT22084-090-003-161}}}{{note:{index110,id:UT22084-090-003-162}}}{{note:{index111,id:UT22084-090-003-163}}}{{note:{index112,id:UT22084-090-003-164}}}{{note:{index113,id:UT22084-090-003-165}}}
+{{milestone:{label:1.46,id:UT22084-090-003-166}}}“May the god in Aḍakavatī shower down rain for nine or ten months! 
+{{milestone:{label:1.47,id:UT22084-090-003-167}}}Ili mili kili mili kili mili ketumūle dudumbe sudumoḍe dalimi sanduvaṭṭe busavaṭṭe vusara vusara dhanavastrake narkalā narkalime khalima ghoṣe rakhile iti sajjale dumbe sudumbe aṭṭe naṭṭe pranaṭṭe anaṇaṭṭe anamāle.{{note:{index114,id:UT22084-090-003-168}}}{{note:{index115,id:UT22084-090-003-169}}}{{note:{index116,id:UT22084-090-003-170}}}{{note:{index117,id:UT22084-090-003-171}}}{{note:{index118,id:UT22084-090-003-172}}}{{note:{index119,id:UT22084-090-003-173}}}{{note:{index120,id:UT22084-090-003-174}}}
+{{milestone:{label:1.48,id:UT22084-090-003-175}}}“May the god Indra shower down fresh water everywhere!
+{{milestone:{label:1.49,id:UT22084-090-003-176}}}Nārāyaṇi pārāyaṇi haritāli kuntāli kubhaṇṭi ili misti kili misti kili tili misti.{{note:{index121,id:UT22084-090-003-177}}}{{note:{index122,id:UT22084-090-003-178}}}
+{{milestone:{label:1.50,id:UT22084-090-003-179}}}“May the syllables of this Dravidian mantra be fulfilled! Svāhā!
+{{milestone:{label:1.51,id:UT22084-090-003-180}}}“Ānanda, this was the essence of the great peahen, queen of incantations. Ānanda, this great peahen, queen of incantations, should be brought to mind when dwelling in a town. It should also be brought to mind when dwelling in the wilderness, when traveling, when lost,  when in the king’s court, when among bandits, when on fire, when submerged in water, when among enemies, when among opponents, when among those who are hostile, when in an assembly, when in a dispute, when bitten by a snake, after drinking poison, and when all perils converge. It should also be brought to mind when one is struck and afflicted by any illness from among the 404 types, including wind disorders, bile disorders, phlegm disorders, and their combination. Why is that? Well, Ānanda, even a criminal deserving execution gets off with only a severe punishment. A criminal deserving severe punishment gets off with only a beating. A criminal deserving a beating gets off with a scolding. A criminal deserving a scolding gets off with a warning. A criminal deserving a warning gets off with only having his body hairs bristle with fear. And a criminal deserving of having his body hairs bristle with fear will likewise be released. All his illnesses will be cured. Ānanda, these incantations and secret mantra syllables should also be brought to mind:{{page:{number:10,id:UT22084-090-003-1756,folio:F.92.a}}}{{note:{index123,id:UT22084-090-003-181}}}{{note:{index124,id:UT22084-090-003-182}}}
+{{milestone:{label:1.52,id:UT22084-090-003-183}}}Tadyathā cili mili kili mili ketumūle vusavaṭṭe vusariṇe vudariṇi kevaṭṭe kevaṭṭeka mūle iti śavale dumba vetumbe priyaṅkare āvaṭṭe parivarṭṭe.{{note:{index125,id:UT22084-090-003-184}}}
+{{milestone:{label:1.53,id:UT22084-090-003-185}}}“May the god shower a rain of fresh water everywhere!
+{{milestone:{label:1.54,id:UT22084-090-003-186}}}Namo bhagavate iṭṭittāya indragomisikāya bhṛṅgarikāya āśane pāśane pāpanikūle kapilamitte ili mitte.{{note:{index126,id:UT22084-090-003-187}}}
+{{milestone:{label:1.55,id:UT22084-090-003-188}}}“Homage to the Blessed Buddha! May the secret mantra syllables be fulfilled! Svāhā!
+{{milestone:{label:1.56,id:UT22084-090-003-189}}}“Ānanda, may this great peahen, the queen of incantations taught by the Thus-Gone One, protect me! May it guard me, care for me, nurture me, bring about my tranquility and well-being, keep away punishments and weapons, counteract poison, neutralize poison, draw a boundary, and bind the earth! May I live a hundred years! May I see a hundred autumns! {{page:{number:11,id:UT22084-090-003-1757,folio:F.92.b}}}
+{{milestone:{label:1.57,id:UT22084-090-003-190}}}“Ānanda, nowhere in the worlds of gods, māras, Brahmā, humans who are śramaṇas and brāhmaṇas, and asuras have I seen any god, goddess, divine son, divine daughter, male divine elder, female divine elder, male divine attendant, female divine attendant, male nāga, female nāga, nāga son, nāga daughter, male nāga elder, female nāga elder, male nāga attendant, female nāga attendant, male asura, female asura, asura son, asura daughter, male asura elder, female asura elder, male asura attendant, female asura attendant, male marut, female marut, marut son, marut daughter, male marut elder, female marut elder, male marut attendant, female marut attendant, male garuḍa, female garuḍa, garuḍa son, garuḍa daughter, male garuḍa elder, female garuḍa elder, male garuḍa attendant, female garuḍa attendant, male gandharva, female gandharva, gandharva son, gandharva daughter, male gandharva elder, female gandharva elder, male gandharva attendant, female gandharva attendant, male kinnara, female kinnara, kinnara son, kinnara daughter, male kinnara elder, female kinnara elder, male kinnara attendant, female kinnara attendant, male mahoraga, female mahoraga, mahoraga son, mahoraga daughter, male mahoraga elder, female mahoraga elder, male mahoraga attendant, female mahoraga attendant, male yakṣa, female yakṣa, yakṣa son, yakṣa daughter, male yakṣa elder, female yakṣa elder, male yakṣa attendant, female yakṣa attendant, male rākṣasa, female rākṣasa, rākṣasa son, rākṣasa daughter, male rākṣasa elder, female rākṣasa elder, male rākṣasa attendant, female rākṣasa attendant, male preta, female preta, preta son,  preta daughter, male preta elder, female preta elder, male preta attendant, female preta attendant, male piśāca, female piśāca, piśāca son, piśāca daughter, male piśāca elder, female piśāca elder, male piśāca attendant, female piśāca attendant, male bhūta, female bhūta, bhūta son, bhūta daughter, male bhūta elder, female bhūta elder, male bhūta attendant, female bhūta attendant, male kumbhaṇḍa, female kumbhaṇḍa, kumbhaṇḍa son, kumbhaṇḍa daughter, male kumbhaṇḍa elder, female kumbhaṇḍa elder, male kumbhaṇḍa attendant, female kumbhaṇḍa attendant, male pūtana, female pūtana, pūtana son, pūtana daughter, male pūtana elder, female pūtana elder, male pūtana attendant, female pūtana attendant, male kaṭapūtana, female kaṭapūtana, kaṭapūtana son, kaṭapūtana daughter, male kaṭapūtana elder, female kaṭapūtana elder, male kaṭapūtana attendant, female kaṭapūtana attendant, male skanda, female skanda, skanda son, skanda daughter, male skanda elder, female skanda elder, male skanda attendant, female skanda attendant, male unmāda, female unmāda, unmāda son, unmāda daughter, male unmāda elder, female unmāda elder, male unmāda attendant, female unmāda attendant, male chāyā, female chāyā, chāyā son, chāyā daughter, male chāyā elder, female chāyā elder, male chāyā attendant, female chāyā attendant, male apasmāra, female apasmāra, apasmāra son, apasmāra daughter, male apasmāra elder, female apasmāra elder, male apasmāra attendant, female apasmāra attendant, male ostāraka, female ostāraka, ostāraka son, ostāraka daughter, male ostāraka elder, female ostāraka elder, male ostāraka attendant, or female ostāraka attendant  who intends to harm anyone who, with the use of the great peahen, queen of incantations, is guarded, concealed, protected, cared for, and nurtured, whose tranquility and well-being is secured, who is kept safe from punishments and weapons, whose poison is counteracted, whose poison is stopped, around whom a boundary is drawn, or who has bound the earth.{{page:{number:12,id:UT22084-090-003-1758,folio:F.93.a}}}{{page:{number:13,id:UT22084-090-003-1759,folio:F.93.b}}}{{note:{index127,id:UT22084-090-003-191}}}
+{{milestone:{label:1.58,id:UT22084-090-003-192}}}“Even if one of them, wishing to find a point of entry, were to search for one, it would not be found. Gods would not find a place to assemble. Nāgas would not find a place to assemble. Asuras would not find a place to assemble. Maruts would not find a place to assemble. Garuḍas would not find a place to assemble. Gandharvas would not find a place to assemble. Kinnaras would not find a place to assemble. Mahoragas would not find a place to assemble. Yakṣas would not find a place to assemble. Rākṣasas would not find a place to assemble. Pretas would not find a place to assemble. Piśācas would not find a place to assemble. Bhūtas would not find a place to assemble. kumbhaṇḍas would not find a place to assemble. Pūtanas would not find a place to assemble. Kaṭapūtanas would not find a place to assemble. Skandas would not find a place to assemble. Unmādas would not find a place to assemble. Apasmāras would not find a place to assemble. And ostārakas would not find a place to assemble. Should anyone transgress the great peahen, queen of incantations, their head will split into seven pieces like the blossom of a basil shrub. These mantra syllables should also be brought to mind: {{note:{index128,id:UT22084-090-003-193}}}
+{{milestone:{label:1.59,id:UT22084-090-003-194}}}Tadyathā ili mili kili mili kiṃ dugdhe mukte sumukte āḍe nāḍe sunāḍe.{{note:{index129,id:UT22084-090-003-195}}}
+{{milestone:{label:1.60,id:UT22084-090-003-196}}}“May the god in highest Aḍakavatī shower down rain!
+{{milestone:{label:1.61,id:UT22084-090-003-197}}}Ārā pārā godohikā ili mili bhijjilikā udukā ḍunduka kāṭuṭukā ili mili tili mili samantataḥ kṛtvā hulu hulu hili hili mili mili pili pili kili kili śīrṣeṇa varṣaṃ cūlu cūlu cala cala cili cili cūlu cūlu ciḍi ciḍi śikhi śikhi śikhi śikhi iṭi viṭi khi khi khi khi juhu juhu juhu juhu juhu juhu juhu juhu juhu juhu  hara hara haraṇe jambhe prajambhe sarvaduṣṭapraduṣṭānāṃ jambhemi stambhemi.{{page:{number:14,id:UT22084-090-003-1760,folio:F.94.a}}}{{note:{index130,id:UT22084-090-003-198}}}{{note:{index131,id:UT22084-090-003-199}}}{{note:{index132,id:UT22084-090-003-200}}}{{note:{index133,id:UT22084-090-003-201}}}{{note:{index134,id:UT22084-090-003-202}}}{{note:{index135,id:UT22084-090-003-203}}}{{note:{index136,id:UT22084-090-003-204}}}{{note:{index137,id:UT22084-090-003-205}}}{{note:{index138,id:UT22084-090-003-206}}}
+{{milestone:{label:1.62,id:UT22084-090-003-207}}}“Guard me! Conceal me! Protect me! Care for me! Nurture me! Bring about my tranquility and well-being! Keep away punishments and weapons! Counteract poison! Neutralize poison! Draw a boundary! Bind the earth! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.63,id:UT22084-090-003-208}}}Tadyathā citre citramūle citre citramāle hale halamāle phale phalamāle khuru khuru varu varuṇe virodhaye suru suru muru muru.{{note:{index139,id:UT22084-090-003-209}}}{{note:{index140,id:UT22084-090-003-210}}}{{note:{index141,id:UT22084-090-003-211}}}{{note:{index142,id:UT22084-090-003-212}}}
+{{milestone:{label:1.64,id:UT22084-090-003-213}}}“May poison from the wicked and the evil, poison from bites, poison roots, and poison food be eradicated by the splendor of all buddhas!
+{{milestone:{label:1.65,id:UT22084-090-003-214}}}Suru suru ke cara cara ke vara vara ke vakke piri piri.{{note:{index143,id:UT22084-090-003-215}}}
+{{milestone:{label:1.66,id:UT22084-090-003-216}}}“May poison be counteracted by the splendor of the seven completely perfect buddhas together with their saṅgha of śrāvakas! May poison be completely eradicated. May poison cease to be! 
+{{milestone:{label:1.67,id:UT22084-090-003-217}}}Elā melā ili milā tili tili melā tiha duha tilimā timā dumā dhīmā dhumā dhusu kumbhā kumbhā sukumbhā sumbhā tumbā samātumbā āḍe nāḍe tila kuñjanāḍe varṣatu devaḥ ilikisi.{{note:{index144,id:UT22084-090-003-218}}}
+{{milestone:{label:1.68,id:UT22084-090-003-219}}}“Through my love for all beings, may the god shower down rain everywhere for nine or ten months! 
+{{milestone:{label:1.69,id:UT22084-090-003-220}}}Vuśaḍe śavariṇi vudāriṇi kevaṭṭe kevaṭṭakamūle itiśabari tuṃbe tuṃbe priyaṅkare avāṭṭe parivaṭṭi.{{note:{index145,id:UT22084-090-003-221}}}
+{{milestone:{label:1.70,id:UT22084-090-003-222}}}“May the god shower down a rain of fresh water everywhere!
+{{milestone:{label:1.71,id:UT22084-090-003-223}}}Namo bhagavate indragomisikāya iṭṭitāya godohikāya bhṛṅgārikāya ale tale kuntale aṭṭe naṭṭe kunaṭṭe āśane pāśane pāpanikūle pratikūle.
+{{milestone:{label:1.72,id:UT22084-090-003-224}}}“Homage to the blessed buddhas! Svāhā!
+{{milestone:{label:1.73,id:UT22084-090-003-225}}}“The conqueror Vipaśyin sat at an aśoka tree,
+The conqueror Śikhin sat at the foot of a white lotus, 
+Viśvabhū approached the foot of a sal tree, 
+The brahmin Krakucchanda was at the trunk of an albizia tree, 
+Buddha Kanakamuni was at a fig tree, 
+Kāśyapa approached the foot of a banyan tree,
+And the supreme Śākya sage, Gautama,
+Approached the foot of a sacred fig tree and awakened.{{page:{number:15,id:UT22084-090-003-1761,folio:F.94.b}}}{{note:{index146,id:UT22084-090-003-226}}}{{note:{index147,id:UT22084-090-003-227}}}
+May the gods who have yearning devotion
+Toward these buddhas with great magical powers, 
+In a state of rapture and joy,
+Ensure well-being and tranquility always!
+{{milestone:{label:1.74,id:UT22084-090-003-228}}}Tadyathā ili mili kili mili kili cili kili voli udurā suduru sudumode busara busara hu hu karañje karañjamūle ihisa ihi sanatā kuṇḍali kuntāli nārāyaṇi pārāyaṇi pāśyani pāśya pāśyani kapilavastuni irivāsi.{{note:{index148,id:UT22084-090-003-229}}}
+{{milestone:{label:1.75,id:UT22084-090-003-230}}}“May the Dravidian mantra syllables be fulfilled! Svāhā!
+{{milestone:{label:1.76,id:UT22084-090-003-231}}}“Ānanda, these great remedies were uttered by Brahmā, lord of the Sahā world, and by Śakra, lord of the gods, and by the Four Great Kings, and by the twenty-eight great yakṣa generals. Ānanda, should anyone approach with malice in his heart those holding the names of these great remedies, his head will split into seven pieces like the blossom of a basil shrub.
+{{milestone:{label:1.77,id:UT22084-090-003-232}}}Tadyathā kīrtimūle eraṇḍamūle samantamūle naḍanāḍe aḍe nāḍe kuśanāḍe itte mitte māru araḍakā maraḍakā ilikiśi godohika uddhundhuma bhinna meḍā.{{note:{index149,id:UT22084-090-003-233}}}
+{{milestone:{label:1.78,id:UT22084-090-003-234}}}“Homage to all buddhas!
+{{milestone:{label:1.79,id:UT22084-090-003-235}}}“May you two-legged ones have well-being!
+May you four-legged ones have well-being!
+May you who have set out on a journey have well-being!
+May you who are returning have well-being!
+May you have well-being at night!
+May you have well-being at midday too!
+May you have well-being at all times!
+{{milestone:{label:1.80,id:UT22084-090-003-236}}}“May no misfortune occur for them!
+May all their days be fortunate!
+May all their lunar mansions be auspicious!
+{{milestone:{label:1.81,id:UT22084-090-003-237}}}“Through this true speech, 
+May all the buddhas, with their great magical powers, 
+And all arhats, who have exhausted the defilements, ensure well-being at all times!
+{{milestone:{label:1.82,id:UT22084-090-003-238}}}“May the great peahen, the queen of incantations spoken by the Thus-Gone One, guard me! May it conceal me, protect me, care for me, nurture me, bring about my tranquility and well-being, keep away punishments and weapons, counteract poison, neutralize poison, draw a boundary, and bind the earth! May I live a hundred years!  May I see a hundred autumns!{{page:{number:16,id:UT22084-090-003-1762,folio:F.95.a}}}
+{{milestone:{label:1.83,id:UT22084-090-003-239}}}“Ānanda, the yakṣas, the great yakṣas, who dwell in the ocean, who dwell on Sumeru, the king of mountains, and on other kings of mountains, and who dwell in jungles and vast jungles, in rivers and great rivers, in arbors and waterfalls, in tanks, pools, and mountain caverns, at charnel grounds and great charnel grounds, at crossroads, in towns, cities, temples, gardens, groves, and forests, and on paths and wrong paths and, Ānanda, those yakṣas who dwell in the royal palace of Aḍakavatī—may they protect me with the great peahen, queen of incantations! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.84,id:UT22084-090-003-240}}}Tadyathā hari hāriṇi cali cālini bhramaṇi bhramani mohani staṃbhani jaṃbhani svayaṃbhuve svāhā!{{note:{index150,id:UT22084-090-003-241}}}
+{{milestone:{label:1.85,id:UT22084-090-003-242}}}“Ānanda, in the east there lives a gandharva king named Dhṛtarāṣṭra, who, as the lord of all gandharvas, exercises control over a retinue of several hundred thousand gandharvas. May he who protects and nurtures the eastern direction, together with his son, grandson, brother, minister, general, messenger, envoy, servant, and assembly, use the great peahen, queen of incantations, to guard me! May he conceal me, protect me, care for me, nurture me, bring about my tranquility and well-being, keep away punishments and weapons, counteract poison, neutralize poison, draw a boundary, and bind the earth! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.86,id:UT22084-090-003-243}}}Tadyathā jhu jhuru jhu jhuru jhu jhuru jhuru jhuru jhuru me svāhā!{{note:{index151,id:UT22084-090-003-244}}}
+{{milestone:{label:1.87,id:UT22084-090-003-245}}}“Ānanda, in the south there lives a kumbhaṇḍa king named Virūḍhaka, who, as lord of the kumbhaṇḍas,  exercises control over a retinue of several hundred thousand kumbhaṇḍas. May he who protects and nurtures the southern direction, together with his son, grandson, brother, minister, general, messenger, envoy, servant, and assembly, use the great peahen, queen of incantations, to guard me! May he conceal me, protect me, care for me, nurture me, bring about my tranquility and well-being, keep away punishments and weapons, counteract poison, neutralize poison, draw a boundary, and bind the earth! May I live a hundred years! May I see a hundred autumns!{{page:{number:17,id:UT22084-090-003-1763,folio:F.95.b}}}
+{{milestone:{label:1.88,id:UT22084-090-003-246}}}Tadyathā veluke veluke amṛtaghātani varuṇavate somavate veṇumālini veluni putrike co cu ci cu svāhā!
+{{milestone:{label:1.89,id:UT22084-090-003-247}}}“Ānanda, in the west there lives a king of the nāgas named Virūpākṣa, who, as lord of the nāgas, exercises control over a retinue of several hundred thousand nāgas. May he who protects and nurtures the western direction, together with his son, grandson, brother, minister, general, messenger, envoy, servant, and assembly, use the great peahen, queen of incantations, to guard me! May he conceal me, protect me, care for me, nurture me, bring about my tranquility and well-being, keep away punishments and weapons, counteract poison, neutralize poison, draw a boundary, and bind the earth! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.90,id:UT22084-090-003-248}}}Tadyathā veduri veduri vedūrī vedūrī maṭṭite maṭṭite koṭi koṭi vedyumati vedyumati hu hu hu hu hu hu hu hu ru ru ru ru ru ru ru ru cu cu cu cu cu cu cu cu ca ca ca ca ca ca ca ca ju svāhā!{{note:{index152,id:UT22084-090-003-249}}}{{note:{index153,id:UT22084-090-003-250}}}{{note:{index154,id:UT22084-090-003-251}}}
+{{milestone:{label:1.91,id:UT22084-090-003-252}}}“Ānanda, in the north there is a yakṣa king named Vaiśravaṇa, who, as lord of the yakṣas, exercises control over a retinue of several hundred thousand yakṣas.  May he who protects and nurtures the northern direction, together with his son, grandson, brother, minister, general, messenger, envoy, servant, and assembly, use the great peahen, queen of incantations, to guard me! May he conceal me, protect me, care for me, nurture me, bring about my tranquility and well-being, keep away punishments and weapons, counteract poison, neutralize poison, draw a boundary, and bind the earth! May I live a hundred years! May I see a hundred autumns!{{page:{number:18,id:UT22084-090-003-1764,folio:F.96.a}}}
+{{milestone:{label:1.92,id:UT22084-090-003-253}}}Tadyathā sauri sauri śiri śiri mati mati tiri tiri mati kiri kiri hiri hiri pelu pelu piṅgale culu culu hataṃ viṣaṃ bandhumati nihataṃ viṣam bandhumati svāhā!{{note:{index155,id:UT22084-090-003-254}}}
+{{milestone:{label:1.93,id:UT22084-090-003-255}}}“In the east, Dhṛtarāṣṭra, 
+In the south, Virūḍhaka,
+In the west, Virūpākṣa, 
+In the north, Kubera—
+{{milestone:{label:1.94,id:UT22084-090-003-256}}}“These four great kings, 
+Renowned protectors of the earth,
+Guard the four directions. 
+Mighty leaders of great armies,
+Vanquishers of foes, 
+Unassailable and invincible, 
+Luminous and possessed of miraculous power, 
+Resplendent and renowned—
+With their great miraculous powers
+They rival the gods and asuras in battle.
+{{milestone:{label:1.95,id:UT22084-090-003-257}}}“May they, too, use the great peahen, queen of incantations, to guard me! May they conceal me, protect me, envelop me, nurture me, bring about my tranquility and well-being, keep away punishments and weapons, counteract poison, neutralize poison, draw a boundary, and bind the earth! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.96,id:UT22084-090-003-258}}}Tadyathā ele mele kele tele mele śele vāśe dumbe dudumbe.
+{{milestone:{label:1.97,id:UT22084-090-003-259}}}“May the god shower down rain everywhere!
+{{milestone:{label:1.98,id:UT22084-090-003-260}}}Tili mili dumbe dudumbe aṭṭe vaṭṭe paramadu vatte.
+{{milestone:{label:1.99,id:UT22084-090-003-261}}}“May the god shower down torrents of rain everywhere! {{page:{number:19,id:UT22084-090-003-1765,folio:F.96.b}}}
+{{milestone:{label:1.100,id:UT22084-090-003-262}}}Guṭu guṭunta aḍakavaddāyām aṇḍe naṇḍe tuṇḍe tutuṇḍe cukke vukke mukke iriḍi miriḍi niriḍi piriḍi hiriḍi hiri hili hili hulu hulu mili mili tule tatale svāhā!{{note:{index156,id:UT22084-090-003-263}}}
+{{milestone:{label:1.101,id:UT22084-090-003-264}}}“Ānanda, you are to uphold the names of the great yakṣa generals. They are as follows:
+{{milestone:{label:1.102,id:UT22084-090-003-265}}}“Sañjaya, eldest son of Kubera, 
+Who rides upon a man,
+Dwells in his residence of Mithilā
+And reveres the truth of the gods. 
+{{milestone:{label:1.103,id:UT22084-090-003-266}}}“May he, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.104,id:UT22084-090-003-267}}}Tadyathā bale bale balkale mātaṅgi caṇḍale puruṣaṇi vici lici gauri gandhāri mataṅgi caṇḍāle mālini hili hili āgate gauri gandhāri koṣṭhika pacari vihāri hili hili kubje svāhā!{{note:{index157,id:UT22084-090-003-268}}}
+{{milestone:{label:1.105,id:UT22084-090-003-269}}}“Krakucchanda is in Pāṭaliputra,{{note:{index158,id:UT22084-090-003-270}}}
+Aparājita is in Ṣṭhālā,{{note:{index159,id:UT22084-090-003-271}}}
+The yakṣa Śaila is in Bhadrapura, 
+Mānava is in the north,
+And Vajrapāṇi has settled
+On Vulture Peak in Rājagṛha.
+{{milestone:{label:1.106,id:UT22084-090-003-272}}}“They traverse thrice
+The breadth of the ocean.
+Mighty and glorious, 
+They pace at ten leagues. 
+{{milestone:{label:1.107,id:UT22084-090-003-273}}}“The yakṣa Garuḍa is in Vipula,{{note:{index160,id:UT22084-090-003-274}}}
+Citragupta is in Citīmukha, 
+And the yakṣa Vakkula is in Rājagṛha, 
+Powerful at the head of his army.
+{{milestone:{label:1.108,id:UT22084-090-003-275}}}“The yakṣas Kāla and Upakālaka 
+Dwell in Kapilavastu,
+Where the great sage, the most esteemed of Śākyas, 
+The awakened sage, was born.
+{{milestone:{label:1.109,id:UT22084-090-003-276}}}“Kalmāṣapāda is in Vairā, 
+Maheśvara lives among the Kirātas, 
+Bṛhaspati is in Śrāvastī, 
+And Sāgara dwells in Sāketa.
+{{milestone:{label:1.110,id:UT22084-090-003-277}}}“Vajrayudha is in Vaiśalī, 
+Haripiṅgala lives among the Mallas, 
+Mahākāla is in Vārāṇasī, 
+And Sudarśana in Campā.
+{{milestone:{label:1.111,id:UT22084-090-003-278}}}“The yakṣa Viṣṇu is in Dvārakā, 
+Dharaṇa is in Dvārapāli, 
+Vibhīṣana is in Tāmraparṇī, {{note:{index161,id:UT22084-090-003-279}}}
+And Mardana is in Uragā. 
+{{milestone:{label:1.112,id:UT22084-090-003-280}}}“The yakṣa Āṭavaka is in Āṭavī, 
+Kapila is in Bahudhanyaka, 
+Vasutrāta is in Ujjayanī, 
+And Vasubhūmi is in Avanti.
+{{milestone:{label:1.113,id:UT22084-090-003-281}}}“Bharuka is in Bharukaccha, 
+Nanda dwells in Nandapura,
+Mālyadhara is in Agrodaka, {{page:{number:20,id:UT22084-090-003-1766,folio:F.97.a}}}
+And Ānanda is in Amaraparvata.{{note:{index162,id:UT22084-090-003-282}}}
+{{milestone:{label:1.114,id:UT22084-090-003-283}}}“Śukladaṃṣṭra is in Suvāstu, 
+Ḍṛḍhanāman is in Manasvi, 
+Mahāgiri is in Girinagara, {{note:{index163,id:UT22084-090-003-284}}}
+And Vāsava dwells among the Vaidiśas.{{note:{index164,id:UT22084-090-003-285}}}
+{{milestone:{label:1.115,id:UT22084-090-003-286}}}“In Rohitaka is Kārttikeya,
+Known throughout the world as Kumāra. 
+Śatabāhu is in Varṇabhaṭa,{{note:{index165,id:UT22084-090-003-287}}}
+And Bṛhadratha is in Kaliṅga.{{note:{index166,id:UT22084-090-003-288}}}
+{{milestone:{label:1.116,id:UT22084-090-003-289}}}“Duryodhana is in Śrughna,
+Arjuna is in Arjunavana, 
+The yakṣa Maṇḍapa is in Mardana,{{note:{index167,id:UT22084-090-003-290}}}
+And Girikūṭa is in Mālava. 
+{{milestone:{label:1.117,id:UT22084-090-003-291}}}“Bhadra is in Rohitāśva, 
+Sarvabhadra is in Sāgara,{{note:{index168,id:UT22084-090-003-292}}}
+Pālitaka is in Saṇṭīraka,{{note:{index169,id:UT22084-090-003-293}}}
+And Sārthavāha is in Dhaneśvara.
+{{milestone:{label:1.118,id:UT22084-090-003-294}}}“Kūṭadaṃṣṭra is in Ajitañjaya, 
+Vasubhadra is in Vasāti,
+Śiva is in Śivapurādhāna, 
+And Śivabhadra is in Bhīṣaṇa. 
+{{milestone:{label:1.119,id:UT22084-090-003-295}}}“The yakṣa Indra is in Indrapura, 
+Puṣpaketu is in Śilāpura, 
+Dāruka in Dārukapura, 
+And Kapila dwells in Varṇi.
+{{milestone:{label:1.120,id:UT22084-090-003-296}}}“Brothers Maṇibhadra and Pūrṇabhadra
+Are in Brahmavatī, 
+Pramardana is in Gāndhāra, 
+And Prabhañjana is in Takṣaśilā. 
+{{milestone:{label:1.121,id:UT22084-090-003-297}}}“The great yakṣa Kharopoṣta 
+Dwells in Daśaśaila.{{note:{index170,id:UT22084-090-003-298}}}
+Trigupta is in Hanumattīra, 
+And Prabhaṅkara is in Rauruka.{{note:{index171,id:UT22084-090-003-299}}}
+{{milestone:{label:1.122,id:UT22084-090-003-300}}}“Nandī and Vardhana
+Are in the city of Nandivardhana.
+Vāyira is in Vāyibhūmīya, 
+And Kalahapriya is in Lampāka.
+{{milestone:{label:1.123,id:UT22084-090-003-301}}}“Gardabhaka is in Mathurā, 
+Kalaśodara is in Laṅkā, {{note:{index172,id:UT22084-090-003-302}}}
+The yakṣa Sūryaprabha is in Śūnya,{{note:{index173,id:UT22084-090-003-303}}}
+And the yakṣa Girimuṇḍa is in Kośala. 
+{{milestone:{label:1.124,id:UT22084-090-003-304}}}“Vijaya and Vaijayanta 
+Dwell in Pāṇḍamāthura, 
+The yakṣa Pūrṇaka is in Malaya, 
+And Kinnara is at Kailash,{{note:{index174,id:UT22084-090-003-305}}}
+{{milestone:{label:1.125,id:UT22084-090-003-306}}}“Meghamāli is in Pauṇḍra, 
+Khaṇḍaka is in Pratiṣṭhāna, 
+Śaṅkālī is in Pitaṅgala, {{note:{index175,id:UT22084-090-003-307}}}
+And Sukhāvaha is in Taraṅgavatī.
+{{milestone:{label:1.126,id:UT22084-090-003-308}}}“The yakṣa Sundara is in Nāsika, 
+Asaṅga is in Tarukacchaka,{{note:{index176,id:UT22084-090-003-309}}}{{note:{index177,id:UT22084-090-003-310}}}
+Pitānandin is in Nandika, 
+And Vīra is in Karahāṭaka.{{note:{index178,id:UT22084-090-003-311}}}
+{{milestone:{label:1.127,id:UT22084-090-003-312}}}“Lambodara is in Kaliṅga, 
+Mahābhuja is in Kauśalyā, {{note:{index179,id:UT22084-090-003-313}}}
+Svastika is in Svastikaṭaka, 
+And Pālaka is in Vārāṇasī.{{note:{index180,id:UT22084-090-003-314}}}
+{{milestone:{label:1.128,id:UT22084-090-003-315}}}“Bhadrakarṇa is in Taṭiskandha, {{page:{number:21,id:UT22084-090-003-1767,folio:F.97.b}}}
+Dhanapara is in Ṣaṭpura,{{note:{index181,id:UT22084-090-003-316}}}
+The yakṣa Bala is in Vairāmaka,
+And Priyadarśana is in Avantī.
+{{milestone:{label:1.129,id:UT22084-090-003-317}}}“Śikhaṇḍin is in Gomardana, 
+Añjalipriya is in Vidiśa,{{note:{index182,id:UT22084-090-003-318}}}
+Veṣṭitaka is in Chatrākāra, 
+And Makarandama is in Tripurī.{{note:{index183,id:UT22084-090-003-319}}}
+{{milestone:{label:1.130,id:UT22084-090-003-320}}}“Viśālākṣa is in Ekakakṣa,
+Aṇḍabha is in Udumbara,
+Anābhoga is in Kauśāmbī,{{note:{index184,id:UT22084-090-003-321}}}
+And Virocana is in Śāntivatī.
+{{milestone:{label:1.131,id:UT22084-090-003-322}}}“Caritaka is in Ahicchatra, {{note:{index185,id:UT22084-090-003-323}}}
+Kapila is in Kampilya,
+Bakkula is in Ujjahānyā,
+And Pūrṇaka is in Maṇḍavī.
+{{milestone:{label:1.132,id:UT22084-090-003-324}}}“Naigameśa is in Pāñcālī,
+Prasabha is in Gajasāhvaya,
+Dṛḍhadhanu is in Varuṇā, 
+And Purañjaya is in Yodheya.
+{{milestone:{label:1.133,id:UT22084-090-003-325}}}“Tararka and Kurutararka,
+The yakṣa lords, are in Kurukṣetra.
+Mahollūkhala and Mekhala 
+Are in the place known as Yakṣī.{{note:{index186,id:UT22084-090-003-326}}}
+{{milestone:{label:1.134,id:UT22084-090-003-327}}}“Vyatipātana, Siddhārtha, 
+And Āyatī are forest dwellers.
+Siddhapātra is in Śrughna,{{note:{index187,id:UT22084-090-003-328}}}
+And Sthala is in Sthalā.
+{{milestone:{label:1.135,id:UT22084-090-003-329}}}“Two yakṣas, Siṃhabala and the other—
+Siṃhabala and Vyāghrabala—
+Live in Koṭivarṣa.
+Likewise, Mahāsena is in Parapurañjaya.{{note:{index188,id:UT22084-090-003-330}}}
+{{milestone:{label:1.136,id:UT22084-090-003-331}}}“Puṣpadanta is in Campā,
+Magadha is in Girivraja,
+The yakṣa Parvata is in Goyoga,
+And Suṣeṇa is in Nāgara.
+{{milestone:{label:1.137,id:UT22084-090-003-332}}}“Vīrabāhu is in Sāketa,
+Sukhāvaha is in Kākaṭi,
+Anāyasa is in Kauśāmbī
+And Bhadrika is in Bhadrikā.
+{{milestone:{label:1.138,id:UT22084-090-003-333}}}“The yakṣa named Bhūtamukha
+Is in Pāṭaliputra
+Aśoka is in Kāñcī, 
+And Kaṭaṅkaṭa is in Ambaṣṭha.{{note:{index189,id:UT22084-090-003-334}}}
+{{milestone:{label:1.139,id:UT22084-090-003-335}}}“Siddhārtha is in Bharukaccha,
+Mandaka is in Ajitañjaya,
+Mañjakeśa is in Agrodaka,
+And Maṇikānana is in Saindhava.
+{{milestone:{label:1.140,id:UT22084-090-003-336}}}“The Vikaṭaṅkaṭa yakṣas
+Dwell in Kapilavastu,
+Naikṛtika is in Gāndhāraka,
+And Dvāraka is in Nilayadhruva.{{note:{index190,id:UT22084-090-003-337}}}
+{{milestone:{label:1.141,id:UT22084-090-003-338}}}“The yakṣa Madhyamakīya 
+Is in famed Saubhadriya,
+Vairāṭaka is in Sārapura,
+And Jambhaka is in Marubhūmi.{{note:{index191,id:UT22084-090-003-339}}}
+{{milestone:{label:1.142,id:UT22084-090-003-340}}}“Also, in Vṛndakaṭa there is
+The yakṣa known as Vikaṭa.
+Vemānika is in Devasarma,
+And Mandara is in Darada. {{page:{number:22,id:UT22084-090-003-1768,folio:F.98.a}}}
+{{milestone:{label:1.143,id:UT22084-090-003-341}}}“Prabhaṅkara is in Kaśmīra,
+Caṇḍaka is in Jaṭāpura,{{note:{index192,id:UT22084-090-003-342}}}
+And the one named Pāñcika
+Dwells on the border of Kaśmīra.{{note:{index193,id:UT22084-090-003-343}}}
+{{milestone:{label:1.144,id:UT22084-090-003-344}}}“He has five hundred sons, 
+Mighty leaders of great armies. 
+The eldest of son of Pāñcika
+Dwells in Cīnabhūmi.
+{{milestone:{label:1.145,id:UT22084-090-003-345}}}“The one named Skandhākṣa 
+Dwells with his brother in Kauśika.
+Daṃṣṭrapāda is in Kaliṅga,{{note:{index194,id:UT22084-090-003-346}}}
+And Maṇḍala is in Maṇḍalāsana.
+{{milestone:{label:1.146,id:UT22084-090-003-347}}}“Laṅkeśvara is in Kāpiśī,{{note:{index195,id:UT22084-090-003-348}}}
+Mārīcī is in Rāmakāṅkṣi,
+Dharmapāla is in Khāśa,
+And Mahābhuja is in Balhi.
+{{milestone:{label:1.147,id:UT22084-090-003-349}}}“Prince Jinarṣabha,
+The resplendent son of Vaiśravaṇa,
+Dwells in Tukhāra, 
+Surrounded by ten million yakṣas.
+{{milestone:{label:1.148,id:UT22084-090-003-350}}}“Sātāgiri and Haimavata
+Dwell in Sindhusāgara,
+Triśūlapāṇi is in Tripura, 
+And Pramardana is in Kaliṅga.
+{{milestone:{label:1.149,id:UT22084-090-003-351}}}“Pāñcālagaṇḍa is in Dramiḍa,{{note:{index196,id:UT22084-090-003-352}}}
+Dhaneśvara is in Siṃhala,
+Śukāmukha is in Aṭavī, 
+And Kiṅkara lives in Pātāla.
+{{milestone:{label:1.150,id:UT22084-090-003-353}}}“Prabhāsvara is in Puṇḍarīka,{{note:{index197,id:UT22084-090-003-354}}}
+Śarmila is in Mahāpura,{{note:{index198,id:UT22084-090-003-355}}}
+Prabhañjana is in Darada, {{note:{index199,id:UT22084-090-003-356}}}
+And Piṅgala dwells in Ambulima.
+{{milestone:{label:1.151,id:UT22084-090-003-357}}}“Vaccaḍa is in Vaccaḍādhāna,{{note:{index200,id:UT22084-090-003-358}}}{{note:{index201,id:UT22084-090-003-359}}}
+Mātali is in Kāmada,
+Suprabuddha is in Putrīvaṭa, 
+And Narakuvera is in Kāpiśī.{{note:{index202,id:UT22084-090-003-360}}}
+{{milestone:{label:1.152,id:UT22084-090-003-361}}}“Pārāsara is in Pārata, 
+Śaṅkara is in Śakasthāna,
+Vemacitra is in Bālhīka,{{note:{index203,id:UT22084-090-003-362}}}
+And Piṅgala is in Ketaka.
+{{milestone:{label:1.153,id:UT22084-090-003-363}}}“Pūrṇamukha is in Puṇḍavardhana, 
+Karāḍa is in Uḍḍiyānaka,
+Kumbhodara is in Kauśala, 
+And Makaradhvaja is in Maru.
+{{milestone:{label:1.154,id:UT22084-090-003-364}}}“Citrasena is in Vokkāṇa, 
+Rāvaṇa is in Ramatha,
+Piṅgala is in Rāśina,{{note:{index204,id:UT22084-090-003-365}}}
+And Priyadarśana is in Patnīya.
+{{milestone:{label:1.155,id:UT22084-090-003-366}}}“The yakṣa Kumbhīra
+Dwells in Rājagṛha in Vipula
+And is attended by yakṣas 
+Numbering several hundred thousand.
+{{milestone:{label:1.156,id:UT22084-090-003-367}}}“Gopāla is in Ahicchatrā,
+Alaka is in Alakāpura,
+Nandin is in Nandinagara, 
+And Bali dwells in Grāmaghoṣa.{{note:{index205,id:UT22084-090-003-368}}}
+{{milestone:{label:1.157,id:UT22084-090-003-369}}}“Vaiśravaṇa is in Devāvatāra 
+With his own army of guardians. 
+He dwells in Aḍakavatī {{page:{number:23,id:UT22084-090-003-1769,folio:F.98.b}}}
+Surrounded by ten million yakṣas.
+{{milestone:{label:1.158,id:UT22084-090-003-370}}}“All these yakṣas are miraculous and mighty, lead great armies, and vanquish their foes. They are unassailable and invincible, have miraculous powers, and are resplendent, vibrant, and renowned. They rival the gods and asuras in battle with their great miraculous powers.
+{{milestone:{label:1.159,id:UT22084-090-003-371}}}“May they use the great peahen, queen of incantations, to guard me! May they conceal me, protect me, care for me, nurture me, bring about my tranquility and well-being, keep away punishments and weapons, counteract poison, neutralize poison, draw a boundary, and bind the earth! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.160,id:UT22084-090-003-372}}}Tadyathā akaṭe vikaṭe hariṇi hāriṇi dharaṇi dhāraṇi hukke hukke vukke vukke. hana hana hana hana hana hana hana hana hana hana my enemies.Daha daha daha daha daha daha daha daha daha daha those who wish me harm.Paca paca paca paca paca paca paca paca paca paca those who oppose me.Dhu dhu dhu dhu dhu dhu dhu dhu dhu dhu those who wish me harm.Ha ha ha ha ha ha ha ha ha haiṭi jiṭi jiṭi jiṭi jiṭi jiṭi jiṭi jiṭi jiṭi jiṭi destroy my enemies.Culu culu culu culu culu culu culu culu culu culu hili hili hili hili hili hili hili hili hili hili mili mili mili mili mili mili mili mili mili mili phuru phuru phuru phuru phuru phuru phuru phuru phuru phuru ciṭi ciṭi ciṭi ciṭi ciṭi ciṭi ciṭi ciṭi ciṭi ciṭi destroy my enemies.Hikka mikka cikka dukkaśrībhadre maṅgalyesamantabhadre hiraṇyagarbhe sarvārthasādhani amale kamalevimale candre candraprabhe sūryesūryakānte durvijñeye dumedumbe dodumbe priyaṅkare!{{note:{index206,id:UT22084-090-003-373}}}{{note:{index207,id:UT22084-090-003-374}}}{{note:{index208,id:UT22084-090-003-375}}}{{note:{index209,id:UT22084-090-003-376}}}{{note:{index210,id:UT22084-090-003-377}}}{{note:{index211,id:UT22084-090-003-378}}}{{note:{index212,id:UT22084-090-003-379}}}{{note:{index213,id:UT22084-090-003-380}}}{{note:{index214,id:UT22084-090-003-381}}}{{note:{index215,id:UT22084-090-003-382}}}{{note:{index216,id:UT22084-090-003-383}}}{{note:{index217,id:UT22084-090-003-384}}}
+{{milestone:{label:1.161,id:UT22084-090-003-385}}}“Protect me! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.162,id:UT22084-090-003-386}}}“Ānanda,  you are to uphold the names of the twenty-eight great yakṣa generals, who guard and protect the ten directions. {{page:{number:24,id:UT22084-090-003-1770,folio:F.99.a}}}
+{{milestone:{label:1.163,id:UT22084-090-003-387}}}“Ānanda, in the eastern direction dwell four great yakṣa generals who guard and protect the eastern direction. They are Dīrgha, Sunetra, Pūrṇaka, and Kapila. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.164,id:UT22084-090-003-388}}}“Ānanda, in the southern direction dwell four great yakṣa generals who guard and protect the southern direction. They are Siṃha, Upasiṃha, Śaṅkhila, and Nanda. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.165,id:UT22084-090-003-389}}}“Ānanda, in the western direction dwell four great yakṣa generals who guard and protect the western direction. They are Hari, Harikeśa, Prabhu, and Piṅgala. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.166,id:UT22084-090-003-390}}}“Ānanda, in the northern direction dwell four great yakṣa generals who guard and protect the northern direction. They are Dharaṇa, Dharananda, Udyogapāla, and Viṣṇu. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.167,id:UT22084-090-003-391}}}“Ānanda, in the intermediate directions there dwell four great yakṣa generals who guard and protect the intermediate directions. They are Pañcika, Pañcālagaṇḍa, Sātāgiri, and Haimavata. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! {{page:{number:25,id:UT22084-090-003-1771,folio:F.99.b}}}
+{{milestone:{label:1.168,id:UT22084-090-003-392}}}“Ānanda, there are four great yakṣa generals who dwell on the earth and protect the beings who course upon the earth. They are Bhūma, Subhūma, Kāla, and Upakāla. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.169,id:UT22084-090-003-393}}}“Ānanda, there are four great yakṣa generals who dwell in the sky and protect the beings who course in the sky. They are Sūrya, Soma, Agni, and Vāyu. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.170,id:UT22084-090-003-394}}}“Ānanda, you are to uphold the names of the great king Vaiśravaṇa’s Dharma brothers, who guard and protect beings, who course in the world in order to benefit the world, ending the misfortunes, epidemics, and calamities of the world. They are Indra, Soma, Prajāpati, Varuṇa, Bharadvāja, Īśāna, Candana, Kāmaśreṣṭha, Kunikaṇṭha, Nikaṇṭhaka, Vaḍi, Maṇi, Māṇicara, Praṇāda, Upapañcaka, Sātāgiri, Haimavata, Pūrṇaka, Khadira, Kovida, the yakṣa Gopāla, Āṭavaka, Nararāja, Jinarṣabha, Pāñcālagaṇḍa, Sumukha, the yakṣa Dīrgha with his entourage, the gandharva Citrasena, Triphālin, Trikaṇṭhaka, Dīrghaśakti, and Mātali. These yakṣas are great yakṣas, leaders of armies, replete with miraculous power, resplendent, vibrant, and renowned. They are the brothers of the great king Vaiśravaṇa. It is to these yakṣas that the great king Vaiśravaṇa calls out, saying, ‘This yakṣa is harming me! That yakṣa is not letting me go!’  May these brothers of the great king Vaiśravaṇa also use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! {{page:{number:26,id:UT22084-090-003-1772,folio:F.100.a}}}{{note:{index218,id:UT22084-090-003-395}}}
+{{milestone:{label:1.171,id:UT22084-090-003-396}}}“May they protect me against strife, argument, derision, fights, and battles! May they protect me against human grahas, nonhuman grahas, deva grahas, nāga grahas, asura grahas, marut grahas, garuḍa grahas, gandharva grahas, kinnara grahas, mahoraga grahas, yakṣa grahas, rākṣasa grahas, preta grahas, piśāca grahas, bhūta grahas, kumbhaṇḍa grahas, pūtana grahas, kaṭapūtana grahas, skanda grahas, unmāda grahas, chāyā grahas, apasmāra grahas, ostāraka grahas, nakṣatra grahas, and lepaka grahas!{{note:{index219,id:UT22084-090-003-397}}}
+{{milestone:{label:1.172,id:UT22084-090-003-398}}}“May they protect me against those who devour vital energy, wombs, and flesh, drink blood, devour fat, grease, marrow, and newborns, steal life force, devour oblations, garlands, perfumes, incense, flowers, fruits, grains, and burnt offerings, drink pus, devour feces, drink urine, devour saliva, snot, mucus, vomit, and filth, and drink from cesspools! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.173,id:UT22084-090-003-399}}}“May they protect me against kṛtyā rites, kākhordas, kiraṇas, burnt offering substances, and burnt offerings,  against destroyers, dūtas, vetālas, ciccas, preṣakas, indigestible food, evil vomit, wicked chāyās, the evil eye, written hexes, traversed hexes, neglected spirits, terror, and threats from kings, against bandits, fire, water, enemy armies, famine, untimely death, earthquakes, landowners, violent beasts, and threats of enemies, and against death and all other perils! {{page:{number:27,id:UT22084-090-003-1773,folio:F.100.b}}}{{note:{index220,id:UT22084-090-003-400}}}{{note:{index221,id:UT22084-090-003-401}}}
+{{milestone:{label:1.174,id:UT22084-090-003-402}}}“Guard me from the threat of skin disease, itching, leprosy, hives, fistulas, boils, skin irritation, rashes, and abscesses! Remove headache, splitting headache, loss of appetite, eye illness, nose illness, mouth illness, throat illness, heart disease, sore throat, earache, toothache, heart pain, side pain, backache, stomachache, cheek pain, urinary tract pain, male genital pain, female genital pain, hip pain, thigh pain, calf pain, hand pain, foot pain, and pain in the major and minor appendages! Remove fevers! Remove one-day fevers, two-day fevers, three-day fevers, four-day fevers, weeklong fevers, half-month fevers, month-long fevers, two-month-long fevers, momentary fevers, chronic fevers, intermittent fevers, fevers from bhūtas, fevers that arise from wind disorders, bile disorders, phlegm disorders, or their combination, all other fevers, all illnesses, all grahas, all poisons, all misdeeds, all suffering, and all fears! Svāhā! {{page:{number:28,id:UT22084-090-003-1774,folio:F.101.a}}}
+{{milestone:{label:1.175,id:UT22084-090-003-403}}}“Ānanda, there are twelve great piśācīs who protected the Bodhisattva while he was in his mother’s womb, while he was being born, and even after his birth. Who are those twelve? They are Lambā, Vilambā, Pralambā, Olambā, Hārītī, Harikeśī, Piṅgalā, Kālī, Karālī, Kambugrīvā, Kākī, and Kalaśodarī. These twelve piśācīs are replete with miraculous powers, resplendent, vibrant, and renowned, and with their great miraculous powers they rival the gods and asuras in battle. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! Here are the words in the mantra:{{note:{index222,id:UT22084-090-003-404}}}{{note:{index223,id:UT22084-090-003-405}}}
+{{milestone:{label:1.176,id:UT22084-090-003-406}}}Tadyathā hare khare khure male milemūle madenti matte maṇḍitike hulu hulu hulu hulu hulu hulu hulu hulu hulu hulu lu lu lu lu meḍi meḍi meḍi meḍi siddhi siddhi siddhi siddhi. Guard me! Svasti svasti svasti svasti. May well-being be mine! Svāhā!{{note:{index224,id:UT22084-090-003-407}}}
+{{milestone:{label:1.177,id:UT22084-090-003-408}}}“Ānanda, there are eight great piśācīs who protected the Bodhisattva while he was in his mother’s womb, while he was being born, and even after his birth. Who are they? They are Madā, Madanā, Madotkaṭā, Upamadā, Pretī, Ojohāriṇī, Aśanī, and Grasanī. These eight piśācīs are replete with miraculous powers, resplendent, vibrant, and renowned, and with their great miraculous powers they even rival the gods and asuras in battle. May they, too, use the great peahen, queen of incantations, to guard me! May they protect me, envelop me, nurture me, bring about my tranquility and well-being,  keep away punishments and weapons, counteract poison, neutralize poison, draw a boundary, and bind the earth! May I live a hundred years! May I see a hundred autumns!{{page:{number:29,id:UT22084-090-003-1775,folio:F.101.b}}}
+{{milestone:{label:1.178,id:UT22084-090-003-409}}}Tadyathā hare khare khure male mile mūle madenti matti maṇḍitike hulu hulu hulu hulu hulu hulu hulu hulu hulu hulu lu lu lu lu meḍi meḍi meḍi meḍi siddhi siddhi siddhi siddhi. Guard me! Svasti svasti svasti svasti! May well-being be mine! Svāhā!
+{{milestone:{label:1.179,id:UT22084-090-003-410}}}“Ānanda, there are seven piśācīs who devour flesh and blood, who are harmful to humans, who protected the Bodhisattva while he was in his mother’s womb, while he was being born, and even after his birth. Who are they? They are Agrodikā, Rakṣitikā, Citrapiśācikā, Pūrṇabhadrikā, Agnirakṣitikā, Mitrakālikā, and Ṛṣirakṣitikā. These seven piśācīs are replete with miraculous powers, resplendent, vibrant, and renowned, and with their great miraculous powers they even rival the gods and asuras in battle. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! {{note:{index225,id:UT22084-090-003-411}}}
+{{milestone:{label:1.180,id:UT22084-090-003-412}}}Tadyathā hare khare khure male mile mūle madenti matte maṇḍitike hulu hulu hulu hulu hulu hulu hulu hulu hulu hulu lu lu lu lu meḍi meḍi meḍi meḍi siddhi siddhi siddhi siddhi. Guard me! Svasti svasti svasti svasti! May well-being be mine! Svāhā!
+{{milestone:{label:1.181,id:UT22084-090-003-413}}}“Ānanda, there are five great rākṣasīs who protected the Bodhisattva while he was in his mother’s womb, while he was being born, and even after his birth. Who are they? They are Kuṇṭhā, Nikuṇṭḥā, Nandā, Viṣṇulā, and Kapilā. These five rākṣasīs  are replete with miraculous powers, resplendent, vibrant, and renowned, and with their great miraculous powers they even rival the gods and asuras in battle. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! {{page:{number:30,id:UT22084-090-003-1776,folio:F.102.a}}}
+{{milestone:{label:1.182,id:UT22084-090-003-414}}}Tadyathā hare khare khure male mile mūle madenti matte maṇḍitike hulu hulu hulu hulu hulu hulu hulu hulu hulu hulu lu lu lu lu meḍi meḍi meḍi meḍi siddhi siddhi siddhi siddhi. Guard me! Svasti svasti svasti svasti! May well-being be mine! Svāhā!
+{{milestone:{label:1.183,id:UT22084-090-003-415}}}“Ānanda, there are eight great rākṣasīs who devour flesh and blood, who are harmful to humans, and who protected the Bodhisattva while he was in his mother’s womb, while he was being born, and even after his birth. Who are they? They are Mohā, Susīmā, Kuśākṣī, Keśinī, Kāmbojī, Sumitrā, Lohitākṣī, and Kācarā. They devour flesh and blood, steal men, women, boys, and girls, haunt families with pregnant women, haunt empty houses, follow those who walk in darkness, make noises, and steal the vitality of humans. They have no compassion, and they terrorize human beings. These eight great rākṣasīs are replete with miraculous powers, resplendent, vibrant, and renowned, and with their great miraculous powers they even rival the gods and asuras in battle. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.184,id:UT22084-090-003-416}}}Tadyathā hare khare khure male mile mūle madenti matte maṇḍitike hulu hulu hulu hulu hulu hulu hulu hulu hulu hulu lu lu lu lumeḍi meḍi meḍi meḍi siddhi siddhi siddhi siddhi. Guard me! Svasti svasti svasti svasti! May well-being be mine! Svāhā!{{page:{number:31,id:UT22084-090-003-1777,folio:F.102.b}}}
+{{milestone:{label:1.185,id:UT22084-090-003-417}}}“Ānanda, there are ten great rākṣasīs who protected the Bodhisattva while he was in his mother’s womb, while he was being born, and even after his birth. Who are they? They are the rākṣasī Hārītī, the rākṣasī Nandā, the rākṣasī Piṅgalā, the rākṣasī Śaṅkhinī, the rākṣasī Kālikā, the rākṣasī Devamitrā, the rākṣasī Kumbhāṇḍā, the rākṣasī Kuntadaṃṣṭrā, the rākṣasī Lambā, and the rākṣasī Analā. These ten great rākṣasīs are replete with miraculous powers, resplendent, vibrant, and renowned, and with their great miraculous powers they even rival the gods and asuras in battle. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! {{note:{index226,id:UT22084-090-003-418}}}{{note:{index227,id:UT22084-090-003-419}}}
+{{milestone:{label:1.186,id:UT22084-090-003-420}}}Tadyathā hare khare khure male mile mūle madenti matte maṇḍitike hulu hulu hulu hulu hulu hulu hulu hulu hulu hulu lu lu lu lu meḍi meḍi meḍi meḍi siddhi siddhi siddhi siddhi svāhā! Svasti svasti svasti svasti! May well-being be mine! Svāhā!
+{{milestone:{label:1.187,id:UT22084-090-003-421}}}“Ānanda, there are twelve great rākṣasīs who protected the Bodhisattva while he was in his mother’s womb, while he was being born, and even after his birth. Who are they? They are the rākṣasī Anārthikā, the rākṣasī Samudrā, the rākṣasī Raudrā, the rākṣasī Prāṇahāriṇī, the rākṣasī Vidyādharā, the rākṣasī Dhanurdharā, the rākṣasī Śaradharā, the rākṣasī Asidharā, the rākṣasī Haladharā, the rākṣasī Cakradharā, the rākṣasī Cakravāḍā, and the rākṣasī Vibhīṣaṇā. These twelve great rākṣasīs are replete with miraculous powers,  resplendent, vibrant, and renowned, and with their great miraculous powers they even rival the gods and asuras in battle. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! {{page:{number:32,id:UT22084-090-003-1778,folio:F.103.a}}}{{note:{index228,id:UT22084-090-003-422}}}{{note:{index229,id:UT22084-090-003-423}}}
+{{milestone:{label:1.188,id:UT22084-090-003-424}}}Tadyathā hare khare khure male mile mūle madenti matte maṇḍitike hulu hulu hulu hulu hulu hulu hulu hulu hulu hulu lu lu lu lu meḍi meḍi meḍi meḍi siddhi siddhi siddhi siddhi svāhā! Svasti svasti svasti svasti! May well-being be mine! Svāhā!
+{{milestone:{label:1.189,id:UT22084-090-003-425}}}“Ānanda, there are twelve great mātṛkās who protected the Bodhisattva while he was in his mother’s womb, while he was being born, and even after his birth. They harm beings, terrorize them, and perpetuate violence against them. Who are they? They are Brāhmī, Raudrī, Kaumārī, Vaiṣṇavī, Aindrī, Vārāhī, Kauberī, Vāruṇī, Yāmyā, Vāyuvyā, Āgneyī, and Mahākālī. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! {{note:{index230,id:UT22084-090-003-426}}}
+{{milestone:{label:1.190,id:UT22084-090-003-427}}}Tadyathā hare khare khure male mile mūle madenti matte maṇḍitike hulu hulu hulu hulu hulu hulu hulu hulu hulu hulu lu lu lu lu meḍi meḍi meḍi meḍi siddhi siddhi siddhi siddhi svāhā! Svasti svasti svasti svasti! May well-being be mine! Svāhā!
+{{milestone:{label:1.191,id:UT22084-090-003-428}}}“Ānanda, there is a great piśācī named Ekajaṭā, who is the wife of Rāvaṇa and lives on the seashore. She travels eighty thousand leagues in a single night when she smells the scent of blood. She herself protected the Bodhisattva while he was in his mother’s womb, while he was being born, and even after his birth.  May she, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! {{page:{number:33,id:UT22084-090-003-1779,folio:F.103.b}}}{{note:{index231,id:UT22084-090-003-429}}}
+{{milestone:{label:1.192,id:UT22084-090-003-430}}}Tadyathā hare khare khure male mile mūle madenti matte maṇḍitike hulu hulu hulu hulu hulu hulu hulu hulu hulu hulu lu lu lu lu meḍi meḍi meḍi meḍi siddhi siddhi siddhi siddhi svāhā! Svasti svasti svasti svasti! May well-being be mine! Svāhā!
+{{milestone:{label:1.193,id:UT22084-090-003-431}}}“Ānanda, you are to uphold the names of the rākṣasīs. They are the rākṣasī named Kapilā, the rākṣasī named Padumā, the rākṣasī named Mahiṣī, the rākṣasī named Morikā, the rākṣasī named Nāḍikā, the rākṣasī named Jvalanī, the rākṣasī named Tapanī, the rākṣasī named Kalaśī, the rākṣasī named Vimalā, the rākṣasī named Dharaṇī, the rākṣasī named Haricandrā, the rākṣasī named Rohiṇī, the rākṣasī named Mārīcī, the rākṣasī named Hutāśanī, the rākṣasī named Vāruṇī, the rākṣasī named Kālī, the rākṣasī named Kauñjarā, the rākṣasī named Balā, the rākṣasī named Grasanī, the rākṣasī named Karālī, the rākṣasī named Mātaṅgī, the rākṣasī named Piṅgalā, the rākṣasī named Vidurā, the rākṣasī named Gaurī, the rākṣasī named Gandhārī, the rākṣasī named Kumbhāṇḍī, the rākṣasī named Kāraṅgī, the rākṣasī named Rāvaṇī, the rākṣasī named Madanī, the rākṣasī named Aśanī, the rākṣasī named Garbhāhāriṇī, the rākṣasī named Rudhirāhāriṇī, the rākṣasī named Danturā, the rākṣasī named Uttrāsanī, the rākṣasī named Brāhmī, the rākṣasī named Taḍāgapālinī, the rākṣasī named Vajradharā, the rākṣasī named Skandā, the rākṣasī named Varṣaṇī, the rākṣasī named Garjanī, the rākṣasī named Sphoṭanī, the rākṣasī named Vidyotanī, the rākṣasī named Jaṅgamā, the rākṣasī named Ulkāmukhī, the rākṣasī named Vasundharā, the rākṣasī named Kālarātrī, the rākṣasī named Yamadūtī, the rākṣasī named Damṣṭrā, the rākṣasī named Yāmā, the rākṣasī named Amalā,  the rākṣasī named Acalā, the rākṣasī named Ūrdhvajaṭā, the rākṣasī named Śataśīrṣā, the rākṣasī named Śatabāhu, the rākṣasī named Śatanetrā, the rākṣasī named Ghāṭanī, the rākṣasī named Mardanī, the rākṣasī named Mārjārī, the rākṣasī named Candrā, the rākṣasī named Niśācarā, the rākṣasī named Divasacarā, the rākṣasī named Maṇḍitikā, the rākṣasī named Krodhanā, the rākṣasī named Viheṭhanā, the rākṣasī named Asimuṣaladharā, the rākṣasī named Triśūlapāṇī, the rākṣasī named Karāladantī, the rākṣasī named Manoramā, the rākṣasī named Somā, the rākṣasī named Caṇḍālī, the rākṣasī named Daṇṭā, the rākṣasī named Hiḍimbā, the rākṣasī named Nīlā, and the rākṣasī named Citrā.{{page:{number:34,id:UT22084-090-003-1780,folio:F.104.a}}}{{note:{index232,id:UT22084-090-003-432}}}{{note:{index233,id:UT22084-090-003-433}}}{{note:{index234,id:UT22084-090-003-434}}}{{note:{index235,id:UT22084-090-003-435}}}{{note:{index236,id:UT22084-090-003-436}}}{{note:{index237,id:UT22084-090-003-437}}}{{note:{index238,id:UT22084-090-003-438}}}{{note:{index239,id:UT22084-090-003-439}}}{{note:{index240,id:UT22084-090-003-440}}}{{note:{index241,id:UT22084-090-003-441}}}{{note:{index242,id:UT22084-090-003-442}}}{{note:{index243,id:UT22084-090-003-443}}}
+{{milestone:{label:1.194,id:UT22084-090-003-444}}}“These seventy-four great rākṣasīs are replete with miraculous powers, resplendent, vibrant, and renowned, and with their great miraculous powers they even rival the gods and asuras in battle. May they, too, use the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.195,id:UT22084-090-003-445}}}Tadyathā hili hili hili hili mili mili mili mili mili mili mili mili mili mili huru huru huru huru huru huru huru huru huru huru ciṭi ciṭi ciṭi ciṭi ciṭi ciṭi ciṭi ciṭi ciṭi ciṭi hikke hikke hikke hikke haḍa havaṭo vakṣe vakṣe vakṣe hora hora dhara dhara hara hara cala cala culu culu svāhā!{{note:{index244,id:UT22084-090-003-446}}}{{note:{index245,id:UT22084-090-003-447}}}{{note:{index246,id:UT22084-090-003-448}}}{{note:{index247,id:UT22084-090-003-449}}}{{note:{index248,id:UT22084-090-003-450}}}
+{{milestone:{label:1.196,id:UT22084-090-003-451}}}“Homage to all buddhas, svāhā!
+To pratyekabuddhas, svāhā!
+To arhats, svāhā!
+To the bodhisattva Maitreya, svāhā!
+To all bodhisattvas, svāhā!
+To non-returners, svāhā!
+To once-returners, svāhā!
+To stream enterers, svāhā!
+To those who have gone correctly, svāhā!
+To those who have progressed correctly, svāhā!
+To Brahmā,svāhā!{{note:{index249,id:UT22084-090-003-452}}}
+To Indra, svāhā!
+To Prajāpati, svāhā!
+To Īśāna, svāhā!
+To Agni, svāhā!
+To Vāyu, svāhā!
+To Varuṇa, svāhā!
+To Kubera, svāhā!{{note:{index250,id:UT22084-090-003-453}}}
+To Yama, svāhā! {{page:{number:35,id:UT22084-090-003-1781,folio:F.104.b}}}
+To Upendra, svāhā!
+To Vaiśravaṇa, the great yakṣa general, svāhā!
+To Dhṛtarāṣṭra, lord of the gandharvas, svāhā!
+To Virūḍhaka, lord of the kumbhaṇḍas, svāhā! 
+To Virūpākṣa, lord of the nāgas, svāhā! 
+To the gods, svāhā! 
+To the nāgas, svāhā! 
+To the asuras, svāhā! 
+To the maruts, svāhā! 
+To the garuḍas, svāhā! 
+To the gandharvas, svāhā! 
+To the kinnaras, svāhā! 
+To the mahoragas, svāhā! 
+To the yakṣas, svāhā! 
+To the rākṣasas, svāhā! 
+To the pretas, svāhā! 
+To the piśācas, svāhā! 
+To the bhūtas, svāhā! 
+To the kumbhaṇḍas, svāhā! 
+To the pūtanas, svāhā! 
+To the kaṭapūtanas, svāhā! 
+To the skandas, svāhā! 
+To the unmādas, svāhā! 
+To the chāyās, svāhā! 
+To the apasmāras, svāhā! 
+To the ostārakas, svāhā! 
+To the moon and the sun, svāhā! 
+To the rudras, svāhā!{{note:{index251,id:UT22084-090-003-454}}}
+To the lunar mansions, svāhā! 
+To the celestial bodies, svāhā! 
+To the stars, svāhā! 
+To the ṛṣis, svāhā! 
+To those accomplished in yogic conduct, svāhā! 
+To those accomplished in incantations, svāhā! 
+To Gaurī, svāhā! 
+To Gandhārī, svāhā! 
+To Jāṅgulī, svāhā! 
+To Amṛtā, svāhā! 
+To Jambhanī, svāhā! 
+To Stambhanī, svāhā!{{note:{index252,id:UT22084-090-003-455}}}
+To Cāpeṭī, svāhā!
+To Drāmiḍī, svāhā! 
+To Śabarī, svāhā! 
+To Atharvaśabarī,svāhā! {{note:{index253,id:UT22084-090-003-456}}}
+To Caṇḍālī, svāhā! 
+To Mātaṅgī, svāhā! 
+To Nāgahṛdaya, svāhā! 
+To Garuḍahṛdaya, svāhā! 
+To Mānasī, svāhā! 
+To Mahāmānāsī, svāhā! 
+To Ṣaḍakṣarī, svāhā! 
+To Maṇibhadra, svāhā! 
+To Samantabhadra, svāhā! 
+To Mahāsamantabhadra, svāhā! 
+To Mahāsamaya, svāhā! 
+To Mahācandra, svāhā!
+To Mahāpratisarā, svāhā! 
+To Śītavana, svāhā! 
+To Mahāśītavana, svāhā! 
+To Daṇḍadharā, svāhā! 
+To Mahādaṇḍadharā, svāhā! 
+To Mucilinda, svāhā! 
+To Mahāmucilinda, svāhā! 
+To Jayantī, svāhā! 
+To Śānti, svāhā! 
+To Pañcika, svāhā!{{note:{index254,id:UT22084-090-003-457}}}
+To Aparājita, svāhā! 
+To Suvarṇāvabhāsa, the peacock king,svāhā! {{note:{index255,id:UT22084-090-003-458}}}
+To the great peahen, queen of incantations, svāhā! {{page:{number:36,id:UT22084-090-003-1782,folio:F.105.a}}}
+{{milestone:{label:1.197,id:UT22084-090-003-459}}}“Through these great incantations, these great mantras, these great averting spells, these great protective spells, kṛtyas are destroyed! Magic rites are destroyed! Kākhordas, kiraṇas, vetālas, ciccakas, and preṣakas are destroyed! Skandas, unmādas, chāyās, apasmāras, ostārakas, fears, noxious potions, and poisons are destroyed! Indigestible food, evil vomit, wicked chāyās, the evil eye, written hexes, traversed hexes, and neglected spirits are neutralized! One-day fevers, two-day fevers, three-day fevers, four-day fevers, weeklong fevers, half-month fevers, month-long fevers, fevers that occur in the day, fevers that occur at night, momentary fevers, chronic fevers, intermittent fevers, fevers that arise from wind disorders, bile disorders, phlegm disorders, or their combination, fevers from humans, and fevers from nonhumans are healed! All fevers are destroyed! Skin disease, itching, hives, leprosy, boils, skin irritation, rashes, and abscesses are removed! Headache, splitting headache, loss of appetite, eye illness, nose illness, mouth illness, throat illness, heart disease, sore throat, earache, toothache, heart pain, side pain, backache, stomachache, cheek pain, urinary tract pain, male genital pain, female genital pain, hip pain, thigh pain, calf pain, hand pain, foot pain, and pain in the major and minor appendages are all neutralized! All grahas are overcome!  All poisons are neutralized! All illnesses are healed! {{page:{number:37,id:UT22084-090-003-1783,folio:F.105.b}}}
+{{milestone:{label:1.198,id:UT22084-090-003-460}}}“May well-being be mine! May all buddhas bestow upon me well-being at night, well-being in the day, well-being at midday, and well-being day and night!
+{{milestone:{label:1.199,id:UT22084-090-003-461}}}“Homage to all buddhas! Homage to awakening! 
+Homage to the liberated ones! Homage to liberation!
+Homage to the tranquil ones! Homage to tranquility!
+Homage to the completely liberated ones! Homage to complete liberation!
+Homage to the brahmins who have discarded evil qualities!
+May they protect me! 
+{{milestone:{label:1.200,id:UT22084-090-003-462}}}“May my father be well! May my mother be well! May the womb be well! May two-legged creatures be well! May four-legged creatures be well! May multilegged creatures be well! May all the beings in the three realms be well! Svāhā!
+{{milestone:{label:1.201,id:UT22084-090-003-463}}}“Ānanda, you are to uphold the names of the nāga kings! They are the nāga king Blessed Buddha, the nāga king Brahmā, the nāga king Mahābrahmā, the nāga king Indra, the nāga king Upendra, the nāga king Samudra, the nāga king Samudraputra, the nāga king Free from Poison, the nāga king Sāgara, the nāga king Sāgaraputra, the nāga king Makara, the nāga king Nanda, the nāga king Upananda, the nāga king Nala, the nāga king Upanala, the nāga king Sudarśana, the nāga king Vāsuki, the nāga king Takṣaka, the nāga king Aruṇa, the nāga king Varuṇa, the nāga king Pāṇḍaraka, the nāga king Ṣaḍaṅgula, the nāga king Entry into the Womb, the nāga king Śrīmat, the nāga king Śrīkaṇṭha, the nāga king Śrīvardhana, the nāga king Śrībhadra, the nāga king Balabhadra, the nāga king Abjaka, the nāga king Śalabha, the nāga king Subāhu,  the nāga king Sumeru, the nāga king Sūryaprabha, the nāga king Candraprabha, the nāga king Bhadrakānta, the nāga king Nardana, the nāga king Garjana, the nāga king Vidyotana, the nāga king Sphoṭana, the nāga king Varṣaṇa, the nāga king Vimala, the nāga king Alakaśīrṣa, the nāga king Balakaśīrṣa, the nāga king Aśvaśīrṣa, the nāga king Gavayaśīrṣa, the nāga king Mṛgaśīrṣa, the nāga king Hastiśīrṣa, the nāga king Ārdrabalaka, the nāga king Janārdana, the nāga king Citra, the nāga king Citrākṣa, the nāga king Citrasena, the nāga king Namuci, the nāga king Muci, the nāga king Mucilinda, the nāga king Rāvaṇa, the nāga king Rāghava, the nāga king Śiri, the nāga king Śirika, the nāga king Lamburu, the nāga king Kṛmi, the nāga king Ananta, the nāga king Kanaka, the nāga king Hastikaccha, the nāga king Pāṇḍara, the nāga king Piṅgala, the nāga king Elapatra, the nāga king White, the nāga king Śaṅkha, the nāga king Apalāla, the nāga king Kālaka, the nāga king Upakālaka, the nāga king Baladeva, the nāga king Nārāyaṇa, the nāga king Polava, the nāga king Bhīma, the nāga king Rākṣasa, the nāga king Śailabāhu, the nāga king of the Gaṅgā, the nāga king of the Sindhu, the nāga king of the Vakṣu, the nāga king of the Sītā, the nāga king Maṅgalya, the nāga king Anavatapta, the nāga king Supratiṣṭhita, the nāga king Airāvaṇa, the nāga king Dharaṇidhara, the nāga king Nimindhara, the nāga king Dyutindhara, the nāga king Bhadra, the nāga king Subhadra, the nāga king Vasubhadra, the nāga king Balabhadra, the nāga king Maṇi,  the nāga king Maṇikaṇṭha, the two black nāga kings, the two yellow nāga kings, the two red nāga kings, the two white nāga kings, the nāga king Māli, the nāga king Raktamāli, the nāga king Vatsa, the nāga king Bhadrapada, the nāga king Dundubhi, the nāga king Upadundubhi, the nāga king Āmratīrthaka, the nāga king Maṇisuta, the nāga king Dhṛtarāṣṭra, the nāga king Virūḍhaka, the nāga king Virūpākṣa, the nāga king Vaiśravaṇa, the nāga king Śakaṭamukha, the nāga king Cāmpayaka, the nāga king Gautama, the nāga king Pāñcālaka, the nāga king Pañcacūḍa, the nāga king Pradyumna, the nāga king Bindu, the nāga king Upabindu, the nāga king Alika, the nāga king Kālika, the nāga king Balika, the nāga king Kiñcinī, the nāga king Kiñcaka, the nāga king Campaka, the nāga king Kṛṣṇagautama, the nāga king Sumanas, the nāga king Mānuṣa, the nāga king Mūlamānuṣa, the nāga king Uttaramānuṣa, the nāga king Mātaṅga, the nāga king Amāṇuṣa, the nāga king Boat, the nāga king Uttama, the nāga king Valuka, the nāga king Ulūka, the nāga king Hulu, the nāga king Ela, the nāga king Elaparṇa, the nāga king Alabāla, the nāga king Marabāla, the nāga king Manasvin, the nāga king Karkoṭaka, the nāga king Kapila, the nāga king Śaivala, the nāga king Utpala, the nāga king Nakhaka, the nāga king Vardhamānaka, the nāga king Mokṣaka, the nāga king Buddhika, the nāga king Pramokṣa, the nāga king Lava, the nāga king Aśvatara, the nāga kings Ela and Mela, the two nāga kings Nanda and Upananda, the nāga king Acchila,  the nāga king Mahāsudarśana, the nāga king Parikāla, the nāga king Parikīṭa, the nāga king Sumukha, the nāga king Ādarśamukha, the nāga king Gandhāra, the nāga king Siṃhala, the nāga king Dramiḍa, the two black nāga kings, the two white nāga kings, and the two pale nāga kings. There are also those who cause periodic thunder, lightning, and rain and produce crops on the earth. {{page:{number:38,id:UT22084-090-003-1784,folio:F.106.a}}}{{page:{number:39,id:UT22084-090-003-1785,folio:F.106.b}}}{{page:{number:40,id:UT22084-090-003-1786,folio:F.107.a}}}{{note:{index256,id:UT22084-090-003-464}}}{{note:{index257,id:UT22084-090-003-465}}}{{note:{index258,id:UT22084-090-003-466}}}{{note:{index259,id:UT22084-090-003-467}}}{{note:{index260,id:UT22084-090-003-468}}}{{note:{index261,id:UT22084-090-003-469}}}{{note:{index262,id:UT22084-090-003-470}}}{{note:{index263,id:UT22084-090-003-471}}}{{note:{index264,id:UT22084-090-003-1807}}}{{note:{index265,id:UT22084-090-003-472}}}{{note:{index266,id:UT22084-090-003-473}}}{{note:{index267,id:UT22084-090-003-474}}}{{note:{index268,id:UT22084-090-003-475}}}{{note:{index269,id:UT22084-090-003-476}}}{{note:{index270,id:UT22084-090-003-477}}}{{note:{index271,id:UT22084-090-003-478}}}{{note:{index272,id:UT22084-090-003-479}}}{{note:{index273,id:UT22084-090-003-480}}}{{note:{index274,id:UT22084-090-003-481}}}{{note:{index275,id:UT22084-090-003-482}}}{{note:{index276,id:UT22084-090-003-483}}}{{note:{index277,id:UT22084-090-003-484}}}{{note:{index278,id:UT22084-090-003-485}}}{{note:{index279,id:UT22084-090-003-486}}}{{note:{index280,id:UT22084-090-003-487}}}
+{{milestone:{label:1.202,id:UT22084-090-003-488}}}“They have beheld the Buddha, upheld the bases of training, and gone for refuge to the Three Jewels. They are free of the threat of garuḍas, the threat of fire and sand, and the threat of royal sentence. Lords of the earth, they dwell in celestial mansions made of precious gems and have long lives that last for an eon. Known as great lords, they have great miraculous powers, great enjoyments, and large entourages, and they vanquish enemy troops. They are replete with miraculous powers, resplendent, vibrant, and renowned, and with their great miraculous powers they even rival the gods and asuras in battle. 
+{{milestone:{label:1.203,id:UT22084-090-003-489}}}“May these nāga kings, along with their sons, grandsons, brothers, ministers, generals, messengers, envoys, servants, and assemblies, through the great peahen, queen of incantations, to guard me! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.204,id:UT22084-090-003-490}}} “May there be well-being when clean and unclean, when drunk and intoxicated, and while going, standing, sitting, sleeping, awake, coming, or staying! May I be safe from the threat of kings, bandits, fire, water, enmity, murder, adversaries, enemies,  attackers, enemy troops, famine, untimely death, earthquakes, and wild animals! May I be safe from the threat of gods, nāgas, asuras, maruts, garuḍas, gandharvas, kinnaras, mahoragas, yakṣas, rākṣasas, pretas, piśācas, bhūtas, kumbhaṇḍas, pūtanas, kaṭapūtanas, skandas, unmādas, chāyās, apasmāras, and ostārakas! May I be safe from the threat of kṛtyā rites, kākhordas, kiraṇas, vetālas, ciccakas, preṣakas, indigestible food, evil vomit, wicked chāyās, the evil eye, written hexes, traversed hexes, and neglected spirits! May I be safe from the threat of skin disease, itching, leprosy, hives, boils, skin irritation, rashes, and abscesses! May all buddhas grant me well-being at night, well-being at midday, and well-being day and night!{{page:{number:41,id:UT22084-090-003-1787,folio:F.107.b}}}{{note:{index281,id:UT22084-090-003-491}}}
+{{milestone:{label:1.205,id:UT22084-090-003-492}}}“Homage to the buddhas! Homage to awakening!
+Homage to the liberated ones! Homage to liberation! 
+Homage to the tranquil ones! Homage to tranquility!
+Homage to the emancipated ones! Homage to emancipation!
+Homage to the brahmins who have discarded evil qualities!
+May they all guard and protect me! Svāhā!
+{{milestone:{label:1.206,id:UT22084-090-003-493}}}“Ānanda, the great peahen, queen of incantations,  was uttered by the completely perfect Buddha Vipaśyin:{{page:{number:42,id:UT22084-090-003-1788,folio:F.108.a}}}
+{{milestone:{label:1.207,id:UT22084-090-003-494}}}Tadyathā araḍe karaḍe made madavardhani abare śabare ture ture cure cure śabare parṇaśabare huci huci muci muci svāhā!{{note:{index282,id:UT22084-090-003-495}}}
+{{milestone:{label:1.208,id:UT22084-090-003-496}}}“Ānanda, the great peahen, queen of incantations, was uttered by the completely perfect Buddha Śikhin:
+{{milestone:{label:1.209,id:UT22084-090-003-497}}}Tadyathā iṭṭe miṭṭe khure vikhure hili hili mili mili ketumūle ambare ambarāvati dumbe dodumbe hili hili kuci kuci muci muci svāhā!{{note:{index283,id:UT22084-090-003-498}}}
+{{milestone:{label:1.210,id:UT22084-090-003-499}}}“Ānanda, the great peahen, queen of incantations, was uttered by the completely perfect Buddha Viśvabhū:
+{{milestone:{label:1.211,id:UT22084-090-003-500}}}Tadyathā mori mori kevaṭṭe maṇḍe maṇḍi tike hare hare ghare ghare khare khare hili hilini hala halani phale phale phalini dante dantini dantile śakaṭi makaṭi makaṭi naḍe naḍini śiri śiri śiri śiri śiri śiri svāhā!{{note:{index284,id:UT22084-090-003-501}}}
+{{milestone:{label:1.212,id:UT22084-090-003-502}}}“Ānanda, the great peahen, queen of incantations, was uttered by the completely perfect Buddha Krakucchanda:
+{{milestone:{label:1.213,id:UT22084-090-003-503}}}Tadyathā hiḍi miḍi kuḍi muḍi tuḍi āḍi danti dantile śakari cakari thagari tagari kāñcani kañcanāvati bare bare bare bare dante siddhi svāhā!{{note:{index285,id:UT22084-090-003-504}}}
+{{milestone:{label:1.214,id:UT22084-090-003-505}}}“Ānanda, the great peahen, queen of incantations, was uttered by the completely perfect Buddha Kanakamuni:
+{{milestone:{label:1.215,id:UT22084-090-003-506}}}Tadyathā tattale tatale talatotale vīre vijaye vijjadhare araje viraje virājāmasi mati mālini muṇḍi śrīmuṇḍi jvāle jvāle jvāle jvāle bhaghavati siddhi svāhā!{{note:{index286,id:UT22084-090-003-507}}}
+{{milestone:{label:1.216,id:UT22084-090-003-508}}}“Ānanda, the great peahen, queen of incantations, was uttered by the completely perfect Buddha Kāśyapa:
+{{milestone:{label:1.217,id:UT22084-090-003-509}}}Tadyathā aṇḍare kaṇḍare maṇḍare khaṇḍare jaṃbu jaṃbunadi jaṃbuvati matte maṇḍitike amare siddhi hara hara hara hara paśu paśu paśu paśu paśupati siddhi svāhā!{{note:{index287,id:UT22084-090-003-510}}}{{note:{index288,id:UT22084-090-003-511}}}{{note:{index289,id:UT22084-090-003-512}}}
+{{milestone:{label:1.218,id:UT22084-090-003-513}}}“Ānanda, the great peahen, queen of incantations, is now uttered by me, the completely perfect Buddha Śākyamuni,  in order to benefit all beings:{{page:{number:43,id:UT22084-090-003-1789,folio:F.108.b}}}
+{{milestone:{label:1.219,id:UT22084-090-003-514}}}Tadyathā hili mili kili mili ilile katale ketumūle aṭamali ḍaphe ḍaḍaphe busarake busaṭe narakande kāmiṇi kambu darakirurutara baraṇi prakṛti dāṃṣṭre mili tale hiti hāse abale tubale pilaṅke baṭṭi baṭṭi tike aḍantube baṭi tumme.{{note:{index290,id:UT22084-090-003-515}}}
+{{milestone:{label:1.220,id:UT22084-090-003-516}}}“May the god shower down rain throughout the ten directions!
+Homage to the Blessed One!
+May you joyfully shower down rain upon the earth!
+Homage to the Blessed One!
+{{milestone:{label:1.221,id:UT22084-090-003-517}}}Irijaye godohikāye bhṛṅgarikāye aruci naruci naṭṭe vajre vajranaṭṭe udayanapriye ale tale kula tāle nārāyaṇi pārāyaṇi paśyani sparśani. May the syllables of the Dravidian secret mantra be fulfilled! Svāhā!{{note:{index291,id:UT22084-090-003-518}}}
+{{milestone:{label:1.222,id:UT22084-090-003-519}}}“Just as the monk Ānanda brought well-being to the monk Svāti with what I, the Thus-Gone One, taught and rejoiced in, may it likewise guard me, care for me, nurture me, bring about my tranquility and well-being, keep away punishments and weapons, counteract poison, neutralize poison, draw a boundary, and bind the earth! May one live a hundred years! May one see a hundred autumns! {{note:{index292,id:UT22084-090-003-520}}}
+{{milestone:{label:1.223,id:UT22084-090-003-521}}}“Ānanda, the great peahen, queen of incantations, was uttered and rejoiced in by the bodhisattva Maitreya:
+{{milestone:{label:1.224,id:UT22084-090-003-522}}}Tadyathā śiri śiri śiri bhadre jyoti jyoti jyoti bhadre hare hare hare hāriṇi danti śabare śive śūlapāṇini bodhi bodhi bodhi bodhi bedhi bedhi satve bodhiparicāniye svāhā!{{note:{index293,id:UT22084-090-003-523}}}{{note:{index294,id:UT22084-090-003-524}}}{{note:{index295,id:UT22084-090-003-525}}}
+{{milestone:{label:1.225,id:UT22084-090-003-526}}}“Ānanda, the great peahen, queen of incantations, was uttered and rejoiced in by Brahmā, lord of the Sahā world: 
+{{milestone:{label:1.226,id:UT22084-090-003-527}}}Tadyathā hili hili mili mili milini caṅkari kiri kiri kiri kiri kiri kiri kiraye brahmāye ratna­karaṇḍake veḍohuphussa dhare dhara sara sara hara hara hala hala phuru phuru  phuru phuru phuru phuru svāhā!{{page:{number:44,id:UT22084-090-003-1790,folio:F.109.a}}}{{note:{index296,id:UT22084-090-003-528}}}
+{{milestone:{label:1.227,id:UT22084-090-003-529}}}“Poison is overcome!
+Poison is counteracted!
+Poison is overcome by the splendor of the buddhas!
+Poison is counteracted by the splendor of the pratyekabuddhas!
+Poison is counteracted by the splendor of the arhats!
+Poison is counteracted by the splendor of the non-returners!
+Poison is counteracted by the splendor of the once-returners!
+Poison is counteracted by the splendor of the stream enterers!
+Poison is counteracted by the splendor of the truth speakers!
+Poison is counteracted by the splendor of Brahmā’s rod!{{note:{index297,id:UT22084-090-003-530}}}
+Poison is counteracted by the splendor of Indra’s thunderbolt!
+Poison is counteracted by the splendor of Viṣṇu’s wheel!
+Poison is counteracted by the splendor of Yama’s staff!
+Poison is counteracted by the splendor of Varuṇa’s noose!
+Poison is counteracted by the splendor of the asuras’ magical apparitions!
+Poison is counteracted by the splendor of the nāgas’ incantations!
+Poison is counteracted by the splendor of Rudra’s lance!
+Poison is counteracted by the splendor of the skandas’ spears!
+Poison is counteracted by the great peahen, queen of incantations!
+Poison is overcome! May poison sink into the earth!
+{{milestone:{label:1.228,id:UT22084-090-003-531}}}“May I be safe from all poisons—vatsanābha poison, halāhala poison, kālakūṭa poison, poison from bites, poison from roots, poison from food, poison from powders, poison from glances, poison from lightning, poison from clouds, poison from snakes, poison from rats, poison from worms, poison from spiders, poison from wasps, poison from toads, poison from bees, poison from bumble bees, poison from vāṭara bees, poison from tryambuka flies, poison from trailāṭā flies, poison from humans, poison from scorpions, poison from nonhumans, fear-poison, poison from medicine, and poison from incantations! May I be safe from all poisons!{{note:{index298,id:UT22084-090-003-532}}}
+{{milestone:{label:1.229,id:UT22084-090-003-533}}}“Ānanda, the great peahen, queen of incantations, was uttered and rejoiced in by Śakra, lord of the gods: 
+{{milestone:{label:1.230,id:UT22084-090-003-534}}}Tadyathā jalā jantule mālā jantule capeṭi jantule mathani ghatani grasani hari śiri huti śiri taru taru ṇabati hā hā hā hā hā siṃhe dhiti dhiti kuru kuru basare  vajre tuṭa tuṭasi baṭa baṭasi sili sili kapili kapili mūle hā hī hū. I will crush all wicked and evil ones! I will bind their hands, legs, and primary and secondary limbs, and with the help of the gods of the Heaven of the Thirty-Three I will punish them! Uṣṭigini surapate varti vajra vajra vajra vajra vajra vajrapataye svāhā!{{page:{number:45,id:UT22084-090-003-1791,folio:F.109.b}}}{{note:{index299,id:UT22084-090-003-535}}}{{note:{index300,id:UT22084-090-003-536}}}{{note:{index301,id:UT22084-090-003-537}}}
+{{milestone:{label:1.231,id:UT22084-090-003-538}}}“Ānanda, the great peahen, queen of incantations, was uttered and rejoiced in by the Four Great Kings:
+{{milestone:{label:1.232,id:UT22084-090-003-539}}}Tadyathā jvala jvalana tapa tapana matha mathana dhama dhamana sara saraṇa kiṭi kiṭi kuṭi kuṭi muṭi muṭi miṭi miṭi piṭi piṭi sara sara mara mara hara hara tara tara tiri tiri ṭā ṭā ṭā ṭā ṭā dā dā dā dā dā vā vā vā vā vā hala hala hala hala hala siddhi siddhi siddhi siddhi siddhi svasti svasti svasti svasti svasti.{{note:{index302,id:UT22084-090-003-540}}}
+{{milestone:{label:1.233,id:UT22084-090-003-541}}}“Protect me from preṣakas, from the messengers of Yama, from Kālarātrī, from the noose of time, from the punishment of the Lord of Death, and from the punishments of Brahmā, Indra, ṛṣis, gods, nāgas, asuras, maruts, garuḍas, gandharvas, kinnaras, mahoragas, yakṣas, rākṣasas, pretas, piśācas, bhūtas, kumbhaṇḍas, pūtanas, kaṭapūtanas, skandas, unmādas, ostārakas, vetālas, kings, bandits, fire, and water—protect me from all punishments! May I live a hundred years! May I see a hundred autumns! {{note:{index303,id:UT22084-090-003-542}}}
+{{milestone:{label:1.234,id:UT22084-090-003-543}}}“Ānanda, you are to uphold the names of the river queens! They are the river queen Gaṅgā, the river queen Sindhu, the river queen Vakṣu, the river  queen Sītā, the river queen Śarayū, the river queen Ajiravatī, the river queen Yamunā, the river queen Kuhā, the river queen Vitastā, the river queen Vipaśyā, the river queen Śatabāhu, the river queen Airāvatī, the river queen Candrabhāgā, the river queen Sarasvatī, the river queen Kacchapī, the river queen Payoṣṇī, the river queen Kāvelī, the river queen Tāmraparṇī, the river queen Madhumatī, the river queen Vetravatī, the river queen Ikṣumatī, the river queen Gomatī, the river queen Carmadā, the river queen Narmadā, the river queen Saumitrā, the river queen Viśvamitrā, the river queen Amarā, the river queen Tāmarā, the river queen Pañcālā, the river queen Suvāstu, the river queen Prabhadrikā, the river queen Tapodā, the river queen Vimalā, the river queen Nairañjanā, the river queen Great River, the river queen Hiraṇyavatī, the river queen Gosavā, and the river queen Rathasyā.{{page:{number:46,id:UT22084-090-003-1792,folio:F.110.a}}}{{note:{index304,id:UT22084-090-003-544}}}{{note:{index305,id:UT22084-090-003-545}}}{{note:{index306,id:UT22084-090-003-546}}}{{note:{index307,id:UT22084-090-003-547}}}{{note:{index308,id:UT22084-090-003-548}}}{{note:{index309,id:UT22084-090-003-549}}}{{note:{index310,id:UT22084-090-003-550}}}{{note:{index311,id:UT22084-090-003-551}}}{{note:{index312,id:UT22084-090-003-552}}}
+{{milestone:{label:1.235,id:UT22084-090-003-553}}}“May all those who live in these and all other rivers that flow on this earth—beings of different shapes, of hideous shapes, multiple and infinite in form, and shapeshifting and variegated; all gods, nāgas, asuras, maruts, garuḍas, gandharvas, mahoragas, kinnaras, yakṣas, rākṣasas, pretas, piśācas, bhūtas, kumbhaṇḍas, pūtanas, kaṭapūtanas, skandas, unmādas, chāyās,  apasmāras, and ostārakas; and those who consume vitality, devour wombs, drink blood, devour flesh, fat, grease, marrow, and offspring, steal life force, devour oblations, garlands, fruits, flowers, perfumes, incense, grains, and burnt offerings, devour pus and feces, drink urine, devour saliva, snot, mucus, leftovers, vomit, and filth, and drink from cesspools—use the great peahen, queen of incantations, to protect me! May I live a hundred years! May I see a hundred autumns! {{page:{number:47,id:UT22084-090-003-1793,folio:F.110.b}}}
+{{milestone:{label:1.236,id:UT22084-090-003-554}}}“Ānanda, you are to uphold the names of the mountain kings! They are the mountain king Sumeru, the mountain king Himavat, the mountain king Gandhamādana, the mountain king Śataśṛṅga, the mountain king Khadiraka, the mountain king Suvarṇapārśva, the mountain king Dyutindhara, the mountain king Nimindhara, the mountain king Cakravāḍa, the mountain king Mahācakravāḍa, the mountain king Indraśaila, the mountain king Brahmālaya, the mountain king Śrīmanta, the mountain king Sudarśana, the mountain king Vipula, the mountain king Ratnākara, the mountain king Kṛmila, the mountain king Maṇikūṭa, the mountain king Vemacitra, the mountain king Vajrākara, the mountain king Hanucitra, the mountain king Asuraprāgbhāra, the mountain king Vidyutprabha,  the mountain king Aśvastha, the mountain king Candraprabha, the mountain king Bhadraśaila, the mountain king Sūryākānta, the mountain king Vindu, the mountain king Vindhya, the mountain king Candraśaila, the mountain king Citrakūṭa, the mountain king Malaya, the mountain king Suvarṇaśṛṅga, the mountain king Parijāta, the mountain king Subāhu, the mountain king Maṇimanta, the mountain king Susena, the mountain king Brahmadaṇḍa, the mountain king Vedagaccha, the mountain king Gokarṇa, the mountain king Mālyacitra, the mountain king Abhayacitra, the mountain king Khaḍga, the mountain king Tāpana, the mountain king Añjana, the mountain king Muñja, the mountain king Rurubha, the mountain king Darada, the mountain king Kailāsa, the mountain king Sahya, the mountain king Upasita, the mountain king Candanamāla, the mountain king Vallūlagṛha, the mountain king Mahendra, the mountain king Gopagiri, the mountain king Kākanāda, and the mountain king Śāsanadhara.{{page:{number:48,id:UT22084-090-003-1794,folio:F.111.a}}}{{note:{index313,id:UT22084-090-003-555}}}{{note:{index314,id:UT22084-090-003-556}}}{{note:{index315,id:UT22084-090-003-557}}}{{note:{index316,id:UT22084-090-003-558}}}{{note:{index317,id:UT22084-090-003-559}}}{{note:{index318,id:UT22084-090-003-560}}}{{note:{index319,id:UT22084-090-003-561}}}{{note:{index320,id:UT22084-090-003-562}}}{{note:{index321,id:UT22084-090-003-563}}}
+{{milestone:{label:1.237,id:UT22084-090-003-564}}}“May all those who live on these and other mountain kings on this earth—all the gods, nāgas, asuras, maruts, garuḍas, gandharvas, kinnaras, mahoragas, yakṣas, rākṣasas, pretas, piśācas, bhūtas, kumbhaṇḍas, pūtanas, kaṭapūtanas, skandas, unmādas, chāyās, apasmāras, ostārakas, accomplished vidyādharas, and kings and their entourages—use the great peahen, queen of incantations, to protect me!  May I live a hundred years! May I see a hundred autumns! Dispel all misdeeds! May all virtues manifest! Dispel nonvirtue! Manifest what is beneficial! Dispel what is harmful! May all awakened ones bestow upon me well-being at night, well-being in the day, well-being at midday, and well-being day and night! Svāhā!{{page:{number:49,id:UT22084-090-003-1795,folio:F.111.b}}}
+{{milestone:{label:1.238,id:UT22084-090-003-565}}}“Ānanda, you are to uphold the names of the lunar mansions that course through and illuminate the sky! 
+{{milestone:{label:1.239,id:UT22084-090-003-566}}}“There are the seven lunar mansions consisting of Kṛttikā, Rohiṇī, Mṛgaśirā, Ārdrā, Punarvasu, the perfectly auspicious Puṣya, and Aśleṣā. These seven lunar mansions dwell at the eastern gate and guard and protect the eastern direction. May they, too, use the great peahen, queen of incantations, to protect me! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.240,id:UT22084-090-003-567}}}“There are the seven lunar mansions consisting of Maghā the destroyer of enemies, the pair of Pūrvaphālgunī and Uttaraphālgunī, Hastā, Citrā, Svāstī, and Viśākhā. These seven lunar mansions dwell at the southern gate and guard and protect the southern direction. May they, too, use the great peahen, queen of incantations, to protect me! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.241,id:UT22084-090-003-568}}}“There are the seven lunar mansions consisting of the majestic Anurādhā, Jyeṣṭhā, Mūlā, Pūrvāṣāḍhā and Uttarāṣāḍhā, Abhijit, and Śravaṇa. These seven lunar mansions dwell at the western gate and guard and protect the western direction. May they, too, use the great peahen, queen of incantations, to protect me! May I live a hundred years! May I see a hundred autumns!{{note:{index322,id:UT22084-090-003-569}}}
+{{milestone:{label:1.242,id:UT22084-090-003-570}}}“There are the seven lunar mansions consisting of Śatabhiṣā, Dhaṇiṣṭhā, Pūrvabhādrapadā and Uttarabhādrapadā, Revatī, Aśvinī, and Bharaṇī. These seven lunar mansions dwell at the northern gate  and guard and protect the northern direction. May they, too, use the great peahen, queen of incantations, to protect me! May I live a hundred years! May I see a hundred autumns!{{page:{number:50,id:UT22084-090-003-1796,folio:F.112.a}}}
+{{milestone:{label:1.243,id:UT22084-090-003-571}}}“Ānanda, you are to uphold the names of the celestial bodies that course among the lunar mansions, bringing growth and decline, joy and suffering, abundance and famine. They are the Sun, the Moon, Jupiter, Venus, Saturn, Mars, Mercury, Rāhu the lord of the asuras, and the smoky Ketu. 
+{{milestone:{label:1.244,id:UT22084-090-003-572}}}“There are twenty-eight lunar mansions, 
+Seven located in each direction.
+The stars also number seven,{{note:{index323,id:UT22084-090-003-573}}}
+So miraculous and austere.
+{{milestone:{label:1.245,id:UT22084-090-003-574}}}“The Sun and Moon 
+Make thirty-seven in all.
+In their rising and setting,
+They course like a wheel of weapons.
+{{milestone:{label:1.246,id:UT22084-090-003-575}}}“They bring growth and decline in the world
+With their great majestic and miraculous power.
+May they, reverentially minded,
+Rejoice in the incantation!
+{{milestone:{label:1.247,id:UT22084-090-003-576}}}“May they, too, use the great peahen, queen of incantations, to protect me! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.248,id:UT22084-090-003-577}}}“Ānanda, you are to uphold the names of the ancient ṛṣis. Accomplished in asceticism and incantations, they glow with renown, dwell at rivers and mountains, wield the weapons of curses, are famous for their austerities, possess miraculous powers and the five superknowledges, and course through the sky. I will utter their names. They are the great ṛṣis named Aṣṭamaka, Vāmaka, Vāmadevaka, Mārkaṇḍeya, Mārīcī, Viśvamitra, Vasiṣṭha, Valmīki,Kāśyapa,  Vṛddhakāśyapa, Bhṛgu, Bhṛṅgirasa, Aṅgiras, Bhṛṅgin,Baṭṭa, Bhāgiratha, Ātreya, Purastya, Sthūlaśira, Jamadagni, Dvaipāyana, Kṛṣṇadvaipāyana, Harīta, Haritāyana, Samaṅgira, Udgata, Samudgata, Kṣāntivādin, Kīrtī, Sukīrtī, Guru, Siddha, Potalaka, Aśvalāyana, Himavat, Lohitākṣa, Vaiśampāyana, Durvāsa, Śarabha, Madana, Prabha, Śukra, Bṛhaspati, Aranemi, Śanaiścara, Budha, Jāṅgulī, Gandhāra, Ekaśṛṅga, Ṛṣiśṛṅga, Bhāṇḍāyana, Kātyāyana, Kāṇḍyāyana, Bhīṣma, Bhīṣmamātaṅga, Kapila, Gautama, Lohitāśva, Bālikhilya, Nārada, Parvata, and Kṛmila.{{page:{number:51,id:UT22084-090-003-1797,folio:F.112.b}}}{{page:{number:52,id:UT22084-090-003-1798,folio:F.113.a}}}{{note:{index324,id:UT22084-090-003-578}}}{{note:{index325,id:UT22084-090-003-579}}}{{note:{index326,id:UT22084-090-003-580}}}{{note:{index327,id:UT22084-090-003-581}}}{{note:{index328,id:UT22084-090-003-582}}}{{note:{index329,id:UT22084-090-003-583}}}{{note:{index330,id:UT22084-090-003-584}}}{{note:{index331,id:UT22084-090-003-585}}}{{note:{index332,id:UT22084-090-003-586}}}{{note:{index333,id:UT22084-090-003-587}}}{{note:{index334,id:UT22084-090-003-588}}}{{note:{index335,id:UT22084-090-003-589}}}{{note:{index336,id:UT22084-090-003-590}}}
+{{milestone:{label:1.249,id:UT22084-090-003-591}}}“Ānanda, these ancient great ṛṣis uphold the Vedas, use mantras, cast curses, have accomplished asceticism, perfected great majesty, and successfully defeated foes. May they, too, use the great peahen, queen of incantations, to protect me! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.250,id:UT22084-090-003-592}}}Tadyathā hiri hiri khiri khiri miri miri phuri phuri suri suri hili hili mili mili siri siri ḍaphu ḍaphu ḍaḍaphu grasani mathani damani dahani ghātani pacani pācani tapani tāpani hanani dahani dāhani dahā dahā dahā dala dala dālani pāṭani mohani stambhani jambhani svayambhu svāhā!{{note:{index337,id:UT22084-090-003-593}}}
+{{milestone:{label:1.251,id:UT22084-090-003-594}}}“Ānanda, you are to uphold the names of the great lords of beings who are, by the countless variations of fortune, positioned throughout the three worlds among virtuous and nonvirtuous gods, nāgas, maruts, asuras, garuḍas, gandharvas, kinnaras, mahoragas, yakṣas, rākṣasas, humans, beings born as animals, and hell beings. These lords of beings are Brahmā, Atri,Ātreya, Agni, Bhṛgu, Pulastya, Pulaha, Manu, Vasiṣṭha, Duṣṭa,  Sutanu, Sunandamāna, Dakṣa, and Sanatkumāra. {{page:{number:53,id:UT22084-090-003-1799,folio:F.113.b}}}{{note:{index338,id:UT22084-090-003-595}}}{{note:{index339,id:UT22084-090-003-596}}}{{note:{index340,id:UT22084-090-003-597}}}
+{{milestone:{label:1.252,id:UT22084-090-003-598}}}“Ānanda, these great lords of beings are positioned to protect the host of beings that are both stationary and mobile. May they, too, use the great peahen, queen of incantations, to protect me! May I live a hundred years! May I see a hundred autumns! 
+{{milestone:{label:1.253,id:UT22084-090-003-599}}}“May I be protected by these unimpeded mantra syllables: 
+{{milestone:{label:1.254,id:UT22084-090-003-600}}}Tadyathā hiri hiri khiri khiri miri miri phuri phuri suri suri hili hili mili mili siri siri ḍaphu ḍaphu ḍaḍaphu grasani mathani damani dahani ghātani pacani pācani tapani tāpani hanani dāhani dāhani daha daha daha dala dala dālani pāṭani mohani stambhani jambhani svāhā!{{note:{index341,id:UT22084-090-003-601}}}
+{{milestone:{label:1.255,id:UT22084-090-003-602}}}“Ānanda, you are to uphold the names of the strong poisons. They are aṇḍarā, paṇḍarā, karaḍā, keyūrā, bhūtāṅgamā, bhūtapati, vindupati, śiripati, tejapati, tejograpati, yaśopati, yaśograpati, araḍā, taraḍā, taradā, tarataraḍā, dantājāha, jauhā, jolā, milā, halā, phalā, gulahā, rucirā, danturā, irikicikā, kirikirikā, kāmbha, śadanturā, vipuli, nakuli, kiripi, taraṅgā, riṣṭa, āmramati, jambumati, madhumati, kamale, vimale, kuṇḍale, ahi tuhi, duhi, vakke, vakkadūte, vatsanābhe, mahāgāre, tulambe, dulambe, and sulambe, svāhā! {{note:{index342,id:UT22084-090-003-603}}}
+{{milestone:{label:1.256,id:UT22084-090-003-604}}}“These, Ānanda, are the strong poisons. May they, too, use the great peahen, queen of incantations, to guard me! May they conceal me, protect me, care for me, nurture me, bring about my tranquility and well-being, keep away punishments and weapons, counteract poison, neutralize poison, draw a boundary, and bind the earth! May I live a hundred years! May I see a hundred autumns!
+{{milestone:{label:1.257,id:UT22084-090-003-605}}}“Ānanda, you are to uphold the names of the trees. They are the great trees called kāñcana, pippala,aśvatthāna,kapittha, puṇḍarīka,kapītaka,aśoka, karṇikāra, tiniśa,bilva, and cūta. May all the gods that live in these great trees and all other trees also use the great peahen, queen of incantations, to protect me! May I live a hundred years! May I see a hundred autumns! {{page:{number:54,id:UT22084-090-003-1800,folio:F.114.a}}}{{note:{index343,id:UT22084-090-003-606}}}{{note:{index344,id:UT22084-090-003-607}}}{{note:{index345,id:UT22084-090-003-608}}}{{note:{index346,id:UT22084-090-003-609}}}{{note:{index347,id:UT22084-090-003-610}}}
+{{milestone:{label:1.258,id:UT22084-090-003-611}}}“Ānanda, the great peahen, queen of incantations, was uttered and rejoiced in by the seven completely perfect buddhas. It was uttered and rejoiced in by the completely perfect Buddha Vipaśyin. It was uttered and rejoiced in by the completely perfect Buddha Śikhin. It was uttered and rejoiced in by the completely perfect Buddha Viśvabhū. It was uttered and rejoiced in by the completely perfect Buddha Krakucchanda. It was uttered and rejoiced in by the completely perfect Buddha Kanakamuni. It was uttered and rejoiced in by the completely perfect Buddha Kāśyapa. And it is now being taught and rejoiced in by me, the completely perfect Buddha Śākyamuni.
+{{milestone:{label:1.259,id:UT22084-090-003-612}}}“Ānanda, the great peahen, queen of incantations, was explained and rejoiced in by the bodhisattva Maitreya. It was spoken and rejoiced in by Brahmā, lord of the universe. It was spoken and rejoiced in by Śakra, lord of the gods. It was spoken and rejoiced in by the Four Great Kings:  It was spoken and rejoiced in by Dhṛtarāṣṭra, king of the gandharvas; it was spoken and rejoiced in by Virūḍhaka, king of the kumbhaṇḍas; it was spoken and rejoiced in by Virūpākṣa, king of the nāgas; and it was spoken and rejoiced in by Vaiśravaṇa, king of the yakṣas. It was spoken and rejoiced in by the twenty-eight gandharva generals, the twenty-eight kumbhaṇḍa generals, the twenty-eight nāga generals, the twenty-eight yakṣa generals, the great yakṣa general Pañcika, and Hārītī with her entourage of five hundred sons.{{page:{number:55,id:UT22084-090-003-1801,folio:F.114.b}}}
+{{milestone:{label:1.260,id:UT22084-090-003-613}}}“Ānanda, the great peahen, queen of incantations, cannot be transgressed by deva grahas, nāga grahas, marut grahas, asura grahas, garuḍa grahas, gandharva grahas, kinnara grahas, mahoraga grahas, yakṣa grahas, rākṣasa grahas, preta grahas, piśāca grahas, bhūta grahas, kumbhaṇḍa grahas, pūtana grahas, kaṭapūtana grahas, skanda grahas, unmāda grahas, chāyā grahas, apasmāra grahas, and ostāraka grahas. It cannot be transgressed by any grahas! 
+{{milestone:{label:1.261,id:UT22084-090-003-614}}}“It cannot be transgressed by those who sap vital energy, devour wombs, steal life force, devour oblations, devour flesh, drink blood, devour fat, grease, marrow, and offspring, devour perfumes, flowers, fruits, grains, and burnt offerings, drink pus, devour feces,  drink urine, saliva, snot, and mucus, devour leftovers, vomit, and filth, and drink from cesspools! {{page:{number:56,id:UT22084-090-003-1802,folio:F.115.a}}}
+{{milestone:{label:1.262,id:UT22084-090-003-615}}}“It cannot be transgressed by kṛtya rites, kiraṇas, vetālas, ciccakas, preṣakas, indigestible food, evil vomit, wicked chāyās, the evil eye, written hexes, traversed hexes, or neglected spirits! It cannot be transgressed by one-day fevers, two-day fevers, three-day fevers, four-day fevers, weeklong fevers, half-month fevers, month-long fevers, half-day fevers, fevers that occur in the day, momentary fevers, chronic fevers, intermittent fevers, fevers from bhūtas, and fevers that arise from wind disorders, bile disorders, phlegm disorders, or their combination! It cannot be transgressed by any fevers!{{note:{index348,id:UT22084-090-003-616}}}
+{{milestone:{label:1.263,id:UT22084-090-003-617}}}“It cannot be transgressed by headaches, splitting headaches, loss of appetite, eye illness, nose illness, mouth illness, throat illness, heart disease, sore throat, earache, toothache, heart pain, side pain, backache, stomachache, cheek pain, urinary tract pain, male genital pain, female genital pain, hip pain, thigh pain, calf pain, hand pain, foot pain, and pain in the major and minor appendages! It cannot be transgressed by skin disease, itching, hives, leprosy, pustules, boils, skin irritation, rashes, or abscesses!  It cannot be transgressed by any illness, poison, animosity, threat, epidemic, fight, argument, misfortune, infectious disease, or mental disturbance! {{page:{number:57,id:UT22084-090-003-1803,folio:F.115.b}}}
+{{milestone:{label:1.264,id:UT22084-090-003-618}}}“Ānanda, should someone transgress the great peahen, queen of incantations, Vajrapāṇi will crush his head into seven pieces! Their luster and intelligence will be eclipsed by the splendor of the buddhas, bodhisattvas, pratyekabuddhas, and śrāvakas. They will have disappointed noble beings. The Four Great Kings will inflict tremendous suffering using all kinds of weapons, even including razors. Śakra, lord of the gods, surrounded by the assembly of the Thirty-Three, will crush their head with a vajra. Brahmā’s splendor will reduce their fortune to ash. {{note:{index349,id:UT22084-090-003-619}}}
+{{milestone:{label:1.265,id:UT22084-090-003-620}}}“Ānanda, whoever uses the great peahen, queen of incantations, for protection or wears it as an amulet will get off with a severe punishment if deserving of execution. They will get off with a milder beating if deserving of a severe punishment, will get off with a scolding if deserving of a beating, will get off with a warning if deserving of a scolding, will get off by having their body hairs bristle with fear if deserving of a warning, and likewise will be freed if deserving of having their body hairs bristle with fear. They will not be threatened by kings or by robbers or fire. Their life will not end because of water, and their body will be impervious to poison and weapons. They will sleep well and wake easily and will be well and free from danger and fear.  Their opponents and enemies will be vanquished, they will not be injured, and they will be free of all peril. With the exception of the ripening of his previous actions, Ānanda, they will live long and happily.{{page:{number:58,id:UT22084-090-003-1804,folio:F.116.a}}}
+{{milestone:{label:1.266,id:UT22084-090-003-621}}}“Ānanda, the great peahen, queen of incantations, should be read aloud when there is too much rain and when rain is scarce. It will incite all the nāgas, and heavy rain will be brought to an end. When rain is scarce, it will be showered down according to the wishes of the sons or daughters of noble family. Ānanda, when just recollecting the great peahen, queen of incantations, brings the cessation of all peril and enmity, how much more well-being is secured when memorizing it fully, in its entirety!
+{{milestone:{label:1.267,id:UT22084-090-003-622}}}“Ānanda, you are to uphold the great peahen, queen of incantations! In order to guard, protect, and shelter the fourfold retinue—monks and nuns, laymen and laywomen—you should master the great peahen, queen of incantations, which vanquishes all hostility. Memorize it! Recite it!
+{{milestone:{label:1.268,id:UT22084-090-003-623}}}Tadyathā yāvati dhāvati dharakila hulu hulu me svāhā!{{note:{index350,id:UT22084-090-003-624}}}{{note:{index351,id:UT22084-090-003-625}}}
+{{milestone:{label:1.269,id:UT22084-090-003-626}}}“Lust, hatred, and delusion: 
+These are the three poisons in the world.
+The Blessed Buddha is free of poisons.
+Poison is neutralized by the truth of the Buddha!
+{{milestone:{label:1.270,id:UT22084-090-003-627}}}“Lust, hatred, and delusion: 
+These are the three poisons in the world. 
+The Blessed One’s Dharma is free of poisons.
+Poison is neutralized by the truth of the Dharma!
+{{milestone:{label:1.271,id:UT22084-090-003-628}}}“Lust, hatred, and delusion: 
+These are the three poisons in the world.
+The Blessed One’s Saṅgha is free of poisons.
+Poison is neutralized by the truth of the Saṅgha!
+{{milestone:{label:1.272,id:UT22084-090-003-629}}}“Through the power of all buddhas, 
+The renown of the arhats,
+And the splendor of the Thus-Gone One, 
+I have brought about well-being!
+{{milestone:{label:1.273,id:UT22084-090-003-630}}}“Ānanda,  poison is neutralized by the great peahen, queen of incantations! May the monk Svāti be well!”{{page:{number:59,id:UT22084-090-003-1805,folio:F.116.b}}}
+{{milestone:{label:1.274,id:UT22084-090-003-631}}}“Indeed,” said Venerable Ānanda said to the Blessed One. Obeying the Blessed One, he bowed to his feet, circumambulated him three times, and approached the monk Svāti. Using the great peahen, queen of incantations, Ānanda delivered the monk Svāti from harm. He guarded him, cared for him, protected him, brought about his tranquility and well-being, kept away punishments and weapons, counteracted the poison, neutralized the poison, drew a boundary, and bound the earth! Once Venerable Ānanda had thus saved him and brought about his well-being, the venerable monk Svāti was healed of his affliction.
+{{milestone:{label:1.275,id:UT22084-090-003-632}}}Venerable Ānanda and the venerable monk Svāti approached the Blessed One and bowed to his feet. They told the Blessed One exactly what happened. The Blessed One approved, and they sat to one side. 
+{{milestone:{label:1.276,id:UT22084-090-003-633}}}The Blessed One said to Venerable Ānanda, “Ānanda, have you witnessed the power of the great peahen, queen of incantations?” 
+{{milestone:{label:1.277,id:UT22084-090-003-634}}}Ānanda, bowing in response to what the Blessed One had uttered, said, “How, O Blessed One, could this not be perceived?” 
+{{milestone:{label:1.278,id:UT22084-090-003-635}}}“Ānanda,” said the Blessed One, “it is possible for the four great oceans to dry up. It is possible for the earth to rise into the sky. It is possible for the moon and the sun to fall to earth. It is even possible for rivers to reverse their flow. But it is impossible for the statements of the Thus-Gone One to be anything other!”
+{{milestone:{label:1.279,id:UT22084-090-003-636}}}The Blessed One then said to Venerable Ānanda, “Therefore, Ānanda,  you are to inspire devotion to the great peahen, queen of incantations, among the fourfold retinue of monks, nuns, laymen, and laywomen!” {{page:{number:60,id:UT22084-090-003-1806,folio:F.117.a}}}
+{{milestone:{label:1.280,id:UT22084-090-003-637}}}“Indeed,” replied Venerable Ānanda to the Blessed One. Obeying the Blessed One, he inspired the fourfold retinue of monks, nuns, laymen, and laywomen to have devotion to the great peahen, queen of incantations. 
+{{milestone:{label:1.281,id:UT22084-090-003-638}}}When the Blessed One had thus spoken, Venerable Ānanda, Venerable Svāti, and all the gods, asuras, maruts, garuḍas, gandharvas, kinnaras, mahoragas, yakṣas, rākṣasas, humans, and nonhumans who were present in the entourage rejoiced and praised what the Blessed One had said. 
+{{milestone:{label:1.282,id:UT22084-090-003-639}}}This concludes the dhāraṇī “The Queen of Incantations: The Great Peahen.”
+{{milestone:{label:c.1,id:UT22084-090-003-640}}}This was translated and edited by the Indian preceptors Śīlendrabodhi, Jñānasiddhi, and Śākyaprabha, along with the translator-editor Bandé Yeshé Dé, who proofed and finalized the translation.

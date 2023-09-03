@@ -1,0 +1,58 @@
+{{translation:{id:UT22084-075-003,key:toh345,version:1.0.13,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Sūtra
+The Magnificent Account About a Sow
+{{milestone:{label:1.1,id:UT22084-075-003-44}}}Homage to the Three Jewels!{{page:{number:1,id:UT22084-075-003-148,folio:F.289.b}}}
+Thus did I hear at one time. The Blessed One was dwelling at Śrāvastī in Jetavana, in Anāthapiṇḍada’s Park.{{note:{index21,id:UT22084-075-003-47}}}
+{{milestone:{label:1.2,id:UT22084-075-003-48}}}The Blessed One then addressed the monks: “Monks, there are five portents that appear to a god who is due to pass away. What are those five? His previously untarnished clothes become tarnished, his previously unwithered flower garlands become withered, sweat appears from both armpits, a foul odor emerges from his body, and a god who is due to pass away finds no satisfaction in his seat.{{note:{index22,id:UT22084-075-003-49}}}
+{{milestone:{label:1.3,id:UT22084-075-003-50}}}“Now, monks, a certain god who was due to pass away was writhing about on the ground, beating his chest, as he cried and wailed pitifully, ‘Ah Mandākinī River! Ah lake! Ah pool! Ah Caitraratha Grove! Ah Pāruṣyaka Grove! Ah Nandana Grove! Ah Miśrakā Grove! Ah Pāriyātraka! Ah lovely one! Ah Pāṇḍukambala Rock! Ah assembly hall of the gods! Ah Sudarśana!’{{note:{index23,id:UT22084-075-003-51}}}{{note:{index24,id:UT22084-075-003-52}}}{{note:{index25,id:UT22084-075-003-53}}}{{note:{index26,id:UT22084-075-003-54}}}{{note:{index27,id:UT22084-075-003-55}}}{{note:{index28,id:UT22084-075-003-56}}}{{note:{index29,id:UT22084-075-003-57}}}
+{{milestone:{label:1.4,id:UT22084-075-003-58}}}“Śakra, lord of the gods, saw that god violently writhing about on the ground and wailing pitifully. Seeing this, he then approached the god and asked him, ‘My friend, why are you violently writhing about on the ground and wailing pitifully,  “Ah Mandākinī River! Ah lake! Ah pool! Ah Caitraratha Grove! Ah Pāruṣyaka Grove! Ah Nandana Grove! Ah Miśrakā Grove! Ah Pāriyātraka! Ah lovely one! Ah Pāṇḍukambala Rock! Ah assembly hall of the gods! Ah Sudarśana!”?’ {{page:{number:2,id:UT22084-075-003-149,folio:F.290.a}}}{{note:{index30,id:UT22084-075-003-59}}}
+{{milestone:{label:1.5,id:UT22084-075-003-60}}}“At this, the god said to Śakra, lord of the gods, ‘Kauśika, I will be bereft of heavenly bliss, as seven days from now I will be reborn in the womb of a sow in the city of Rājagṛha. I will then have to feed on excrement and urine for many years. That is why I am like this.’{{note:{index31,id:UT22084-075-003-61}}}{{note:{index32,id:UT22084-075-003-62}}}{{note:{index33,id:UT22084-075-003-63}}}
+{{milestone:{label:1.6,id:UT22084-075-003-64}}}“Śakra, lord of the gods, out of compassion then said to that god, ‘Come, my friend. Take refuge in the Buddha, the most excellent of human beings. Take refuge in the Dharma, the most excellent of dispassions. Take refuge in the Saṅgha, the most excellent of communities.’{{note:{index34,id:UT22084-075-003-65}}}
+{{milestone:{label:1.7,id:UT22084-075-003-66}}}“The god said, ‘Friend, I take refuge in the Buddha, the most excellent of human beings. I take refuge in the Dharma, the most excellent of dispassions. I take refuge in the Saṅgha, the most excellent of communities.’ {{note:{index35,id:UT22084-075-003-67}}}{{note:{index36,id:UT22084-075-003-68}}}
+{{milestone:{label:1.8,id:UT22084-075-003-69}}}“Having embraced the Three Refuges, the god then passed away, his time spent, and he was reborn among the Tuṣita gods.{{note:{index37,id:UT22084-075-003-70}}}
+{{milestone:{label:1.9,id:UT22084-075-003-71}}}“Then Śakra, lord of the gods, looked whether the god had been reborn in the womb of a sow, but he had not been reborn there. He looked whether the god had been reborn among hell beings or among animals, but he had not been reborn there either. For it is in the nature of things that gods can know and see what is below them, but not what is above them.{{note:{index38,id:UT22084-075-003-72}}}{{note:{index39,id:UT22084-075-003-73}}}
+{{milestone:{label:1.10,id:UT22084-075-003-74}}}“Puzzled, Śakra, lord of the gods, then went to the Blessed One. Having approached him, he prostrated at the Blessed One’s feet and sat down to one side. Once seated, Śakra, lord of the gods, said to the Blessed One: {{note:{index40,id:UT22084-075-003-75}}}
+{{milestone:{label:1.11,id:UT22084-075-003-76}}}“ ‘Lord, I saw a certain god who was due to pass away,  and he was writhing about in fear and wailing pitifully, “Ah Mandākinī River! Ah lake! Ah pool! Ah Caitraratha Grove! Ah Pāruṣyaka Grove! Ah Nandana Grove! Ah Miśrakā Grove! Ah Pāriyātraka! Ah lovely one! Ah Pāṇḍukambala Rock! Ah assembly hall of the gods! Ah Sudarśana!” I went to him and said, “My friend, why are you beating your chest and crying, lamenting, and wailing?” He said, “I will be bereft of heavenly bliss, as seven days from now I will be born in the womb of a sow in the city of Rājagṛha. I will then have to feed on excrement and urine for many years. That is why I am like this.” I said to him, “Come, my friend. Take refuge in the Buddha, the most excellent of human beings. Take refuge in the Dharma, the most excellent of dispassions. Take refuge in the Saṅgha, the most excellent of communities.” Terrified of being born in the womb of an animal and terrified of dying, that god then said, “Friend, I take refuge in the Buddha, the most excellent of human beings. I take refuge in the Dharma, the most excellent of dispassions. I take refuge in the Saṅgha, the most excellent of communities.” Having embraced the Three Refuges, that god then passed away, his time spent. Lord, where was he reborn?’{{page:{number:3,id:UT22084-075-003-150,folio:F.290.b}}}{{note:{index41,id:UT22084-075-003-77}}}{{note:{index42,id:UT22084-075-003-78}}}{{note:{index43,id:UT22084-075-003-79}}}{{note:{index44,id:UT22084-075-003-80}}}{{note:{index45,id:UT22084-075-003-81}}}{{note:{index46,id:UT22084-075-003-82}}}{{note:{index47,id:UT22084-075-003-83}}}
+{{milestone:{label:1.12,id:UT22084-075-003-84}}}“The Blessed One replied, ‘Kauśika, that god was reborn among the Tuṣita gods, and all his heavenly desires are fulfilled.’{{note:{index48,id:UT22084-075-003-85}}}
+{{milestone:{label:1.13,id:UT22084-075-003-86}}}“Then Śakra, lord of the gods, was glad and content. Being delighted, joy and happiness arose, and Indra, glad at heart, on that occasion spoke these verses: 
+{{milestone:{label:1.14,id:UT22084-075-003-87}}}“ ‘Those who take refuge in the Buddha 
+Do not go to an unfortunate state.
+Leaving behind the human body, 
+They obtain a divine body.{{page:{number:4,id:UT22084-075-003-151,folio:F.291.a}}}{{note:{index49,id:UT22084-075-003-88}}}
+{{milestone:{label:1.15,id:UT22084-075-003-89}}}“ ‘Those who take refuge in the Dharma 
+Do not go to an unfortunate state.
+Leaving behind the human body, 
+They obtain a divine body.
+{{milestone:{label:1.16,id:UT22084-075-003-90}}}“ ‘Those who take refuge in the Saṅgha 
+Do not go to an unfortunate state.
+Leaving behind the human body, 
+They obtain a divine body.
+{{milestone:{label:1.17,id:UT22084-075-003-91}}}“ ‘There is great gain for those people
+Who have taken refuge in the Buddha,
+Who call to mind the Buddha
+At all times, day and night.
+{{milestone:{label:1.18,id:UT22084-075-003-92}}}“ ‘There is great gain for those people
+Who have taken refuge in the Dharma,
+Who call to mind the Dharma
+At all times, day and night.
+{{milestone:{label:1.19,id:UT22084-075-003-93}}}“ ‘There is great gain for those people
+Who have taken refuge in the Saṅgha,
+Who call to mind the Saṅgha
+At all times, day and night.’{{note:{index50,id:UT22084-075-003-94}}}
+{{milestone:{label:1.20,id:UT22084-075-003-95}}}“Thereupon, in approval of Śakra, lord of the gods, the Blessed One spoke the verses, ‘So it is, Kauśika, so it is: {{note:{index51,id:UT22084-075-003-96}}}
+{{milestone:{label:1.21,id:UT22084-075-003-97}}}“ ‘Those who take refuge in the Buddha 
+Do not go to an unfortunate state.
+Leaving behind the human body, 
+They obtain a divine body.
+{{milestone:{label:1.22,id:UT22084-075-003-98}}}“ ‘Those who take refuge in the Dharma 
+Do not go to an unfortunate state.
+Leaving behind the human body, 
+They obtain a divine body.
+{{milestone:{label:1.23,id:UT22084-075-003-99}}}“ ‘Those who take refuge in the Saṅgha 
+Do not go to an unfortunate state.
+Leaving behind the human body, 
+They obtain a divine body.’ {{note:{index52,id:UT22084-075-003-100}}}
+{{milestone:{label:1.24,id:UT22084-075-003-101}}}“Then, rejoicing in what the Blessed One had spoken, Śakra, lord of the gods, prostrated at the Blessed One’s feet, circumambulated the Blessed One three times with folded hands, and disappeared right there.” 
+{{milestone:{label:1.25,id:UT22084-075-003-102}}}This is what the Blessed One said. Elated, the monks rejoiced at what the Blessed One had spoken.{{note:{index53,id:UT22084-075-003-103}}}
+{{milestone:{label:1.26,id:UT22084-075-003-104}}}This concludes the sūtra called “The Magnificent Account About a Sow.”
+{{milestone:{label:c.1,id:UT22084-075-003-105}}}Translated, edited, and finalized by the Indian preceptor Jinamitra and the chief editor and translator, Venerable Yeshé Dé. 

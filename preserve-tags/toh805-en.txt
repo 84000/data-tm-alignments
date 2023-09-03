@@ -1,0 +1,1947 @@
+{{translation:{id:UT22084-096-054,key:toh805,version:1.1.7,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble
+Tantra of Subāhu’s Questions
+{{milestone:{label:1,id:UT22084-096-054-chapter-1}}}Chapter 1
+{{milestone:{label:1.1,id:UT22084-096-054-46}}} Homage to the Omniscient One.{{page:{number:1,id:UT22084-096-054-1021,folio:F.118.a}}}
+{{milestone:{label:1.2,id:UT22084-096-054-48}}}Subāhu paid respectful homage to the Lord of Yakṣas,{{note:{index18,id:UT22084-096-054-49}}}
+Brilliant like a thousand suns 
+And deeply immersed in compassion,
+Then asked him how to master the collections of vidyā and mantra. 
+{{milestone:{label:1.3,id:UT22084-096-054-50}}}“I have not seen anyone on earth
+Who has reached perfection through persistence
+In recitation, fasting, or restrictive austerities.{{note:{index19,id:UT22084-096-054-51}}}
+Sole Father, do austerities not serve any purpose?
+{{milestone:{label:1.4,id:UT22084-096-054-52}}}“Your Eminence, you are brilliant as sun-fire, 
+Supreme among those who purify and destroy evil.
+If you spoke words of truth, 
+Why have the mantras not borne fruit?
+{{milestone:{label:1.5,id:UT22084-096-054-53}}}“People superior, middling, and inferior have practiced,
+But even still have found no results through mantra.
+If preparatory rites accomplish nothing at all,{{note:{index20,id:UT22084-096-054-54}}}
+Accomplishment is only affliction, so what is the point?
+{{milestone:{label:1.6,id:UT22084-096-054-55}}}“If the Victor previously taught
+Pacifying wisdom to soothe afflictions,
+How then are they relieved
+When mantra and vidyā are not mastered?
+{{milestone:{label:1.7,id:UT22084-096-054-56}}}“Out of compassion you explained
+Myriad mantras meant to heal beings.
+How could they not be accomplished,
+Through recitation, homa, the observances, and preparatory rites?
+{{milestone:{label:1.8,id:UT22084-096-054-57}}}“Are the rites corrupt or devoid of power?
+Was the timing correct? Did evil interfere?
+Were the mantras altered? Were the offerings switched?{{note:{index21,id:UT22084-096-054-58}}}
+May the Blessed One tell all, omitting nothing.” 
+{{milestone:{label:1.9,id:UT22084-096-054-59}}}After listening to the words of his child, 
+The vajra holder reflected for a moment,{{note:{index22,id:UT22084-096-054-60}}}
+Opened his long eyes, brandished a flaming vajra,
+And spoke these words:
+{{milestone:{label:1.10,id:UT22084-096-054-61}}}“Wonderful that you ask these questions that serve beings,
+Moved by compassion radiant as moonlight.
+With such a pristine state of mind
+You will reach perfection among the Sugata’s children.
+{{milestone:{label:1.11,id:UT22084-096-054-62}}}“Bodhisattvas are not attached to their own happiness, {{page:{number:2,id:UT22084-096-054-1022,folio:F.118.b}}}
+Nor are they crushed by their own sufferings.{{note:{index23,id:UT22084-096-054-63}}}
+They suffer because others suffer,
+And find joy in others’ happiness. 
+{{milestone:{label:1.12,id:UT22084-096-054-64}}}“Child, because of your good nature
+You posed these questions to benefit beings.
+Quickly then, focus your attention and listen,{{note:{index24,id:UT22084-096-054-65}}}
+As I will answer in accord with the scriptures of mantra. 
+{{milestone:{label:1.13,id:UT22084-096-054-66}}}“I will first explain the observances
+For the mantra recitations I previously taught.
+A practitioner should first arouse faith in the Sugata,{{note:{index25,id:UT22084-096-054-67}}}
+And with that, arouse bodhicitta.
+{{milestone:{label:1.14,id:UT22084-096-054-68}}}“They should cast aside greed, arrogance, and conceit,
+And faithfully serve the Three Jewels. {{note:{index26,id:UT22084-096-054-69}}}
+They should delight in and have faith in me,
+And in what is widely known as the vajra clan.
+{{milestone:{label:1.15,id:UT22084-096-054-70}}}“They should consistently forsake
+Harsh speech, slander, and useless talk,
+Visiting the woman of another, lying, stealing,
+Killing, doing harm, and using alcohol.
+{{milestone:{label:1.16,id:UT22084-096-054-71}}}“A deluded person who gathers
+The merit of body, speech, and mind
+Will destroy it through their wrong views,
+And experience the ripening of unwanted results.
+{{milestone:{label:1.17,id:UT22084-096-054-72}}}“Just as a burnt seed will never produce a sprout,
+Even if given soil, water, and time,
+A mind ruined by wrong views and ignorance
+Will not give rise to virtuous qualities.
+{{milestone:{label:1.18,id:UT22084-096-054-73}}}“Thus wrong views should be cast aside,
+And the correct view adhered to. 
+It is best if the mind always follows
+The Dharma path of the ten virtues.
+{{milestone:{label:1.19,id:UT22084-096-054-74}}}“Devas, asuras, piśācas, and herukas{{note:{index27,id:UT22084-096-054-75}}}
+And all the terrible creatures of the night
+Move through the world harming beings
+And distracting those intent on recitation.
+{{milestone:{label:1.20,id:UT22084-096-054-76}}}“Because they are a countermeasure against them,
+When these beings see my collection of mantra and vidyā
+They grow anxious, thinking ‘This is terrifying,’
+And distract the mind from recitation.
+{{milestone:{label:1.21,id:UT22084-096-054-77}}}“In the maṇḍalas I have taught
+To crush harm-doers and enrich oneself,
+Reside devas and asuras who, according to samaya, 
+Keep watch over meritorious deeds.{{page:{number:3,id:UT22084-096-054-1023,folio:F.119.a}}}{{note:{index28,id:UT22084-096-054-78}}}{{note:{index29,id:UT22084-096-054-79}}}
+{{milestone:{label:1.22,id:UT22084-096-054-80}}}“Where the myriad types of grahas are present,
+There are maṇḍalas that employ various activities
+That are intended to crush these harmful beings.
+People should strive hard to enter them.
+{{milestone:{label:1.23,id:UT22084-096-054-81}}}“They should use the maṇḍalas taught in the Vidyottama Tantra,
+As well as the maṇḍalas of wrathful deities.
+There I have explained the various samayas,
+So study them carefully to dispel evil.
+{{milestone:{label:1.24,id:UT22084-096-054-82}}}“When they observe the recitation 
+Of the main goddess of the vajra clan,{{note:{index30,id:UT22084-096-054-83}}}
+Whom the host of dūtīs and the many vidyās serve,
+The obstructors will be ruined, filled with fear and rage.{{note:{index31,id:UT22084-096-054-84}}}
+{{milestone:{label:1.25,id:UT22084-096-054-85}}}“To the extent one beholds the maṇḍala,
+One serves the vajra clan.
+The merit of serving the host of vidyās
+Causes all their blessings to enter one’s body.{{note:{index32,id:UT22084-096-054-86}}}
+{{milestone:{label:1.26,id:UT22084-096-054-1080}}}“Devas, nāgas, asuras, yakṣas, and siddhas
+Will flee in fear from those reciting,
+Upon seeing their invulnerable vajra nature,
+And believing the whole area to burn with vajra fire.
+{{milestone:{label:1.27,id:UT22084-096-054-87}}}“Those of my children who observe samaya
+Will easily succeed in using mantras
+Taught by the mundane and transcendent;{{note:{index33,id:UT22084-096-054-88}}}
+All obstructors will be brought to ruin.
+{{milestone:{label:1.28,id:UT22084-096-054-89}}}“If they do not see the vidyā or observe samaya,{{note:{index34,id:UT22084-096-054-90}}}
+If they lack compassion or do not arouse bodhicitta,
+If they lack faith in the Buddha and rely on other deities,
+Recitation of my mantras will bring them to ruin.
+{{milestone:{label:1.29,id:UT22084-096-054-91}}}“If those unable to look upon any of these maṇḍalas
+Because they are disheartened and lack the means,{{note:{index35,id:UT22084-096-054-1078}}}
+Instead view just one among the maṇḍalas with faith
+While maintaining their observances,{{note:{index36,id:UT22084-096-054-92}}}
+{{milestone:{label:1.30,id:UT22084-096-054-93}}}“The host of yakṣas and creatures of the night,
+Nāgas, and all the grahas that float above the ground,{{note:{index37,id:UT22084-096-054-94}}}{{note:{index38,id:UT22084-096-054-95}}}
+Devas and the like, vighnas, and vināyakas
+Will find no chance to harm them.
+{{milestone:{label:1.31,id:UT22084-096-054-96}}}“Just as any crop depends on its soil
+To grow up free from blight,
+It is in dependence on discipline
+That virtuous deeds grow, watered with compassion.
+{{milestone:{label:1.32,id:UT22084-096-054-97}}}“From the complete Vinaya, the pure discipline of prātimokṣa,
+Taught with certainty by the Victor,{{page:{number:4,id:UT22084-096-054-1024,folio:F.119.b}}}{{note:{index39,id:UT22084-096-054-98}}}
+A householder mantrin should abandon the outer signs and rites,{{note:{index40,id:UT22084-096-054-99}}}
+And train in all the rest.
+{{milestone:{label:1.33,id:UT22084-096-054-100}}}“Thus freed from nonvirtuous dharma,
+They are imbued with the Sugata’s eloquent Dharma,
+Which is pure and brings liberation.
+When weary of recitation, they should read scripture.
+{{milestone:{label:1.34,id:UT22084-096-054-101}}}“To purify nonvirtue they should continuously erect,
+In a clean and secluded place,
+Caityas to the Sugata made of either sand or clay
+That contain the Essence of Dependent Arising.{{note:{index41,id:UT22084-096-054-102}}}
+{{milestone:{label:1.35,id:UT22084-096-054-103}}}“Before relic-filled caityas and statues 
+They should sing praise and offer fragrances, garlands, and lamps. 
+With deep faith they should perform worship,
+Using parasols, banners, flags, and music.
+{{milestone:{label:1.36,id:UT22084-096-054-1081}}}“A one-wheeled chariot will never move along a path
+Even when harnessed to a horse.
+Neither will a practitioner lacking an assistant{{note:{index42,id:UT22084-096-054-104}}}
+Gain siddhi in this life.
+{{milestone:{label:1.37,id:UT22084-096-054-105}}}“Such assistants are intelligent, attractive, and fastidiously clean.
+They hail from a venerable line and are inclined toward Dharma.
+They are eloquent, courageous, have tamed their senses,
+And are pleasant of speech, generous, and compassionate. 
+{{milestone:{label:1.38,id:UT22084-096-054-106}}}“Patient in the face of hunger, thirst, and emotions, 
+They do not worship brahmins or other gods.
+They are enthusiastic, skilled in the arts, talented,
+And have faith in the Three Jewels.
+{{milestone:{label:1.39,id:UT22084-096-054-107}}}“Someone with all these good qualities
+Is rare to find in this age of strife.
+A mantrin should thus rely on an assistant
+With half, a quarter, or even an eighth of these qualities.” 
+{{milestone:{label:1.40,id:UT22084-096-054-108}}}This was the first chapter of the noble “Subāhu’s Questions.”
+{{milestone:{label:2,id:UT22084-096-054-chapter-2}}}Chapter 2
+{{milestone:{label:2.1,id:UT22084-096-054-109}}}“Places of pratyekabuddhas and the sugatas’ heirs,
+Those where the Victor previously lived,
+Places that are pleasant and steeped in merit,
+Or venerated by devas and asuras—{{note:{index43,id:UT22084-096-054-110}}}
+These are the places mantrins maintaining poṣadha
+Should rely on to purify themselves.
+{{milestone:{label:2.2,id:UT22084-096-054-111}}}“If such places are not to be found, there are others:
+Accessible rivers, brooks, and streams,
+Lakes adorned with lotuses and utpalas,
+Places unfrequented by people,
+Or those abundant with clean water; {{page:{number:5,id:UT22084-096-054-1025,folio:F.120.a}}}
+Places unknown to terrible grahas;
+Those with fresh flowers and fruit,
+Rich in medicinal plants, or thick with different trees;
+Places with clean spots to sleep upon the ground,
+Those free of tiger, leopard, and lion,
+Or places pleasing, level, and without brambles—
+These are places people celebrate for siddhi.
+Avoid places with ravines, anthills, ash, or hair,
+Rubbish, charcoal, salt deposits, or excrement.
+{{milestone:{label:2.3,id:UT22084-096-054-112}}}“The earth should be excavated, and a hut built there,
+One that is warm, strong, and plastered with clay.
+The door can be to the east, north, or west,
+But should never face to the south.{{note:{index44,id:UT22084-096-054-113}}}
+{{milestone:{label:2.4,id:UT22084-096-054-114}}}“To one side of the shrine chamber
+Hang the cloth image to be used in the rite,
+One showing the Victor revealing the sublime path,
+Or set out a beautiful wooden image to worship. 
+{{milestone:{label:2.5,id:UT22084-096-054-115}}}“A cloth image will grant a person siddhi
+When a weaver weaves it soft and smooth,
+When it is tightly woven and free of hairs,
+Properly proportioned, undamaged, and with its fringe intact.
+{{milestone:{label:2.6,id:UT22084-096-054-116}}}“On that cloth, sprinkled with clean, fragrant water, 
+Persons bathed, clean, and observing poṣadha
+Should use pigment from clean pots and free of cow bile
+To artfully draw using hair from a cow.{{note:{index45,id:UT22084-096-054-117}}}
+{{milestone:{label:2.7,id:UT22084-096-054-118}}}“Abundant offerings should be made to the image:
+Offerings of garlands, incense, lamps, food, and fragrance.{{note:{index46,id:UT22084-096-054-119}}}
+It should be set up securely, facing west;
+In its presence they begin their quest for siddhi.
+{{milestone:{label:2.8,id:UT22084-096-054-120}}}“Their hair should be tied in a topknot and shaved,{{note:{index47,id:UT22084-096-054-121}}}
+And the color of their clothes changed with mineral dyes.
+They should wear either white garb,
+Or clothing made of leaves, hemp, flax, or bark.{{note:{index48,id:UT22084-096-054-122}}}
+{{milestone:{label:2.9,id:UT22084-096-054-123}}}“They should hold an attractive alms bowl,
+One made from gourd, iron, or clay.
+It should be shapely, not rough but smooth,
+And be undamaged, round, and free of cracks and holes. 
+{{milestone:{label:2.10,id:UT22084-096-054-124}}}“They should live near a pleasant town, not too close or too far,
+Where food and drink are available, and śūdras predominate.
+It should be hospitable to guests, 
+And without brahmins of other traditions.
+{{milestone:{label:2.11,id:UT22084-096-054-125}}}“Brahmins overcome with pride
+Are arrogant about their lineage and lack compassion. {{page:{number:6,id:UT22084-096-054-1026,folio:F.120.b}}}
+They create problems whenever they see
+People worshiping at shrines to the Sugata. 
+{{milestone:{label:2.12,id:UT22084-096-054-126}}}“How are brahmins inferior to the Buddha’s followers?
+They say, ‘Those of the śūdra caste{{note:{index49,id:UT22084-096-054-127}}}
+Exist to serve and venerate brahmins.
+How could śūdras ever be fit to recite mantra?
+{{milestone:{label:2.13,id:UT22084-096-054-128}}}“ ‘We worship gods and guests, perform the six activities,{{note:{index50,id:UT22084-096-054-129}}}
+Serve the king and the god of fire,
+And do what we must for our sons—
+This is what concerns brahmins.
+{{milestone:{label:2.14,id:UT22084-096-054-130}}}“ ‘Kṣatriyas and vaiśyas also do their duty,
+Therefore do not harbor any doubt.’
+Speaking a slew of deceptive fallacies, 
+They burn their minds and the minds of others.
+{{milestone:{label:2.15,id:UT22084-096-054-131}}}“Upholders of the eightfold path
+Should always take their food before noon.
+Brahmins eat in the afternoon,
+So do not visit a brahmin’s home then.{{note:{index51,id:UT22084-096-054-132}}}
+{{milestone:{label:2.16,id:UT22084-096-054-133}}}“For those who understand virtue and nonvirtue,
+There is no difference between a brahmin and a śūdra.
+A person may think, ‘This is a brahmin, this is a śūdra,’
+But those are concepts, nothing more. 
+{{milestone:{label:2.17,id:UT22084-096-054-134}}}“By focusing on the true path and following virtue,
+Śūdras too will pass beyond aging and death.
+By following a false path and behaving badly,
+Brahmins too will fall into unbearable hells.
+{{milestone:{label:2.18,id:UT22084-096-054-135}}}“Those who are embodied, rife with impurity
+Cannot now be made pure by some other means.
+They are cleansed by ridding themselves of evil,
+And embracing only the meritorious. 
+{{milestone:{label:2.19,id:UT22084-096-054-136}}}“Just as medicines are given to the ill
+To allay and heal their ailments,
+The Victor taught that eating food
+Is meant to dispel the pains of hunger. 
+{{milestone:{label:2.20,id:UT22084-096-054-137}}}“Base-minded yogis should not eat
+While obsessed with their longevity,
+As if a weary traveler beset with hunger and thirst,
+Who consumes the flesh of their own child.{{note:{index52,id:UT22084-096-054-138}}}
+{{milestone:{label:2.21,id:UT22084-096-054-139}}}“When too much is added, a scale rises effortlessly;
+Too little and it likewise falls.
+When proportionate, it instantly comes into balance—
+This is how an embodied being should eat their food. {{page:{number:7,id:UT22084-096-054-1027,folio:F.121.a}}}
+{{milestone:{label:2.22,id:UT22084-096-054-140}}}“A person will set a sturdy pillar, for example, 
+To keep an old house from collapsing.
+So too food stabilizes the machine of the body,{{note:{index53,id:UT22084-096-054-141}}}
+And is like grease for a chariot’s axle. 
+{{milestone:{label:2.23,id:UT22084-096-054-142}}}“ ‘Food perpetuates the desire realm’—
+So said the Victor in one of his teachings.
+One should know the body to be like a plantain tree;{{note:{index54,id:UT22084-096-054-143}}}{{note:{index55,id:UT22084-096-054-144}}}
+Thus the mind should not desire food, drink, and the like.
+{{milestone:{label:2.24,id:UT22084-096-054-145}}}“Using knowledge gained from the words of the Sugata,
+One should guard against the interactions of the six senses and sense objects.
+Taking up one of the various kinds of alms bowls,{{note:{index56,id:UT22084-096-054-146}}}
+ One should go for alms, gazing a plow’s length ahead.
+{{milestone:{label:2.25,id:UT22084-096-054-147}}}“Smiling as she walks, speaking with sidelong glances,
+Her shapely body captivates the mind—
+A woman’s body strikes like a weapon,{{note:{index57,id:UT22084-096-054-148}}}
+Stealing away men’s minds.
+{{milestone:{label:2.26,id:UT22084-096-054-149}}}“Better that he covers his eyes
+With a red-hot iron plowshare
+Than to look upon the long eyes of a woman,
+Which cause his mindfulness to come undone. 
+{{milestone:{label:2.27,id:UT22084-096-054-150}}}“One goes where they please, free of clinging.{{note:{index58,id:UT22084-096-054-151}}}
+With their minds mentally disciplined,{{note:{index59,id:UT22084-096-054-152}}}
+Rejecting concerns of high, middling, or otherwise,
+They go to other people’s homes in silence. 
+{{milestone:{label:2.28,id:UT22084-096-054-153}}}“Wherever there are calves and young cows, 
+Wherever people are drinking alcohol, 
+Wherever young women serve and play,
+Wherever young men sport, 
+{{milestone:{label:2.29,id:UT22084-096-054-154}}}“At any feast where dog meat is served,
+Wherever many people gather,
+And wherever music is played,
+There a person should never go.{{note:{index60,id:UT22084-096-054-155}}}
+{{milestone:{label:2.30,id:UT22084-096-054-156}}}“They should return bringing all the alms received, 
+And share the first portion as they please.
+After washing their feet, they should give some to guests, 
+Then eat the food to care for their body.{{note:{index61,id:UT22084-096-054-157}}}
+{{milestone:{label:2.31,id:UT22084-096-054-158}}}“After eating at the appropriate time and bathing on the three occasions,{{note:{index62,id:UT22084-096-054-159}}}{{note:{index63,id:UT22084-096-054-160}}}
+They should make offerings of garlands, lamps, and incense,
+Sing praises, and present food that is free of meat and alcohol.
+Mantrins then sit on a mat of kuśa grass and recite.
+{{milestone:{label:2.32,id:UT22084-096-054-161}}}“If incense, fragrant unguents, and the rest are not available,
+They should offer a variety of fragrant flowers,
+But avoid buka, arka bilva, bṛhatī, and kuśa,{{note:{index64,id:UT22084-096-054-162}}}
+As they smell bad and are unappealing.
+{{milestone:{label:2.33,id:UT22084-096-054-163}}}“When standing, seated, lying down, or asleep, {{page:{number:8,id:UT22084-096-054-1028,folio:F.121.b}}}
+Or when moving, reclining, eating, reading, and reciting,
+They should bring to mind the six recollections,{{note:{index65,id:UT22084-096-054-164}}}
+Remaining aware of their respective qualities.”
+{{milestone:{label:2.34,id:UT22084-096-054-165}}}This was the second chapter of the noble “Subāhu’s Questions.”
+{{milestone:{label:3,id:UT22084-096-054-chapter-3}}}Chapter 3
+{{milestone:{label:3.1,id:UT22084-096-054-166}}}“Beset with the host of afflictions, desire and the like, 
+The mind itself is said to be saṃsāra.
+When free of affliction, when crystalline and moon-like,{{note:{index66,id:UT22084-096-054-167}}}
+It is declared the end of the ocean of existence.
+{{milestone:{label:3.2,id:UT22084-096-054-168}}}“In the same way that, for example, clean water
+Is instantly polluted by dirt and the like,{{note:{index67,id:UT22084-096-054-169}}}
+So too the pure, pristine mind
+Is polluted by the faults of desire and the like. 
+{{milestone:{label:3.3,id:UT22084-096-054-170}}}“One should select a mālā
+With 108 beads of bodhi seed,{{note:{index68,id:UT22084-096-054-171}}}
+Conch, crystal, rūdrākṣa, soapberry,{{note:{index69,id:UT22084-096-054-172}}}{{note:{index70,id:UT22084-096-054-173}}}
+Lotus seed, lead, copper, or bronze. 
+{{milestone:{label:3.4,id:UT22084-096-054-174}}}“Holding it carefully in their left hand,
+Or gripping it carefully in their right,
+Mantrins should complete their recitation,
+Counting the beads gradually, one by one.
+{{milestone:{label:3.5,id:UT22084-096-054-175}}}“Once seated, with senses restrained,
+Their body straight and steady,
+They should move their lower lip gently{{note:{index71,id:UT22084-096-054-176}}}
+To recite the mantra of their choice.
+{{milestone:{label:3.6,id:UT22084-096-054-177}}}“The mind is like lightning, clouds, and the wind;{{note:{index72,id:UT22084-096-054-178}}}
+It is similar to waves upon the great ocean.
+It is deceptive and delights in desirable things;
+It wavers and wanders and needs to be tamed. 
+{{milestone:{label:3.7,id:UT22084-096-054-179}}}“Delighting in recitation, the mind is at peace,{{note:{index73,id:UT22084-096-054-180}}}
+But should it lead to a dull state of drowsiness,
+Mantrins should stand, move, look around, 
+And splash water on their face. 
+{{milestone:{label:3.8,id:UT22084-096-054-181}}}“Impelled by past actions
+Without master, protector, or support, 
+Moving from life to life in a succession of bodies,
+Aligned with virtue and nonvirtue,
+{{milestone:{label:3.9,id:UT22084-096-054-182}}}“Filled with longing, separated from kith and kin,
+Meeting with unpleasantness, beset with desire, 
+Suffering from adversity and birth, old age, sickness, and death—
+No one lacks these, no matter where they are.
+{{milestone:{label:3.10,id:UT22084-096-054-183}}}“Stinging bugs, heat, cold, hunger, fatigue—
+No matter where one goes such miseries persist. {{page:{number:9,id:UT22084-096-054-1029,folio:F.122.a}}}
+Thus, when the mind feels delight for an object,
+Use these ideas to ward it off:
+{{milestone:{label:3.11,id:UT22084-096-054-184}}}“Repel strong desire by noting the impurity
+Of muscle, fat, skin, and bones.
+Douse anger with the water of affection and compassion,
+And against stupidity use the path of interdependence.
+{{milestone:{label:3.12,id:UT22084-096-054-185}}}“Enemies suddenly become friends,
+And friends change into enemies.
+Likewise, some will become neutral,
+And the neutral change into enemies. 
+{{milestone:{label:3.13,id:UT22084-096-054-186}}}“One should know that relationships change—
+A rational person should not become attached.
+Warding off affectionate feelings for relations,
+One should rest easily in virtue.{{note:{index74,id:UT22084-096-054-187}}}
+{{milestone:{label:3.14,id:UT22084-096-054-188}}}“Once recitation begins, and until it is finished,
+Mantrins should not speak with brahmins,
+Not with kṣatriyas, vaiśyas, or farmers,
+Nor with women, paṇḍakas, or young boys and girls.{{note:{index75,id:UT22084-096-054-189}}}
+{{milestone:{label:3.15,id:UT22084-096-054-190}}}“They can speak as needed with their attendant,
+And can talk a little once recitation is complete. 
+After speaking, and after expelling mucus, feces, or urine,
+They should immerse themselves in water to bathe. 
+{{milestone:{label:3.16,id:UT22084-096-054-191}}}“To the highest awakening of the unexcelled buddhas
+They should make lofty dedications of all their virtue
+Accrued through offerings of flowers, bowls of fragrance, and lamps,{{note:{index76,id:UT22084-096-054-192}}}
+And through their discipline, diligence, and austerities. 
+{{milestone:{label:3.17,id:UT22084-096-054-193}}}“Just as, for example, a river that reaches the sea
+Merges with it and takes on the taste of salt,
+So too merit dedicated to the highest awakening
+Becomes one with it, and takes on the flavor of the victors. 
+{{milestone:{label:3.18,id:UT22084-096-054-194}}}“As an analogy, a person will grow rice
+For the sake of its grain, not for its straw.
+And yet, when harvesting their rice,
+They effortlessly and incidentally gain bundles of straw. 
+{{milestone:{label:3.19,id:UT22084-096-054-195}}}“Similarly, merit is cultivated not for pleasure,
+But out of desire for the fruit of awakening.
+And yet, it brings people pleasure 
+As effortlessly as gaining those bundles of straw. 
+{{milestone:{label:3.20,id:UT22084-096-054-196}}}“They should dedicate to obtain a long life,{{note:{index77,id:UT22084-096-054-197}}}
+To find places conducive to the Dharma,
+To freedom from weariness, 
+And to always fulfill the hopes of beings.
+{{milestone:{label:3.21,id:UT22084-096-054-198}}}“They should mentally thwart the worldly concerns—
+Fame and infamy, gain and loss,
+Happiness and misery, and praise and blame— {{page:{number:10,id:UT22084-096-054-1030,folio:F.122.b}}}
+And avoid any evil states.
+{{milestone:{label:3.22,id:UT22084-096-054-199}}}“Just as, for example, a human corpse
+Will not stay beneath the ocean for even an instant,{{note:{index78,id:UT22084-096-054-200}}}
+So too mantrins should not spend even a moment
+Creating evil with their conceptual mind.
+{{milestone:{label:3.23,id:UT22084-096-054-201}}}“Just as, for example, inside a windless house
+A lamp will not flicker but burn brightly, 
+So too the Dharma will shine brightly
+In the body of one who delights in focused recitation.
+{{milestone:{label:3.24,id:UT22084-096-054-202}}}“Abstain from posturing, jumping about, dancing,{{note:{index79,id:UT22084-096-054-203}}}
+Singing, beating drums, and earning people’s derision.
+Avoid arrogance, deception, and excessive desire, 
+As well as gambling and seeking social events.
+{{milestone:{label:3.25,id:UT22084-096-054-204}}}“Give up ill-timed sleep, pointless talk,
+Reading and reciting literature or false treatises, 
+Attachment, spite, haughtiness, and conceit,
+As well as resentment, laziness, and cunning.
+{{milestone:{label:3.26,id:UT22084-096-054-205}}}“Do not consume meat or alcohol,
+Garlic, wild garlic, or onions, {{note:{index80,id:UT22084-096-054-206}}}
+Grain oil, sesame, radishes, or yams,{{note:{index81,id:UT22084-096-054-207}}}
+Or food for bhūtas, food offerings, or oblations to Paśupati.
+{{milestone:{label:3.27,id:UT22084-096-054-208}}}“I have said that a mantrin should consume
+The three white foods, roots, stalks, fruits, and vegetables, {{note:{index82,id:UT22084-096-054-209}}}
+Yogurt, barley, milk, and ghee,
+Oil cakes, buttermilk, boiled milk, and broth. 
+{{milestone:{label:3.28,id:UT22084-096-054-210}}}“For the subduing of piśācas and rākṣasas, 
+Of ostārakas, vetālas, and masters of terror,{{note:{index83,id:UT22084-096-054-211}}}
+Or of an asurī’s magical device,{{note:{index84,id:UT22084-096-054-212}}}
+I have praised oil cakes as the best food.
+{{milestone:{label:3.29,id:UT22084-096-054-213}}}“Practitioners engaged in such recitation
+Should, after a day full of activity, offer recitation,{{note:{index85,id:UT22084-096-054-214}}}
+Request departure as the ritual specifies,{{note:{index86,id:UT22084-096-054-215}}}
+Then lay down at night upon a spread of kuśa grass.
+{{milestone:{label:3.30,id:UT22084-096-054-216}}}“Full of love, compassion, joy, and equanimity,
+They should bring to mind the Sugata, Dharma, and Saṅgha,
+Join their palms, bow to me and Śāriputra, and sleep;
+This is how mantrins should fully exhaust their evil.”
+{{milestone:{label:3.31,id:UT22084-096-054-217}}}This was the third chapter of the noble “Subāhu’s Questions.”
+{{milestone:{label:4,id:UT22084-096-054-chapter-4}}}Chapter 4
+{{milestone:{label:4.1,id:UT22084-096-054-218}}}“Next to be explained are the vajras
+A practitioner should be sure to wield.
+They can measure ten, twelve, sixteen, or eighteen finger-widths, {{page:{number:11,id:UT22084-096-054-1031,folio:F.123.a}}}
+But the best measures twenty finger-widths.
+{{milestone:{label:4.2,id:UT22084-096-054-219}}}“Gold vajras are recommended to obtain
+The state of a vidyādhara, or any lands.{{note:{index87,id:UT22084-096-054-220}}}
+Silver is the best for kingship, 
+While copper is for nāgas, the source of jewels.{{note:{index88,id:UT22084-096-054-221}}}
+{{milestone:{label:4.3,id:UT22084-096-054-222}}}“To destroy the magical devices of asura lords, 
+Or enter openings in the earth, use a stone vajra.
+For success in all aims, a triple-alloy is best,{{note:{index89,id:UT22084-096-054-223}}}
+While iron is used to smash guhyaka armies. 
+{{milestone:{label:4.4,id:UT22084-096-054-224}}}“For other malevolent forces use khadira wood;{{note:{index90,id:UT22084-096-054-225}}}
+Use bilva for glory, prosperity, health, and riches;
+For success with yakṣas and mātṛkās use madu wood;{{note:{index91,id:UT22084-096-054-226}}}{{note:{index92,id:UT22084-096-054-227}}}
+And for the Dharma, one made of aśvattha is recommended.{{note:{index93,id:UT22084-096-054-228}}}
+{{milestone:{label:4.5,id:UT22084-096-054-229}}}“Use human bone to assail murderers,
+And enemies wielding sharp spears.
+Use one made of crystal for great illusions,
+While one made of neem is recommended for separation. {{note:{index94,id:UT22084-096-054-230}}}
+{{milestone:{label:4.6,id:UT22084-096-054-231}}}“To kill or desiccate use beleric myrobalan,{{note:{index95,id:UT22084-096-054-232}}}
+Which is always good for success with piśācas too. {{note:{index96,id:UT22084-096-054-233}}}
+For success with devas, yakṣas, and gandharvas
+Use a vajra made from cedar.{{note:{index97,id:UT22084-096-054-234}}}
+{{milestone:{label:4.7,id:UT22084-096-054-235}}}“If mastery over nāgas is desired,
+Use one made from the root of a nāga tree.{{note:{index98,id:UT22084-096-054-236}}}
+For shapeshifting use one made of earth,
+And for success with vetālas, use kadamba wood.{{note:{index99,id:UT22084-096-054-237}}}
+“For wealth use a vajra made of punnāga wood,{{note:{index100,id:UT22084-096-054-238}}}
+Or the wood of rājārka or the aśvattha tree.{{note:{index101,id:UT22084-096-054-239}}}
+One made of glavāmraśivarṇava, arjuna tree, or the like{{note:{index102,id:UT22084-096-054-240}}}{{note:{index103,id:UT22084-096-054-241}}}
+Is used for victory when battling humans.
+{{milestone:{label:4.8,id:UT22084-096-054-242}}}“To attain anything pleasing and desirable
+Use a vajra made of white or red sandalwood.
+One should wield a vajra that is solid and five-pronged,
+Well formed, smooth, and free of wear. 
+{{milestone:{label:4.9,id:UT22084-096-054-243}}}“When recitation begins, pick the vajra up;
+When complete, immediately bow with faith,
+Make offerings of fragrance and the like,
+And place the vajra at the Victor’s feet.
+{{milestone:{label:4.10,id:UT22084-096-054-244}}}“Anyone practicing the mantras of my clan{{note:{index104,id:UT22084-096-054-245}}}
+Will not succeed without a vajra.
+Those who cannot find one
+Should make a fist and recite with focus. 
+{{milestone:{label:4.11,id:UT22084-096-054-246}}}“Realgar, bovine bezoar, a sword, collyrium,
+Copper sulfate, yellow orpiment, a noose, vermillion,
+Ochre, ghee, calamus, a wheel, a vajra, {{note:{index105,id:UT22084-096-054-247}}}
+A spear, skin, armor, and a trident— {{page:{number:12,id:UT22084-096-054-1032,folio:F.123.b}}}
+{{milestone:{label:4.12,id:UT22084-096-054-248}}}“These seventeen renowned substances{{note:{index106,id:UT22084-096-054-249}}}
+Bring the attainment of the three kinds of siddhi. 
+Look to the explanations in your own mantra rituals
+To learn about the three kinds of siddhi.{{note:{index107,id:UT22084-096-054-250}}}
+{{milestone:{label:4.13,id:UT22084-096-054-251}}}“Vighnas and vināyakas who dislike siddhis
+Flit about the host of vidyās,
+Seeking myriad ways 
+to thwart industrious vidyādharas.{{note:{index108,id:UT22084-096-054-252}}}
+{{milestone:{label:4.14,id:UT22084-096-054-253}}}“There are four clans of vighnas,
+Of vināyakas arrayed upon the earth:
+The destroyer, jackal, mongoose, and one-tooth clans.
+Limitless are these four and their emanations.
+{{milestone:{label:4.15,id:UT22084-096-054-254}}}“Upon the earth are the four world guardians,{{note:{index109,id:UT22084-096-054-255}}}
+In whose retinue is found Aśoka.{{note:{index110,id:UT22084-096-054-256}}}
+Their retinue, numbering seventy million,
+Creates obstacles for practitioners of mantra.{{note:{index111,id:UT22084-096-054-257}}}
+{{milestone:{label:4.16,id:UT22084-096-054-258}}}“The jackal clan numbers 180 million,
+And serves as the retinue of Maheśvara.
+Their general is the mighty Gajamukha,{{note:{index112,id:UT22084-096-054-259}}}
+And together they create obstacles all over the earth.
+{{milestone:{label:4.17,id:UT22084-096-054-260}}}“The general of the one-tooth clan is Dangling Locks, 
+Who controls sixty million vināyakas. 
+With Brahmā, Indra, Viṣṇu, Sūrya, Candra, and Vāyu
+They create obstacles for instruction and mantra.
+{{milestone:{label:4.18,id:UT22084-096-054-261}}}“The mongoose clan is vast,
+Numbering thousands of millions of billions. 
+With their general, Born from a Topknot,{{note:{index113,id:UT22084-096-054-262}}}
+They create obstacles for my clan and mantras.{{note:{index114,id:UT22084-096-054-263}}}
+{{milestone:{label:4.19,id:UT22084-096-054-264}}} “Nandika, with long, lotus-like eyes,
+And Pāñcika create obstacles for the mantra lineage.{{note:{index115,id:UT22084-096-054-265}}}
+The son of Maṇicara and father of Pūrṇa{{note:{index116,id:UT22084-096-054-266}}}
+Also create obstacles for one’s own mantra line. 
+{{milestone:{label:4.20,id:UT22084-096-054-268}}}“Unhappy with practitioners’ wealth and bereft of kindness, {{note:{index117,id:UT22084-096-054-269}}}
+They create obstacles according to their respective clans.
+They take the form of one’s own mantra deities{{note:{index118,id:UT22084-096-054-270}}}
+And abscond with garlands and oblations.
+{{milestone:{label:4.21,id:UT22084-096-054-271}}}“Seeing what the vināyakas, as deities, have done,
+A mantrin will grow angry and turn away in disgust. 
+Motivated as they are by avarice and delusion,
+Vighnas and vināyakas devise this way of appearing as a deity.{{note:{index119,id:UT22084-096-054-272}}}{{note:{index120,id:UT22084-096-054-273}}}
+{{milestone:{label:4.22,id:UT22084-096-054-274}}}“No deva, nāga, or siddha can undermine this,{{note:{index121,id:UT22084-096-054-275}}}
+Not even the gods of the Heaven of the Thirty-Three. {{page:{number:13,id:UT22084-096-054-1033,folio:F.124.a}}}
+The terror wrought by vināyakas
+Can be overcome by what I have already taught.
+{{milestone:{label:4.23,id:UT22084-096-054-276}}}“When recitation is complete, rites of protection should be performed,
+The maṇḍala rites repeated, and the maṇḍala entered. 
+Otherwise, in the absence of a rite of worship,
+And lacking rites for recitation and homa, 
+A person will constantly wonder,
+‘Which vidyā should I recite?’
+{{milestone:{label:4.24,id:UT22084-096-054-277}}}“Fixated on tales of kings, kingdoms, and the like,
+The body becomes easy to possess.
+Pulled here and there in this way,
+The mind that chants vidyā is led to distraction.{{note:{index122,id:UT22084-096-054-278}}}
+{{milestone:{label:4.25,id:UT22084-096-054-279}}}“Like a shadow falling on water, 
+Vighnas enter a person’s body.
+They enter some when bathing, 
+Some when reciting,
+And some when sleeping.
+They enter some when offering 
+Flowers, fragrance, and lamps,
+And some when performing homa. 
+{{milestone:{label:4.26,id:UT22084-096-054-280}}}“Just as, for example, a sunstone charged with sunlight
+Produces fire without need for specific conditions,{{note:{index123,id:UT22084-096-054-281}}}
+So a vighna can enter the body
+And spark the intense fire of passion. 
+{{milestone:{label:4.27,id:UT22084-096-054-282}}}“The vighnas named shaking and trembling
+Take hold when a person is bathing in water.
+They cause hunger, fatigue, and deep sleep,{{note:{index124,id:UT22084-096-054-283}}}
+As well as lethargy and anger in the extreme. 
+{{milestone:{label:4.28,id:UT22084-096-054-284}}}“Likewise, the vighnas called gandharvas
+Enter the body when fragrance is offered. 
+People dream of kings, kingdoms, family, and wealth;
+They grow fatigued and become fixated on women. 
+{{milestone:{label:4.29,id:UT22084-096-054-285}}}“A being with a large black body will burst from the earth{{note:{index125,id:UT22084-096-054-286}}}
+And enter a person’s body during offerings of incense. 
+Acting wickedly, it incites avarice and deceit,
+And terrorizes those with strong desire so that semen spills.{{note:{index126,id:UT22084-096-054-287}}}
+{{milestone:{label:4.30,id:UT22084-096-054-288}}}“One-Braid will create obstacles during lamp offerings,{{note:{index127,id:UT22084-096-054-289}}}
+Causing heat in the heart, sharp pain, and mental decline.
+Dangling Locks enters when a person is standing,
+Inflicting intense fever, diarrhea, and vomiting.
+{{milestone:{label:4.31,id:UT22084-096-054-290}}}“Great Flower Array will find a chance
+To enter the body while one offers flowers.
+He will cause fevers, colds, and joint pain,
+As well as separation from companions. {{page:{number:14,id:UT22084-096-054-1034,folio:F.124.b}}}
+{{milestone:{label:4.32,id:UT22084-096-054-291}}}“Those who are possessed by a vighna
+Take what is not the path as the path.
+They are wracked with desire, behave erratically,
+Speak impulsively, and stumble profitlessly through their readings. 
+{{milestone:{label:4.33,id:UT22084-096-054-292}}}“Those with purpose are rendered ambivalent.
+With their minds overcome by wrong view, 
+They constantly say frivolous things like,
+‘There is no mantra, there are no heavens,
+There is no merit nor the slightest evil,
+There is no liberation, and no cause of bondage.
+Life is pointless, rife with afflictions, and a hardship.’
+{{milestone:{label:4.34,id:UT22084-096-054-293}}}“Those who are possessed pick at grass with their nails,
+Smash dirt clods, and grind their teeth at night.
+Also possessed are women who want a spouse but find none, 
+Men who want a spouse but find none,
+People who ignore the meaningful and do what is not,
+And those who go where they please and never sleep. 
+{{milestone:{label:4.35,id:UT22084-096-054-294}}}“Also possessed are those who dream
+Of tigers, leopards, lions, dogs, or pigs;
+Of donkeys, camels, cats, or flesh-eating jackals;
+Of vultures, owls, herons, small people, or snakes;{{note:{index128,id:UT22084-096-054-295}}}
+Of people who are naked, ash-covered, or black-colored;
+Of dry wells or heaps of skulls and bones;
+Of iron, stone quarries, or houses old and unclean;
+Or of changing faces or of people bearing swords and spears. 
+{{milestone:{label:4.36,id:UT22084-096-054-296}}}“Carry out the ritual activities of fierce Amṛtakuṇḍalin
+To destroy these vighnas and vināyakas.
+Mantrins who follow the path of his mantra,{{note:{index129,id:UT22084-096-054-297}}}
+Are not vulnerable to vighnas and vināyakas.{{note:{index130,id:UT22084-096-054-298}}}
+{{milestone:{label:4.37,id:UT22084-096-054-299}}}“At a solitary tree, in a cattle pen or shrine,
+At a crossroads, empty house, or in a forest, 
+Use a variety of paints to draw a maṇḍala,
+One that is four cubits square. 
+{{milestone:{label:4.38,id:UT22084-096-054-300}}}“Surround it with places for the directional deities,
+And spread kuśa grass at the four gates.
+Present many oblations of fruit and cooked grain,
+Along with other food, meat, alcohol, radishes, and so forth. 
+{{milestone:{label:4.39,id:UT22084-096-054-301}}}“Take four vases that are the color of a red lotus,
+Unblemished, and adorned with jewels, 
+Fill them with medicines, grain, and fragrant water,
+Adorn their mouths with stalks, and tie cloth around their necks. 
+{{milestone:{label:4.40,id:UT22084-096-054-302}}}“After reciting one hundred recitations
+Of the mantras for Raktāṅga, Kīlikīla, Dramiḍa, and so forth, {{page:{number:15,id:UT22084-096-054-1035,folio:F.125.a}}}{{note:{index131,id:UT22084-096-054-303}}}
+Place the vases around the maṇḍala
+And make offerings of fragrant unguents, incense, and so forth.
+{{milestone:{label:4.41,id:UT22084-096-054-304}}}“Place someone possessed by a vighna in the center of the maṇḍala,
+On a comfortable seat that faces toward the east.
+Once the mantra is recited and they are washed with each vase,
+They are thereby freed from the vināyaka.
+{{milestone:{label:4.42,id:UT22084-096-054-305}}}“Destroying vighnas is not only of benefit
+To people who are practitioners.
+It is also suitable for the royal court and childless women,
+For young women and musicians,
+Sex workers and merchants,{{note:{index132,id:UT22084-096-054-306}}}
+Farmers, the poor and destitute,
+Those seized by grahas and those stricken with fever, 
+Young grahas, and those who steal flowers and fruit.{{note:{index133,id:UT22084-096-054-307}}}
+This washing brings purity;
+It clears away poison, nightmares, and distractions.”
+{{milestone:{label:4.43,id:UT22084-096-054-308}}}This was the fourth chapter of the noble “Subāhu’s Questions.”
+{{milestone:{label:5,id:UT22084-096-054-chapter-5}}}Chapter 5
+{{milestone:{label:5.1,id:UT22084-096-054-309}}}“Vighnas exhaust all merit,
+So that people do not succeed in mantra.
+Those freed from vighnas shine, 
+Like the moon emerging from a cloud.
+{{milestone:{label:5.2,id:UT22084-096-054-310}}}“Just as no fruit, flower, or sprout will grow from a vase
+Without soil and water, or out of season.
+Sprouts, leaves, stalks, flowers, and fruit
+Will grow when such conditions are present.
+{{milestone:{label:5.3,id:UT22084-096-054-311}}}“When the rites are corrupted, vowels and syllables missing, 
+Offerings are lacking, recitation is sloppy,
+Or when vowels and syllables are added,
+Mantras will not grant abundant siddhi.
+{{milestone:{label:5.4,id:UT22084-096-054-312}}}“The rain clouds of summer, for example,
+Release rain favorably according to people’s fortune. 
+So, too, it is in light of a person’s fortune
+That mantras bestow the desired siddhi. 
+{{milestone:{label:5.5,id:UT22084-096-054-313}}}“Seeing the proper time, place, and ritual steps,
+Seeing that evil is cleansed and merit gathered,
+Seeing proper respect and complete recitation, 
+Mantras will then bestow their fruits. 
+{{milestone:{label:5.6,id:UT22084-096-054-314}}}“The extent to which mantrins are suffused with evil, 
+The extent to which they do not gather merit and pure deeds, 
+And the degree to which they recite without proper rites,
+To that degree they will not receive the siddhis. {{page:{number:16,id:UT22084-096-054-1036,folio:F.125.b}}}
+{{milestone:{label:5.7,id:UT22084-096-054-315}}}“Should a rite be corrupted or interrupted, a different mantra recited, 
+Recitation abandoned or dedicated to a different purpose, 
+Then worship should be made fervently three times a day
+And another hundred thousand recitations completed. 
+{{milestone:{label:5.8,id:UT22084-096-054-316}}}“After ten, eight, seven, or four thousand recitations,
+They should perform a homa using ghee, 
+Or perform a homa using a mixture of ghee
+And whole barley, black sesame, or mustard seeds.
+{{milestone:{label:5.9,id:UT22084-096-054-317}}}“Locate fresh wood for the homa that is twelve finger-widths long.
+It can be rose apple, madu, plakṣa, palāśa,{{note:{index134,id:UT22084-096-054-318}}}{{note:{index135,id:UT22084-096-054-319}}}{{note:{index136,id:UT22084-096-054-320}}}
+Uḍumbara, khadira, aśvattha, apamara,{{note:{index137,id:UT22084-096-054-321}}}{{note:{index138,id:UT22084-096-054-322}}}
+Arka, aśoka, rājārka,{{note:{index139,id:UT22084-096-054-323}}}
+Nyagrodha, bilva, or amraśa.{{note:{index140,id:UT22084-096-054-324}}}{{note:{index141,id:UT22084-096-054-325}}}
+Smear them with yogurt, ghee, and honey, 
+And continuously offer them into the fire as homa.
+Doing this, the siddhis are quickly attained. 
+{{milestone:{label:5.10,id:UT22084-096-054-326}}}“If it seems that a mantra 
+Has been disrupted, restricted, or suppressed by another mantra,
+Make an effigy of it from clay{{note:{index142,id:UT22084-096-054-327}}}
+And place it before my feet.{{note:{index143,id:UT22084-096-054-328}}}
+{{milestone:{label:5.11,id:UT22084-096-054-329}}}“The mantrin should use an essence mantra such as Kīlikīla,
+While washing the effigy with milk and ghee.
+After doing this for seven days the mantras will be freed
+From all restrictions and suppressions. 
+{{milestone:{label:5.12,id:UT22084-096-054-330}}}“If the rites of worship and so forth are complete, 
+But the mantra still does not bear fruit,
+Anoint an effigy with poison and black mustard seed,{{note:{index144,id:UT22084-096-054-331}}}
+And recite the Kīlikīla, Dramiḍa, or similar mantra.
+{{milestone:{label:5.13,id:UT22084-096-054-332}}}“Using the mantra along with mustard oil and salt, 
+Perform a homa three times a day for seven days.
+The mantra deity will then appear in a dream
+To reveal the corrupted rite, or the syllables added or omitted.
+{{milestone:{label:5.14,id:UT22084-096-054-333}}}“I have already taught about upholding the way of mantra:{{note:{index145,id:UT22084-096-054-334}}}
+Just as ocean tides never fail,
+Mantras should never be used to suppress another mantra,
+Nor to restrict or disrupt it. 
+{{milestone:{label:5.15,id:UT22084-096-054-335}}}“A loved one might tell a person,
+‘You shouldn’t visit so-and-so’s house anymore,
+Even just to look,’ and present them with good reasons.
+That person, hearing what they have to say,
+Will not go there for conversation or even to look. {{page:{number:17,id:UT22084-096-054-1037,folio:F.126.a}}}
+So too mantrins should never
+Recite any mantra to suppress the mantra of another.
+{{milestone:{label:5.16,id:UT22084-096-054-336}}}“They should not disrupt or restrict a mantra, 
+Nor should they add or omit mantra syllables.
+They should not change the purpose of a rite
+And should never torment local beings.{{note:{index146,id:UT22084-096-054-337}}}
+{{milestone:{label:5.17,id:UT22084-096-054-338}}}“Mantrins should possess,
+Restrain, strike, and confuse,
+But not crush limbs nor bring a family to ruin. {{note:{index147,id:UT22084-096-054-339}}}
+They should not banish nāgas,
+Nor grahas, nor other similar beings.
+{{milestone:{label:5.18,id:UT22084-096-054-340}}}“They should not eradicate, banish, or kill,
+Nor fail to heal a child possessed by grahas.
+They should never use nets, traps, snares, or decoys
+To cause harm to any being. 
+{{milestone:{label:5.19,id:UT22084-096-054-341}}}“It is said there are ten requisites for siddhi:
+The mantrin, their mantra, an attendant, a ritual substance, 
+Perseverance, a direction, a site, time,{{note:{index148,id:UT22084-096-054-342}}}
+A deity with complete iconography, and mental fortitude.{{note:{index149,id:UT22084-096-054-343}}}
+{{milestone:{label:5.20,id:UT22084-096-054-344}}}“Others speak of the vidyādhara and assistant,
+Others specifically of the direction, perseverance, and time,
+Yet others say they are the ritual substance, site, deity, and mantra,{{note:{index150,id:UT22084-096-054-346}}}
+And some say it is mental fortitude. 
+{{milestone:{label:5.21,id:UT22084-096-054-347}}}“Each explains the science of mantra according to their own understanding,
+Stating that success requires ten, eight, or five,
+Or that it requires four, three, or only one.
+But in the tantras, buddhahood is reached through two rites. 
+{{milestone:{label:5.22,id:UT22084-096-054-348}}}“Practitioners perfect their own qualities;
+They maintain the strongest perseverance, 
+Feel no envy toward another’s gain,
+Desire nothing, and tolerate physical affliction.
+{{milestone:{label:5.23,id:UT22084-096-054-349}}}“With a proper rite and clear mantra—
+With vowels, nasalizations, and punctuation complete and clear—{{note:{index151,id:UT22084-096-054-351}}}
+Recitation in places frequented by buddhas and bodhisattvas
+Brings the most wondrous of siddhis. 
+{{milestone:{label:5.24,id:UT22084-096-054-352}}}“Just as the king of beasts, when hungry,
+Uses its great might to slay an elephant, 
+And likewise can swiftly kill wolves,
+As well as pigs, deer, and jackals,
+{{milestone:{label:5.25,id:UT22084-096-054-353}}}“So a mantrin, in a leonine way,
+Has great perseverance
+And draws upon the highest effort, 
+In activities high, middling, and low. {{page:{number:18,id:UT22084-096-054-1038,folio:F.126.b}}}
+{{milestone:{label:5.26,id:UT22084-096-054-354}}}“The sound of clay drums, conches, and other drums;
+The fearful sounds that humans make;
+Peals of laughter, whistled tunes, sounds of song and dance;
+Flutes, vīnās, and large clay drums as well;
+{{milestone:{label:5.27,id:UT22084-096-054-355}}}“Chirping flocks of different birds, the sound of water, 
+And the tinkling sound of women’s jewelry;
+And the harms of biting insects, heat, cold, and wind—
+These distract and agitate a person’s mind.
+{{milestone:{label:5.28,id:UT22084-096-054-356}}}“Recitation should be neither quick nor slow
+It should be neither loud nor too soft.
+It should not be done while conversing or distracted,
+And the vowels, nasalizations, and punctuation should be correct. 
+{{milestone:{label:5.29,id:UT22084-096-054-357}}}“Just as the water of a river flows
+Continuously, all day and all night, 
+So the merit of embodied beings increases
+Through reverence, recitation, and observances.
+{{milestone:{label:5.30,id:UT22084-096-054-358}}}“A lazy, desirous, nonvirtuous mind, {{note:{index152,id:UT22084-096-054-359}}}
+Distractedly wandering here and there,
+Is swiftly reined in from wherever it was
+To prepare an offering of the mantra’s syllables.{{note:{index153,id:UT22084-096-054-360}}}
+{{milestone:{label:5.31,id:UT22084-096-054-361}}}“One focuses on the tip of the nose and gives up thoughts.
+Even when there is movement, one remain undistracted. 
+One has then reached stability on the object,
+Certain that the mind is now poised and ready. 
+{{milestone:{label:5.32,id:UT22084-096-054-362}}}“A person with a focused mind
+Experiences joy arising in the mind,
+A joy that brings about a pliant body,
+A pliant body that brings a wealth of happiness. 
+{{milestone:{label:5.33,id:UT22084-096-054-363}}}“Through physical ease, a focused mind, and samādhi
+Recitation becomes unhindered.{{note:{index154,id:UT22084-096-054-364}}}
+Completing the recitation entirely purifies
+Any evil done in previous lives.
+{{milestone:{label:5.34,id:UT22084-096-054-365}}}“Once recitation has purified all evil,
+The mind, now clear, will attain siddhis. 
+This why the blessed Lord of Victors said,
+‘The mind is the root of all these phenomena.’
+{{milestone:{label:5.35,id:UT22084-096-054-366}}}“The clear mind gains happiness both human and divine,
+As well as of the heavens and the liberation of awakening.
+The faults of mind bring birth among animals,
+Among the hells, or among the ugly and destitute. {{page:{number:19,id:UT22084-096-054-1039,folio:F.127.a}}}
+{{milestone:{label:5.36,id:UT22084-096-054-367}}}“A person whose mind has cleared
+Avoids all harm, in the middle and end, 
+From earth, water, fire, aging, sickness, death, and the rest,
+And attains the happiness and peace of liberation.
+{{milestone:{label:5.37,id:UT22084-096-054-368}}}“The mantra siddhis that are common to all—{{note:{index155,id:UT22084-096-054-369}}}
+Which bring limited happiness and myriad sufferings,
+And are fleeting and rife with toxic afflictions—{{note:{index156,id:UT22084-096-054-370}}}
+Are obtained with a clear mind.{{note:{index157,id:UT22084-096-054-371}}}
+{{milestone:{label:5.38,id:UT22084-096-054-372}}}“Beings do not arise at random, not from time,
+Nor do they arise from prakṛti or a powerful god.
+They do not arise without cause nor are they made by a person.{{note:{index158,id:UT22084-096-054-373}}}
+Beings arise from karma and the afflictive emotions.{{note:{index159,id:UT22084-096-054-374}}}
+{{milestone:{label:5.39,id:UT22084-096-054-375}}}“Matter consists of the four major elements,
+But it is not the self, and the self is not matter.
+There is no self in matter, and no matter in the self.
+Matter is empty—know this about the other four aggregates as well.
+{{milestone:{label:5.40,id:UT22084-096-054-376}}}“Matter is like foam;
+Sensations are impermanent, like bubbles.
+To see them this way is said to be an excellent view;
+To regard them otherwise is said to be a poor view. 
+{{milestone:{label:5.41,id:UT22084-096-054-377}}}“As the time of mantra recitation draws near,
+One will see the following at night, in dreams:
+A mansion, a tree, a banner, a lion, or a horse,
+A mountain, a chariot, a thundercloud, or a nāga.{{note:{index160,id:UT22084-096-054-378}}}
+{{milestone:{label:5.42,id:UT22084-096-054-379}}}“One may dream of joyfully riding
+A tiger, rhinoceros, elephant, or bull,{{note:{index161,id:UT22084-096-054-380}}}
+Or of flower garlands, clothing, fragrances,
+Meat, alcohol, fish, fruit, or books. 
+{{milestone:{label:5.43,id:UT22084-096-054-381}}}“One may dream of a divine form or a red utpala,
+Of a milk-cow and calf, a loaded chariot, 
+A white parasol, fly whisk, shoes, or a sword,
+A fan of gold and turquoise, or a mālā. 
+{{milestone:{label:5.44,id:UT22084-096-054-382}}}“One may dream of jewels, pearls, mother-of-pearl, conch, or silver,
+Of a beautiful woman or a lovely young girl,
+Of an ornament bedecked with a variety of jewels,
+Or of discovering a white bedspread. 
+{{milestone:{label:5.45,id:UT22084-096-054-383}}}“At the break of dawn one may dream of a river or stream,
+Of a waterfall, ocean, or pond,
+Of drinking from or swimming in a pool,
+Or of bathing one’s body in blood.
+{{milestone:{label:5.46,id:UT22084-096-054-384}}}“One may dream of an image of the Victor in a shrine or caitya,{{note:{index162,id:UT22084-096-054-385}}}
+Of a sublime bodhisattva or a pratyekabuddha,
+Of the undefiled community of monks, nuns, and laypeople,
+Or of the deities who rule the area. {{page:{number:20,id:UT22084-096-054-1040,folio:F.127.b}}}
+{{milestone:{label:5.47,id:UT22084-096-054-386}}}“One may dream of a pleasant brahmin man, worthy of worship,
+Or of fire, an eminent person, or a young man wealthy and prosperous,{{note:{index163,id:UT22084-096-054-387}}}
+Or of one’s parent, friends, kin, or a yakṣa,
+Or of a powerful deity or a gathering of youths.
+{{milestone:{label:5.48,id:UT22084-096-054-388}}}“One may dream one is eating the sun and moon,
+Moving within the earth, drinking a seed,{{note:{index164,id:UT22084-096-054-389}}}
+Walking on fire, eating meat, 
+Or that a fire burns within one’s body.{{note:{index165,id:UT22084-096-054-390}}}
+{{milestone:{label:5.49,id:UT22084-096-054-391}}}“Those who have these excellent dreams
+Will reach attainment before too long;
+In a month, half a month, one day,
+Or a single moment, ever do they draw nearer.”
+{{milestone:{label:5.50,id:UT22084-096-054-392}}}This was the fifth chapter of the noble “Subāhu’s Questions.”
+{{milestone:{label:6,id:UT22084-096-054-chapter-6}}}Chapter 6
+{{milestone:{label:6.1,id:UT22084-096-054-393}}}“As the siddhis near, the mind delights in recitation
+And takes no joy in evil.
+It never wavers, even when beset with severe sufferings
+Such as hunger and thirst, heat, cold, wind, and weariness.
+{{milestone:{label:6.2,id:UT22084-096-054-394}}}“One is not menaced by bees, biting flies, worms, or ants,
+By reptiles, centipedes, snakes, or bears,
+Or by piśācas and pūtanas—
+Not even by their shadows.
+{{milestone:{label:6.3,id:UT22084-096-054-395}}}“Mantrins’ words will be memorable, their minds keen;
+They will be skilled in literature and the art of inquiry.
+They will take joy in the Dharma, perceive hidden treasures,
+And their bodies will be free of illness and odor.
+{{milestone:{label:6.4,id:UT22084-096-054-396}}}“When a person so much as sees or hears them
+They will be immediately filled with joy.
+Women who beguile even the devas of the desire realm{{note:{index166,id:UT22084-096-054-397}}}
+Will invite them to experience pleasure.{{note:{index167,id:UT22084-096-054-398}}}
+{{milestone:{label:6.5,id:UT22084-096-054-399}}}“Whenever a learned person feels delight{{note:{index168,id:UT22084-096-054-400}}}
+In seeing or hearing the forms and voices 
+Of devas, yakṣas, gandharvas, or apsarases,
+At that moment the siddhis are close at hand.
+{{milestone:{label:6.6,id:UT22084-096-054-401}}}“Recognizing their bodies as stainless and pure,
+One who maintains the poṣadha vows,
+should give up food and maintain a fast
+For one day, two days, or even three.
+Once those days have passed,
+They should begin to practice for their own prosperity.
+{{milestone:{label:6.7,id:UT22084-096-054-402}}}Upon hearing this, Subāhu raised another question:
+“It has been said that food does not purify.
+Why then, venerable one, have you said
+We should endure fasts to purify the body? {{page:{number:21,id:UT22084-096-054-1041,folio:F.128.a}}}
+For what reason did the Sugata, who reached the end of existence,
+Say that one can even eat a chariot’s axle grease?”{{note:{index169,id:UT22084-096-054-403}}}
+{{milestone:{label:6.8,id:UT22084-096-054-404}}}The vajra bearer, hearing Subāhu’s words, 
+Spoke with a voice that rumbled like thunder:
+“Only son, though the Sugata never taught
+Fasting to purify the body, the body is unclean.
+{{milestone:{label:6.9,id:UT22084-096-054-405}}}“It is flesh, muscle, blood, marrow,
+Brain, intestines, spleen, liver, kidneys,
+Fat, bile, phlegm, sexual fluids, feces,
+Urine, snot, head hair, body hair, and bone.
+It has eyes, ears, a nose, and mouth,
+An anus and sex organs—nine orifices in all,
+Holes from which myriad impurities
+Constantly ooze in streams. 
+{{milestone:{label:6.10,id:UT22084-096-054-406}}}“The collection of all these parts,
+Made of earth, water, fire, wind, and space,
+Comprises the material for the whole human body,
+In accordance with the specifics of karma.
+{{milestone:{label:6.11,id:UT22084-096-054-407}}}“Fasting is said to rid the body
+Of its feces, urine, snot, saliva, and phlegm. 
+The body is pure when rid of these pollutants,
+Making it is easy to accomplish one’s prosperity.
+{{milestone:{label:6.12,id:UT22084-096-054-408}}}“Should one be tormented by desire,
+Concentrate the mind and reflect 
+On all these different parts of the body,
+Examining each with the eye of wisdom.
+{{milestone:{label:6.13,id:UT22084-096-054-409}}}“After such conclusive self-examination,
+The desire to fixate on one’s body and health
+Will be utterly uprooted and pacified,
+Just as the sun fully dispels darkness. 
+{{milestone:{label:6.14,id:UT22084-096-054-410}}}“After preparing for mantra with these beneficial practices,
+Mantrins, now aware of their own body,
+Should begin their recitation on the fifteenth,
+Eighth, or fourteenth day of the waxing moon.
+{{milestone:{label:6.15,id:UT22084-096-054-411}}}“To prepare the ground where the deity will rest,
+They smear it with a mixture of soil, cow dung, and so forth.
+With faith they make offerings to all the sugatas,
+Using garlands, foods, flowers, fragrance, and lamps.
+{{milestone:{label:6.16,id:UT22084-096-054-412}}}“Next, they should worship the vajra holder and his retinue,{{note:{index170,id:UT22084-096-054-413}}}
+And then make offerings to the mantra deities.{{note:{index171,id:UT22084-096-054-414}}}
+{{milestone:{label:6.17,id:UT22084-096-054-415}}}“After singing the praises of the praiseworthy buddhas, {{page:{number:22,id:UT22084-096-054-1042,folio:F.128.b}}}
+They should reflect on bodhicitta
+And cultivate compassion, in any suitable way,
+For beings tormented by birth, old age, sickness, and death.
+{{milestone:{label:6.18,id:UT22084-096-054-416}}}“They should then sequentially read The Sūtra of the Great Assembly,{{note:{index172,id:UT22084-096-054-417}}}
+The Auspicious Verses,The Supreme Wheel of Dharma,{{note:{index173,id:UT22084-096-054-418}}}{{note:{index174,id:UT22084-096-054-419}}}
+The Secret of the Thus-Gone Ones,The Great Lamp,{{note:{index175,id:UT22084-096-054-420}}}{{note:{index176,id:UT22084-096-054-421}}}
+Or other texts deemed suitable.
+{{milestone:{label:6.19,id:UT22084-096-054-422}}}“Once the directions are secure, including zenith and nadir,
+And once the armor has been donned,{{note:{index177,id:UT22084-096-054-423}}}
+They should use colored pigments to draw
+One of the maṇḍalas mentioned before. 
+{{milestone:{label:6.20,id:UT22084-096-054-424}}}“In it they should draw concentric circles,
+Of vajras, fire, water, wind, and spears. 
+Drawing the outer enclosure will vex the minds
+Of devas, asuras, and any hostile beings. 
+{{milestone:{label:6.21,id:UT22084-096-054-425}}}“The mantrins should take a seat, consecrated as a lion throne,
+And place it at the center of the maṇḍala.
+After performing the rites of self-protection, they should sit,
+Pick up the ritual substance, swiftly complete the recitation,
+And perform a thousand incense homas.
+{{milestone:{label:6.22,id:UT22084-096-054-426}}}“Next, they wash the substance with scented water,{{note:{index178,id:UT22084-096-054-427}}}
+Dispel the many types of vighnas,
+Place it on top of three bodhi leaves,{{note:{index179,id:UT22084-096-054-428}}}
+And cover it with four more.
+{{milestone:{label:6.23,id:UT22084-096-054-429}}}“They recite the mantra for as long as necessary,
+Until they see the three signs:
+The substance will grow warm, smoke, or blaze with fire. 
+Even if the order is reversed, accomplishment is said to be reached. 
+{{milestone:{label:6.24,id:UT22084-096-054-430}}}“Warmth indicates control over any being,
+Smoke indicates the power of invisibility,
+And fire indicates the ability to fly through the sky
+In a human body that shines like a god. 
+{{milestone:{label:6.25,id:UT22084-096-054-431}}}“Just as a chill enters the body,
+Just as a gandharva enters a womb,{{note:{index180,id:UT22084-096-054-432}}}
+Just as fire springs from the sunlight stored in a sunstone,
+So the siddhis enter the body. 
+{{milestone:{label:6.26,id:UT22084-096-054-433}}}“Should a lamp’s flame grow and blaze intensely, 
+Appearing as a bright, golden tendril
+That continues to burn even after the oil is spent, 
+Then the mantrin has obtained the siddhi. 
+These are the siddhis born from the ritual substance. 
+{{milestone:{label:6.27,id:UT22084-096-054-434}}}“A person has reached attainment
+If the painted image shakes;
+If a garland, eyebrow, eye, fly whisk, 
+Or ornaments begin to move;{{page:{number:23,id:UT22084-096-054-1043,folio:F.129.a}}}{{note:{index181,id:UT22084-096-054-435}}}
+If flowers rain down or a squall strikes;
+If the earth shakes rapidly;
+If a disembodied voice calls from the sky,
+Saying, ‘Sole child, request the sublime boon you desire’;
+If divine drums sound, causing their hair to bristle;
+If a great rain of ornaments falls;
+Or if they see with their own eyes
+A deva, asura, or an image of the mantra in the sky.{{note:{index182,id:UT22084-096-054-436}}}
+{{milestone:{label:6.28,id:UT22084-096-054-437}}}“They should mix fresh flowers, refined gold, and water,
+And arrange offering water while uttering praises.{{note:{index183,id:UT22084-096-054-438}}}
+They should then bow their heads with a focused mind
+And request the boon aligned with their faith and effort. 
+{{milestone:{label:6.29,id:UT22084-096-054-439}}}“The boon received, they should bow with joy, 
+Sing praises and present offering water with faith,
+Speak the mantra, and request the deity to depart.
+This is the procedure for all mantras. 
+{{milestone:{label:6.30,id:UT22084-096-054-440}}}“A mantrin of outstanding mental strength
+Should now perform a fearsome rite.
+A piśāca would take the chance
+To ruin a person with feeble mental strength.
+{{milestone:{label:6.31,id:UT22084-096-054-441}}}“An armor-clad hero skilled with weapons, 
+Riding atop a fine, equipped elephant,
+Can conquer an entire host of enemies
+By hoisting a bow and letting one mighty arrow fly.
+{{milestone:{label:6.32,id:UT22084-096-054-442}}} “Likewise, a person of great mental strength,
+Armored in discipline and astride the elephant of protection,{{note:{index184,id:UT22084-096-054-443}}}
+Hoists the bow of mantra and lets fly the arrow of recitation, 
+To conquer creatures of the night like bhūtas and the rest.
+{{milestone:{label:6.33,id:UT22084-096-054-444}}}“A person with a bent back, extra or missing limbs,
+One who too short, too tall, or obese,
+One born from a loathsome womb, or a paṇḍaka—
+Corpses of these types should be rejected. 
+{{milestone:{label:6.34,id:UT22084-096-054-445}}}“When a corpse is found of someone who died
+Of indigestion, intense fever, diarrhea vomiting,
+Confinement, water, or impaling;{{note:{index185,id:UT22084-096-054-446}}}
+Who was killed by a snake; died of poisoning, 
+Bile, wind, and so forth; or another observable cause; {{note:{index186,id:UT22084-096-054-447}}}
+Or else one with its limbs intact, an uninjured face,{{note:{index187,id:UT22084-096-054-448}}}
+Or one free of open wounds,
+Take a sword or club in hand
+And keep guard over it throughout the day.
+{{milestone:{label:6.35,id:UT22084-096-054-449}}}“In a charnel ground, an empty house, at a lone tree, 
+Crossroads, near a river or stream,
+At a lake, ocean, or on a mountain, {{page:{number:24,id:UT22084-096-054-1044,folio:F.129.b}}}
+Raising a corpse will instantly succeed.
+{{milestone:{label:6.36,id:UT22084-096-054-450}}}“Once a suitable location is determined,
+It should be smeared with a mixture of earth, cow dung, and so forth.
+In that clean place draw the samaya{{note:{index188,id:UT22084-096-054-451}}}
+Using white, red, black, and other various pigments.
+{{milestone:{label:6.37,id:UT22084-096-054-452}}}“Reflecting on the maṇḍalas already described,
+Select the one that best suits the intended aim,
+And draw the sublime mother of the clan,
+After assiduously reciting with great faith.
+{{milestone:{label:6.38,id:UT22084-096-054-453}}}“A fearless assistant should retrieve the corpse,
+Carry it over, and place it on some kuśa grass.
+Its head and body should be shaved of hair,
+And immediately anointed with grain oil.
+{{milestone:{label:6.39,id:UT22084-096-054-454}}}“Take four vases whose bases are not black,
+Fill them with clean water, and use them to scrub the corpse.
+Dress it in a set of white clothes,{{note:{index189,id:UT22084-096-054-455}}}
+And place it on kuśa grass at the maṇḍala’s center. 
+{{milestone:{label:6.40,id:UT22084-096-054-456}}}“Place a fresh flower on the corpse,
+And orient its head either to the east or south.
+Anoint it with fragrance, cense it with incense, 
+Drape it with a garland, and scatter flower petals on it. 
+{{milestone:{label:6.41,id:UT22084-096-054-457}}}“To the extent possible, procure a number of cakes
+Made of mixed meat, fish, ghee, sesame, and the like.
+Give them to the bhūtas, nāgas, piśācas, yakṣas,
+And other spirits above, below, and throughout the directions.
+{{milestone:{label:6.42,id:UT22084-096-054-458}}}“One should protect oneself and one’s excellent assistant,{{note:{index190,id:UT22084-096-054-459}}}
+And with a focused mind recite the mantra. 
+As the moment of the corpse’s animation nears,
+All manner of frightful vighnas will appear.
+{{milestone:{label:6.43,id:UT22084-096-054-460}}}“Incant ash, whole mustard seeds, and the like
+With an uṣṇīṣarāja mantra and scatter them about.{{note:{index191,id:UT22084-096-054-461}}}
+When vighnas approach from the four directions,
+Drive them off with the power of mantra.
+{{milestone:{label:6.44,id:UT22084-096-054-462}}}“To pacify them wrathfully,
+Use the forceful rites of Amṛtakuṇḍalin.
+Once the vighnas have been defeated,
+The corpse will swiftly rise through the power of mantra.
+{{milestone:{label:6.45,id:UT22084-096-054-463}}}“Anything found among the ritual procedures of mantra
+Can be accomplished without any limitation. 
+But if the corpse has risen 
+And its mantra rite is not known, {{page:{number:25,id:UT22084-096-054-1045,folio:F.130.a}}}
+One can still receive the siddhi
+Using rites taught elsewhere upon the risen corpse.{{note:{index192,id:UT22084-096-054-464}}}
+{{milestone:{label:6.46,id:UT22084-096-054-465}}}“The corpse will grant the siddhis
+Of locating treasure, entering openings in the earth, 
+A sword, eye ointment, a mount, a servant,{{note:{index193,id:UT22084-096-054-466}}}
+mines, metallurgy, alchemy, and flight. 
+{{milestone:{label:6.47,id:UT22084-096-054-467}}}“A weak-minded person who seeks siddhis from corpses
+While lacking the power of protection and mantra,
+And the power of observances and the mind, 
+Will be killed by the creatures of the night.”
+{{milestone:{label:6.48,id:UT22084-096-054-468}}}This was the sixth chapter of the noble “Subāhu’s Questions.”
+{{milestone:{label:7,id:UT22084-096-054-chapter-7}}}Chapter 7
+{{milestone:{label:7.1,id:UT22084-096-054-469}}}“Those hoping to sell human flesh
+Should visit a charnel ground during the waning moon,
+And at night, feeling no fear, 
+Take the calf, thigh, neck, or head
+From someone killed by a wood or stone weapon,
+Poison, beating, medicine, or a vighna. 
+{{milestone:{label:7.2,id:UT22084-096-054-470}}}“It should be chopped into pieces
+And generously placed in clean new bowls or pots.
+They should mark their body with a bloody handprint
+And wrap their head and neck with intestines. 
+{{milestone:{label:7.3,id:UT22084-096-054-471}}}“Clothed in fresh human skin,
+They should hold a pot of flesh in their left hand
+And grip a bloody sword in their right, 
+Brandishing it aloft. 
+{{milestone:{label:7.4,id:UT22084-096-054-472}}}“They should call out in a loud voice,
+‘Who among you wants to buy this flesh?’
+Repeating the words while quickly circling
+To the east, west, north, and south.
+{{milestone:{label:7.5,id:UT22084-096-054-473}}}“A figure visible or invisible will ask,
+‘What is it you seek? Wealth? Knowledge?
+To be an alchemist? A village? A kingdom?
+Or perhaps to enter openings in the earth?’
+They should only respond with their original purpose in mind, 
+But otherwise say nothing else.{{note:{index194,id:UT22084-096-054-474}}}
+{{milestone:{label:7.6,id:UT22084-096-054-475}}}“ ‘To this charnel ground, a haunt of many vidyās,
+I came with this purpose, impelled by intense suffering.
+So if you have flesh, bring it and give it to me.
+If the amount of flesh does not suffice when weighed upon a scale,
+You make up the difference using your own flesh.
+If this charnel ground is empty, {{page:{number:26,id:UT22084-096-054-1046,folio:F.130.b}}}
+Go elsewhere, penniless child.’
+“If a creature of the night makes such a demand,
+Ask it, ‘Where should I go?’
+The mantrin should consider their response carefully,
+Leave the flesh behind, and depart. 
+{{milestone:{label:7.7,id:UT22084-096-054-476}}}“The rites of flesh that I have taught
+Should not be used without mantra recitation.{{note:{index195,id:UT22084-096-054-477}}}
+I have taught about protection in charnel grounds,
+{{milestone:{label:7.8,id:UT22084-096-054-478}}}In the Vidyottama,Uṣṇīṣa,Mahābāla, and so forth. {{note:{index196,id:UT22084-096-054-479}}}{{note:{index197,id:UT22084-096-054-480}}}{{note:{index198,id:UT22084-096-054-482}}}
+{{milestone:{label:7.9,id:UT22084-096-054-483}}}“Use a wrathful mantra for flesh-eaters{{note:{index199,id:UT22084-096-054-484}}}
+When performing a homa of human flesh in a charnel ground. 
+Chop the flesh into two- or three-finger-width pieces with a knife,
+And offer it into the fire a thousand times. 
+{{milestone:{label:7.10,id:UT22084-096-054-485}}}“The charnel ground should be arrayed
+With fresh flowers, parched grain, meat, blood, fish,
+Honey, sweet liquor, sesame, incense, garlands,
+Unguents, lamps, porridge, food, and oblations. {{note:{index200,id:UT22084-096-054-486}}}
+{{milestone:{label:7.11,id:UT22084-096-054-487}}}“To possess, banish, or put someone to sleep,
+Crush an army, or lay waste to a town,
+One should offer a homa of flesh
+To fierce flesh-eating mātṛkās, the host of rākṣasīs, and to yakṣas. 
+{{milestone:{label:7.12,id:UT22084-096-054-488}}}“If human flesh cannot be found,
+A homa using cow flesh is also recommended.
+The flesh of a buffalo or dog mixed with ghee
+Can be used in a homa on specific dates after fasting. 
+{{milestone:{label:7.13,id:UT22084-096-054-489}}}“The ritual procedure involving a yakṣiṇī
+Will grant its achievement once she is satisfied with mantra.
+She will act as one’s mother, mother-in-law, aunt,
+Companion, daughter, wife, or new bride. 
+{{milestone:{label:7.14,id:UT22084-096-054-490}}}“A mother, mother-in-law, and aunt
+Are the highest attainments, like wish-fulfilling jewels.
+A pleasing companion or daughter are middling,
+And a wife or new bride are considered lesser attainments.
+{{milestone:{label:7.15,id:UT22084-096-054-491}}}“One should make offerings three times a day
+Of flowers, garlands, fragrances,
+Lamps of ghee or oil, and fragrant incense of sandal or agarwood.{{note:{index201,id:UT22084-096-054-492}}}
+A variety of oblations should be offered at night. 
+The yakṣiṇī will then gladly approach,
+Granting what is sought and drawing forth seed.{{note:{index202,id:UT22084-096-054-493}}}
+{{milestone:{label:7.16,id:UT22084-096-054-494}}}“Women consumed with desire
+Are certainly a cause of harm.{{note:{index203,id:UT22084-096-054-495}}}
+One should not flee when women cause harm,
+Nor hope for any gain, be it great or small. {{page:{number:27,id:UT22084-096-054-1047,folio:F.131.a}}}
+{{milestone:{label:7.17,id:UT22084-096-054-496}}}“Once a mantrin has blocked his semen at night,
+He should arouse his diligence and take up the practice. 
+If those who are ignorant were to exert themselves otherwise, 
+They would be swiftly annihilated by the yakṣiṇī.
+Even the very thought of it is ruinous.{{note:{index204,id:UT22084-096-054-497}}}
+{{milestone:{label:7.18,id:UT22084-096-054-498}}}“This is what is done for the flesh-eating yakṣiṇī herself;
+There are additional rites to perform apart from this:
+{{milestone:{label:7.19,id:UT22084-096-054-499}}}“Flesh, alcohol, radishes, vegetables, balls of rice,
+Fish, and preparations of barley, beans, and rice—
+These oblations should all be censed with incense and offered.
+{{milestone:{label:7.20,id:UT22084-096-054-500}}}“An empty house or charnel ground is an auspicious site.
+Offerings of flowers should be made, including those of śirīsa,{{note:{index205,id:UT22084-096-054-501}}}
+Kunduru, arka, bilva, bṛhatī, kuśa, rājārka, akas,{{note:{index206,id:UT22084-096-054-502}}}{{note:{index207,id:UT22084-096-054-503}}}
+Utpala, turuṣka, pomegranate, aśoka, and so forth.{{note:{index208,id:UT22084-096-054-504}}}{{note:{index209,id:UT22084-096-054-505}}}
+{{milestone:{label:7.21,id:UT22084-096-054-506}}}“To nāgas offer a fragrant incense made of molasses, milk, and ghee.
+Offer them fragrant sandalwood and agarwood, 
+Garlands and various fragrant flowers, 
+Porridge, yogurt, parched grain, and fruit. 
+{{milestone:{label:7.22,id:UT22084-096-054-507}}}“To uragas offer, to the extent they can be found,
+Blue banners, blue vases, and blue clothes,
+As well as blue food, oblations, fragrances,
+Garlands, flowers, and unguents. 
+{{milestone:{label:7.23,id:UT22084-096-054-508}}}“An oracle always appears 
+In a thumbnail, mirror, sword, water, crystal,{{note:{index210,id:UT22084-096-054-509}}}
+In a lamp, the ground, iron, the sky,
+A jeweled bowl, or a blazing fire. 
+{{milestone:{label:7.24,id:UT22084-096-054-510}}}“The oracle knows the past, present, and future,{{note:{index211,id:UT22084-096-054-511}}}
+And all the virtuous and nonvirtuous deeds
+In the heavens, on earth, and beyond time,{{note:{index212,id:UT22084-096-054-512}}}
+As well as those of the devas and asuras. 
+{{milestone:{label:7.25,id:UT22084-096-054-513}}}“If the rite deteriorates or is half-recited,
+If syllables are added or syllables are omitted, 
+If recitation is not performed or faith is lacking,
+If there is no worship or the site is unclean,
+{{milestone:{label:7.26,id:UT22084-096-054-514}}}“If the sun’s rays are blocked by clouds,
+If the child has deformed limbs, or too many,
+Then the oracle will not enter the person,{{note:{index213,id:UT22084-096-054-515}}}
+And what is sought will not be revealed. 
+{{milestone:{label:7.27,id:UT22084-096-054-516}}}“So that the oracle descends, recite according to the prescribed rite:
+On an auspicious date the mantrin should complete a fast,
+And in the evening smear the ground with soil and cow dung
+To create an area the size of a cow’s hide. 
+{{milestone:{label:7.28,id:UT22084-096-054-517}}}“They should offer scented unguents, 
+Flowers, incense, and lamps. {{page:{number:28,id:UT22084-096-054-1048,folio:F.131.b}}}
+Ritually prepare the young child.{{note:{index214,id:UT22084-096-054-518}}}
+{{milestone:{label:7.29,id:UT22084-096-054-519}}}“Then, in the morning, perform the rite in full:
+After bathing, the mantrin should dress in clean white clothes, 
+Sit facing east upon a seat of kuśa grass,
+And then bring the mantra to mind.
+{{milestone:{label:7.30,id:UT22084-096-054-520}}}“The mirror should be wiped with clean ash,{{note:{index215,id:UT22084-096-054-521}}}
+Seven, eight, or even ten times.
+While the mantra is recited one-pointedly,
+The young child, facing west,
+Looks with a divine eye{{note:{index216,id:UT22084-096-054-522}}}
+And sees past, present, and future. 
+{{milestone:{label:7.31,id:UT22084-096-054-523}}}“For all rites designated mirror rites,
+The oracle should use a sword.
+Lac should be applied to the thumbnail,{{note:{index217,id:UT22084-096-054-524}}}
+Which is then smeared with fragrant oils.
+{{milestone:{label:7.32,id:UT22084-096-054-525}}}“The mantrin sets out a stable, clean vase filled with water, 
+And fills a jeweled bowl sitting on the ground with water. {{note:{index218,id:UT22084-096-054-526}}}
+After offering fragrant unguents and flowers to the image,{{note:{index219,id:UT22084-096-054-527}}}
+The young child should look into it.
+{{milestone:{label:7.33,id:UT22084-096-054-528}}}“Through the oracle or in dreams and so forth,
+One should look for signs of the siddhis and then recite. 
+If the mantrin is not confident,
+Recite a vidyā mantra that is not malevolent.{{note:{index220,id:UT22084-096-054-529}}}
+{{milestone:{label:7.34,id:UT22084-096-054-530}}}“Once a poṣadha fast has been observed, 
+The mantrin concentrates intently on one of my pure mantras, 
+And recites it before a caitya containing relics of the Victor,
+Or in the presence of an undamaged image. 
+{{milestone:{label:7.35,id:UT22084-096-054-531}}}“Restraining the movement of body, speech, and mind,
+As well as the hands, eyes, brow, and limbs,
+They turn their mind toward the mantra{{note:{index221,id:UT22084-096-054-532}}}
+And sit on a mat of kuśa grass while cultivating love.
+{{milestone:{label:7.36,id:UT22084-096-054-533}}}“Maintaining focus for as long as possible, 
+They should recite 100,000 or 200,000 times.
+My mantra hūṁ can even enter wood, 
+So no need mention that it can enter a person. 
+{{milestone:{label:7.37,id:UT22084-096-054-534}}}“Next, the vessel of possession should be examined. 
+It can be a girl aged ten or twelve, 
+Or ten, eight, seven, four, or three. {{note:{index222,id:UT22084-096-054-535}}}
+A boy is also suitable, one who is two or five years of age.
+{{milestone:{label:7.38,id:UT22084-096-054-536}}}“They should be attractive, their joints, bones, and veins not visible.
+They should have all their limbs, and long, white eyes.
+Their face should be like the moon, their incisors even and sharp, {{page:{number:29,id:UT22084-096-054-1049,folio:F.132.a}}}
+Their fingers elegant and compact, and their ankle bones sunken.
+{{milestone:{label:7.39,id:UT22084-096-054-537}}}“They should have a deep, beautiful navel and well-proportioned chest,
+Each strand of their hair should be thick and black,
+Their stomach should not sag, but have the three folds,{{note:{index223,id:UT22084-096-054-538}}}
+And they should have a good complexion and striking appearance.
+{{milestone:{label:7.40,id:UT22084-096-054-539}}}“They should be consistently pleasing to look at,
+Such that one never tires of seeing them,
+And they should be a vessel for possession
+That is indifferent to other deities. 
+{{milestone:{label:7.41,id:UT22084-096-054-540}}}“On an auspicious date, the mantrin should fast all day,
+And make offerings of incense, garlands, sandalwood, flowers, and lamps. 
+They should present many oblations of food, porridge, and the like
+To all the devas, asuras, and yakṣas.
+{{milestone:{label:7.42,id:UT22084-096-054-541}}}“The vessels to be possessed should be bathed and dressed in white.
+Facing east, all their ornaments should be removed.
+They should be given fragrant unguents, flowers, and the like,
+And be censed with incense—then the recitation should commence. 
+{{milestone:{label:7.43,id:UT22084-096-054-542}}}“After first reciting the mantra hūṁ,
+Say the words ‘gṛhṇa āveśaya.’ {{note:{index224,id:UT22084-096-054-543}}}
+If the child opens their eyes and does not smile,
+Know the possession to be complete
+And ask any questions without fear. 
+{{milestone:{label:7.44,id:UT22084-096-054-544}}}“Present offering water and incense,
+Call to mind the mantra of the supreme vidyā,
+Then bow to them and ask,
+‘What class of deity are you?’
+{{milestone:{label:7.45,id:UT22084-096-054-545}}}Issue the directive, 
+‘Consider well my aims in the three times,
+Tell me if I will be happy or suffer,
+And if I will obtain siddhis or not.’
+{{milestone:{label:7.46,id:UT22084-096-054-546}}}Once these are properly ascertained,
+Release the oracle right away. 
+{{milestone:{label:7.47,id:UT22084-096-054-547}}}“A malevolent person will use these mantra rites
+To cause a human to enter the vessel of possession.{{note:{index225,id:UT22084-096-054-548}}}
+One thus led astray by the deluded
+Will become an object of everyone’s ridicule. 
+{{milestone:{label:7.48,id:UT22084-096-054-549}}}“When a deity enters the vessel of possession,
+They will be serene, lucid, broad, and tall,
+Appear resolute, radiant, bright, and flush,
+And will smile, be constant, and have eyes like a deity. 
+{{milestone:{label:7.49,id:UT22084-096-054-550}}}“If their eyes are deep red and round,
+Wide open, ugly, and terrifying,
+Or if they do not smile and look about fearlessly,
+These are the eyes of one possessed by a rākṣasa, mahoraga, or yakṣa. {{page:{number:30,id:UT22084-096-054-1050,folio:F.132.b}}}
+{{milestone:{label:7.50,id:UT22084-096-054-551}}}“If the vessel of possession is not released, 
+One should intently recite The Auspicious Verses,{{note:{index226,id:UT22084-096-054-552}}}
+The Mahābala, The Laughter, or The Hook.{{note:{index227,id:UT22084-096-054-553}}}{{note:{index228,id:UT22084-096-054-554}}}
+Alternatively, one should read the Mahāsannipāta.{{note:{index229,id:UT22084-096-054-555}}}
+{{milestone:{label:7.51,id:UT22084-096-054-556}}}“One should burn one hundred sticks of firewood
+Of arka or palaśa smeared with ghee and stacked like a lion throne. {{note:{index230,id:UT22084-096-054-557}}}{{note:{index231,id:UT22084-096-054-558}}}
+One should then wrathfully perform twenty-one homas
+Using unbroken sesame mixed with honey and ghee.
+{{milestone:{label:7.52,id:UT22084-096-054-559}}}“By carrying out the mantra rites as prescribed, 
+And by keeping their samaya perfectly, 
+Mantrins will attain siddhis aligned with my intent,
+And will long be free from the afflictions.” 
+{{milestone:{label:7.53,id:UT22084-096-054-560}}}This was the seventh chapter of the noble “Subāhu’s Questions.”
+{{milestone:{label:8,id:UT22084-096-054-chapter-8}}}Chapter 8
+{{milestone:{label:8.1,id:UT22084-096-054-561}}}“The Buddha taught the eightfold path:
+Right livelihood, right action, right samādhi, right speech,{{note:{index232,id:UT22084-096-054-562}}}
+Right effort, right intention, right attention, and right view. 
+A mantrin should correctly rely on each and every one.
+{{milestone:{label:8.2,id:UT22084-096-054-563}}}“Through this path one finds success in mantras, 
+And likewise the higher realms and liberation.{{note:{index233,id:UT22084-096-054-564}}}
+The victors of the past and the victors’ heirs
+Have gone along it to become thus-gone ones.{{note:{index234,id:UT22084-096-054-565}}}
+{{milestone:{label:8.3,id:UT22084-096-054-566}}}“Those who, with an insatiable mind,
+Reverentially gather merit with body, speech, and mind{{note:{index235,id:UT22084-096-054-567}}}
+Will cultivate that path of virtue
+If they embrace the true path spoken by the Sugata.
+{{milestone:{label:8.4,id:UT22084-096-054-568}}}“Relinquishing all grasping,
+Content with simple robes,
+Meager alms and medicines, and plain bedding, 
+They will receive merit. 
+{{milestone:{label:8.5,id:UT22084-096-054-569}}}“They should never praise themselves,{{note:{index236,id:UT22084-096-054-570}}}
+Nor should they disparage other beings.
+Regarding the world as a tiger, snake, or fire,
+They should forsake it and take joy in solitude.
+{{milestone:{label:8.6,id:UT22084-096-054-571}}}“They give up scrutinizing the features of men and women,
+Medicine, and elephants, and investigating the stars.
+They give up examining weapons, scrutinizing horses,
+And the study of base literature and treatises.
+{{milestone:{label:8.7,id:UT22084-096-054-572}}}“They should neither observe nor instigate fights
+Between elephants, horses, cattle, cocks, dogs,
+Grouse, partridges, owls, men, women, 
+Boys, girls, children, sheep, and so forth. {{page:{number:31,id:UT22084-096-054-1051,folio:F.133.a}}}
+{{milestone:{label:8.8,id:UT22084-096-054-573}}}“They should not gossip about the realm or serve kings,{{note:{index237,id:UT22084-096-054-574}}}
+Nor trade stories of war, wrestlers, or young women, 
+Nor tell fantastical tales or weave histories,
+And should not speak of their desires or discuss sex work.
+{{milestone:{label:8.9,id:UT22084-096-054-575}}}“Mantrins intent on mantra recitation should not frequent
+Towns, cities, homes, or monasteries, 
+Caityas, mountain hermitages, the haunts of ascetics,
+Pleasure gardens, ponds, or pools.
+{{milestone:{label:8.10,id:UT22084-096-054-576}}}“If unable to find the places previously described,{{note:{index238,id:UT22084-096-054-577}}}
+They should reside and recite in empty shrines,
+At a tree, mountain, river, stream, or waterfall,
+In an empty forest, empty land, or any suitable place. 
+{{milestone:{label:8.11,id:UT22084-096-054-578}}}“If they cannot settle on a place,
+They can stay in any suitable place
+For a span of eight months.{{note:{index239,id:UT22084-096-054-579}}}
+In the months of winter and spring
+Mantrins can make their home
+At an isolated lake, tree, mountain,
+Pond, house, or riverbank,
+And remain there alone through the summer.
+{{milestone:{label:8.12,id:UT22084-096-054-580}}}“Just as the Victor taught monks the custom
+Of not traveling during the three summer months,
+So the Blessed One said that mantrins{{note:{index240,id:UT22084-096-054-581}}}
+Should stay in one place for three months. 
+{{milestone:{label:8.13,id:UT22084-096-054-582}}}“In the summer mantrins should not seek accomplishment,
+But rather spend their time only on recitation.{{note:{index241,id:UT22084-096-054-583}}}
+When the summer has passed, they should harness the might of mantra,
+Perform the self-protection rites, and take up their practice.
+{{milestone:{label:8.14,id:UT22084-096-054-584}}}“They should make well-formed fire pits:
+One round, one triangular, one square, and one like a lotus.
+They should be smooth and even,
+And well-daubed with soil and cow dung.
+{{milestone:{label:8.15,id:UT22084-096-054-585}}}“A round pit is best suited for pacification rites,
+And those for generating power, attracting wealth, and invitation.{{note:{index242,id:UT22084-096-054-586}}}
+A triangular pit is used for fierce activities:
+Those for isolating, banishing, killing, and other hostile acts.
+{{milestone:{label:8.16,id:UT22084-096-054-587}}}“A square pit is for sapping the life force
+Or crushing the limbs of nāgas and guhyakas.{{note:{index243,id:UT22084-096-054-588}}}
+A lotus pit is suited to accomplish any aim,
+And for acquiring women, girls, a village, or a kingdom.{{page:{number:32,id:UT22084-096-054-1052,folio:F.133.b}}}{{note:{index244,id:UT22084-096-054-589}}}{{note:{index245,id:UT22084-096-054-590}}}
+{{milestone:{label:8.17,id:UT22084-096-054-591}}}“The fire pits should be smeared with pure cow dung,{{note:{index246,id:UT22084-096-054-592}}}
+Then kuśa grass spread around them as the final step. 
+{{milestone:{label:8.18,id:UT22084-096-054-593}}}“The mantrin should follow the ritual to make offerings
+Of all available garlands, incense, fragrances, and fresh flowers,
+Offering them faithfully to the Three Jewels,
+Vajrapāṇi, and the main female deity.{{note:{index247,id:UT22084-096-054-594}}}
+{{milestone:{label:8.19,id:UT22084-096-054-595}}}“They should place abundant firewood near the fire pit,
+Stoke the fire using a fan, and bow to the buddhas.
+For wrathful rites they should use Amṛtakuṇḍalin,
+Making oblations by casting into the fire
+Seven, eight, ten, or twenty fresh lotuses or whole black mustard seeds.
+{{milestone:{label:8.20,id:UT22084-096-054-596}}}“The mantrin should sit facing east
+On a bed or bolster of kuśa grass, or a grass mat.
+After smearing the ritual substance with ghee, honey, and milk,{{note:{index248,id:UT22084-096-054-597}}}
+They should perform a homa to perfect their mantra.
+{{milestone:{label:8.21,id:UT22084-096-054-598}}}“The fire will reveal certain signs:
+Sparks, smoke, a tongue of flame, and sound.
+With these the fire, empowered by mantra,
+Will show what has been accomplished and what has not.
+{{milestone:{label:8.22,id:UT22084-096-054-599}}}“If the fire is smokeless, shines with a golden color, 
+Has tremendous flames that swirl to the right, 
+Is colored like a rainbow, is white,
+Or has the color of crushed coral;
+If it is very oily, or has flames radiating from its base;{{note:{index249,id:UT22084-096-054-600}}}
+If it shines brightly like the rays of the sun,
+Takes the shape of a vase, banner, or parasol,
+Or resembles the śrīvatsa mark, lotus, or ritual ladle;
+If its flames appear like a trident, vajra, or sword,
+Fine chariot or fly whisk;
+If it sounds like a clay drum, large drum, or flute;
+If its smoke and flames are fragrant and give off good sparks;
+Or if the fire burns without being lit, 
+At that moment extensive siddhis are achieved. 
+{{milestone:{label:8.23,id:UT22084-096-054-601}}}“If there is a lot of smoke and wild sparks;
+If the fire burns with difficulty or burns very low;
+Or if its flames die out, are without luster, or rough,
+If they are the color of a dark cloud or of palāśa,{{note:{index250,id:UT22084-096-054-602}}}
+If they resemble a spike, appear to be very fine,
+Or resemble the coarse hairs on the head of an animal,
+If the flames spread and burn the one performing homa,
+Or if they smell like a corpse, it is a sign that there are no siddhis.
+{{milestone:{label:8.24,id:UT22084-096-054-603}}}“Upon seeing flames with features like these,
+Perform a homa of Mahābala using ghee.{{page:{number:33,id:UT22084-096-054-1053,folio:F.134.a}}}{{note:{index251,id:UT22084-096-054-604}}}
+{{milestone:{label:8.25,id:UT22084-096-054-605}}}“A mantrin should not pluck the hairs
+Of their calves or armpits by hand,
+Singe them with fire, shave them with a razor,
+Or apply medicines to make themselves hairless.{{note:{index252,id:UT22084-096-054-606}}}
+{{milestone:{label:8.26,id:UT22084-096-054-607}}}“Just as a person holding a sword by the blade
+Will cut their hand if not holding it carefully, 
+If a mantra is not recited with care,
+There will either be no result, or one will fall to ruin.
+{{milestone:{label:8.27,id:UT22084-096-054-608}}}“It is not the mantra deity that will harm
+A person lacking discipline or ritual purity,
+It is those among the deity’s retinue,
+Who seize the chance to bring ruin upon them.
+{{milestone:{label:8.28,id:UT22084-096-054-609}}}“The first step in pursuit of any accomplishment
+Is to always make abundant offerings of food oblations. 
+Even after the mantra activity is complete,
+One should always offer everything they are moved to offer.
+{{milestone:{label:8.29,id:UT22084-096-054-610}}}“The mantrin should say:
+‘Devas, asuras, yakṣas, uragas, and kumbhāṇḍas,
+Garuḍas, suparṇas, and kaṭapūtanas,
+Gandharvas, rākṣasas, and various classes of grahas,
+All magical beings who live upon the earth, 
+Along with your families and households,
+I kneel with folded hands and supplicate you—
+Please come here from your homes and bring benefit.{{note:{index253,id:UT22084-096-054-611}}}
+{{milestone:{label:8.30,id:UT22084-096-054-612}}}“ ‘Bhūtas who dwell atop Mount Meru,
+In pleasure groves and the divine realms, 
+Mountains of the east and west, 
+The houses of the sun and moon, and upon any mountain;
+{{milestone:{label:8.31,id:UT22084-096-054-613}}}“Who live in rivers or at their confluence,
+Dwell in jeweled abodes,
+In lakes, ponds, pools, at the water’s edge,
+Or in the many small rivulets;
+{{milestone:{label:8.32,id:UT22084-096-054-614}}}“ ‘Who live in towns, cattle pens, and deserted cities, 
+Vacant houses and shrines to the gods,
+Monasteries and caityas,
+The haunts of ascetics, and in elephant stalls;
+{{milestone:{label:8.33,id:UT22084-096-054-615}}}“ ‘Who live in the treasuries of kings,
+In narrow lanes, assembly halls, and at crossroads,
+Along the great highways, under lone trees,
+In the great charnel grounds, and in vast forests;
+{{milestone:{label:8.34,id:UT22084-096-054-616}}}“ ‘And who live among lions, bears, and beasts of prey, {{page:{number:34,id:UT22084-096-054-1054,folio:F.134.b}}}
+In the great and fearsome wilds,
+On the sublime continents, Mount Sumeru,
+Or within a charnel ground—
+{{milestone:{label:8.35,id:UT22084-096-054-617}}}“ ‘Delight, be glad, and accept these respectful offerings 
+Of garlands, flowers, scents, incense, praise, oblations, and lamps. 
+Drink them and keep them,
+And let these activities bear their fruit.’
+{{milestone:{label:8.36,id:UT22084-096-054-618}}}“Once such offerings have been made to the grahas, 
+The mantrin should make offerings to the directional guardians:{{note:{index254,id:UT22084-096-054-619}}}
+‘Iśāṇa and your host of bhūtas,{{note:{index255,id:UT22084-096-054-620}}}
+Please accept the oblations I offer!
+{{milestone:{label:8.37,id:UT22084-096-054-621}}}“ ‘Agni, Yama, Nirṛti, Varuṇa, {{note:{index256,id:UT22084-096-054-623}}}
+Vāyu, Kubera and your bhūtas and grahas,
+Sūrya and Candra above, great Brahmā, 
+All devas and the nāgas on earth, 
+Mountain devas, and hosts of yakṣas,
+Delightfully accept these oblations,
+Offered to each of you in turn.
+Happily remain each in your directions,
+And join your families, kith and kin, 
+Households, and soldiers in your army
+In partaking of these offerings
+Of flowers, fragrance, oblations, and unguents.
+Be grateful, and let my activities bear fruit!’
+{{milestone:{label:8.38,id:UT22084-096-054-624}}}“Those who perform this ritual act
+Of giving oblations to the creatures of the night
+Will swiftly attain siddhi, be free of obstacles,
+And receive all that they desire.”
+{{milestone:{label:8.39,id:UT22084-096-054-625}}}This was the eighth chapter of the noble “Subāhu’s Questions.”
+{{milestone:{label:9,id:UT22084-096-054-chapter-9}}}Chapter 9
+{{milestone:{label:9.1,id:UT22084-096-054-626}}}“Slaying an arhat or one’s parents,
+Creating discord in a harmonious saṅgha,
+Or, with malicious intent,
+Drawing blood from a tathāgata—
+{{milestone:{label:9.2,id:UT22084-096-054-627}}}“These heinous acts the Victor called 
+ The five deeds with immediate consequences.
+Deluded people who commit just one of them
+Will not reach attainment in their present aggregates.{{note:{index257,id:UT22084-096-054-628}}}
+{{milestone:{label:9.3,id:UT22084-096-054-629}}}“Destroying a caitya, slaying a bodhisattva, {{page:{number:35,id:UT22084-096-054-1055,folio:F.135.a}}}
+Violating a woman who has exhausted her afflictions,
+Killing a novice student, or coveting and then stealing
+Something owned by the saṅgha, however great or small—
+{{milestone:{label:9.4,id:UT22084-096-054-630}}}“These the Tathāgata called the five secondary deeds with immediate consequences.
+A person with corrupt discipline who commits them
+Will experience an eon of suffering in Avīci Hell,
+And though they strive for mantra siddhis, will not attain them. 
+{{milestone:{label:9.5,id:UT22084-096-054-631}}}“Those who commit evil in the human realm
+By mistreating, consigning to flames,
+Or with ill intent throwing into water 
+The volumes of the Tathagata’s words, 
+By forsaking the body of teachings,{{note:{index258,id:UT22084-096-054-632}}}
+By killing a monk or nun adorned
+With the full code of training,
+By killing a holder of lay vows, male or female,
+Or by burning a temple with ill intent
+Will never reach attainment, no matter their austere practice. 
+{{milestone:{label:9.6,id:UT22084-096-054-633}}}“Those who intend harm to the Three Jewels,
+And then commit even a small amount of harm, 
+Will be cooked in the hells due to their evil nature.
+Passing on from there, the force of their actions
+Will lead to rebirth as a human of low caste or an animal—{{note:{index259,id:UT22084-096-054-634}}}
+all this I have explained to you in brief. 
+{{milestone:{label:9.7,id:UT22084-096-054-635}}}“If someone who has adopted bodhicitta,
+in delusion worships the host of worldly gods,
+They will find no joy in it,
+And weaken their mantra siddhis. 
+{{milestone:{label:9.8,id:UT22084-096-054-636}}}“When, in the realm of humans,
+Those of lucid mind adopt bodhicitta,
+It is they, thenceforth, who are worthy of worship
+By devas, asuras, and all the world. 
+{{milestone:{label:9.9,id:UT22084-096-054-637}}}“A person who adopts all exalted precepts in full,
+And who grants fearlessness to all beings,
+Is a representative of the lineage of the Three Jewels.{{note:{index260,id:UT22084-096-054-638}}}
+{{milestone:{label:9.10,id:UT22084-096-054-639}}}“Mantrins should not perform heinous acts, kill a sage,
+Disrupt or cause harm to a vidyā mantra,
+Fail to venerate the mantra assembly out of ill intent,
+Pointlessly pick at grass with their nails,
+Rub their legs together,
+Pierce the noses of cattle herds and the like,
+Fail to respect the noble saṅgha, {{page:{number:36,id:UT22084-096-054-1056,folio:F.135.b}}}
+Or eat gifts to the bhūtas, oblations to the gods, 
+Or food that has a fallen on the ground.
+They should not, when overcome with desire,
+Approach animals or prohibited women.
+They should not tame elephants or handle snakes,
+Nor whip the flanks of the horse they ride.
+Those who perform such actions
+Will never receive the siddhis.
+{{milestone:{label:9.11,id:UT22084-096-054-640}}}“Mantrins should always cultivate affection
+For beings who suffer or are beset with disease.
+{{milestone:{label:9.12,id:UT22084-096-054-641}}}“Just as the extent of the boundless sky 
+Cannot be measured in arm spans,
+So it is impossible to gauge the extent of virtue and evil
+Of the benefit and harm done by those supported by the Three Jewels.{{note:{index261,id:UT22084-096-054-642}}}
+{{milestone:{label:9.13,id:UT22084-096-054-643}}}“If they use nets, traps, or snares
+To kill beings such as dogs and the like,
+Or if they trap crows and other birds in cages, 
+They will not reach accomplishment in this life or the next.
+{{milestone:{label:9.14,id:UT22084-096-054-644}}}“They should neither trample on, nor adorn their heads with,
+The old, discarded flowers of Māra’s Foe,{{note:{index262,id:UT22084-096-054-645}}}
+Nor should they eat the food offered to them,{{note:{index263,id:UT22084-096-054-646}}}
+Even when they are beset with hunger.
+{{milestone:{label:9.15,id:UT22084-096-054-647}}}“Not even in fear should they pay homage to
+Brahmā, Śakra, Viṣṇu, Rudra, Vāyu, and the rest.
+They should not follow the teachings they propound, 
+Practice their austerities, or worship their symbols.
+They should not harbor animosity to their doctrines,
+But should never delight in their practice either.
+They should never praise them or recite their mantras.
+{{milestone:{label:9.16,id:UT22084-096-054-648}}}“When giving a gift they should give with compassion.
+{{milestone:{label:9.17,id:UT22084-096-054-649}}}They should venerate places visited by the Sugata,
+And pay homage to the heirs of the Victor.
+Pratyekabuddhas and the Victor’s own śrāvakas
+Should be the object of their constant veneration.
+{{milestone:{label:9.18,id:UT22084-096-054-650}}}“Just as people who venerate a phase of the moon
+Do not venerate the moon in all its fullness,
+So those who faithfully venerate the Victor’s heirs
+Are not venerating the Sugata himself.
+{{milestone:{label:9.19,id:UT22084-096-054-651}}}“One who holds the most exalted of all the world’s precepts{{note:{index264,id:UT22084-096-054-652}}}
+Is the very embodiment of compassion, taking birth for beings’ sake.
+Why would we not venerate them all,
+They who are as if an only child?{{page:{number:37,id:UT22084-096-054-1057,folio:F.136.a}}}{{note:{index265,id:UT22084-096-054-653}}}
+{{milestone:{label:9.20,id:UT22084-096-054-654}}}“A wicked person who does not bow before
+An astonishing person, rich in miraculous power,
+Will be distrusted by the victors,
+And will not be granted their mantra siddhis.{{note:{index266,id:UT22084-096-054-655}}}
+{{milestone:{label:9.21,id:UT22084-096-054-656}}}“Just as a tree’s flower will at first beguile,
+And only later transform into fruit,
+Know sublime beings to be like flowers,
+And the victors to be their fruit.
+{{milestone:{label:9.22,id:UT22084-096-054-657}}}“Homage to those who uphold the awakened way,
+Who are naturally free of attachment,
+Yet show compassion to the kind,{{note:{index267,id:UT22084-096-054-658}}}
+Anger to the angry, and desire to the desirous. 
+{{milestone:{label:9.23,id:UT22084-096-054-659}}}“Homage to the guides of mantra,
+Who with knowledge of actions and results
+Assume the form of mantras{{note:{index268,id:UT22084-096-054-660}}}
+That are most suited to every being.”
+{{milestone:{label:9.24,id:UT22084-096-054-661}}}This was the ninth chapter of the noble “Subāhu’s Questions.”
+{{milestone:{label:10,id:UT22084-096-054-chapter-10}}}Chapter 10
+{{milestone:{label:10.1,id:UT22084-096-054-662}}}“For the benefit of devas, asuras, and humans, 
+The Victor taught The Vidyādhara’s Basket, 
+Various types of vidyā and mantra 
+Numbering thirty million, five hundred thousand.{{note:{index269,id:UT22084-096-054-663}}}
+{{milestone:{label:10.2,id:UT22084-096-054-664}}}“To conquer guhyakas
+And remove poverty’s misery,
+I taught seventy million mantras
+Along with their maṇḍalas and mudrās.
+{{milestone:{label:10.3,id:UT22084-096-054-665}}}“I have described in detail all who belong to the vajra clan:
+The ten dūtīs, the seven vidyā kings,{{note:{index270,id:UT22084-096-054-666}}}{{note:{index271,id:UT22084-096-054-667}}}
+The sixty-four servants,{{note:{index272,id:UT22084-096-054-668}}}
+My eight supreme essences,{{note:{index273,id:UT22084-096-054-669}}}
+The powerful lords of vidyās,
+Such as Amṛtakuṇḍalin and Vidyottama,{{note:{index274,id:UT22084-096-054-670}}}
+And all who are aligned with their mantras.{{note:{index275,id:UT22084-096-054-671}}}
+{{milestone:{label:10.4,id:UT22084-096-054-672}}}“Avalokiteśvara has likewise taught mantras{{note:{index276,id:UT22084-096-054-673}}}
+Numbering three million, five hundred thousand,
+Including his lord of vidyās Hayagrīva,
+And the maṇḍalas that bear his name.{{note:{index277,id:UT22084-096-054-674}}}
+{{milestone:{label:10.5,id:UT22084-096-054-675}}}“Seven forms of Amoghapāśa are taught—
+One with twelve arms, one with six, an uṣṇīṣa form,
+One with a diadem, a fulfiller of wishes, and a four-faced form.{{note:{index278,id:UT22084-096-054-676}}}
+The mantras shine like seven suns upon the earth. {{page:{number:38,id:UT22084-096-054-1058,folio:F.136.b}}}
+These maṇḍalas and mantras of Hayagrīva
+Grant people boons and are revered in the three worlds.
+{{milestone:{label:10.6,id:UT22084-096-054-677}}}“Tārā, Śvetā, Pāṇḍaravāsinī,{{note:{index279,id:UT22084-096-054-678}}}
+Vipaśyinī, Ekajaṭā, Gaurī,{{note:{index280,id:UT22084-096-054-679}}}
+Yaśovatī, and Bhṛkuṭī—
+These are the supreme vidyā queens of the lotus clan.
+{{milestone:{label:10.7,id:UT22084-096-054-680}}}“Within the vast system of mantra, train in Mekhalā,{{note:{index281,id:UT22084-096-054-681}}}
+Sovereign of vidyās and master of mantras,
+Who takes the form of these diverse maṇḍalas 
+And possesses the various types of mudrās.{{note:{index282,id:UT22084-096-054-682}}}
+{{milestone:{label:10.8,id:UT22084-096-054-683}}}“Her mantra grants people boons,
+And even Pāñcika delights in her.
+Always in accord with that lord of yakṣas,
+Her words describe the collection of mantra. 
+{{milestone:{label:10.9,id:UT22084-096-054-684}}}“Pāñcika teaches twenty thousand;
+His wife explains half of that.{{note:{index283,id:UT22084-096-054-685}}}
+The lord of wealth teaches thirty thousand,{{note:{index284,id:UT22084-096-054-686}}}
+While the father of Pūrṇa explains a hundred thousand.{{note:{index285,id:UT22084-096-054-687}}}
+{{milestone:{label:10.10,id:UT22084-096-054-688}}}“Devas, asuras, and the rest, who have faith in the Victor,
+Have explained mantras infinite in number.
+Some are included within my clan,
+Some are included in the lotus clan,
+Some are included in the jewel clan,
+And yet others are circumstantial and variable. 
+{{milestone:{label:10.11,id:UT22084-096-054-689}}}“The one named Māṇicara is said to be of the jewel clan,
+I am declared to be of the so-called vajra clan,
+Avalokiteśvara is of the lotus clan,
+And Pāñcika is in the fourth clan. 
+{{milestone:{label:10.12,id:UT22084-096-054-690}}}“All I have explained in mantra scriptures
+Can be coordinated with these four.
+However, some things are circumstantial, 
+And vary in dependence on the sugatas.{{note:{index286,id:UT22084-096-054-691}}}
+{{milestone:{label:10.13,id:UT22084-096-054-692}}}“Everything in this scripture
+Can be used by those desiring wealth.
+Mantrins who follow this specific path
+Will attain the siddhis aligned with their mind.
+{{milestone:{label:10.14,id:UT22084-096-054-693}}}“Within the three existences, the Victor is rare and supreme.
+The Dharma then sprung from him,
+And his Saṅgha consisted of the eight great people.{{note:{index287,id:UT22084-096-054-694}}}
+Within the three existences, the Three Jewels are preeminent. 
+{{milestone:{label:10.15,id:UT22084-096-054-695}}}“Because these three are the cause of merit’s increase, 
+Those seeking siddhi should begin their mantras with: {{page:{number:39,id:UT22084-096-054-1059,folio:F.137.a}}}
+‘For the sake of merit and to confound vināyakas,
+I pay homage to Vajrapāṇi most fierce.’
+{{milestone:{label:10.16,id:UT22084-096-054-696}}}“I, lord of yakṣas, have taught this,
+Which is to be placed at the beginning of mantras. 
+It can govern one’s own mantra,
+Even if it is of the jewel or lotus clan.
+{{milestone:{label:10.17,id:UT22084-096-054-697}}}“Those who are not sugatas, 
+Who follow the paths of śrāvakas and pratyekabuddhas, 
+Who are bereft of faith or are selfish and sanctimonious,{{note:{index288,id:UT22084-096-054-698}}}
+Should never wield my vajra.
+{{milestone:{label:10.18,id:UT22084-096-054-699}}}“Any monk, nun, 
+Male or female lay devotee, 
+Or any worldly person
+Who is hostile to the supreme vehicle,
+Says it is the teaching of māras,
+In ignorance asserts that I am a yakṣa,
+Or does not bow before a bodhisattva
+Will see their body swiftly destroyed
+When they recite my mantras. 
+{{milestone:{label:10.19,id:UT22084-096-054-700}}}“The grahas who belong to my clan,
+The bhūtas, yakṣas, nāgas, and piśācas too,
+Will angrily bring them to ruin
+When they see them reciting my mantra or bearing my vajra.
+{{milestone:{label:10.20,id:UT22084-096-054-701}}}“Those who study the vast supreme vehicle,
+Have faith in it, are enthusiastic in its explication,
+Have great diligence, and are resolute in their bodhicitta
+Will be granted the boons of my mantras. 
+{{milestone:{label:10.21,id:UT22084-096-054-702}}}“Broadly and extensively I have explained
+The mantras belonging to the awakened ones.
+Listen now as I briefly explain
+Those that are of a worldly type.
+{{milestone:{label:10.22,id:UT22084-096-054-703}}}“Rudra has taught ten million,
+Vāsudeva thirty thousand,{{note:{index289,id:UT22084-096-054-704}}}
+Brahmā sixty thousand,
+And Sūrya three hundred thousand.
+{{milestone:{label:10.23,id:UT22084-096-054-705}}}Garuḍa has taught eighteen thousand,
+Caṇḍālī eight thousand,
+Agni seven hundred, 
+And Triśaṅku one thousand. 
+{{milestone:{label:10.24,id:UT22084-096-054-706}}}The king of nāgas has taught five thousand, 
+Niśācarapati twelve thousand, 
+And the four lords of the world
+Taught four thousand to benefit beings. {{page:{number:40,id:UT22084-096-054-1060,folio:F.137.b}}}
+{{milestone:{label:10.25,id:UT22084-096-054-707}}}“Daityendra has taught two hundred thousand,
+And Devendra three hundred thousand.
+The mantras have various mudrās and rites, 
+And each has maṇḍalas from their respective treatise.
+{{milestone:{label:10.26,id:UT22084-096-054-708}}}“Those with faith in their own mantra scriptures{{note:{index290,id:UT22084-096-054-709}}}
+Will doubtlessly succeed as if without effort.
+When the opposite is true, siddhis are not obtained;
+They will endure much suffering instead.”
+{{milestone:{label:10.27,id:UT22084-096-054-710}}}This was the tenth chapter of the noble “Subāhu’s Questions.”
+{{milestone:{label:11,id:UT22084-096-054-chapter-11}}}Chapter 11
+{{milestone:{label:11.1,id:UT22084-096-054-711}}}“There are eight famed instructions:
+Alchemy, locating treasure, entering openings in the earth,
+Metallurgy, locating mines, mantra,
+Mineral refinement, and the granting of immeasurable wealth.{{note:{index291,id:UT22084-096-054-712}}}
+{{milestone:{label:11.2,id:UT22084-096-054-713}}}“Mantra, entering openings in the earth, and alchemy—
+These are supreme because they lead to the abandonment of evil. 
+The granting of wealth, locating treasure, and locating mines are middling. 
+Mineral refinement and metallurgy are the lesser among them.
+{{milestone:{label:11.3,id:UT22084-096-054-714}}}“People of strong mind, with zeal for the Dharma
+And rich in austerities, are vessels for the first of these.{{note:{index292,id:UT22084-096-054-715}}}
+The middling are for those in whom passion predominates,
+While the inferior are for those beset with dullness.{{note:{index293,id:UT22084-096-054-716}}}
+{{milestone:{label:11.4,id:UT22084-096-054-717}}}“Those who aspire to foster the supreme
+Should first abandon those taught as inferior.
+Those wracked by a painful craving for wealth
+Should make use of the middling set. 
+{{milestone:{label:11.5,id:UT22084-096-054-718}}}“Through the force of their austerities they will achieve
+Divine happiness, riches, longevity,
+Strength, a perfect form, erudition,
+Radiant complexion, singular intelligence, and great influence.
+{{milestone:{label:11.6,id:UT22084-096-054-719}}}“People who are free of attachment, delight in virtue, 
+Who are naturally inclined toward the Three Jewels,
+And who forsake evil and engage in recitation
+Are never far from divine attainments.
+{{milestone:{label:11.7,id:UT22084-096-054-723}}}“Powerful as an adamantine weapon, fire, or meteor,
+Mantras grant boons to the human realm. 
+They are unrivaled, both in this world and the next,
+For dispelling suffering and destroying evil.
+{{milestone:{label:11.8,id:UT22084-096-054-724}}}“For some they are like a wish-fulfilling tree,
+For some they grant siddhis, for some they bring merit, 
+And for others physical strength and happiness—
+Mantras grant people the results their minds desire. {{page:{number:41,id:UT22084-096-054-1061,folio:F.138.a}}}
+{{milestone:{label:11.9,id:UT22084-096-054-725}}}“A mantra, emanating a diversity of forms,{{note:{index294,id:UT22084-096-054-726}}}
+Protects the entire mass of beings 
+Who suffer, live in fear, 
+Or are terrified of kings, thieves, and lightning.
+{{milestone:{label:11.10,id:UT22084-096-054-727}}}“Whatever their land and wherever their home,
+Those who recite mantra a little every day,
+With uncorrupted austerities and focused minds,
+Will eventually succeed in their mantras.
+{{milestone:{label:11.11,id:UT22084-096-054-728}}}“First completing one hundred thousand recitations specified by the rite,
+Mantrins should next begin the main practice. 
+They will then swiftly obtain the siddhis, 
+And through the rite long be free from affliction.
+{{milestone:{label:11.12,id:UT22084-096-054-729}}}“They should smear their bodies with earth,
+Step into water that is free of dirt,
+And bathe themselves for as long as they wish.
+They should emerge facing the east or north, 
+Wash their hands and feet with water, 
+Squat with their legs open and hands between them, 
+And cup water noiselessly, without making bubbles.
+{{milestone:{label:11.13,id:UT22084-096-054-730}}}“They should take three sips of water,
+Use the water to wipe their lips twice,
+Close their teeth, and touch them with their tongue.
+If they cough, they need to rinse their mouth again. 
+{{milestone:{label:11.14,id:UT22084-096-054-731}}}“Renunciants, men, women, boys, girls,
+The elderly, and brahmins—{{note:{index295,id:UT22084-096-054-732}}}
+These a mantrin should never touch,
+Nor should a mantrin think about them.
+{{milestone:{label:11.15,id:UT22084-096-054-733}}}“Should a practitioner touch them,
+Or be touched by them,
+The practitioner should bathe again,
+Rinse their mouth ritually, and resume the recitation. 
+{{milestone:{label:11.16,id:UT22084-096-054-734}}}“The mantra will enter the body
+Of those who delight in ritual purity and recitation,
+Have compassion, have counteracted their greed,
+Eat alms food, and are diligent in solemn activity.{{note:{index296,id:UT22084-096-054-735}}}
+{{milestone:{label:11.17,id:UT22084-096-054-736}}}“Should someone offer them any amount
+Of women, clothing, wealth, conveyances,
+Adornments, unguents, food, drink, or bedding,
+Those who are engaged in practice should refuse them.
+{{milestone:{label:11.18,id:UT22084-096-054-737}}}“They should clean their anus five times with a heap of earth,
+Their genitals three times, their left hand three times, and both hands seven.
+Or, they can use soil and water for as long as it takes,
+To make themselves free of filth and odor. {{page:{number:42,id:UT22084-096-054-1062,folio:F.138.b}}}
+{{milestone:{label:11.19,id:UT22084-096-054-738}}}“Just as the flames of a summertime forest fire
+Burn through a whole wilderness with ease,
+So does the fire of recitation, stoked by the wind of discipline, 
+Send out flames of intense diligence to burn away evil.
+{{milestone:{label:11.20,id:UT22084-096-054-739}}}“Just as snow, unable to withstand the glare,
+Melts when struck by rays of sunlight,
+So the snow of evil dissolves when struck
+By the sunlight of discipline and recitation. 
+{{milestone:{label:11.21,id:UT22084-096-054-740}}}“Just as a lamp lit in deep darkness
+Dispels every hint of gloom,
+So the lamp of recitation quickly clears
+The gloom of evil amassed in a thousand lifetimes.{{note:{index297,id:UT22084-096-054-741}}}
+{{milestone:{label:11.22,id:UT22084-096-054-742}}}“If the mantra is effected through recitation and homa,{{note:{index298,id:UT22084-096-054-743}}}
+But the siddhis are still not achieved,
+A thousand caityas can be cast from clay
+Or from sand found at a riverbank. 
+{{milestone:{label:11.23,id:UT22084-096-054-744}}}“Once this practice has extinguished the evil
+Committed over many previous lives,
+In this very life the mantrin will receive
+The fruits of merit through mantra’s power.{{note:{index299,id:UT22084-096-054-745}}}
+{{milestone:{label:11.24,id:UT22084-096-054-746}}}“The fundamental root of mantra is discipline,
+Followed by diligence and patience,
+Faith in the victors, bodhicitta,
+The mantra, and an absence of laziness.
+{{milestone:{label:11.25,id:UT22084-096-054-747}}}“Just as a ruler possessing the seven requisites{{note:{index300,id:UT22084-096-054-748}}}
+Has no trouble subduing any kind of being, 
+So a mantrin possessing these seven requisites{{note:{index301,id:UT22084-096-054-749}}}
+Will quickly subdue any evil.{{note:{index302,id:UT22084-096-054-750}}}
+{{milestone:{label:11.26,id:UT22084-096-054-751}}}“After first completing most of the recitation, 
+The mantrin should then perform a homa.{{note:{index303,id:UT22084-096-054-752}}}
+Through homa the boons of mantra are bestowed,
+And all one’s desires are granted. 
+{{milestone:{label:11.27,id:UT22084-096-054-753}}}“The power of mantra can summon a woman
+From a distance of a hundred leagues away.
+She will not be a woman but a young yakṣiṇī,
+Who will serve the mantrin in body and deed. 
+{{milestone:{label:11.28,id:UT22084-096-054-754}}}“When performing a practice focused on desire,
+It is the young yakṣiṇī who bestows the result. 
+Manifesting in the body of that woman,
+She will serve the desires of the night. 
+{{milestone:{label:11.29,id:UT22084-096-054-755}}}“Just as men will exhaust their wealth
+To serve a woman out of desire,
+So a young yakṣiṇī or servant girl {{page:{number:43,id:UT22084-096-054-1063,folio:F.139.a}}}
+Can be summoned with mantra and made to serve. 
+{{milestone:{label:11.30,id:UT22084-096-054-756}}}“Someone fixated on another person’s wife
+Is compelled to seek her, tormented by desire.
+Ignorantly he indulges his desire for another’s wife,
+And receives all manner of evil.
+{{milestone:{label:11.31,id:UT22084-096-054-757}}}“Devas, nāgas, asuras, yakṣas, gandharvas, and siddhas,
+Who have faith in the Victor, help others, and explain mantra, 
+Are empowered by śrāvakas, pratyekabuddhas, tathāgatas, and bodhisattvas, 
+Who have seen the beings of the future who lack a protector. 
+{{milestone:{label:11.32,id:UT22084-096-054-758}}}“Three categories of result are taught:
+Superior, middling, and inferior.
+Flight, entering glorious openings in the earth,{{note:{index304,id:UT22084-096-054-759}}}
+Shapeshifting, invisibility, marrying a young yakṣiṇī,
+Alchemy, magical conjuration, and nocturnal activities{{note:{index305,id:UT22084-096-054-760}}}
+Are considered to be superior. 
+{{milestone:{label:11.33,id:UT22084-096-054-761}}}“The middling is becoming a lord of the earth,{{note:{index306,id:UT22084-096-054-762}}}
+While the wise have deemed inferior
+The acquisition of cities and wealth,
+Dividing, summoning, confining, banishing, killing, 
+Healing those stricken by hostile nāgas,
+And all related activities.
+{{milestone:{label:11.34,id:UT22084-096-054-763}}}“More specifically, displaying might 
+To embodied beings like nāgas, yakṣas,
+And children possessed by grahas
+Is considered exceedingly minor. 
+{{milestone:{label:11.35,id:UT22084-096-054-764}}}“Ritual rubbing, punching, slapping, hair pulling,{{note:{index307,id:UT22084-096-054-765}}}
+Reciting into the ear, transferring, banishing,{{note:{index308,id:UT22084-096-054-766}}}
+Killing, binding, and other acts of subjugation,
+Invocation, using the clothing of vidyā and mantra,
+Stomping, shaking, staring with a poisoned eye,{{note:{index309,id:UT22084-096-054-767}}}
+Piercing with a needle, inducing someone to vomit,{{note:{index310,id:UT22084-096-054-768}}}
+Blowing air, destroying limbs, summoning uragas,{{note:{index311,id:UT22084-096-054-769}}}
+Repeatedly restricting and suppressing, confounding, 
+Feeding poison, transferring poison elsewhere, 
+Guiding with an iron hook, expelling poison stuck in the body,
+Feeding someone or depriving them of food, {{page:{number:44,id:UT22084-096-054-1064,folio:F.139.b}}}
+Ritually securing the space, sending a messenger, 
+Dispelling, signaling a nāga,{{note:{index312,id:UT22084-096-054-770}}}
+And rousing with the sounds of conches and clay drums—
+These procedures are explained in the scriptures on poison.{{note:{index313,id:UT22084-096-054-771}}}
+{{milestone:{label:11.36,id:UT22084-096-054-772}}}“There are eighty types of snakes on earth,
+Roaming about causing harm to others.
+Among them twenty are hooded,
+Six are spotted, twelve are nonvenomous,
+Thirteen are fierce, and thirty are crossbreeds.{{note:{index314,id:UT22084-096-054-773}}}
+{{milestone:{label:11.37,id:UT22084-096-054-774}}}“There are many other types of poisonous creatures,
+Including frogs, lizards, scorpions, and spiders.{{note:{index315,id:UT22084-096-054-775}}}{{note:{index316,id:UT22084-096-054-776}}}
+Poison can be transmitted by urine, feces, 
+Saliva, physical contact, sight,
+And through the bite of fangs.
+Those learned in scriptures on poison
+Classify those as high, middling, and low.
+{{milestone:{label:11.38,id:UT22084-096-054-777}}}“Creatures bite when intoxicated with poison,{{note:{index317,id:UT22084-096-054-778}}}
+Driven by anger, afraid, 
+Startled, hungry, provoked,{{note:{index318,id:UT22084-096-054-779}}}
+Impelled by Yama, or when stepped on. 
+{{milestone:{label:11.39,id:UT22084-096-054-780}}}“There are four ways of biting,
+Which means seized by fangs or cut by teeth.
+{{milestone:{label:11.40,id:UT22084-096-054-781}}}“Being bitten by a single fang with blood drawn
+Is called a ‘bite’ because it results in mild poisoning. 
+{{milestone:{label:11.41,id:UT22084-096-054-782}}}“When struck by two fangs with blood drawn,
+This is called ‘being eaten.’
+{{milestone:{label:11.42,id:UT22084-096-054-783}}}“When three fangs break the skin,
+This is called ‘being cut.’
+{{milestone:{label:11.43,id:UT22084-096-054-784}}}“When the body is struck by four fangs,
+And then eaten by the snake, 
+This is called ‘being struck and eaten.’
+{{milestone:{label:11.44,id:UT22084-096-054-785}}}“In that case even medicine is a poor antidote.
+The poison tears through the vital organs like fire.
+It is the same as a weapon, fire, or piercing heat.
+Mantra is able to pacify it
+In ways a healer’s art cannot.
+{{milestone:{label:11.45,id:UT22084-096-054-786}}}“Just as falling rain instantly dampens{{note:{index319,id:UT22084-096-054-787}}}
+An inferno steadily burning its fuel,
+So poison, like that inferno,
+Is pacified by the use of mantra.
+{{milestone:{label:11.46,id:UT22084-096-054-788}}}“If a mantrin understands a poison’s potency 
+And earnestly completes the recitation from the mantra rite,
+This approach will eliminate poisons,{{note:{index320,id:UT22084-096-054-789}}}
+So that like a lion among a herd of cattle {{page:{number:45,id:UT22084-096-054-1065,folio:F.140.a}}}
+They can move freely, fearlessly among venomous snakes.
+{{milestone:{label:11.47,id:UT22084-096-054-790}}}“Devas, nāgas, asuras, yakṣas, siddhas,
+Gandharvas, bhūtas, pitṛs, guhyakas,
+Pretas, piśācas, kaṭapūtanas,
+Unmadas, ojohāras, chāyas,
+And the many grahas that haunt the earth
+Eat the fatty meat of humans
+And drink their blood.
+They take advantage of those made weary
+By sorrow, strong desire, and anger,{{note:{index321,id:UT22084-096-054-791}}}
+Which allow them to enter their bodies.
+{{milestone:{label:11.48,id:UT22084-096-054-792}}}“People in their grasp roam around,
+Sing songs, dance, laugh, and grow angry.
+They feel joy, euphoria, and become talkative,
+Become erratic and imagine they are devas and asuras, 
+Inviting everyone’s mockery.
+{{milestone:{label:11.49,id:UT22084-096-054-793}}}“Whether out of desire for oblations or merely for sport, 
+These beings possess bodies with an intent to kill. 
+Vajrāṅkuśa can eradicate guhyakas—
+He a supreme vidyā, boon-granting and powerful.{{note:{index322,id:UT22084-096-054-794}}}
+The vidyās of my lineage are also a remedy,
+Those such as fierce Amṛtakuṇḍalin and the rest. 
+{{milestone:{label:11.50,id:UT22084-096-054-795}}}“Grahas do not fear fire or wind,{{note:{index323,id:UT22084-096-054-796}}}
+The destroyer of the triple city,{{note:{index324,id:UT22084-096-054-797}}}
+Shining Sūrya or Pitāmaha,
+Varuṇa or the asuras,
+The lord of wealth or the king of yakṣas,{{note:{index325,id:UT22084-096-054-798}}}{{note:{index326,id:UT22084-096-054-799}}}
+Garuḍa the king of birds,
+Nor the rider of Airāvaṇa and destroyer of cities{{note:{index327,id:UT22084-096-054-800}}}
+In the same way they fear a person who wields mantra. 
+{{milestone:{label:11.51,id:UT22084-096-054-801}}}“Seeing all these vidyā mantras used for bhūtas,
+And knowing every behavior of the grahas,{{note:{index328,id:UT22084-096-054-802}}}
+A mantrin will thenceforth tame them free from doubt,
+And never again have need to fear them. 
+{{milestone:{label:11.52,id:UT22084-096-054-803}}}“Mantras are taught by he who has strengthened the three knowledges,{{note:{index329,id:UT22084-096-054-804}}}
+Transcended the three existences, cast off the three faults, and mastered the three paths.
+They are also taught by his heirs and by the devas and asuras who follow his path.
+Those who are empowered by the mantras of the eminent one, the dispeller of darkness,{{note:{index330,id:UT22084-096-054-805}}}
+And receive the power of the mantras praised by the host of worldly gods, will never falter.”
+{{milestone:{label:11.53,id:UT22084-096-054-806}}}Brahmā and the gods who heard the vajra bearer speak,{{note:{index331,id:UT22084-096-054-807}}}
+As well as the asuras, yakṣas, siddhas, {{page:{number:46,id:UT22084-096-054-1066,folio:F.140.b}}}
+Vidyādharas, nāgas, yakṣas, gandharvas,{{note:{index332,id:UT22084-096-054-808}}}
+Guhyakas, pitṛs, and bhūtas,
+{{milestone:{label:11.54,id:UT22084-096-054-809}}}Bowed their heads with faith at his feet,
+Pressed their hands together in devotion, and said,
+“Amazing that you have such compassion for all beings!
+Amazing is your manifold activity!
+{{milestone:{label:11.55,id:UT22084-096-054-810}}}“Because of this, some see you as a blazing vajra,
+Some as bearing a club, others and holding a disc,{{note:{index333,id:UT22084-096-054-811}}}{{note:{index334,id:UT22084-096-054-812}}}
+Yet others as holding a trident or lasso,
+Or as bearing a sword, bow, or cudgel.
+For some you take a frightening form, bristling with weapons,
+While others see you in a state of peace. 
+{{milestone:{label:11.56,id:UT22084-096-054-813}}}“We bow to you who is venerated by devas and yakṣas,
+Who takes many forms but whose form is imperceptible. 
+We bow in homage to you whose feet are honored by asuras and devas,
+And to whom the supreme bodhisattvas pay homage.
+Lord of vidyās with bowstring drawn, we bow to you.
+We all pay homage and bow to you.
+From this day forward we take refuge in you.
+{{milestone:{label:11.57,id:UT22084-096-054-814}}}“People who act with integrity,
+In alignment with all you have said, 
+Will swiftly dispel the gloom of poverty
+And blaze as brightly as the sun. 
+Limbs that do not fail, minds that do not decline,
+Freedom from illness, suffering, and physical degeneration—
+These are attained by those with faith in you.”
+{{milestone:{label:11.58,id:UT22084-096-054-815}}}After they had spoken these words together,
+They paid homage again and again to the vajra bearer. 
+They then promptly entered their aerial palace{{note:{index335,id:UT22084-096-054-816}}}
+And departed through the sky just as they arrived.
+{{milestone:{label:11.59,id:UT22084-096-054-817}}}Once the devas had departed,
+Vajrapāṇi said to Subāhu,
+“The devas have understood this sūtra,
+but you must make it known in the world.”
+{{milestone:{label:11.60,id:UT22084-096-054-818}}}After these words had been spoken,
+Subāhu rose, bowed respectfully, and said,
+“I will spread it far and wide in the human realm,
+For it purifies, destroys evil, and is rich in good fortune.”
+{{milestone:{label:11.61,id:UT22084-096-054-819}}}This was the eleventh chapter of the noble “Subāhu’s Questions.”
+{{milestone:{label:11.62,id:UT22084-096-054-820}}}This completes the noble tantra “The Subāhu’s Questions.”{{note:{index336,id:UT22084-096-054-821}}}

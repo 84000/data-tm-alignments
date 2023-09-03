@@ -1,0 +1,80 @@
+{{translation:{id:UT22084-072-013,key:toh313,version:1.0.10,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble Sūtra
+Auspicious Night
+{{milestone:{label:1.1,id:UT22084-072-013-31}}} Homage to all buddhas and bodhisattvas! {{page:{number:1,id:UT22084-072-013-311,folio:F.161.b}}}
+{{milestone:{label:1.2,id:UT22084-072-013-34}}}Thus did I hear at one time. The Bhagavān was staying in Rājagṛha’s Bamboo Grove, in the Habitat of Kalandaka Birds. At that time, a certain monk was residing on the banks of Rājagṛha’s hot springs. When night had fallen, a deity with a brilliant golden complexion appeared before the monk and illuminated the entire bank of the hot springs with a vast radiance. {{note:{index11,id:UT22084-072-013-36}}}
+{{milestone:{label:1.3,id:UT22084-072-013-37}}}The deity asked, “Monk, do you know the teaching of Auspicious Night?” 
+The monk replied, “Deva, I am ignorant of the teaching of Auspicious Night. Now, are you, Deva, aware of the teaching of Auspicious Night,  or are you unaware of it? 
+“Monk, I too do not know the teaching of Auspicious Night.” 
+{{milestone:{label:1.4,id:UT22084-072-013-40}}}In turn, the monk asked, “Deva, who then exists who knows the teaching of Auspicious Night?” 
+The deity said, “The Bhagavān is staying nearby in Rājagṛha’s Bamboo Grove, in the Habitat of Kalandaka Birds. Go straight to the Bhagavān and ask him! Retain the Bhagavān’s instruction exactly as it is given to you, and apply yourself to it!” He then disappeared suddenly. 
+{{milestone:{label:1.5,id:UT22084-072-013-42}}}The next morning, the monk went to the Bhagavān. On arriving, he bowed his head to the Bhagavān’s feet and remained to one side. Sitting to the side of the Bhagavān, the monk asked the Bhagavān, “Venerable sir, last night, after dusk, a deity with a brilliant golden complexion  appeared before me and illuminated the entire bank of the hot springs with a vast radiance. The deity said to me, ‘Monk, do you know the teaching of Auspicious Night?’ I replied, ‘Deva, I am ignorant of the teaching of Auspicious Night. Now, are you, Deva, aware of the teaching of Auspicious Night, or are you unaware of it?’ ‘Monk, I too do not know the teaching of Auspicious Night,’ the deity responded. ‘Deva, who then exists who knows the teaching of Auspicious Night?’ The deity then said, ‘The Bhagavān is staying in Rājagṛha’s Bamboo Grove, in the Habitat of Kalandaka Birds. Go straight to the Bhagavān and ask him! Retain the Bhagavān’s instruction exactly as it is given to you, and apply yourself to it!’ He then disappeared suddenly. Therefore, Venerable Bhagavān, I have come to ask you the meaning of this.” {{page:{number:2,id:UT22084-072-013-312,folio:F.162.a}}}{{note:{index12,id:UT22084-072-013-43}}}{{note:{index13,id:UT22084-072-013-44}}}
+{{milestone:{label:1.6,id:UT22084-072-013-45}}}The Bhagavān asked, “Monk, do you know that deity?” 
+“Sir, I do not know that deity,” the monk replied. 
+{{milestone:{label:1.7,id:UT22084-072-013-47}}}“This deity is a general of the gods of the Heaven of the Thirty-Three. His name is Candana.”{{note:{index14,id:UT22084-072-013-48}}}{{note:{index15,id:UT22084-072-013-49}}}
+“Sir, I wish to hear the teaching of Auspicious Night,” the monk entreated. 
+{{milestone:{label:1.8,id:UT22084-072-013-51}}}The Bhagavān replied, “Then, monk, listen well and carefully, and pay attention! I will teach you. Monk, when monks are endowed with three special qualities, they are called those who abide by the teaching of Auspicious Night. Which three? They are as follows: By possessing the three special qualities of (1) not following after the past, (2) not hoping for the future, and  (3) remaining uncaptivated by presently arisen states, a monk is known as someone who follows the teaching of Auspicious Night.”{{note:{index16,id:UT22084-072-013-52}}}{{note:{index17,id:UT22084-072-013-53}}}
+{{milestone:{label:1.9,id:UT22084-072-013-54}}}This is what the Bhagavān said.  After the Sugata had thus spoken, he furthermore stated the following: {{page:{number:3,id:UT22084-072-013-313,folio:F.162.b}}}
+{{milestone:{label:1.10,id:UT22084-072-013-55}}}“Do not follow after the past{{note:{index18,id:UT22084-072-013-56}}}
+Or hope for the future! 
+What is past has ceased to exist; 
+The future has not yet arrived. {1}
+{{milestone:{label:1.11,id:UT22084-072-013-57}}}“Having thoroughly examined 
+Each presently arisen thing,
+And knowing each, one understands, {{note:{index19,id:UT22084-072-013-58}}}
+Undeceived by false conceptions. {2} 
+{{milestone:{label:1.12,id:UT22084-072-013-59}}}“ ‘Will I die tomorrow?’ Who knows? {{note:{index20,id:UT22084-072-013-60}}}
+Today the effort should be made. 
+The lord of death and his great army{{note:{index21,id:UT22084-072-013-61}}}
+Do not come to offer friendship. {3}{{note:{index22,id:UT22084-072-013-62}}}
+{{milestone:{label:1.13,id:UT22084-072-013-63}}}“May all sentient beings and creatures 
+And the entirety of living things
+Achieve perfect happiness, 
+And be free from the afflictions! 
+May all good things be seen,{{note:{index23,id:UT22084-072-013-64}}}
+And may nothing evil at all occur! {4}{{note:{index24,id:UT22084-072-013-65}}}{{note:{index25,id:UT22084-072-013-66}}}
+{{milestone:{label:1.14,id:UT22084-072-013-67}}}“So that one maintains this and applies oneself
+Night and day, without idleness,
+The sage has unremittingly proclaimed
+The teaching of Auspicious Night.” {5}{{note:{index26,id:UT22084-072-013-68}}}
+{{milestone:{label:1.15,id:UT22084-072-013-69}}}Then the Bhagavān, for the safeguarding of all sentient beings, offered this teaching of Auspicious Night and taught the following Dravidian mantras:{{note:{index27,id:UT22084-072-013-70}}}
+{{milestone:{label:1.16,id:UT22084-072-013-71}}}tadyathā| bi nā bi ni| bi na pūraṇi| buddha-martaṇḍe| mānini mānini| ṇi ṇi ṇi ṇi| ṭi ṭi ṭi ṭi| vīrati| gauri| gāndhāri| caṇḍāli| mātaṃgi| pukkasi| brāhmaṇi| drāviḍi| drāmiḍi| śavari| sadālambha| hīna­madhyama­dhāriṇi| maholani| dalabhani| dalābhadre| mahādalini| calini| muṣṭe| cakravarti| mahācakravarti| śavari śavari| mahāśavari| bhu tsing gi| bhu tsi ring gi ni| ni mi ni ming gi ni| nimiṃdhari bhu ta ni svāhā
+{{milestone:{label:1.17,id:UT22084-072-013-72}}}tadyathā| e ṭu ṭu ṭu ṭu| na ṭu mi rṇi| ki rṇi| eṁ ku| sid da ta ri| tsa la lu| rni rtu| nirma llu| gallu| a ba tra no ne| śe ku nir ba ra da sa le| ta ra ke| ta re| ta rod tu| nod tu| ti la  la lu| bhūtapataye| ba ta yi ye svāhā
+{{milestone:{label:1.18,id:UT22084-072-013-73}}}tadyathā| arakāte | narakāte| pāṃśuka| pāyiye| kapotaka pāyiye| tapodhane svāhā
+{{milestone:{label:1.19,id:UT22084-072-013-74}}}“Monk, when, with the intention of safeguarding all sentient beings, sons of good family or daughters of good family  keep the meaning of Auspicious Night’s teachings, together with its prose, its stanzas, and its Dravidian mantras, in their mind, or when they remember it, read it, concentrate on it, master it, or correctly teach it in detail to others, their body will be indestructible by fire, indestructible by poison, and unharmed by punishment inflicted by authorities or assault from thieves; furthermore, they will not die prematurely and will certainly reach nirvāṇa. {{page:{number:4,id:UT22084-072-013-314,folio:F.163.a}}}{{note:{index28,id:UT22084-072-013-75}}}{{note:{index29,id:UT22084-072-013-76}}}{{note:{index30,id:UT22084-072-013-77}}}{{note:{index31,id:UT22084-072-013-79}}}
+{{milestone:{label:1.20,id:UT22084-072-013-80}}}“No matter where one is reborn, 
+When one has read the sūtra Auspicious Night,
+One is bound to remember one’s past lives, become an arhat, 
+And even attain mastery.{{note:{index32,id:UT22084-072-013-81}}}
+{{milestone:{label:1.21,id:UT22084-072-013-82}}}“With a single recitation, all beings in all circumstances,{{note:{index33,id:UT22084-072-013-83}}}
+Be it untimely death or the intermediate state,
+Will be protected from and purged of
+Untimely death and non-Dharmic fates
+Without any effort of their own. 
+In the case of illness, pain, fearful births, 
+Or the sorrow caused by inauspicious dreams,{{note:{index34,id:UT22084-072-013-87}}}
+Uttering it will bring good luck. 
+{{milestone:{label:1.22,id:UT22084-072-013-88}}}“Whoever writes it down 
+And fastens it to the body of a man or a woman
+Will create good fortune, splendor, 
+And prosperity for them. 
+{{milestone:{label:1.23,id:UT22084-072-013-89}}}“The sūtra Auspicious Night
+Will rescue from premature death{{note:{index35,id:UT22084-072-013-90}}}
+All those who, with body, speech, and mind,
+Have committed minor evil deeds of any kind.
+{{milestone:{label:1.24,id:UT22084-072-013-92}}}“Remembering the Auspicious protects {{note:{index36,id:UT22084-072-013-93}}}
+From kings, water, fire and lightning, 
+Bandits, illness, and foes, 
+As well as in battle and fighting.
+{{milestone:{label:1.25,id:UT22084-072-013-94}}}“Uninterrupted recitation of the Auspicious incantations{{note:{index37,id:UT22084-072-013-95}}}
+And the mantras, 
+Especially silent recitation, 
+Makes people forever fearless. {{note:{index38,id:UT22084-072-013-96}}}
+{{milestone:{label:1.26,id:UT22084-072-013-97}}}“Homage to the completely perfect buddhas, the tathāgatas, the arhats of the past, present, and future!
+{{milestone:{label:1.27,id:UT22084-072-013-98}}}“Having thus paid homage,  one should recite the following incantations: 
+{{milestone:{label:1.28,id:UT22084-072-013-99}}}“Through this incantation, may I become prosperous! 
+{{milestone:{label:1.29,id:UT22084-072-013-100}}}tadyathā| nimi nimiṃdhare| timi timiṅgali| trailokya-avalokini|  triśūladharaṇi| a ku phi ni| kṛmīkṛti | ki li ki li| kud to kud to| kud to kud si| kurti ku pi ti{{page:{number:5,id:UT22084-072-013-315,folio:F.163.b}}}
+{{milestone:{label:1.30,id:UT22084-072-013-101}}}“May I and all sentient beings, accompanied by Vajrapāṇi, be protected everywhere from all dangers, illnesses, poisons, fevers, evil spirits, bites from venomous creatures, thieves, all humans and nonhumans, all dangers, injuries, infectious disease, fighting, troubles, wrongdoing, discord, quarrels, and disputes, as well as from all evil deeds committed with body, speech, and mind, and from all fears! Protect!{{note:{index39,id:UT22084-072-013-102}}}
+{{milestone:{label:1.31,id:UT22084-072-013-104}}}tadyathā| hi li mi li| tsi li| i li| mi li| piśācini parṇaśavari  tsi li tsi li svāhā
+{{milestone:{label:1.32,id:UT22084-072-013-105}}}When the Bhagavān had spoken these words, the monks and all the assemblies, together with the world and its deities, humans, asuras, garuḍas, gandharvas, kinnaras, mahoragas, great yakṣas, rākṣasas, pretas, and piśācas, delighted and rejoiced in the Bhagavān’s words.{{note:{index40,id:UT22084-072-013-106}}}
+{{milestone:{label:1.33,id:UT22084-072-013-107}}}This completes the noble sūtra “Auspicious Night.”{{note:{index41,id:UT22084-072-013-108}}}

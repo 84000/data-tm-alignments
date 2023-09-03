@@ -1,0 +1,56 @@
+{{translation:{id:UT22084-094-015,key:toh738,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}In Praise of the Glorious Goddess Sarasvatī
+{{milestone:{label:1.1,id:UT22084-094-015-14}}}In the path that leads to awakening, 
+The victors and their heirs, masters of the Dharma,
+And the multitudes of wisdom maṇḍalas 
+Arranged in successive levels of knowing—in these we seek refuge.
+{{milestone:{label:1.2,id:UT22084-094-015-15}}}Homage to you, glorious goddess Sarasvatī.
+Your mastery over speech is renowned throughout the world
+And you have transcended the three knowledges of the sages. {{note:{index4,id:UT22084-094-015-16}}}
+All of this is the result of your vast conduct.
+{{milestone:{label:1.3,id:UT22084-094-015-17}}}You take up the burden of immense activities
+And joyfully endure every hardship for the benefit of beings.
+Coursing through the levels and the ten perfections,
+And standing steadfast in stores of virtue, you take whatever form is needed.
+{{milestone:{label:1.4,id:UT22084-094-015-18}}}Your rounded face is the flawless moon in full.
+Your lustrous eyes of compassion open the eyes of others{{note:{index5,id:UT22084-094-015-19}}}
+As you gaze at length upon every last universe, effortlessly.
+It is before you that the likes of Devendra and Brahmā bow down.{{note:{index6,id:UT22084-094-015-20}}}
+{{milestone:{label:1.5,id:UT22084-094-015-21}}}Compassionate mother, replete with love and patience,{{note:{index7,id:UT22084-094-015-22}}}
+It is your delight, noble goddess, to nurture every single being.
+Your eloquence is lofty and your top-knot rivals mountain peaks.
+Your wisdom runs deep as you act in support of knowledge. {{page:{number:2,id:UT22084-094-015-74,folio:F.230.a}}}
+{{milestone:{label:1.6,id:UT22084-094-015-23}}}Wielding mastery over fields of knowledge, you are the patroness of words.
+As you are the god of all gods in the universe,
+And a supreme companion who endeavors to dispel our suffering,
+Even extremist scholars bow down before you. 
+{{milestone:{label:1.7,id:UT22084-094-015-24}}} Your limbs are well proportioned, and your voice is ever sweet.
+Poised with majesty, you glow with flawless qualities and merit.
+As it is you who grants the accomplishments of the highest knowledge,
+Grant us swift intellect, retention of words, and eloquence most supreme!
+{{milestone:{label:1.8,id:UT22084-094-015-25}}}With the welfare of every being always in your heart, 
+Eminent and unfailing goddess, you dwell in liberation.
+Firm in your promises, you consider with grace
+Those who call upon you, and you fulfill their every wish.
+{{milestone:{label:1.9,id:UT22084-094-015-26}}}As the master of sound, you capture in words
+Everything that appears in the universe.
+You are understood by all and skilled in expression.
+O Sarasvatī, your capabilities are inconceivable. 
+{{milestone:{label:1.10,id:UT22084-094-015-27}}}Wielding mastery over the might of dhāraṇī and Dharma,
+You, a capable ṛṣi, have genuinely mastered the samaya.
+Bestowing your blessing on our bodies, minds, and speech,
+You work to satisfy the world with your ever-pleasing voice.
+{{milestone:{label:1.11,id:UT22084-094-015-28}}}You are admired by all for your conduct of supreme awakening.
+Blessed Lady, please continue always to grant the supreme purpose
+To those who desire the boon of pure body, speech, and mind
+With which to bring about the perfect benefit of beings.
+{{milestone:{label:1.12,id:UT22084-094-015-29}}}Help us to be brave as we strive along the path to awakening.
+Let our tongues be quick and our words be righteous.
+Endow us with treasuries of knowledge and speech unobstructed.
+Allow us to achieve the full eloquence of all the well-gone ones.
+{{milestone:{label:1.13,id:UT22084-094-015-30}}}Mother of knowledge, your nature is devoid of conceptuality.
+The flag of your reputation flutters in the winds of joy.
+Like wanting to draw a picture in the sky,
+Your attributes are hard to comprehend, your qualities are boundless.
+{{milestone:{label:1.14,id:UT22084-094-015-31}}}namo bhagavate brahmaṇe | namaḥ sarasvatyai devi siddhyantu mantrapādam brahmānumantra svāhā.{{note:{index8,id:UT22084-094-015-32}}}
+{{milestone:{label:1.15,id:UT22084-094-015-33}}}This concludes “In Praise of the Glorious Goddess Sarasvatī.”

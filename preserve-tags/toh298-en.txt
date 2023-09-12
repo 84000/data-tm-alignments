@@ -1,9 +1,9 @@
 {{translation:{id:UT22084-071-012,key:toh298,version:1.1.16,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Gaṇḍī Sūtra
-{{milestone:{label:1.1,id:UT22084-071-012-12}}} Homage to all the buddhas and bodhisattvas.{{page:{number:1,id:UT22084-071-012-95,folio:F.301.b}}}
+{{milestone:{label:1.1,id:UT22084-071-012-12}}}{{page:{number:1,id:UT22084-071-012-95,folio:F.301.b}}} Homage to all the buddhas and bodhisattvas.
 {{milestone:{label:1.2,id:UT22084-071-012-13}}}Thus did I hear at one time. The Bhagavān was dwelling in the Bamboo Grove, in the Kalandaka­nivāpa near Rājagṛha, together with a great saṅgha of a thousand monks and a great gathering of bodhisattvas. They were all worthy ones. Their contaminations were exhausted, their duties fulfilled, their work concluded, their burdens put down, their personal welfare attained, their bonds to existence destroyed, and their minds fully liberated through perfect knowledge.
 {{milestone:{label:1.3,id:UT22084-071-012-14}}}At that time, King Prasenajit arose from his seat and went to meet the Bhagavān. He bowed his head down at the feet of the Bhagavān and addressed him with these words: “Bhagavān, in the future, during times of conflict, all beings will have evil minds, quarrelsome minds filled with desire, hatred, and delusion. While intensely coveting others’ possessions and striving to devour one another, they will cause the previous period when teachings were given by the Bhagavān to decline. They will cause the abandonment of the true Dharma. They will go against the Buddha, the Dharma, and those who are free of desire. Please teach a way to eliminate such behavior so that beings may be strongly inclined to awakening.”
-{{milestone:{label:1.4,id:UT22084-071-012-15}}}Thus entreated, the Bhagavān declared, “King, since you make this request for the sake of the welfare of all beings, for their benefit and happiness, and in order to protect the Buddha, the Dharma, and the Saṅgha, your inquiry is excellent! Excellent! Therefore, listen closely and keep this in mind!  I will explain.”{{page:{number:2,id:UT22084-071-012-96,folio:F.302.a}}}
+{{milestone:{label:1.4,id:UT22084-071-012-15}}}Thus entreated, the Bhagavān declared, “King, since you make this request for the sake of the welfare of all beings, for their benefit and happiness, and in order to protect the Buddha, the Dharma, and the Saṅgha, your inquiry is excellent! Excellent! Therefore, listen closely and keep this in mind! {{page:{number:2,id:UT22084-071-012-96,folio:F.302.a}}} I will explain.”
 {{milestone:{label:1.5,id:UT22084-071-012-16}}}Thereupon, the Bhagavān entered the meditative absorption called resounding everywhere. When the Bhagavān entered that meditative absorption, all hells were terminated. All those who had been filled with hatred became free from their hatred and wholly devoted to the mind of awakening. 
 {{milestone:{label:1.6,id:UT22084-071-012-17}}}Then the Bhagavān asked, “Prasenajit, did you see, or hear, or understand, or realize?”
 “Bhagavān, I saw! Well-Gone One, I saw. I comprehended, understood, recognized, and realized!” 
@@ -17,7 +17,7 @@ Sacred fig, and red sandalwood tree,
 {{milestone:{label:1.10,id:UT22084-071-012-21}}}“Indian walnut, palmyra, kingshuk tree,
 Aloe wood, false mangosteen,
 Mango, walnut, myrobalan tree,
-Tintisara, and aśoka.{{note:{index7,id:UT22084-071-012-22}}}
+Tintisara,{{note:{index7,id:UT22084-071-012-22}}} and aśoka.
 {{milestone:{label:1.11,id:UT22084-071-012-23}}}“If all of these are absent,
 You should try the mulberry tree.
 King, if despite your efforts
@@ -61,7 +61,7 @@ Below, make a stand for it. {{page:{number:4,id:UT22084-071-012-98,folio:F.303.a
 {{milestone:{label:1.21,id:UT22084-071-012-33}}}“Place it above the temple gate, 
 Or place it above the central gate.
 As for its consecration,
-It is the very stable Dharma body.{{note:{index8,id:UT22084-071-012-34}}}
+It is the very stable{{note:{index8,id:UT22084-071-012-34}}} Dharma body.
 {{milestone:{label:1.22,id:UT22084-071-012-35}}}“It is unproduced, indestructible,
 And primordially unborn virtue.
 Having been consecrated as such,
@@ -72,7 +72,7 @@ Throughout the temple,
 As if adorned by seven nāgas.{{note:{index10,id:UT22084-071-012-38}}}
 {{milestone:{label:1.24,id:UT22084-071-012-39}}}“Thereafter, one should pay homage to the Three Jewels
 And then strike the gaṇḍī.
-One should then sound the cymbal three times {{note:{index11,id:UT22084-071-012-40}}}
+One should then sound the cymbal{{note:{index11,id:UT22084-071-012-40}}} three times 
 And beat the Dharma drums. 
 {{milestone:{label:1.25,id:UT22084-071-012-41}}}“Cleansing the gaṇḍī with flower-petal water
 At mealtime, sunrise, and sunset, 

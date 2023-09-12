@@ -1,9 +1,9 @@
 {{translation:{id:UT22084-066-007,key:toh249,version:1.6.1,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Noble Mahāyāna Sūtra Entitled
 Teaching the Four Factors
-{{milestone:{label:1.1,id:UT22084-066-007-16}}} Homage to all the buddhas and bodhisattvas!{{page:{number:1,id:UT22084-066-007-61,folio:F.59.a}}}
-{{milestone:{label:1.2,id:UT22084-066-007-55}}}Thus did I hear at one time. The Blessed One was dwelling in the Sudharmā assembly hall in the Heaven of the Thirty-Three, together with a great gathering of five hundred monks, and very many bodhisattva mahāsattvas, including Maitreya and Mañjuśrī. {{note:{index11,id:UT22084-066-007-17}}}
-{{milestone:{label:1.3,id:UT22084-066-007-18}}}At that time the Blessed One said to the bodhisattva mahāsattva Maitreya,  “O Maitreya, bodhisattva mahāsattva, if you possess four factors, the misdeeds you have committed and accumulated will be overcome. {{page:{number:2,id:UT22084-066-007-62,folio:F.59.b}}}
+{{milestone:{label:1.1,id:UT22084-066-007-16}}}{{page:{number:1,id:UT22084-066-007-61,folio:F.59.a}}} Homage to all the buddhas and bodhisattvas!
+{{milestone:{label:1.2,id:UT22084-066-007-55}}}Thus did I hear at one time. The Blessed One was dwelling in the Sudharmā assembly hall in the Heaven of the Thirty-Three, together with a great gathering of five hundred monks,{{note:{index11,id:UT22084-066-007-17}}} and very many bodhisattva mahāsattvas, including Maitreya and Mañjuśrī. 
+{{milestone:{label:1.3,id:UT22084-066-007-18}}}At that time the Blessed One said to the bodhisattva mahāsattva Maitreya, {{page:{number:2,id:UT22084-066-007-62,folio:F.59.b}}} “O Maitreya, bodhisattva mahāsattva, if you possess four factors, the misdeeds you have committed and accumulated will be overcome. 
 {{milestone:{label:1.4,id:UT22084-066-007-19}}}“What are these four? The action of repentance, antidotal action, the power of restraint, and the power of support. 
 {{milestone:{label:1.5,id:UT22084-066-007-56}}}“The action of repentance is to feel intense remorse for any non-virtuous action you have committed.
 {{milestone:{label:1.6,id:UT22084-066-007-57}}}“Antidotal action is to put great effort into virtuous actions once you have committed a non-virtuous action.

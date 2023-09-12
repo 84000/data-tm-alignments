@@ -1,6 +1,6 @@
 {{translation:{id:UT22084-100-001,key:toh846,version:1.1.19,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Threefold Invocation Ritual
-{{milestone:{label:1.1,id:UT22084-100-001-10}}} I take refuge with sincere devotion and reverence{{page:{number:1,id:UT22084-100-001-171,folio:F.1.b}}}
+{{milestone:{label:1.1,id:UT22084-100-001-10}}}{{page:{number:1,id:UT22084-100-001-171,folio:F.1.b}}} I take refuge with sincere devotion and reverence
 In the highest guru, the unsurpassed Three Jewels, 
 And the greatest of them all, the sublime supreme lord.
 {{milestone:{label:1.2,id:UT22084-100-001-11}}}Brahmā and Śakra—lords of heaven and earth,
@@ -24,13 +24,13 @@ Sañjñeya and Sañjaya,
 {{milestone:{label:1.8,id:UT22084-100-001-17}}}Jinarṣabha, Āṭavaka, Haimavata,
 Sātāgiri, Pāñcika, Pāñcāla­gaṇḍa, Pāñcālaka,
 Daśagrīva, Vibhīṣaṇa, Meghanāda, Gagana­ghoṣa, 
-{{milestone:{label:1.9,id:UT22084-100-001-18}}}Triśirṣaka, Sāgara, Nanda, Upananda, {{note:{index4,id:UT22084-100-001-19}}}
+{{milestone:{label:1.9,id:UT22084-100-001-18}}}Triśirṣaka,{{note:{index4,id:UT22084-100-001-19}}} Sāgara, Nanda, Upananda, 
 Anavatapta, Manasvin, Vāsuki, and the hosts of grahas;{{note:{index5,id:UT22084-100-001-20}}}
 Rṣis, vidyādharas, gods of the rains and harvest, 
 {{milestone:{label:1.10,id:UT22084-100-001-21}}}Gods of the road, of the day, the night, conjunctions, lunar phases, and moments;
 Powerful beings such as Hanuman and the like; 
 Vāgīśvarī, Svaraghoṣā, and Sarasvatī; 
-{{milestone:{label:1.11,id:UT22084-100-001-22}}}Vatsavatī, Śrīmati, Mārīcī, {{note:{index6,id:UT22084-100-001-23}}}
+{{milestone:{label:1.11,id:UT22084-100-001-22}}}Vatsavatī, Śrīmati,{{note:{index6,id:UT22084-100-001-23}}} Mārīcī, 
 Gaurī, Guardian of Speech, Gaṅgā, Yamunā, 
 Hārītī, Śaṅkhinī, Pārvatī, Durgā, and Kālī;
 {{milestone:{label:1.12,id:UT22084-100-001-24}}}The seven mothers, the seven sisters, and the four sisters; 
@@ -64,7 +64,7 @@ With their vast bounty of scriptures.
 With the teachings of the sun-like omniscient Dharma lord,
 The supreme radiant jewel that crowns the king of the gods
 Who brings victory in battle over the asuras and hosts of Māra.{{note:{index8,id:UT22084-100-001-35}}}
-{{milestone:{label:1.22,id:UT22084-100-001-36}}}Approach, children of the Victors! Knowing that we and all beings are already beyond suffering and thus not fearing that sentient beings will fail to transcend it, may we still insatiably cultivate the accumulations of merit and wisdom. May we know that things are intrinsically conditioned, yet not dismiss their characteristics. May we not reject the form body of a buddha, yet attain freedom from all attachment. May we be free from attachment to all phenomena, yet seek the wisdom that knows everything. May we completely purify all phenomena as buddha realms without depending on others, yet understand the space-like characteristic of buddha realms. May we never weary of bringing beings to maturity, yet never abandon the characteristics of lacking self-identity. May we magically display supernatural powers, yet never waver from the sphere of reality. May we not stop setting our mind on enlightenment, yet may omniscient wisdom arise in us. May we satisfy all beings by turning the wheel of the Dharma, yet not pass beyond the inexpressible nature of reality. May we  demonstrate the magical emanations and blessings of a tathāgata, without nevertheless discarding the body of a bodhisattva, and yet in all the perceptions of beings may we appear and then display the great parinirvāṇa. Children of the Victors, uphold these aspects of the teachings and practice these obverse and direct ways of engaging in practice. These ten teachings are the most excellent activity of a buddha. Children of the Victor, these are the awakened activity of a bodhisattva. The spontaneous activity of the bodhisattvas is independent of others and is the perfect attainment of unsurpassed awakening.{{page:{number:4,id:UT22084-100-001-174,folio:F.3.a}}}{{note:{index9,id:UT22084-100-001-37}}}{{note:{index10,id:UT22084-100-001-170}}}{{note:{index11,id:UT22084-100-001-38}}}{{note:{index12,id:UT22084-100-001-39}}}
+{{milestone:{label:1.22,id:UT22084-100-001-36}}}Approach,{{note:{index9,id:UT22084-100-001-37}}} children of the Victors! Knowing that{{note:{index10,id:UT22084-100-001-170}}} we and all beings are already beyond suffering and thus not fearing that sentient beings will fail to transcend it, may we still insatiably cultivate the accumulations of merit and wisdom. May we know that things are intrinsically conditioned, yet not dismiss their characteristics. May we not reject the form body of a buddha, yet attain freedom from all attachment. May we be free from attachment to all phenomena, yet seek the wisdom that knows everything. May we completely purify all phenomena as buddha realms without depending on others, yet understand the space-like characteristic of buddha realms. May we never weary of bringing beings to maturity, yet never abandon the characteristics of lacking self-identity. May we magically display supernatural powers, yet never waver from the sphere of reality. May we not stop setting our mind on enlightenment, yet may omniscient wisdom arise in us. May we satisfy all beings by turning the wheel of the Dharma, yet not pass beyond the inexpressible nature of reality. May we {{page:{number:4,id:UT22084-100-001-174,folio:F.3.a}}} demonstrate the magical emanations and blessings of a tathāgata, without nevertheless discarding the body of a bodhisattva, and yet in all the perceptions of beings may we appear and then display the great parinirvāṇa. Children of the Victors, uphold these aspects of the teachings and practice these obverse and direct ways of engaging in practice.{{note:{index11,id:UT22084-100-001-38}}} These ten teachings are the most excellent activity of a buddha. Children of the Victor, these are the awakened activity of a bodhisattva. The spontaneous activity of the bodhisattvas is independent of others and is the perfect attainment of unsurpassed awakening.{{note:{index12,id:UT22084-100-001-39}}}
 {{milestone:{label:1.23,id:UT22084-100-001-40}}}King of the gods, great sovereign, boon-granting lord,
 Fearless hero famous throughout the world 
 Whose face is radiant with insight like the full moon—

@@ -1,7 +1,7 @@
 {{translation:{id:UT22084-061-003,key:toh183,version:1.1.7,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Noble
 Teaching the Benefits of Generosity
-{{milestone:{label:1.1,id:UT22084-061-003-15}}} Homage to all buddhas and bodhisattvas!{{page:{number:1,id:UT22084-061-003-82,folio:F.95.b}}}
+{{milestone:{label:1.1,id:UT22084-061-003-15}}}{{page:{number:1,id:UT22084-061-003-82,folio:F.95.b}}} Homage to all buddhas and bodhisattvas!
 Thus did I hear at one time. The Blessed One was dwelling in Śrāvastī in the Jetavana, in the park of Anāthapiṇḍada. Then the Blessed One said to the monks, “Monks, the wise give gifts in thirty-seven ways. What are those thirty-seven? They are as follows:
 {{milestone:{label:1.2,id:UT22084-061-003-18}}}“They give gifts with faith in order to rid themselves of stinginess.
 “They give gifts at the right time.
@@ -15,11 +15,11 @@ Thus did I hear at one time. The Blessed One was dwelling in Śrāvastī in the 
 {{milestone:{label:1.5,id:UT22084-061-003-28}}}“When they have given a gift that is abundant, the ripening is that they will acquire abundant wealth.
 “When they have given a gift that is vast, the ripening is that they will acquire vast wealth.
 {{milestone:{label:1.6,id:UT22084-061-003-30}}}“When they have given a gift of food, the ripening is that they will acquire the elimination of hunger in all future lives.
-“When they have given a gift of drink,  the ripening is that they will acquire the elimination of thirst in all future lives.{{page:{number:2,id:UT22084-061-003-83,folio:F.96.a}}}
+“When they have given a gift of drink, {{page:{number:2,id:UT22084-061-003-83,folio:F.96.a}}} the ripening is that they will acquire the elimination of thirst in all future lives.
 “When they have given a gift of clothing, the ripening is that they will acquire a manifold wealth of clothing.
 {{milestone:{label:1.7,id:UT22084-061-003-33}}}“When they have given the gift of a dwelling, the ripening is that they will acquire houses with parapets and multiple stories, and they will acquire courtyards, mansions, palaces, gardens, parks, and land.
 “When they have given a gift of bedding, the ripening is that they will acquire a higher caste-status.
-“When they have given the gift of a conveyance, the ripening is that they will acquire the four bases of miraculous power.{{note:{index9,id:UT22084-061-003-36}}}
+“When they have given the gift of a conveyance, the ripening is that they will acquire the four bases{{note:{index9,id:UT22084-061-003-36}}} of miraculous power.
 {{milestone:{label:1.8,id:UT22084-061-003-37}}}“When they have given a gift of medicine, the ripening is that they will acquire the nirvāṇa that is free from aging and death and is the cessation of sorrow and defilement. 
 “When they have given a gift of Dharma, the ripening is that they will acquire the recollection of former lives.
 {{milestone:{label:1.9,id:UT22084-061-003-39}}}“When they have given a gift of flowers, the ripening is that they will acquire the flowers that are the branches of awakening.
@@ -30,9 +30,9 @@ Thus did I hear at one time. The Blessed One was dwelling in Śrāvastī in the 
 “When they have given a gift of cymbals, the ripening is that they will acquire a voice like Brahmā’s.
 {{milestone:{label:1.12,id:UT22084-061-003-45}}}“When they have given a gift of a lamp, the ripening is that they will acquire the divine eye, unobscured and pure.
 “When they have given a gift of silk, the ripening is that they will acquire the silken bond of liberation among gods and humans. 
-{{milestone:{label:1.13,id:UT22084-061-003-47}}}“When they have made an offering of fragrant oil or perfumed bathing water to a stūpa of the Thus-Gone One or an image of the Thus-Gone One, the ripening is that they will acquire the thirty-two marks  and eighty excellent signs of a great being.{{page:{number:3,id:UT22084-061-003-84,folio:F.96.b}}}
+{{milestone:{label:1.13,id:UT22084-061-003-47}}}“When they have made an offering of fragrant oil or perfumed bathing water to a stūpa of the Thus-Gone One or an image of the Thus-Gone One, the ripening is that they will acquire the thirty-two marks {{page:{number:3,id:UT22084-061-003-84,folio:F.96.b}}} and eighty excellent signs of a great being.
 {{milestone:{label:1.14,id:UT22084-061-003-85}}}“When they have given a gift of bathing necessities, the ripening is that in all their future lives they will acquire few illnesses, birth in the highest caste, and great beauty.
-“When they have given a gift of the five essential substances, the ripening is that in all future lives they will acquire great power and irrepressible great joy. {{note:{index10,id:UT22084-061-003-50}}}
+“When they have given a gift of the five essential substances,{{note:{index10,id:UT22084-061-003-50}}} the ripening is that in all future lives they will acquire great power and irrepressible great joy. 
 {{milestone:{label:1.15,id:UT22084-061-003-51}}}“When they have given a gift while abiding in loving kindness, the ripening is that they will acquire freedom from ill will.
 “When they have given a gift while abiding in compassion, the ripening is that they will acquire harmlessness.
 {{milestone:{label:1.16,id:UT22084-061-003-86}}}“When they have given a gift while abiding in joy, the ripening is that they will acquire the ability to bestow fearlessness.

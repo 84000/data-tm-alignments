@@ -1,6 +1,6 @@
 {{translation:{id:UT22084-096-062,key:toh813,version:1.1.22,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Aspiration Prayer from “Destroyer of the Great Trichiliocosm”
-{{milestone:{label:1.1,id:UT22084-096-062-34}}} Homage to the Three Jewels! {{page:{number:1,id:UT22084-096-062-121,folio:F.253.a}}}
+{{milestone:{label:1.1,id:UT22084-096-062-34}}}{{page:{number:1,id:UT22084-096-062-121,folio:F.253.a}}} Homage to the Three Jewels! 
 {{milestone:{label:1.2,id:UT22084-096-062-35}}}In this world or beyond there is nothing—
 Not even a precious gem in the higher realms—
 That equals the Thus-Gone One, the god of gods,
@@ -14,7 +14,7 @@ Discerned by the Sage of the Śākyas through his knowledge.
 Thus, it is called the most precious gem.
 By this truth may there be well-being here! 
 {{milestone:{label:1.4,id:UT22084-096-062-37}}}There is nothing comparable to the absorption
-That perceives the vajra-like, nondual path—{{note:{index14,id:UT22084-096-062-38}}}{{note:{index15,id:UT22084-096-062-39}}}
+That perceives the vajra-like,{{note:{index14,id:UT22084-096-062-38}}} nondual{{note:{index15,id:UT22084-096-062-39}}} path—
 The manifestation, in due order, of what is most desired,
 The permanent accomplishment of the teacher’s absolute practice.
 Thus, it is called the most precious gem.

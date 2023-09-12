@@ -1,6 +1,6 @@
 {{translation:{id:UT22084-077-002,key:toh361,version:1.2.20,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}Summary of Empowerment
-{{milestone:{label:1.1,id:UT22084-077-002-96}}} Homage to Glorious Kālacakra!{{page:{number:1,id:UT22084-077-002-638,folio:F.14.a}}}{{note:{index28,id:UT22084-077-002-97}}}
+{{milestone:{label:1.1,id:UT22084-077-002-96}}}{{page:{number:1,id:UT22084-077-002-638,folio:F.14.a}}} Homage to Glorious Kālacakra!{{note:{index28,id:UT22084-077-002-97}}}
 Sucandra requested:
 The sevenfold and threefold empowerment,
 And also the unsurpassable one, O Teacher—
@@ -90,7 +90,7 @@ Because he realizes the [blissful] state without vibration. {21}
 {{milestone:{label:1.22,id:UT22084-077-002-123}}}The universal ancestor should be known
 As the creator of all protectors.
 Being in a state without duality or movement,
-He is called Vajrasattva, the Great Being, and Bodhisattva,  {22}{{page:{number:3,id:UT22084-077-002-640,folio:F.15.a}}}
+He is called Vajrasattva, the Great Being, and Bodhisattva, {{page:{number:3,id:UT22084-077-002-640,folio:F.15.a}}} {22}
 {{milestone:{label:1.23,id:UT22084-077-002-124}}}The Commitment Being,
 Fourfold Vajrayoga,
 And finally, here, Kālacakra—
@@ -114,7 +114,7 @@ One must constantly meditate on this reflection. {27}
 {{milestone:{label:1.28,id:UT22084-077-002-129}}}Once the reflection [is seen] in the non-existent (i.e., cloudless sky),
 The meditation is not the [conceptual] meditation of yogins;
 To the mind appears neither existence nor nonexistence,
-Because of seeing the reflection of emptiness without having imagined them. {28}{{note:{index30,id:UT22084-077-002-130}}}
+Because of seeing the reflection of emptiness{{note:{index30,id:UT22084-077-002-130}}} without having imagined them. {28}
 {{milestone:{label:1.29,id:UT22084-077-002-131}}}Just as a virgin sees in the divinatory mirror
 The magical image of something unreal,
 So, too, the yogin of true reality sees in space
@@ -138,7 +138,7 @@ Why does she not see a hare’s horn? {33}
 {{milestone:{label:1.34,id:UT22084-077-002-136}}}She sees neither with other/superior eyes,{{note:{index31,id:UT22084-077-002-706}}}
 Nor with her own eyes.
 What is being seen has not arisen—
-It is like the child of a virgin.  {34}{{page:{number:4,id:UT22084-077-002-641,folio:F.15.b}}}
+It is like the child of a virgin. {{page:{number:4,id:UT22084-077-002-641,folio:F.15.b}}} {34}
 {{milestone:{label:1.35,id:UT22084-077-002-137}}}Once the reflection is seen,
 One must immediately perform breath control,
 Because body, speech, and mind
@@ -238,8 +238,8 @@ Constituted by the six starting with Aries and the six starting with Taurus, {58
 {{milestone:{label:1.59,id:UT22084-077-002-161}}}The vital breath flows in the two nostrils in due order
 To the base, the left, the right, above, and to the middle,
 Passing through one maṇḍala after the other,
-Starting with earth, during each daṇḍa. {59}{{page:{number:6,id:UT22084-077-002-643,folio:F.16.b}}}{{note:{index32,id:UT22084-077-002-162}}}
-{{milestone:{label:1.60,id:UT22084-077-002-163}}}One nāḍikā successively{{note:{index33,id:UT22084-077-002-164}}}
+Starting with earth, during each daṇḍa.{{note:{index32,id:UT22084-077-002-162}}}{{page:{number:6,id:UT22084-077-002-643,folio:F.16.b}}} {59}
+{{milestone:{label:1.60,id:UT22084-077-002-163}}}One nāḍikā{{note:{index33,id:UT22084-077-002-164}}} successively
 Carries 360 breaths.
 Five of them
 Carry 1,800. {60}
@@ -290,7 +290,7 @@ Then for thirty-three (i.e., fifteen, ten, five, and three nights and days), {71
 {{milestone:{label:1.72,id:UT22084-077-002-176}}}The life of embodied beings will be gone {{page:{number:7,id:UT22084-077-002-644,folio:F.17.a}}}
 Within a period of three, two, or one year,
 Six, three, two, or one month,
-Fifteen, ten, five, or three days, respectively. [Then only] two, [and finally only] one day [are left]. {72}{{note:{index34,id:UT22084-077-002-177}}}
+Fifteen, ten, five, or three days, respectively. [Then only] two, [and finally only] one day [are left].{{note:{index34,id:UT22084-077-002-177}}} {72}
 {{milestone:{label:1.73,id:UT22084-077-002-178}}}With the ascent of the moon from the base
 In the left channel, one by one,
 For days and months,
@@ -330,7 +330,7 @@ Causing coemergent joy—so long as it is not emitted. {81}
 {{milestone:{label:1.82,id:UT22084-077-002-187}}}Therefore he is called the all-pervading lord of immovable great passion.
 Being in nonabiding nirvāṇa, [he avoids these two situations:]
 [The semen abiding at the crown of the head] due to the lack of passion,
-And blissful emission, which is abiding nirvāṇa. {82}{{note:{index35,id:UT22084-077-002-188}}}
+And blissful emission, which is abiding nirvāṇa.{{note:{index35,id:UT22084-077-002-188}}} {82}
 {{milestone:{label:1.83,id:UT22084-077-002-189}}}The manifestation of the moon drop of semen is located at the crown of the head,
 And the phase of the full moon in the lotus of the secret part.
 The sixteenth phase is located in the lotus of the jewel,
@@ -390,7 +390,7 @@ Of that which exists, there is no existence. {96}
 {{milestone:{label:1.97,id:UT22084-077-002-203}}}Of that which moves, there is no movement;
 And of that which does not move, there is no nonmovement.
 The rise and fall of all phenomena,
-Which lack their own nature, are thus an illusion.  {97}{{page:{number:9,id:UT22084-077-002-646,folio:F.18.a}}}
+Which lack their own nature, are thus an illusion. {{page:{number:9,id:UT22084-077-002-646,folio:F.18.a}}} {97}
 {{milestone:{label:1.98,id:UT22084-077-002-204}}}Elements neither come into nor pass out of existence
 By means of their own nature.
 This manifold world lacks its own nature
@@ -434,7 +434,7 @@ Based on the full moon, without duality. {107}
 {{milestone:{label:1.108,id:UT22084-077-002-214}}}Its waxing starts from the crown of the head
 And becomes full in the vajra jewel.
 Due to lack of passion, these lunar phases are lost. Because of this loss,
-[The solar blood] starts from the vajra, becoming full [at the crown of the head].  {108}{{page:{number:10,id:UT22084-077-002-647,folio:F.18.b}}}
+[The solar blood] starts from the vajra, becoming full [at the crown of the head]. {{page:{number:10,id:UT22084-077-002-647,folio:F.18.b}}} {108}
 {{milestone:{label:1.109,id:UT22084-077-002-215}}}For corporeal beings, waxing happens again at the crown of the head,
 And fullness in the [vajra] jewel.
 Due to lack of passion, these lunar phases are lost,
@@ -474,7 +474,7 @@ As the immovable upon entering it. {117}
 {{milestone:{label:1.118,id:UT22084-077-002-224}}}Just as a set of metals becomes an elixir
 When it is devoured [by mercury],
 And just as the nature of seeds is acquired through the seeds
-And beyond measure at the time of fruition, {118}{{note:{index36,id:UT22084-077-002-636}}}
+And beyond measure{{note:{index36,id:UT22084-077-002-636}}} at the time of fruition, {118}
 {{milestone:{label:1.119,id:UT22084-077-002-225}}}So, too, the entirety of existence,
 When devoured by supreme immovable (bliss),
 Becomes supreme immovable bliss,
@@ -534,7 +534,7 @@ Is not eliminated, {132}
 {{milestone:{label:1.133,id:UT22084-077-002-239}}}So, too, the stains of mind
 Are eliminated through its union with emptiness,
 And its wisdom—which remains stainless—
-Is not eliminated.  {133}{{page:{number:12,id:UT22084-077-002-649,folio:F.19.b}}}
+Is not eliminated. {{page:{number:12,id:UT22084-077-002-649,folio:F.19.b}}} {133}
 {{milestone:{label:1.134,id:UT22084-077-002-240}}}Just as iron that has been penetrated by the elixir
 Does not revert to the nature of iron,
 So, too, the mind that has been penetrated by bliss
@@ -570,11 +570,11 @@ From the fetters of saṃsāra to immovable bliss. {141}
 {{milestone:{label:1.142,id:UT22084-077-002-248}}}Without passion one would not [even] be a [good] lover
 And not seek out the Kāmaśāstra.
 Why, then, would a yogin (likewise) wish for suffering
-With regard to this tantra proclaimed by me? {142}{{note:{index37,id:UT22084-077-002-250}}}
+With regard to this tantra proclaimed by me?{{note:{index37,id:UT22084-077-002-250}}} {142}
 {{milestone:{label:1.143,id:UT22084-077-002-251}}}Through a state in which the semen remains immovable,
 [The yogin] must attain supreme immovable (bliss).
 Once the support has reached the state of emission,
-The supported will be passionless. {143}{{note:{index38,id:UT22084-077-002-252}}}
+The supported will be passionless.{{note:{index38,id:UT22084-077-002-252}}} {143}
 {{milestone:{label:1.144,id:UT22084-077-002-253}}}The relation of support and supported remains
 As long as [the mind] does not proceed to the immovable.
 Once the mind has attained the immovable,
@@ -612,7 +612,7 @@ The result has arisen from insight as [its only possible] cause.
 That which has arisen from insight has not arisen from a cause,
 Because insight has not arisen from a cause. {152}
 {{milestone:{label:1.153,id:UT22084-077-002-262}}}Therefore, the wisdom is the unsurpassable
-Prajñā cum wisdom, which has not arisen from a cause.{{note:{index39,id:UT22084-077-002-708}}}{{note:{index40,id:UT22084-077-002-707}}}
+Prajñā cum wisdom,{{note:{index39,id:UT22084-077-002-708}}} which has not arisen from a cause.{{note:{index40,id:UT22084-077-002-707}}}
 There is no mutual sealing, one by the other,
 Through result and cause. {153}
 {{milestone:{label:1.154,id:UT22084-077-002-263}}}Cause and result—everything—
@@ -698,6 +698,6 @@ Are in the state of Vajrasattva. {173}
 {{milestone:{label:1.174,id:UT22084-077-002-283}}}These means of accomplishing empowerment,
 The means of accomplishing the supreme immovable,
 Together with the channels and families,
-Have been explained in summary, O [Su]candra. {174}{{note:{index41,id:UT22084-077-002-623}}}
+Have been explained in summary, O [Su]candra.{{note:{index41,id:UT22084-077-002-623}}} {174}
 {{milestone:{label:1.175,id:UT22084-077-002-624}}}This concludes the summary of the means of the supreme immovable empowerment (i.e., the “Sekoddeśa”), from the fifth chapter of the [“Paramādibuddha” that begins with the] chapter on the world realm. 
 {{milestone:{label:c.1,id:UT22084-077-002-291}}}It was translated, edited, and finalized by the Kashmiri paṇḍita Somanātha and the Tibetan translator and monk Dro Sherap Drakpa. Rinchen Gyaltsen retranslated, edited, and corrected it in accordance with the commentary (Skt. ṭīkā) of glorious Nāropa.

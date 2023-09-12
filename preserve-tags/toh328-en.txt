@@ -1,10 +1,10 @@
 {{translation:{id:UT22084-072-028,key:toh328,version:1.0.13,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Sūtra
 Nanda’s Going Forth
-{{milestone:{label:1.1,id:UT22084-072-028-33}}} Homage to the Omniscient One.{{page:{number:1,id:UT22084-072-028-135,folio:F.254.b}}}
+{{milestone:{label:1.1,id:UT22084-072-028-33}}}{{page:{number:1,id:UT22084-072-028-135,folio:F.254.b}}} Homage to the Omniscient One.
 {{milestone:{label:1.2,id:UT22084-072-028-35}}}Thus did I hear at one time. The Blessed One was staying in Banyan Grove near Kapilavastu. One morning he put on his upper and lower robes, took his alms bowl, and went to Kapilavastu for alms, attended by the śramaṇa Venerable Ānanda. The Blessed One approached the house of the noble son, Nanda. Nanda saw from afar that the Blessed One was coming. Having seen this, he quickly arranged a seat for him and said, “Do come inside, Blessed One! Welcome, Blessed One! Please take a seat, Blessed One!”
 {{milestone:{label:1.3,id:UT22084-072-028-36}}}The Blessed One took a seat. Then Nanda, the noble son, prostrated at the Blessed One’s feet and sat down in front of him.
-{{milestone:{label:1.4,id:UT22084-072-028-37}}}The Blessed One asked Nanda, the noble son,  “Nanda, why do you not go forth?”{{page:{number:2,id:UT22084-072-028-136,folio:F.255.a}}}
+{{milestone:{label:1.4,id:UT22084-072-028-37}}}The Blessed One asked Nanda, the noble son, {{page:{number:2,id:UT22084-072-028-136,folio:F.255.a}}} “Nanda, why do you not go forth?”
 Nanda responded, “Blessed One, please explain what is meant by the words going forth.” 
 {{milestone:{label:1.5,id:UT22084-072-028-39}}}The Blessed One replied as follows:
 {{milestone:{label:1.6,id:UT22084-072-028-40}}}“It is the complete avoidance of all sinful deeds.
@@ -57,7 +57,7 @@ It is the riverbank of happiness and fearlessness for those tormented by the suf
 It is what helps us transcend the desire realm.
 It is what helps us completely transcend the form realm. 
 It is what helps us entirely transcend the formless realm. 
-Ultimately, it makes us attain the supreme nirvāṇa.{{note:{index20,id:UT22084-072-028-46}}}
+Ultimately, it makes us attain{{note:{index20,id:UT22084-072-028-46}}} the supreme nirvāṇa.
 Nanda, this is what we call going forth.
 {{milestone:{label:1.8,id:UT22084-072-028-47}}}“It is like the eye of all worlds.
 It is the lamp in the darkness of ignorance.
@@ -92,23 +92,23 @@ It is the shaving of the burden of hair.
 It is the saffron robe, the sign of being free from desires.
 It is the field of appropriate endeavor. 
 It is the victory banner of the sages.
-It is what vanquishes the arrogance of evildoing demons.{{note:{index21,id:UT22084-072-028-49}}}
+It is what vanquishes the arrogance{{note:{index21,id:UT22084-072-028-49}}} of evildoing demons.
 It is what fully delights gods and humans. 
 Therefore, Nanda, if going forth is like this, why would you not go forth?
-{{milestone:{label:1.10,id:UT22084-072-028-50}}}“Nanda, the happiness of going forth is far superior even to the happiness of the dominion of a universal monarch. What’s more, Nanda, favorable circumstances are exceedingly difficult to find, even in one billion eons, yet for a buddha to have come is far more difficult to find than even that. Nanda, royal sages wishing for liberation, as well as universal monarchs endowed with the seven royal treasures,  together with their retinues of queens, have abandoned their lands and gone forth. Similarly, householders and congregations of brahmins have also abandoned their homes and gone forth.” {{page:{number:5,id:UT22084-072-028-139,folio:F.256.b}}}{{note:{index22,id:UT22084-072-028-51}}}{{note:{index23,id:UT22084-072-028-52}}}
+{{milestone:{label:1.10,id:UT22084-072-028-50}}}“Nanda, the happiness of going forth is far superior even to the happiness of the dominion of a universal monarch. What’s more, Nanda, favorable circumstances are exceedingly difficult to find, even in one billion eons,{{note:{index22,id:UT22084-072-028-51}}} yet for a buddha to have come is far more difficult to find than even that. Nanda, royal sages wishing for liberation, as well as universal monarchs endowed with the seven royal treasures, {{page:{number:5,id:UT22084-072-028-139,folio:F.256.b}}} together with their retinues of queens, have abandoned their lands{{note:{index23,id:UT22084-072-028-52}}} and gone forth. Similarly, householders and congregations of brahmins have also abandoned their homes and gone forth.” 
 {{milestone:{label:1.11,id:UT22084-072-028-53}}}Thereupon the noble son Nanda replied to the Blessed One, “O Honorable One! I will remain a householder and give donations, make merit, and venerate the Blessed One and the community of śrāvakas. I will also supply them with monastic robes, alms, bedding, medicine for healing illnesses, and other necessities, too.”
 {{milestone:{label:1.12,id:UT22084-072-028-54}}}The Blessed One replied as follows: “If for one hundred years faithful noble sons and noble daughters were to make offerings of monastic robes, alms, cushions, medicine for healing illnesses, and other necessities to as many thus-gone, worthy, complete, and perfect buddhas as would fill the whole universe and its three realms, Nanda, it would not compare to as much as a sixteenth fraction of the intention to go forth and renounce the world.
 {{milestone:{label:1.13,id:UT22084-072-028-55}}}“Nanda, it is very difficult for you to find 
 Such favorable conditions for going forth.
 Nanda, the teacher has appeared before you; 
 So, do not disappoint me!
-{{milestone:{label:1.14,id:UT22084-072-028-56}}}“Suppose, Nanda, that this whole wide world comprised the waters of one great ocean in which there dwelled a single, blind turtle, and that there was also a single yoke with a hole, tossing about. Considering this, that blind turtle entertains the thought that it must put its neck through the hole of this yoke, but the yoke with its hole is buffeted by the wind and tossed about in all directions. In that case, Nanda, what are the chances that the blind turtle’s neck would ever accidentally enter the hole of that yoke, even in a hundred years? In the same way, Nanda, this human birth may not be found, nor the excellence of a favorable circumstance. {{note:{index24,id:UT22084-072-028-57}}}{{note:{index25,id:UT22084-072-028-58}}}
+{{milestone:{label:1.14,id:UT22084-072-028-56}}}“Suppose, Nanda, that this whole wide world comprised the waters of one great ocean in which there dwelled a single, blind turtle, and that there was also a single yoke with a hole, tossing about. Considering this,{{note:{index24,id:UT22084-072-028-57}}} that blind turtle entertains the thought that it must put its neck through the hole of this yoke, but the yoke with its hole is buffeted by the wind and tossed about in all directions. In that case, Nanda, what are the chances that the blind turtle’s neck would ever accidentally enter the hole of that yoke, even in a hundred years?{{note:{index25,id:UT22084-072-028-58}}} In the same way, Nanda, this human birth may not be found, nor the excellence of a favorable circumstance. 
 {{milestone:{label:1.15,id:UT22084-072-028-59}}}“Nanda, it is very difficult for you to find this human birth; and thus, if you have found perfect favorable conditions, {{page:{number:6,id:UT22084-072-028-140,folio:F.257.a}}}
 {{milestone:{label:1.16,id:UT22084-072-028-60}}}“Nanda, you have found the very difficult to find
 Favorable conditions for going forth.
 Nanda, the teacher has appeared before you; 
 So, do not disappoint me!
-{{milestone:{label:1.17,id:UT22084-072-028-61}}}“Suppose, Nanda, someone tosses some white mustard seeds at the eye of an upright-standing needle. In that case, Nanda, what are the chances that any single white mustard seed would pass through the eye, even in a hundred years? In the same way, Nanda, this human birth may not be found, nor the excellence of a favorable circumstance. {{note:{index26,id:UT22084-072-028-62}}}
+{{milestone:{label:1.17,id:UT22084-072-028-61}}}“Suppose, Nanda, someone tosses some white mustard seeds at the eye of an upright-standing needle. In that case, Nanda, what are the chances that any single white mustard seed would pass through the eye, even in a hundred years?{{note:{index26,id:UT22084-072-028-62}}} In the same way, Nanda, this human birth may not be found, nor the excellence of a favorable circumstance. 
 {{milestone:{label:1.18,id:UT22084-072-028-63}}}“Nanda, it is very difficult to find this human birth; and thus, if you have found perfect favorable conditions, 
 {{milestone:{label:1.19,id:UT22084-072-028-64}}}“Nanda, you have found the very difficult to find
 Favorable conditions for going forth.

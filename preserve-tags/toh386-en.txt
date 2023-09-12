@@ -1,7 +1,7 @@
 {{translation:{id:UT22084-079-013,key:toh386,version:1.0.7,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Glorious King of Tantras
 Equal to the Sky
-{{milestone:{label:1.1,id:UT22084-079-013-29}}}Homage to the Glorious Great Well-Gone One! {{page:{number:1,id:UT22084-079-013-168,folio:F.199.a}}}{{page:{number:2,id:UT22084-079-013-162,folio:F.199.b}}}
+{{milestone:{label:1.1,id:UT22084-079-013-29}}}{{page:{number:1,id:UT22084-079-013-168,folio:F.199.a}}}Homage to the Glorious Great Well-Gone One! {{page:{number:2,id:UT22084-079-013-162,folio:F.199.b}}}
 {{milestone:{label:1.2,id:UT22084-079-013-30}}}Thus did I hear at one time. The Blessed One was dwelling in the bhaga of the vajra queen—the awakened body, speech, and mind of all thus-gone ones. At that time, present among the assembly were the sky-dwelling, earth-dwelling, and subterranean ḍākinīs. Smiling at these three, the Blessed One gave this teaching on the secret topic:
 {{milestone:{label:1.3,id:UT22084-079-013-31}}}With faith, compassion, and a one-pointed mind,
 Fix your body and your speech; set your mind toward others’ benefit.
@@ -20,7 +20,7 @@ And the wisdom wind, which has the quality of all.
 To elaborate on this brief explanation in sequence:{{note:{index11,id:UT22084-079-013-35}}}
 The nondual wind is neither male nor female. 
 {{milestone:{label:1.7,id:UT22084-079-013-36}}}When in union, it is the wind of method and wisdom.
-When it flows upward and enters, it is awakened body, speech, and mind.{{note:{index12,id:UT22084-079-013-37}}}
+When it flows upward and enters,{{note:{index12,id:UT22084-079-013-37}}} it is awakened body, speech, and mind.
 It then spreads throughout the body: the heart, sacrum,
 Mouth, throat, and navel.
 {{milestone:{label:1.8,id:UT22084-079-013-38}}}The five families’ winds then abide all-pervasively.
@@ -160,7 +160,7 @@ The varieties of ultimate phenomena
 Arise on the basis of nonconceptual awareness.
 The āli and kāli, along with the neuter phonemes,
 {{milestone:{label:1.42,id:UT22084-079-013-78}}}Should be analyzed through these six modes. 
-The letter marking the final sound is inconceivable. {{note:{index17,id:UT22084-079-013-79}}}
+The letter marking the final sound{{note:{index17,id:UT22084-079-013-79}}} is inconceivable. 
 There are three types of branch: 
 Cause and result, signifier and signified,
 {{milestone:{label:1.43,id:UT22084-079-013-80}}}And expression and expressed. 
@@ -264,5 +264,5 @@ From ra and li, which are the taste of nectar,
 One attains realization from the instructions of the guru;
 Remember to hold them in mind! 
 {{milestone:{label:1.68,id:UT22084-079-013-108}}}Following this discourse, all the gathered assemblies that were present rejoiced. 
-{{milestone:{label:1.69,id:UT22084-079-013-109}}}This completes the glorious king of tantras “Equal to the Sky,” which has the nature of  awakened body, speech, and mind. {{page:{number:7,id:UT22084-079-013-167,folio:F.202.a}}}
+{{milestone:{label:1.69,id:UT22084-079-013-109}}}This completes the glorious king of tantras “Equal to the Sky,” which has the nature of {{page:{number:7,id:UT22084-079-013-167,folio:F.202.a}}} awakened body, speech, and mind. 
 {{milestone:{label:c.1,id:UT22084-079-013-110}}}This was translated and edited by the paṇḍita Gayādhara and the monk Śākya Yeshé. 

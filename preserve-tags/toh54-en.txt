@@ -1,16 +1,16 @@
 {{translation:{id:UT22084-040-005,key:toh54,version:1.0.13,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Noble Mahāyāna Sūtra
 The Exposition on the Universal Gateway
-{{milestone:{label:1.1,id:UT22084-040-005-15}}} Homage to all buddhas and bodhisattvas.{{page:{number:1,id:UT22084-040-005-368,folio:F.184.b}}}{{page:{number:2,id:UT22084-040-005-369,folio:F.185.a}}}
+{{milestone:{label:1.1,id:UT22084-040-005-15}}}{{page:{number:1,id:UT22084-040-005-368,folio:F.184.b}}}{{page:{number:2,id:UT22084-040-005-369,folio:F.185.a}}} Homage to all buddhas and bodhisattvas.
 Thus did I hear at one time. The Blessed One was staying at Vulture Peak Mountain by Rājagṛha, together with a great saṅgha of eight hundred monks, and with forty-two thousand bodhisattvas. At that time, a bodhisattva great being by the name Amalagarbha, accompanied by ninety-two thousand other bodhisattvas, set out from the world known as Immaculate Conduct—the buddhafield of the thus-gone, worthy, perfect buddha Saṃkusumita. They traveled to Vulture Peak Mountain, here in this Sahā world, where the blessed, thus-gone, worthy, perfect buddha Śākyamuni dwelled. 
-{{milestone:{label:1.2,id:UT22084-040-005-19}}}As the bodhisattva great being Amalagarbha arrived in the sky, surrounded and attended by a great assembly of bodhisattvas, the Blessed One noticed him. As he caught sight of him, the Blessed One thought, “The bodhisattva great being Amalagarbha has been dispatched here by the thus-gone, worthy, perfect buddha Saṃkusumita in order to receive the Dharma teaching called The Exposition on the Universal Gateway. Therefore, I, for my part, should gather the bodhisattvas.” Then, because the Blessed One formed this intent, all bodhisattva great beings residing in boundless, infinite worlds arrived at Vulture Peak Mountain here in this Sahā world to meet the Blessed One. {{note:{index7,id:UT22084-040-005-20}}}
-{{milestone:{label:1.3,id:UT22084-040-005-21}}}Upon arrival, they bowed their heads to the Blessed One’s feet and sat down to one side.  All the bodhisattva great beings at Vulture Peak Mountain who had retired for meditation also gathered. The bodhisattva great being Amalagarbha then went before the thus-gone, worthy, perfect buddha Śākyamuni, holding a thousand-petaled lotus flower made of the seven precious substances. He bowed his head to the Blessed One’s feet and offered him the thousand-petaled lotus. {{page:{number:3,id:UT22084-040-005-370,folio:F.185.b}}}{{note:{index8,id:UT22084-040-005-22}}}
-{{milestone:{label:1.4,id:UT22084-040-005-23}}}Amalagarbha then said to the Blessed One, “Blessed One, the thus-gone, worthy, perfect buddha Saṃkusumita from the world Immaculate Conduct inquiries about the Blessed One’s health. Does the Blessed One have but little trouble, grief, and agitation? Is he in good health, strong, and at ease? Is the Blessed One free of illness and does he have but few troubles?” When he had thus inquired after the Blessed One’s health, he added, “Might the blessed, thus-gone, worthy, perfect buddha Śākyamuni deliver the Dharma teaching pertaining to the inconceivable Exposition on the Universal Gateway to the bodhisattva great beings?” Then, having asked the Blessed One in this way, the bodhisattva great being Amalagarbha sat down cross-legged in the sky in the midst of his retinue of bodhisattvas.{{note:{index9,id:UT22084-040-005-24}}}
-{{milestone:{label:1.5,id:UT22084-040-005-25}}}At that time, Prince Mañjuśrī was also present within that assembly. He rose from his seat, draped his shawl over one shoulder, and knelt on his right knee. Joining his palms, he bowed toward the Blessed One and said, “In order to foster the bodhisattvas, I request the Blessed One, the Thus-Gone One, to thoroughly expound the Dharma teaching pertaining to the inconceivable Exposition on the Universal Gateway. Blessed One,  I beseech you. In the past, I received this teaching from the thus-gone, worthy, perfect buddha Bright Lamp and thereby developed eighty-four sextillion absorptions. I also understood seventy-seven sextillion approaches to accomplishing dhāraṇīs. That being the case, may the Blessed One also teach this thoroughly in order to foster these bodhisattvas.” {{page:{number:4,id:UT22084-040-005-371,folio:F.186.a}}}{{note:{index10,id:UT22084-040-005-26}}}
+{{milestone:{label:1.2,id:UT22084-040-005-19}}}As the bodhisattva great being Amalagarbha arrived in the sky, surrounded and attended by a great assembly of bodhisattvas, the Blessed One noticed him. As he caught sight of him, the Blessed One thought, “The bodhisattva great being Amalagarbha has been dispatched here by the thus-gone, worthy, perfect buddha Saṃkusumita in order to receive the Dharma teaching called The Exposition on the Universal Gateway. Therefore, I, for my part, should gather the bodhisattvas.” Then, because the Blessed One formed this intent, all bodhisattva great beings residing in boundless, infinite worlds{{note:{index7,id:UT22084-040-005-20}}} arrived at Vulture Peak Mountain here in this Sahā world to meet the Blessed One. 
+{{milestone:{label:1.3,id:UT22084-040-005-21}}}Upon arrival, they bowed their heads to the Blessed One’s feet and sat down to one side. {{page:{number:3,id:UT22084-040-005-370,folio:F.185.b}}} All the bodhisattva great beings at Vulture Peak Mountain who had retired for meditation{{note:{index8,id:UT22084-040-005-22}}} also gathered. The bodhisattva great being Amalagarbha then went before the thus-gone, worthy, perfect buddha Śākyamuni, holding a thousand-petaled lotus flower made of the seven precious substances. He bowed his head to the Blessed One’s feet and offered him the thousand-petaled lotus. 
+{{milestone:{label:1.4,id:UT22084-040-005-23}}}Amalagarbha then said to the Blessed One, “Blessed One, the thus-gone, worthy, perfect buddha Saṃkusumita from the world Immaculate Conduct inquiries about the Blessed One’s health. Does the Blessed One have but little trouble, grief, and agitation?{{note:{index9,id:UT22084-040-005-24}}} Is he in good health, strong, and at ease? Is the Blessed One free of illness and does he have but few troubles?” When he had thus inquired after the Blessed One’s health, he added, “Might the blessed, thus-gone, worthy, perfect buddha Śākyamuni deliver the Dharma teaching pertaining to the inconceivable Exposition on the Universal Gateway to the bodhisattva great beings?” Then, having asked the Blessed One in this way, the bodhisattva great being Amalagarbha sat down cross-legged in the sky in the midst of his retinue of bodhisattvas.
+{{milestone:{label:1.5,id:UT22084-040-005-25}}}At that time, Prince Mañjuśrī was also present within that assembly.{{note:{index10,id:UT22084-040-005-26}}} He rose from his seat, draped his shawl over one shoulder, and knelt on his right knee. Joining his palms, he bowed toward the Blessed One and said, “In order to foster the bodhisattvas, I request the Blessed One, the Thus-Gone One, to thoroughly expound the Dharma teaching pertaining to the inconceivable Exposition on the Universal Gateway. Blessed One, {{page:{number:4,id:UT22084-040-005-371,folio:F.186.a}}} I beseech you. In the past, I received this teaching from the thus-gone, worthy, perfect buddha Bright Lamp and thereby developed eighty-four sextillion absorptions. I also understood seventy-seven sextillion approaches to accomplishing dhāraṇīs. That being the case, may the Blessed One also teach this thoroughly in order to foster these bodhisattvas.” 
 {{milestone:{label:1.6,id:UT22084-040-005-27}}}In response, the Blessed One said the following to Prince Mañjuśrī: “To this effect, Mañjuśrī, listen carefully and keep in mind what I explain.” 
 Prince Mañjuśrī answered, “Blessed One, so be it.”{{note:{index11,id:UT22084-040-005-29}}}
 {{milestone:{label:1.7,id:UT22084-040-005-30}}}He listened closely as the Blessed One said, “Mañjuśrī, bodhisattva great beings should understand form to be absorption. They should understand sound to be absorption. They should understand scent to be absorption. They should understand taste to be absorption. They should understand tactile objects to be absorption. They should understand the objects of the mind to be absorption.
-{{milestone:{label:1.8,id:UT22084-040-005-31}}}“They should understand women’s figures to be absorption. They should understand men’s figures to be absorption. They should understand boys’ figures to be absorption. They should understand girls’ figures to be absorption. They should understand the gods’ figures to be absorption. They should understand the nāgas’ figures to be absorption. They should understand the yakṣas’ figures to be absorption. They should understand the gandharvas’ figures to be absorption. They should understand the asuras’ figures to be absorption. They should understand the garuḍas’ figures to be absorption. They should understand the kinnaras’ figures to be absorption. They should understand the mahoragas’ figures to be absorption. They should understand the hell beings’ figures to be absorption. They should understand animals’ figures to be absorption.  They should understand the figures of beings in the world of the Lord of Death to be absorption. {{page:{number:5,id:UT22084-040-005-372,folio:F.186.b}}}{{note:{index12,id:UT22084-040-005-32}}}{{note:{index13,id:UT22084-040-005-33}}}
+{{milestone:{label:1.8,id:UT22084-040-005-31}}}“They should understand women’s figures{{note:{index12,id:UT22084-040-005-32}}} to be absorption. They should understand men’s figures{{note:{index13,id:UT22084-040-005-33}}} to be absorption. They should understand boys’ figures to be absorption. They should understand girls’ figures to be absorption. They should understand the gods’ figures to be absorption. They should understand the nāgas’ figures to be absorption. They should understand the yakṣas’ figures to be absorption. They should understand the gandharvas’ figures to be absorption. They should understand the asuras’ figures to be absorption. They should understand the garuḍas’ figures to be absorption. They should understand the kinnaras’ figures to be absorption. They should understand the mahoragas’ figures to be absorption. They should understand the hell beings’ figures to be absorption. They should understand animals’ figures to be absorption. {{page:{number:5,id:UT22084-040-005-372,folio:F.186.b}}} They should understand the figures of beings in the world of the Lord of Death to be absorption. 
 {{milestone:{label:1.9,id:UT22084-040-005-34}}}“They should understand attachment to be absorption. They should understand anger to be absorption. They should understand ignorance to be absorption. They should understand all virtues to be absorption. They should understand all nonvirtues to be absorption. They should understand all conditioned phenomena to be absorption. They should understand all unconditioned phenomena to be absorption. In this manner, they should understand all phenomena to be absorption. Mañjuśrī, bodhisattva great beings who obtain all such absorptions have omnipresent minds and are trained in the Dharma teaching of The Exposition on the Universal Gateway. 
 {{milestone:{label:1.10,id:UT22084-040-005-35}}}“Mañjuśrī, in this regard, how should bodhisattvas understand form to be absorption? 
 “Form is said to be like a bubble: 
@@ -25,7 +25,7 @@ I know it to have no distinguishable parts
 And to be devoid of characteristics, with no particularities. 
 {{milestone:{label:1.12,id:UT22084-040-005-40}}}“It has no characteristics or origin,
 And is hollow and unconditioned. 
-Knowing it to be like an echo,{{note:{index14,id:UT22084-040-005-41}}}
+Knowing it{{note:{index14,id:UT22084-040-005-41}}} to be like an echo,
 I have taught it to be absorption. 
 {{milestone:{label:1.12,id:UT22084-040-005-40}}}“Mañjuśrī, that is how you should understand sound to be absorption. 
 {{milestone:{label:1.13,id:UT22084-040-005-43}}}“Mañjuśrī, how should bodhisattvas understand scent to be absorption? 
@@ -55,7 +55,7 @@ I have taught it to be absorption.
 {{milestone:{label:1.18,id:UT22084-040-005-54}}}“Mañjuśrī, how should bodhisattvas understand tactile objects to be absorption? 
 “Tactile objects, which arise out of cognition, 
 Are not inherently existent. 
-Softness and roughness {{note:{index17,id:UT22084-040-005-56}}}
+Softness{{note:{index17,id:UT22084-040-005-56}}} and roughness 
 Are created by conditions. 
 {{milestone:{label:1.19,id:UT22084-040-005-57}}}“Tactile objects are baseless; 
 Their way of abiding is devoid of self. 
@@ -101,7 +101,7 @@ I have made with reference to the female figure.
 ‘This is a woman and I am a man,’
 In that instant, their minds
 Become desirous and mistaken.
-{{milestone:{label:1.29,id:UT22084-040-005-75}}}“Yet mind is formless and imperceptible.{{note:{index20,id:UT22084-040-005-76}}}
+{{milestone:{label:1.29,id:UT22084-040-005-75}}}“Yet mind is formless{{note:{index20,id:UT22084-040-005-76}}} and imperceptible.
 It is indemonstrable as woman or man.
 It is conceptual superimpositions
 That give rise to the perception of man.{{note:{index21,id:UT22084-040-005-77}}}
@@ -122,13 +122,13 @@ The fruit cannot grow either.
 {{milestone:{label:1.33,id:UT22084-040-005-83}}}“Likewise, since women are nonexistent,
 Boys cannot be apprehended either. 
 Those who are under the sway of their imaginations,
-Falsely conceive what they call boy. {{note:{index22,id:UT22084-040-005-84}}}
+Falsely conceive{{note:{index22,id:UT22084-040-005-84}}} what they call boy. 
 {{milestone:{label:1.34,id:UT22084-040-005-85}}}“If you know woman to be unborn,
 Boys have no origin either.
 Realizing all entities to be nonexistent,
 I have taught boys to be absorption. 
 {{milestone:{label:1.34,id:UT22084-040-005-85}}}“Mañjuśrī, this is how you should understand boys’ figures to be absorption.
-{{milestone:{label:1.35,id:UT22084-040-005-87}}}“Mañjuśrī, how should bodhisattvas  understand girls’ figures to be absorption? {{page:{number:8,id:UT22084-040-005-375,folio:F.188.a}}}
+{{milestone:{label:1.35,id:UT22084-040-005-87}}}“Mañjuśrī, how should bodhisattvas {{page:{number:8,id:UT22084-040-005-375,folio:F.188.a}}} understand girls’ figures to be absorption? 
 “If a palm tree’s crown is cut off,
 It can never grow again.
 Knowing this, the wise
@@ -136,7 +136,7 @@ Will not wish for any fruits to appear.
 {{milestone:{label:1.36,id:UT22084-040-005-89}}}“Likewise, once the wise know that women
 Have also never been born,
 They no longer wrongly think,
-‘Their basis, a girl, has been born.’{{note:{index23,id:UT22084-040-005-90}}}
+‘Their basis,{{note:{index23,id:UT22084-040-005-90}}} a girl, has been born.’
 {{milestone:{label:1.37,id:UT22084-040-005-91}}}“Knowing that when a seed is parched 
 It can no longer grow,
 This statement on the peace of absorption
@@ -166,7 +166,7 @@ They manifest the forms of nonexistent clouds.
 Although they do not remain in those clouds,
 They bring down heavy rainfall.
 {{milestone:{label:1.43,id:UT22084-040-005-101}}}“They fill up the seas,
-Rivers, and oceans here in Jambudvīpa.{{note:{index24,id:UT22084-040-005-102}}}
+Rivers,{{note:{index24,id:UT22084-040-005-102}}} and oceans here in Jambudvīpa.
 Yet, whether in the beginning or the end,
 This water is devoid of origin.
 {{milestone:{label:1.44,id:UT22084-040-005-103}}}“All beings are similar to that water— 
@@ -218,7 +218,7 @@ I have taught absorption with reference to the kinnaras.
 “Mañjuśrī, this is how you should understand the kinnaras’ figures to be absorption.
 {{milestone:{label:1.53,id:UT22084-040-005-130}}}“Mañjuśrī, how should bodhisattvas understand mahoragas’ figures to be absorption?
 “By whatever names these phenomena
-Are variously posited in the worlds,{{note:{index32,id:UT22084-040-005-132}}}
+Are variously posited{{note:{index32,id:UT22084-040-005-132}}} in the worlds,
 The phenomena do not exist there;
 Everything is imagined out of nonexistence.
 {{milestone:{label:1.54,id:UT22084-040-005-133}}}“If you know everything to be fabricated,
@@ -249,11 +249,11 @@ They fool the unwise.
 It is like the form of a cloud:
 In the realms of animals,
 It displays bodies in various forms.
-{{milestone:{label:1.60,id:UT22084-040-005-143}}}“Karmic actions are of an illusory nature.{{note:{index33,id:UT22084-040-005-144}}}
+{{milestone:{label:1.60,id:UT22084-040-005-143}}}“Karmic actions{{note:{index33,id:UT22084-040-005-144}}} are of an illusory nature.
 I know them to be unarisen and beyond characteristics.
 This statement on the peace of absorption
 I have made with reference to animals’ figures. 
-{{milestone:{label:1.60,id:UT22084-040-005-143}}}“Mañjuśrī,  this is how you should understand figures in the animal realm to be absorption.{{page:{number:11,id:UT22084-040-005-378,folio:F.189.b}}}
+{{milestone:{label:1.60,id:UT22084-040-005-143}}}“Mañjuśrī, {{page:{number:11,id:UT22084-040-005-378,folio:F.189.b}}} this is how you should understand figures in the animal realm to be absorption.
 {{milestone:{label:1.61,id:UT22084-040-005-146}}}“Mañjuśrī, how should bodhisattvas understand the figures in the world of the Lord of Death to be absorption?
 “Black misdeeds and objectionable deeds 
 And white irreproachable deeds
@@ -311,7 +311,7 @@ It is those who perceive desire as something frightening
 Who think they must free themselves from it.
 {{milestone:{label:1.74,id:UT22084-040-005-163}}}“Being a limit of nothing whatsoever,
 The limit of desire is luminosity.
-As it is without characteristics, permanent, and sameness—{{note:{index35,id:UT22084-040-005-164}}}
+As it is without characteristics, permanent, and sameness{{note:{index35,id:UT22084-040-005-164}}}—
 I see it as the seat of awakening.
 {{milestone:{label:1.75,id:UT22084-040-005-165}}}“Beings who perceive it as existent
 Aim to diminish desire.
@@ -324,7 +324,7 @@ But such is these beings’ mere conception.
 {{milestone:{label:1.77,id:UT22084-040-005-167}}}“The limit of desire defies thought
 And is indestructible.
 Thus it is equal to the limit of reality. 
-So, do not think of being freed from it!{{note:{index36,id:UT22084-040-005-168}}}
+So, do not think{{note:{index36,id:UT22084-040-005-168}}} of being freed from it!
 {{milestone:{label:1.78,id:UT22084-040-005-169}}}“If one were freed from desire,
 One would be freed from emptiness. 
 Desire and emptiness
@@ -343,13 +343,13 @@ The wise do not see liberation
 As a way to eliminate desire.
 {{milestone:{label:1.82,id:UT22084-040-005-174}}}“Knowing that desire is like the qualities of awakening,
 And like nirvāṇa, 
-I have taught immaculate absorption{{note:{index38,id:UT22084-040-005-175}}}{{note:{index39,id:UT22084-040-005-176}}}
+I have taught immaculate{{note:{index38,id:UT22084-040-005-175}}} absorption{{note:{index39,id:UT22084-040-005-176}}}
 With reference to the word desire.
 {{milestone:{label:1.83,id:UT22084-040-005-177}}}“Desire rests on the sphere of peace.
 Knowing it to be complete peace,
 To the wise ones I have taught 
 Absorption with reference to the word desire.
-{{milestone:{label:1.83,id:UT22084-040-005-177}}}“Mañjuśrī, this is how bodhisattvas should understand desire  to be absorption. {{page:{number:13,id:UT22084-040-005-380,folio:F.190.b}}}
+{{milestone:{label:1.83,id:UT22084-040-005-177}}}“Mañjuśrī, this is how bodhisattvas should understand desire {{page:{number:13,id:UT22084-040-005-380,folio:F.190.b}}} to be absorption. 
 {{milestone:{label:1.84,id:UT22084-040-005-179}}}“Mañjuśrī, how should bodhisattvas understand anger to be absorption?
 “As anger comes from rejecting,
 It is also an affliction born from conditions.
@@ -365,7 +365,7 @@ Without these materials coming together,
 Fire cannot be. 
 {{milestone:{label:1.87,id:UT22084-040-005-184}}}“Likewise, from unpleasant words
 Arises vain anger;
-But if you examine these hollow words,{{note:{index41,id:UT22084-040-005-185}}}
+But if you examine these hollow{{note:{index41,id:UT22084-040-005-185}}} words,
 You will find no anger there.
 {{milestone:{label:1.88,id:UT22084-040-005-186}}}“Anger does not come from words.
 It does not reside inside,
@@ -401,7 +401,7 @@ There can be no confusion.
 And perceive attachment where there is none.{{note:{index44,id:UT22084-040-005-198}}}
 This is just like a childish being {{page:{number:14,id:UT22084-040-005-381,folio:F.191.a}}}
 Vainly trying to tie a knot in space.
-{{milestone:{label:1.96,id:UT22084-040-005-199}}}“Labeling nonexistent phenomena{{note:{index45,id:UT22084-040-005-200}}}
+{{milestone:{label:1.96,id:UT22084-040-005-199}}}“Labeling{{note:{index45,id:UT22084-040-005-200}}} nonexistent phenomena
 As defilements:
 This [problem] of childish beings is outrageous. 
 It is indeed the most heinous of evil deeds.
@@ -418,7 +418,7 @@ But it has no beginning.
 The sky cannot be filled by anything:
 It is immeasurable.
 {{milestone:{label:1.100,id:UT22084-040-005-204}}}“Likewise, for thousands of eons
-Beings have been filled with ignorance;{{note:{index46,id:UT22084-040-005-205}}}
+Beings have been filled with{{note:{index46,id:UT22084-040-005-205}}} ignorance;
 Still, they are never being filled,
 And they are never satisfied in the slightest.
 {{milestone:{label:1.101,id:UT22084-040-005-206}}}“When a person who uses a bellow
@@ -459,7 +459,7 @@ Ignorance is the same as all beings,
 And all beings are inconceivable. {{page:{number:15,id:UT22084-040-005-382,folio:F.191.b}}}
 {{milestone:{label:1.110,id:UT22084-040-005-216}}}“Inconceivability and ignorance
 Are thus imputed by thought. 
-All of the mind is inconceivable,{{note:{index49,id:UT22084-040-005-217}}}
+All of the mind{{note:{index49,id:UT22084-040-005-217}}} is inconceivable,
 And has no limit.
 {{milestone:{label:1.111,id:UT22084-040-005-218}}}“Since ignorance is immeasurable,
 One cannot find its origin. 
@@ -483,7 +483,7 @@ Understand absorption accordingly.
 And the turbulence of being angry,
 As well as being ignorant—
 Know them all to be absorption.
-{{milestone:{label:1.116,id:UT22084-040-005-226}}}“The production of any affliction{{note:{index52,id:UT22084-040-005-227}}}{{note:{index53,id:UT22084-040-005-228}}}
+{{milestone:{label:1.116,id:UT22084-040-005-226}}}“The production{{note:{index52,id:UT22084-040-005-227}}} of any affliction{{note:{index53,id:UT22084-040-005-228}}}
 Is absorption—be confident of that!
 Afflictions are false and unreal;
 Meditate on them all in this way.
@@ -519,23 +519,23 @@ I have taught such
 To all beings who are attached to words.
 {{milestone:{label:1.122,id:UT22084-040-005-242}}}“Mañjuśrī, this is how you should understand all unconditioned phenomena to be absorption.” 
 {{milestone:{label:1.123,id:UT22084-040-005-244}}}As he completed these verses, thus delivering this inconceivable teaching, ninety-two thousand bodhisattvas gained the acceptance of phenomena being unborn. Seventy-two sextillion gods formed the resolve to attain unsurpassed and perfect awakening. Thirty-six thousand monks liberated their minds from the defilements, without further appropriation. Six thousand two hundred nuns also formed the resolve to achieve unsurpassed and perfect awakening. Eight million one hundred thousand male lay practitioners formed the resolve to achieve unsurpassed and perfect awakening. Four million two hundred thousand female lay practitioners also formed the resolve to reach unsurpassed and perfect awakening.
-{{milestone:{label:1.124,id:UT22084-040-005-245}}}Then Prince Mañjuśrī said to the Blessed One, “If those bodhisattvas with sharp faculties who have come here hear the names of some absorptions, they will attain illumination in all phenomena. They will be impervious to all the gods belonging to the entourage of Māra and to those who hold the view that apprehends the person. Through a single letter, they will understand all letters, and through all letters, they will understand one letter. They will become skilled in teaching the Dharma to all beings with unimpeded confident eloquence.  They will gain acceptance of the profound Dharma. They will understand all conduct to be of a single defining characteristic. They will achieve an unobscured state through the four correct discriminations. I beseech the Blessed Ones to teach the names of these absorptions.”{{page:{number:17,id:UT22084-040-005-384,folio:F.192.b}}}{{note:{index56,id:UT22084-040-005-246}}}{{note:{index57,id:UT22084-040-005-247}}}
+{{milestone:{label:1.124,id:UT22084-040-005-245}}}Then Prince Mañjuśrī said to the Blessed One, “If those bodhisattvas with sharp faculties who have come here hear the names of some absorptions, they will attain illumination in all phenomena. They will be impervious to all the gods belonging to the entourage of Māra and to those who hold the view that apprehends the person. Through a single letter, they will understand all letters, and through all letters, they will understand{{note:{index56,id:UT22084-040-005-246}}} one letter.{{note:{index57,id:UT22084-040-005-247}}} They will become skilled in teaching the Dharma to all beings with unimpeded confident eloquence. {{page:{number:17,id:UT22084-040-005-384,folio:F.192.b}}} They will gain acceptance of the profound Dharma. They will understand all conduct to be of a single defining characteristic. They will achieve an unobscured state through the four correct discriminations. I beseech the Blessed Ones to teach the names of these absorptions.”
 {{milestone:{label:1.125,id:UT22084-040-005-248}}}To this the Blessed One responded, “Mañjuśrī, to that end, listen carefully and keep in mind what I shall say.”
-Prince Mañjuśrī answered, “Blessed One, so be it.” He then listened as the Blessed One had directed.{{note:{index58,id:UT22084-040-005-250}}}
-{{milestone:{label:1.126,id:UT22084-040-005-251}}}The Blessed One then said, “Mañjuśrī, there is the absorption called the infinite immaculate. If bodhisattvas obtain this absorption, they will reveal all forms to be pure. {{note:{index59,id:UT22084-040-005-252}}}
+Prince Mañjuśrī answered, “Blessed One, so be it.” He then listened{{note:{index58,id:UT22084-040-005-250}}} as the Blessed One had directed.
+{{milestone:{label:1.126,id:UT22084-040-005-251}}}The Blessed One then said, “Mañjuśrī, there is the absorption called the infinite immaculate. If bodhisattvas obtain this absorption, they will reveal all forms{{note:{index59,id:UT22084-040-005-252}}} to be pure. 
 {{milestone:{label:1.127,id:UT22084-040-005-253}}}“Mañjuśrī, there is the absorption called swift travel. If bodhisattvas obtain this absorption, they will outshine the light of the sun and the moon. 
 {{milestone:{label:1.128,id:UT22084-040-005-254}}}“Mañjuśrī, there is the absorption called source of light. If bodhisattvas obtain this absorption, they will overwhelm Śakra and Brahmā in their splendor. 
 {{milestone:{label:1.129,id:UT22084-040-005-255}}}“Mañjuśrī, there is the absorption called showing the land. If bodhisattvas obtain this absorption, they will pacify the desire, anger, and ignorance of all their assembled retinues.
 {{milestone:{label:1.130,id:UT22084-040-005-256}}}“Mañjuśrī, there is the absorption called unobstructed light. If bodhisattvas obtain this absorption, they will illuminate all buddha realms.
 {{milestone:{label:1.131,id:UT22084-040-005-257}}}“Mañjuśrī, there is the absorption called forgetting no Dharma. If they obtain this absorption, bodhisattvas will retain all the Dharma teachings taught by the Buddha and teach them to others as well.
-{{milestone:{label:1.132,id:UT22084-040-005-258}}}“Mañjuśrī, there is the absorption called imitating the pleasant sound of the lion’s roar. If they obtain this absorption, bodhisattvas will  make themselves heard all the way up to the Brahmā realm.{{page:{number:18,id:UT22084-040-005-385,folio:F.193.a}}}
+{{milestone:{label:1.132,id:UT22084-040-005-258}}}“Mañjuśrī, there is the absorption called imitating the pleasant sound of the lion’s roar. If they obtain this absorption, bodhisattvas will {{page:{number:18,id:UT22084-040-005-385,folio:F.193.a}}} make themselves heard all the way up to the Brahmā realm.
 {{milestone:{label:1.133,id:UT22084-040-005-259}}}“Mañjuśrī, there is the absorption called truly creating all forms of joy, contentment, and satisfaction. If they obtain this absorption, bodhisattvas will gladden the various minds and thoughts of all sentient beings. 
 {{milestone:{label:1.134,id:UT22084-040-005-260}}}“Mañjuśrī, there is the absorption called captivating to behold and greatly joyous. If they obtain this absorption, bodhisattvas will become captivating to behold and to listen to. 
 {{milestone:{label:1.135,id:UT22084-040-005-261}}}“Mañjuśrī, there is the absorption called source of inconceivable qualities, wellspring of the precious domain of wisdom, singular stream free of affliction. If they obtain this absorption, bodhisattvas will be able to display all miracles and subdue all beings.
 {{milestone:{label:1.136,id:UT22084-040-005-262}}}“Mañjuśrī, there is the absorption called the symbol of all languages. If they obtain this absorption, bodhisattvas will understand all languages, expressions, and signs. They will reveal a single letter through all letters, and all letters through a single letter.
 {{milestone:{label:1.137,id:UT22084-040-005-263}}}“Mañjuśrī, there is the absorption called accumulation and demonstration of all merit and roots of virtue arisen from ripened action. If they obtain this absorption, bodhisattvas will remain in equipoise without saying anything. Without uttering a single sound, they will cause all beings to hear the words Buddha, Dharma, Saṅgha, hearers, solitary buddhas, bodhisattvas, and perfections.
 {{milestone:{label:1.138,id:UT22084-040-005-264}}}“Mañjuśrī, there is the absorption called the exalted king of all dhāraṇīs. If they obtain this absorption, bodhisattvas will know how to engage in the accomplishment of infinite dhāraṇīs. 
-{{milestone:{label:1.139,id:UT22084-040-005-265}}}“Mañjuśrī, there is the absorption called the array of confident eloquence in all Dharma teachings.  If they obtain this absorption, bodhisattvas will become confidently eloquent in all utterances, languages, sounds, and expressions.”{{page:{number:19,id:UT22084-040-005-386,folio:F.193.b}}}
+{{milestone:{label:1.139,id:UT22084-040-005-265}}}“Mañjuśrī, there is the absorption called the array of confident eloquence in all Dharma teachings. {{page:{number:19,id:UT22084-040-005-386,folio:F.193.b}}} If they obtain this absorption, bodhisattvas will become confidently eloquent in all utterances, languages, sounds, and expressions.”
 {{milestone:{label:1.140,id:UT22084-040-005-266}}}Then Prince Mañjuśrī said to the Blessed One, “Blessed One, I have an insight to share regarding the unique description of qualities expressed in this Dharma teaching.”
 The Blessed One responded, “Mañjuśrī, please share your insight.”
 {{milestone:{label:1.141,id:UT22084-040-005-268}}}Mañjuśrī then said, “Blessed One, I wish that those bodhisattvas who are free of doubt and hesitation and who teach, hold, recite, integrate, and authentically and extensively expound this Dharma teaching to others, undoubtedly achieve confident eloquence in this very lifetime. I wish that they obtain swift confidence, vast confidence, confidence in the profound, unforgetting confidence, and variegated confidence. I wish that their minds become free from all animosity toward any sentient being. Why do I make that wish? It is because the accomplishment of this Dharma teaching depends on precisely this conduct.”
@@ -544,12 +544,12 @@ The Blessed One responded, “Mañjuśrī, please share your insight.”
 {{milestone:{label:1.144,id:UT22084-040-005-271}}}“Mañjuśrī, for instance, bodhisattvas who abide on the seat of awakening are certain to fully awaken to unsurpassed and perfect buddhahood. Likewise, Mañjuśrī, bodhisattva great beings who recite this Dharma teaching are certain to achieve confident eloquence in this very lifetime.
 {{milestone:{label:1.145,id:UT22084-040-005-272}}}“Mañjuśrī, therefore, bodhisattva great beings who wish to achieve confident eloquence in this very lifetime should without doubt or hesitation obtain this Dharma teaching, hold it, recite it, read it, understand it, and expound it extensively and correctly to others.”
 {{milestone:{label:1.146,id:UT22084-040-005-273}}}Then the bodhisattva great being Amalagarbha said to the Blessed One, “Blessed One, after you pass into parinirvāṇa, I too will work to ensure that those bodhisattvas who have no doubt or hesitation and who retain, hold, read, understand, and correctly and extensively expound this Dharma teaching to others achieve confident eloquence in it.”
-{{milestone:{label:1.147,id:UT22084-040-005-274}}}At this point, the evil Māra came weeping and wailing before the Blessed One and said, “Blessed One, if the thus-gone, worthy, perfect buddha is compassionate and bestows happiness to suffering beings, then I beseech the Blessed One not to further bless this Dharma teaching, so as to dispel my own mental anguish. Blessed One, when the Blessed One was seated on the seat of awakening, and now as he delivered this Dharma teaching,  I was tormented by intense suffering, anguish, and sorrow. Blessed One, if any sentient being who so much as hears this Dharma teaching will proceed irreversibly to unsurpassed and perfect awakening, then no need to mention that those who not only hear but retain, hold, read, understand, and expound this Dharma teaching extensively and correctly to others will likewise proceed irreversibly to unsurpassed and perfect awakening. All these beings will fully pass into nirvāṇa. Therefore, Blessed One, my māra realm will become empty. If the thus-gone, worthy, perfect buddha is compassionate and bestows happiness onto those who suffer, then I beseech the Blessed One to relieve my suffering. I beseech the Well-Gone One to relieve my suffering.”{{page:{number:21,id:UT22084-040-005-388,folio:F.194.b}}}{{note:{index60,id:UT22084-040-005-275}}}
+{{milestone:{label:1.147,id:UT22084-040-005-274}}}At this point, the evil Māra came weeping and wailing before the Blessed One and said, “Blessed One, if the thus-gone, worthy, perfect buddha is compassionate and bestows{{note:{index60,id:UT22084-040-005-275}}} happiness to suffering beings, then I beseech the Blessed One not to further bless this Dharma teaching, so as to dispel my own mental anguish. Blessed One, when the Blessed One was seated on the seat of awakening, and now as he delivered this Dharma teaching, {{page:{number:21,id:UT22084-040-005-388,folio:F.194.b}}} I was tormented by intense suffering, anguish, and sorrow. Blessed One, if any sentient being who so much as hears this Dharma teaching will proceed irreversibly to unsurpassed and perfect awakening, then no need to mention that those who not only hear but retain, hold, read, understand, and expound this Dharma teaching extensively and correctly to others will likewise proceed irreversibly to unsurpassed and perfect awakening. All these beings will fully pass into nirvāṇa. Therefore, Blessed One, my māra realm will become empty. If the thus-gone, worthy, perfect buddha is compassionate and bestows happiness onto those who suffer, then I beseech the Blessed One to relieve my suffering. I beseech the Well-Gone One to relieve my suffering.”
 {{milestone:{label:1.148,id:UT22084-040-005-276}}}Then the Blessed One responded to the evil Māra, “Evil one, do not fear. Not all sentient beings will fully pass into nirvāṇa. Evil one, nor will I bless this Dharma teaching, so do not fear.”
 When the Blessed One had consoled him, the evil Māra was satisfied, pleased, and happy. He became joyful, delighted, and elated, and instantly disappeared. 
 {{milestone:{label:1.149,id:UT22084-040-005-278}}}Then Prince Mañjuśrī spoke to the Blessed One, “Blessed One, with what intention did you tell the evil Māra that you would not bless this Dharma teaching?”
-The Blessed One responded, “Mañjuśrī, since no phenomenon is blessed, all phenomena  are blessed. Since this Dharma teaching is not blessed either, it is blessed. Mañjuśrī, that is why I told the evil Māra that I would not bless this Dharma teaching. Mañjuśrī, by the power of truth and the truth of these words, since no phenomenon is blessed, they are all blessed. They are beyond distinction, inexpressible, without characteristics, inexplicable, unutterable, nondual, without duality, and identical with the limit of reality. They are steeped in suchness and are of the nature of the realm of phenomena. By the power of this truth and these true words, may this Dharma teaching spread throughout the world!”{{page:{number:22,id:UT22084-040-005-389,folio:F.195.a}}}
-{{milestone:{label:1.150,id:UT22084-040-005-280}}}Then, having performed this truth blessing, the Blessed One addressed the venerable Ānanda, “Ānanda, this Dharma teaching and all the eighty-four thousand sections of Dharma are the same, so you must therefore retain this teaching of The Universal Gateway. You must hold it, read it, master it, and teach it extensively and authentically to others. Why is that? Ānanda, it is because the thus-gone ones teach the eighty-four thousand sections of the Dharma to beings once they have understood this realm of Dharma of The Universal Gateway. Ānanda, for that reason you must guard, retain, and master this Dharma teaching.”{{note:{index61,id:UT22084-040-005-281}}}{{note:{index62,id:UT22084-040-005-282}}}
+The Blessed One responded, “Mañjuśrī, since no phenomenon is blessed, all phenomena {{page:{number:22,id:UT22084-040-005-389,folio:F.195.a}}} are blessed. Since this Dharma teaching is not blessed either, it is blessed. Mañjuśrī, that is why I told the evil Māra that I would not bless this Dharma teaching. Mañjuśrī, by the power of truth and the truth of these words, since no phenomenon is blessed, they are all blessed. They are beyond distinction, inexpressible, without characteristics, inexplicable, unutterable, nondual, without duality, and identical with the limit of reality. They are steeped in suchness and are of the nature of the realm of phenomena. By the power of this truth and these true words, may this Dharma teaching spread throughout the world!”
+{{milestone:{label:1.150,id:UT22084-040-005-280}}}Then, having performed this truth blessing, the Blessed One addressed the venerable Ānanda, “Ānanda, this Dharma teaching and all the eighty-four thousand sections of Dharma are the same,{{note:{index61,id:UT22084-040-005-281}}} so you must therefore retain this teaching of The Universal Gateway. You must hold it, read it, master it, and teach it extensively and authentically to others. Why is that? Ānanda, it is because the thus-gone ones teach the eighty-four thousand sections of the Dharma to beings once they have understood this realm of Dharma{{note:{index62,id:UT22084-040-005-282}}} of The Universal Gateway. Ānanda, for that reason you must guard, retain, and master this Dharma teaching.”
 {{milestone:{label:1.151,id:UT22084-040-005-283}}}When the Blessed One had said this, the bodhisattva great being Amalagarbha, Prince Mañjuśrī, Venerable Ānanda, and the whole world with its gods, humans, asuras, and gandharvas rejoiced and praised the Blessed One’s words. 
 {{milestone:{label:1.152,id:UT22084-040-005-284}}}This concludes The Exposition on the Universal Gateway, the tenth of the one hundred thousand sections of the Dharma discourse known as The Noble Great Heap of Jewels.
 {{milestone:{label:c.1,id:UT22084-040-005-285}}}Translated, edited, and finalized by the Indian preceptors Jinamitra and Surendrabodhi along with the chief editor-translator Bandé Yeshé Dé.

@@ -1,5 +1,5 @@
-{{translation:{id:UT22084-091-071,key:toh673a,version:1.0.7,style:annotated}}}
+{{translation:{id:UT22084-091-071,key:toh673a,version:1.0.8,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Essence of Aparimitāyus
-{{milestone:{label:1.1,id:UT22084-091-071-19}}}Oṁ vajra-āyuṣe hūṃ a.{{page:{number:1,id:UT22084-091-071-32,folio:F.211.b}}}
-If someone continually repeats this essence of Ārya Aparimitāyus, or is empowered with water blessed by its mantra, their lifespan will be lengthened:{{note:{index10,id:UT22084-091-071-21}}}
-{{milestone:{label:1.2,id:UT22084-091-071-22}}}oṁ puṇye puṇye mahāpuṇye aparimitāyuḥ-puṇya-jñāna-saṃbharopacite svāhā.{{note:{index11,id:UT22084-091-071-23}}}{{note:{index12,id:UT22084-091-071-40}}}{{note:{index13,id:UT22084-091-071-24}}}
+{{milestone:{label:1.1,id:UT22084-091-071-19}}}{{page:{number:1,id:UT22084-091-071-32,folio:F.211.b}}}Oṁ vajra-āyuṣe hūṃ a.
+If someone continually repeats this essence of Ārya Aparimitāyus, or is empowered{{note:{index10,id:UT22084-091-071-21}}} with water blessed by its mantra, their lifespan will be lengthened:
+{{milestone:{label:1.2,id:UT22084-091-071-22}}}oṁ puṇye puṇye mahāpuṇye aparimitāyuḥ-puṇya{{note:{index11,id:UT22084-091-071-23}}}-jñāna-saṃbharopacite{{note:{index12,id:UT22084-091-071-40}}} svāhā.{{note:{index13,id:UT22084-091-071-24}}}

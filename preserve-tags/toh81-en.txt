@@ -1,16 +1,16 @@
 {{translation:{id:UT22084-044-001,key:toh81,version:1.0.6,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Noble Great Vehicle Sūtra
 Siṃha’s Questions
-{{milestone:{label:1.1,id:UT22084-044-001-26}}} Homage to all buddhas and bodhisattvas!{{page:{number:1,id:UT22084-044-001-289,folio:F.27.a}}}
+{{milestone:{label:1.1,id:UT22084-044-001-26}}}{{page:{number:1,id:UT22084-044-001-289,folio:F.27.a}}} Homage to all buddhas and bodhisattvas!
 Thus did I hear at one time. The Blessed One was dwelling in Rājagṛha on Vulture Peak, together with a great saṅgha of 1,250 monks and a great saṅgha of bodhisattvas.{{note:{index8,id:UT22084-044-001-28}}}
 {{milestone:{label:1.2,id:UT22084-044-001-29}}}Knowing all and seeing all,
 The Victorious One is a peerless being.{{note:{index9,id:UT22084-044-001-30}}}
-The son of King Ajātaśatru{{note:{index10,id:UT22084-044-001-31}}}
-Was known as Siṃha. {1}{{note:{index11,id:UT22084-044-001-32}}}
+The son{{note:{index10,id:UT22084-044-001-31}}} of King Ajātaśatru
+Was known as Siṃha.{{note:{index11,id:UT22084-044-001-32}}} {1}
 {{milestone:{label:1.3,id:UT22084-044-001-33}}}Accompanied and attended
-By five hundred wealthy noblemen,{{page:{number:2,id:UT22084-044-001-290,folio:F.27.b}}}{{note:{index12,id:UT22084-044-001-34}}}
+By five hundred wealthy noblemen,{{note:{index12,id:UT22084-044-001-34}}}{{page:{number:2,id:UT22084-044-001-290,folio:F.27.b}}}
 He departed from Rājagṛha
-With great royal grandeur. {2}{{note:{index13,id:UT22084-044-001-35}}}
+With great royal grandeur.{{note:{index13,id:UT22084-044-001-35}}} {2}
 {{milestone:{label:1.4,id:UT22084-044-001-36}}}Carrying golden parasols,{{note:{index14,id:UT22084-044-001-37}}}
 They went before the perfect Buddha. 
 Bowing their heads to the feet of the Buddha,
@@ -18,10 +18,10 @@ They offered the five hundred parasols. {3}
 {{milestone:{label:1.5,id:UT22084-044-001-38}}}Offering these to the Great Sage, 
 All of them set out for awakening. 
 By the power of the perfect Buddha, 
-They became fearless. {4}{{note:{index15,id:UT22084-044-001-39}}}
+They became fearless.{{note:{index15,id:UT22084-044-001-39}}} {4}
 {{milestone:{label:1.6,id:UT22084-044-001-40}}}Siṃha joined his palms in reverence
 And asked the perfect Buddha,
-“Will the Guide please explain to me {{note:{index16,id:UT22084-044-001-41}}}
+“Will the Guide{{note:{index16,id:UT22084-044-001-41}}} please explain to me 
 The conduct of bodhisattvas? {5}
 {{milestone:{label:1.7,id:UT22084-044-001-42}}}“How does one become beautiful?
 How does one take miraculous birth?{{note:{index17,id:UT22084-044-001-43}}}
@@ -30,11 +30,11 @@ Great Sage, please give your instruction.” {6}
 {{milestone:{label:1.8,id:UT22084-044-001-44}}}Knowing their pure intentions with his wisdom,
 The Buddha gave his instruction:
 “I will give a teaching on what you have asked:
-The conduct of bodhisattvas. {7}{{note:{index18,id:UT22084-044-001-46}}}
+The conduct of bodhisattvas.{{note:{index18,id:UT22084-044-001-46}}} {7}
 {{milestone:{label:1.9,id:UT22084-044-001-47}}}“One becomes beautiful through patience.
 One takes miraculous birth by pure conduct.{{note:{index19,id:UT22084-044-001-48}}}
 One recalls past lives by giving the Dharma.
-Youth, know it to be thus!” {8}{{note:{index20,id:UT22084-044-001-49}}}
+Youth, know it to be thus!”{{note:{index20,id:UT22084-044-001-49}}} {8}
 {{milestone:{label:1.10,id:UT22084-044-001-50}}}“How does one manifest
 The thirty-two marks, the eighty excellent signs,
 And a body radiant like gold{{note:{index21,id:UT22084-044-001-51}}}
@@ -42,31 +42,31 @@ That delights beings upon seeing?” {9}
 {{milestone:{label:1.11,id:UT22084-044-001-52}}}“The marks manifest through complete generosity.
 Likewise, the excellent signs come to be through love.
 The golden radiance of the victorious ones
-Manifests by having an attitude of equality toward all beings.” {10}{{note:{index22,id:UT22084-044-001-53}}}
+Manifests by having an attitude of equality toward all beings.”{{note:{index22,id:UT22084-044-001-53}}} {10}
 {{milestone:{label:1.12,id:UT22084-044-001-54}}}“How is retention attained?
 How does absorption arise?
 How do statements become acceptable?
-Great Sage, please give your teaching!” {11}{{note:{index23,id:UT22084-044-001-55}}}
+Great Sage, please give your teaching!”{{note:{index23,id:UT22084-044-001-55}}} {11}
 {{milestone:{label:1.13,id:UT22084-044-001-56}}}“Retention is attained through receptivity to the Dharma.
 Absorption arises by training the mind.
 Statements become acceptable
-When one abandons senseless talk.” {12}{{note:{index24,id:UT22084-044-001-57}}}
+When one abandons senseless talk.”{{note:{index24,id:UT22084-044-001-57}}} {12}
 {{milestone:{label:1.14,id:UT22084-044-001-58}}}“How does one become mindful?
-O Sage, how does one become intelligent?{{note:{index25,id:UT22084-044-001-59}}}
-How does one come to act according to the Dharma?{{page:{number:3,id:UT22084-044-001-291,folio:F.28.a}}}{{note:{index26,id:UT22084-044-001-60}}}
-O Holy Being, how does one become wise?” {13}{{note:{index27,id:UT22084-044-001-61}}}{{note:{index28,id:UT22084-044-001-62}}}
+O Sage,{{note:{index25,id:UT22084-044-001-59}}} how does one become intelligent?
+How does one come to act according to the Dharma?{{note:{index26,id:UT22084-044-001-60}}}{{page:{number:3,id:UT22084-044-001-291,folio:F.28.a}}}
+O Holy Being,{{note:{index27,id:UT22084-044-001-61}}} how does one become wise?”{{note:{index28,id:UT22084-044-001-62}}} {13}
 {{milestone:{label:1.15,id:UT22084-044-001-63}}}“One comes to possess mindfulness by being undeceiving.{{note:{index29,id:UT22084-044-001-64}}}
 One becomes intelligent by contemplating meaning.
-One comes to act according to the Dharma by having reverence.{{note:{index30,id:UT22084-044-001-65}}}
-One becomes wise by knowing the characteristics of phenomena.” {14}{{note:{index31,id:UT22084-044-001-66}}}
-{{milestone:{label:1.16,id:UT22084-044-001-67}}}“By what action is a bodhisattva born{{note:{index32,id:UT22084-044-001-68}}}
+One comes to act according to the Dharma{{note:{index30,id:UT22084-044-001-65}}} by having reverence.
+One becomes wise by knowing the characteristics of phenomena.”{{note:{index31,id:UT22084-044-001-66}}} {14}
+{{milestone:{label:1.16,id:UT22084-044-001-67}}}“By what action is a bodhisattva{{note:{index32,id:UT22084-044-001-68}}} born
 In the presence of the guardians of the world?{{note:{index33,id:UT22084-044-001-69}}}
 How do they come to ask questions
-Directly before the guardians of the world?” {15}{{note:{index34,id:UT22084-044-001-70}}}{{note:{index35,id:UT22084-044-001-71}}}
+Directly{{note:{index34,id:UT22084-044-001-70}}} before the guardians of the world?”{{note:{index35,id:UT22084-044-001-71}}} {15}
 {{milestone:{label:1.17,id:UT22084-044-001-72}}}“The one who never obstructs
 The giving of Dharma
 Will with great swiftness{{note:{index36,id:UT22084-044-001-73}}}
-Come to meet the guardians of the world.” {16}{{note:{index37,id:UT22084-044-001-74}}}
+Come to meet the guardians of the world.”{{note:{index37,id:UT22084-044-001-74}}} {16}
 {{milestone:{label:1.18,id:UT22084-044-001-75}}}“How does one relinquish rebirth in inopportune states?
 How does one go forth to favorable states?
 How does one become heedful
@@ -74,67 +74,67 @@ Wherever one takes birth throughout all of one’s lives?” {17}
 {{milestone:{label:1.19,id:UT22084-044-001-76}}}“Inopportune births are relinquished through faith.{{note:{index38,id:UT22084-044-001-77}}}
 One goes forth to favorable states through moral discipline.
 One becomes always heedful
-By becoming familiar with emptiness.” {18}{{note:{index39,id:UT22084-044-001-78}}}
-{{milestone:{label:1.20,id:UT22084-044-001-79}}}“O Sage, how do bodhisattvas{{note:{index40,id:UT22084-044-001-80}}}{{note:{index41,id:UT22084-044-001-81}}}
+By becoming familiar with emptiness.”{{note:{index39,id:UT22084-044-001-78}}} {18}
+{{milestone:{label:1.20,id:UT22084-044-001-79}}}“O Sage,{{note:{index40,id:UT22084-044-001-80}}} how do bodhisattvas{{note:{index41,id:UT22084-044-001-81}}}
 Purify their karma? 
 How do they dodge the snares of Māra?
-How do they avoid becoming bereft of Dharma?” {19}{{note:{index42,id:UT22084-044-001-82}}}
+How do they avoid becoming bereft of Dharma?”{{note:{index42,id:UT22084-044-001-82}}} {19}
 {{milestone:{label:1.21,id:UT22084-044-001-83}}}“Karma is purified through firm resolution.{{note:{index43,id:UT22084-044-001-84}}}
 Māra is subdued through perseverance.
 They avoid becoming bereft of the Dharma{{note:{index44,id:UT22084-044-001-85}}}
 By acting according to their words.” {20}
 {{milestone:{label:1.22,id:UT22084-044-001-86}}}“How does one’s voice become like the pleasing song 
 Of the kalaviṅka bird and like the voice of Brahmā?
-O Sage, how does one please beings{{note:{index45,id:UT22084-044-001-87}}}
-With their diverse inclinations?” {21} {{note:{index46,id:UT22084-044-001-88}}}
+O Sage,{{note:{index45,id:UT22084-044-001-87}}} how does one please beings
+With their diverse inclinations?”{{note:{index46,id:UT22084-044-001-88}}} {21} 
 {{milestone:{label:1.23,id:UT22084-044-001-89}}}“The voice of Brahmā is obtained by speaking truthfully.
 The voice becomes pleasing by abandoning harsh words.{{note:{index47,id:UT22084-044-001-90}}}
 One pleases beings{{note:{index48,id:UT22084-044-001-91}}}
-By relinquishing senseless talk and slander.” {22}{{note:{index49,id:UT22084-044-001-92}}}
+By relinquishing senseless talk and slander.”{{note:{index49,id:UT22084-044-001-92}}} {22}
 {{milestone:{label:1.24,id:UT22084-044-001-93}}}“How does one come to have a long life?
 How does one come to have fewer illnesses?
 How, O Supreme Guide,{{note:{index50,id:UT22084-044-001-94}}}
-Does a retinue come to be undivided?” {23}{{note:{index51,id:UT22084-044-001-95}}}
+Does a retinue{{note:{index51,id:UT22084-044-001-95}}} come to be undivided?” {23}
 {{milestone:{label:1.25,id:UT22084-044-001-96}}}“One comes to have a long life by not killing.
 One will have fewer illnesses by causing no harm.{{note:{index52,id:UT22084-044-001-97}}}
 A retinue comes to be undivided
 When one reconciles disputes.” {24} 
-{{milestone:{label:1.26,id:UT22084-044-001-98}}}“How does one obtain wealth?{{page:{number:4,id:UT22084-044-001-292,folio:F.28.b}}}{{note:{index53,id:UT22084-044-001-99}}}
+{{milestone:{label:1.26,id:UT22084-044-001-98}}}“How does one obtain wealth?{{note:{index53,id:UT22084-044-001-99}}}{{page:{number:4,id:UT22084-044-001-292,folio:F.28.b}}}
 How do possessions cease to diminish?
 How does one become distinguished
 Wherever one is born?” {25}
 {{milestone:{label:1.27,id:UT22084-044-001-100}}}“Wealth is obtained through nonattachment.{{note:{index54,id:UT22084-044-001-101}}}
 Possessions increase by being without stinginess.
 One will be distinguished wherever one is born
-By being without jealousy.” {26}{{note:{index55,id:UT22084-044-001-102}}}
+By being without jealousy.”{{note:{index55,id:UT22084-044-001-102}}} {26}
 {{milestone:{label:1.28,id:UT22084-044-001-103}}}“How does one obtain divine sight?
 How does one obtain divine hearing?
 And how, O Guide, does one know
-The dying, transmigration, and rebirth of beings?” {27}{{note:{index56,id:UT22084-044-001-104}}}
+The dying, transmigration, and rebirth of beings?”{{note:{index56,id:UT22084-044-001-104}}} {27}
 {{milestone:{label:1.29,id:UT22084-044-001-105}}}“Divine sight is obtained by giving lamps.
-The ear is purified by giving music.{{note:{index57,id:UT22084-044-001-106}}}
+The ear is purified{{note:{index57,id:UT22084-044-001-106}}} by giving music.
 The dying, transmigration, and rebirth of beings are known through wisdom.{{note:{index58,id:UT22084-044-001-107}}}
 Thus do these accomplishments arise.” {28}
 {{milestone:{label:1.30,id:UT22084-044-001-108}}}“O Guide, how do the defilements of bodhisattvas{{note:{index59,id:UT22084-044-001-109}}}
 Come to be exhausted?
 How do they recollect previous lives?
-How do they obtain miraculous powers?” {29}{{note:{index60,id:UT22084-044-001-110}}}
+How do they obtain miraculous powers?”{{note:{index60,id:UT22084-044-001-110}}} {29}
 {{milestone:{label:1.31,id:UT22084-044-001-111}}}“The miraculous powers are obtained by offering vehicles.
-The recollections are gained by cultivating mindfulness.{{note:{index61,id:UT22084-044-001-112}}}
+The recollections are gained by cultivating{{note:{index61,id:UT22084-044-001-112}}} mindfulness.
 They reach the cessation of defilements
 By fully abandoning the two extremes.” {30}
 {{milestone:{label:1.32,id:UT22084-044-001-113}}}“How is the buddhafield perfected?
 How is its saṅgha perfected?
 How does its light shine perfectly
-Such that the ten directions are illuminated?” {31}{{note:{index62,id:UT22084-044-001-114}}}{{note:{index63,id:UT22084-044-001-115}}}
+Such that the ten directions are illuminated?”{{note:{index62,id:UT22084-044-001-114}}} {31}{{note:{index63,id:UT22084-044-001-115}}}
 {{milestone:{label:1.33,id:UT22084-044-001-116}}}“The buddhafield is perfected through aspiration.
 The saṅgha is perfected by magnetizing disciples.{{note:{index64,id:UT22084-044-001-117}}}
 The ten directions are illuminated brightly
 By offering jeweled canopies.” {32}
-{{milestone:{label:1.34,id:UT22084-044-001-118}}}“By what quality does one attain {{note:{index65,id:UT22084-044-001-119}}}
-The embodiment of all qualities, {{note:{index66,id:UT22084-044-001-120}}}
-So that a bodhisattva will be dear to beings{{note:{index67,id:UT22084-044-001-121}}}
-Wherever they are born?” {33}{{note:{index68,id:UT22084-044-001-122}}}
+{{milestone:{label:1.34,id:UT22084-044-001-118}}}“By what quality{{note:{index65,id:UT22084-044-001-119}}} does one attain 
+The embodiment{{note:{index66,id:UT22084-044-001-120}}} of all qualities, 
+So that a bodhisattva{{note:{index67,id:UT22084-044-001-121}}} will be dear to beings
+Wherever they are born?”{{note:{index68,id:UT22084-044-001-122}}} {33}
 {{milestone:{label:1.35,id:UT22084-044-001-123}}}“By surrendering the mind to the purpose of awakening
 In order to liberate all beings,{{note:{index69,id:UT22084-044-001-124}}}
 They attain the embodiment of all qualities
@@ -150,7 +150,7 @@ One will become an all-surpassing victorious one.” {36}
 {{milestone:{label:1.38,id:UT22084-044-001-128}}}“Throughout all one’s lives, 
 How will the mind of awakening
 Never be abandoned even in a dream, {{page:{number:5,id:UT22084-044-001-293,folio:F.29.a}}}
-Let alone while awake?” {37}{{note:{index71,id:UT22084-044-001-129}}}{{note:{index72,id:UT22084-044-001-130}}}
+Let alone while awake?”{{note:{index71,id:UT22084-044-001-129}}} {37}{{note:{index72,id:UT22084-044-001-130}}}
 {{milestone:{label:1.39,id:UT22084-044-001-131}}}“In whatever region one dwells,
 Whether a village or a city, 
 By correctly guiding others toward awakening, 
@@ -158,43 +158,43 @@ The mind of awakening is not abandoned.” {38}
 {{milestone:{label:1.40,id:UT22084-044-001-132}}}“Wherever one is born,{{note:{index73,id:UT22084-044-001-133}}}
 How can one acquire great strength
 And always be elevated with power
-So that even ten million māras can do no harm?” {39}{{note:{index74,id:UT22084-044-001-134}}}
+So that even ten million māras can do no harm?”{{note:{index74,id:UT22084-044-001-134}}} {39}
 {{milestone:{label:1.41,id:UT22084-044-001-135}}}“In this life, if one offers the five essences{{note:{index75,id:UT22084-044-001-136}}}
 And gives courage to those who are afraid,
 Then wherever one is born{{note:{index76,id:UT22084-044-001-137}}}
 One will also have great strength,
 Always be elevated with power,
-And be unharmed even by ten million māras.” {40}{{note:{index77,id:UT22084-044-001-138}}}{{note:{index78,id:UT22084-044-001-139}}}
+And be unharmed even by ten million māras.”{{note:{index77,id:UT22084-044-001-138}}} {40}{{note:{index78,id:UT22084-044-001-139}}}
 {{milestone:{label:1.42,id:UT22084-044-001-140}}}Having heard this teaching 
 On the conduct of bodhisattvas{{note:{index79,id:UT22084-044-001-141}}}
 Directly from the Guardian of the World,
-Siṃha was overjoyed. {41}{{note:{index80,id:UT22084-044-001-142}}}{{note:{index81,id:UT22084-044-001-143}}}{{note:{index82,id:UT22084-044-001-144}}}
+Siṃha{{note:{index80,id:UT22084-044-001-142}}} was overjoyed.{{note:{index81,id:UT22084-044-001-143}}} {41}{{note:{index82,id:UT22084-044-001-144}}}
 {{milestone:{label:1.43,id:UT22084-044-001-145}}}He and his companions
 Spoke the following words:{{note:{index83,id:UT22084-044-001-146}}}
 “We will train
-In this teaching on conduct.” {42}{{note:{index84,id:UT22084-044-001-147}}}
+In this teaching on conduct.”{{note:{index84,id:UT22084-044-001-147}}} {42}
 {{milestone:{label:1.44,id:UT22084-044-001-148}}}Then the Buddha smiled,
 And the trichiliocosm quaked.{{note:{index85,id:UT22084-044-001-149}}}
 Ajita then asked the Buddha
 The following question:
 “Why did you smile?
-Great Sage, please explain this!” {43}{{note:{index86,id:UT22084-044-001-150}}}{{note:{index87,id:UT22084-044-001-151}}}{{note:{index88,id:UT22084-044-001-152}}}
+Great Sage,{{note:{index86,id:UT22084-044-001-150}}} please explain this!”{{note:{index87,id:UT22084-044-001-151}}} {43}{{note:{index88,id:UT22084-044-001-152}}}
 {{milestone:{label:1.45,id:UT22084-044-001-153}}}And so to Ajita 
 The Buddha replied,
 “Ajita, please listen to the reason 
-That I smiled. {44}{{note:{index89,id:UT22084-044-001-154}}}
-{{milestone:{label:1.46,id:UT22084-044-001-155}}}“Previously, these boys assembled before{{note:{index90,id:UT22084-044-001-156}}}{{note:{index91,id:UT22084-044-001-157}}}
+That I smiled.{{note:{index89,id:UT22084-044-001-154}}} {44}
+{{milestone:{label:1.46,id:UT22084-044-001-155}}}“Previously,{{note:{index90,id:UT22084-044-001-156}}} these boys{{note:{index91,id:UT22084-044-001-157}}} assembled before
 Eight hundred million buddhas and a quadrillion more.{{note:{index92,id:UT22084-044-001-158}}}
 For the purpose of awakening,
-They made offerings to those guides of humans. {45}{{note:{index93,id:UT22084-044-001-159}}}
-{{milestone:{label:1.47,id:UT22084-044-001-160}}}“Since the time of Dīpaṅkara—{{note:{index94,id:UT22084-044-001-161}}}
-The perfect buddha, supreme among people—{{note:{index95,id:UT22084-044-001-162}}}{{note:{index96,id:UT22084-044-001-163}}}
+They made offerings to those guides of humans.{{note:{index93,id:UT22084-044-001-159}}} {45}
+{{milestone:{label:1.47,id:UT22084-044-001-160}}}“Since the time of{{note:{index94,id:UT22084-044-001-161}}} Dīpaṅkara—
+The perfect buddha,{{note:{index95,id:UT22084-044-001-162}}} supreme among people{{note:{index96,id:UT22084-044-001-163}}}—
 I have been ripening
-These brahmin boys. {46}{{note:{index97,id:UT22084-044-001-164}}}
-{{milestone:{label:1.48,id:UT22084-044-001-165}}}“When the splendid eon called{{note:{index98,id:UT22084-044-001-166}}}
-Great Illumination arises,{{note:{index99,id:UT22084-044-001-167}}}
+These brahmin boys.{{note:{index97,id:UT22084-044-001-164}}} {46}
+{{milestone:{label:1.48,id:UT22084-044-001-165}}}“When the splendid{{note:{index98,id:UT22084-044-001-166}}} eon called
+Great Illumination{{note:{index99,id:UT22084-044-001-167}}} arises,
 In that single eon
-They will all become guides. {47}{{note:{index100,id:UT22084-044-001-168}}}{{note:{index101,id:UT22084-044-001-169}}}
+They will all become guides.{{note:{index100,id:UT22084-044-001-168}}} {47}{{note:{index101,id:UT22084-044-001-169}}}
 {{milestone:{label:1.49,id:UT22084-044-001-170}}}“They will become guides for the world 
 Named Jñānaketudhvaja,{{note:{index102,id:UT22084-044-001-171}}}
 And their array will be
@@ -202,11 +202,11 @@ Just like that of Amitābha. {48}
 {{milestone:{label:1.50,id:UT22084-044-001-172}}}“From the time of Maitreya
 Through three hundred full eons, {{page:{number:6,id:UT22084-044-001-294,folio:F.29.b}}}
 They will always
-Meet with buddhas. {49}{{note:{index103,id:UT22084-044-001-173}}}
+Meet with buddhas.{{note:{index103,id:UT22084-044-001-173}}} {49}
 {{milestone:{label:1.51,id:UT22084-044-001-174}}}“Moreover, whoever hears but the name 
 Under which they attain awakening
 Shall, without exception, become incomparable
-And omniscient beings in the world. {50}{{note:{index104,id:UT22084-044-001-175}}}
+And omniscient beings in the world.{{note:{index104,id:UT22084-044-001-175}}} {50}
 {{milestone:{label:1.52,id:UT22084-044-001-176}}}“Whoever, on hearing this prophecy,{{note:{index105,id:UT22084-044-001-177}}}
 Becomes inspired 
 Will have merit unparalleled
@@ -214,11 +214,11 @@ Throughout these three worlds. {51}
 {{milestone:{label:1.53,id:UT22084-044-001-178}}}“Consider someone who for six thousand eons
 Filled up all the buddhafields{{note:{index106,id:UT22084-044-001-179}}}
 With jewels and offered them 
-For the purpose of awakening. {52}{{note:{index107,id:UT22084-044-001-180}}}
+For the purpose of awakening.{{note:{index107,id:UT22084-044-001-180}}} {52}
 {{milestone:{label:1.54,id:UT22084-044-001-181}}}“The tally of that person’s merit
 Could never match or compare to
 Hearing this Dharma presentation{{note:{index108,id:UT22084-044-001-182}}}
-And setting out for the sake of awakening.” {53}{{note:{index109,id:UT22084-044-001-183}}}
+And setting out for the sake of awakening.”{{note:{index109,id:UT22084-044-001-183}}} {53}
 {{milestone:{label:1.55,id:UT22084-044-001-184}}}When this Dharma had been expounded,
 By the power of the Protector of the World,{{note:{index110,id:UT22084-044-001-185}}}
 The gods brought down a rain of flowers,
@@ -226,11 +226,11 @@ And the trichiliocosm quaked. {54}
 {{milestone:{label:1.56,id:UT22084-044-001-186}}}Siṃha, along with his companions,{{note:{index111,id:UT22084-044-001-187}}}
 Obtained the five superknowledges and,
 Having made offerings for one week,
-Took ordination in the teaching. {55}{{note:{index112,id:UT22084-044-001-188}}}
+Took ordination in the teaching.{{note:{index112,id:UT22084-044-001-188}}} {55}
 {{milestone:{label:1.57,id:UT22084-044-001-189}}}All of them obtained absorption
-And inexhaustible retention.{{note:{index113,id:UT22084-044-001-190}}}
-Wishing to accomplish the welfare of beings,{{note:{index114,id:UT22084-044-001-191}}}
-They brought them to the Dharma of the buddhas. {56}{{note:{index115,id:UT22084-044-001-192}}}{{note:{index116,id:UT22084-044-001-193}}}
-{{milestone:{label:1.58,id:UT22084-044-001-194}}}When this Dharma presentation was taught, eight hundred million beings set out for supreme awakening. When the Blessed One had spoken, Siṃha, along with his companions and the world with its gods, humans, asuras, and gandharvas, rejoiced and praised the words of the Blessed One.{{note:{index117,id:UT22084-044-001-195}}}{{note:{index118,id:UT22084-044-001-196}}}
+And inexhaustible{{note:{index113,id:UT22084-044-001-190}}} retention.
+Wishing to accomplish{{note:{index114,id:UT22084-044-001-191}}} the welfare of beings,
+They brought them to{{note:{index115,id:UT22084-044-001-192}}} the Dharma of the buddhas.{{note:{index116,id:UT22084-044-001-193}}} {56}
+{{milestone:{label:1.58,id:UT22084-044-001-194}}}When this Dharma presentation was taught, eight hundred million beings set out for supreme awakening.{{note:{index117,id:UT22084-044-001-195}}} When the Blessed One had spoken, Siṃha, along with his companions and the world with its gods, humans, asuras, and gandharvas, rejoiced and praised the words of the Blessed One.{{note:{index118,id:UT22084-044-001-196}}}
 {{milestone:{label:1.59,id:UT22084-044-001-197}}}This concludes the thirty-seventh chapter, “Siṃha’s Questions,” from the eleven hundred chapters of the Dharma presentation of The Noble Great Heap of Jewels. 
 {{milestone:{label:c.1,id:UT22084-044-001-198}}}The Indian preceptors Dānaśīla and Munivarman and the chief editor-translator Bandé Yeshé Dé translated, edited, and finalized this according to the new lexical register.

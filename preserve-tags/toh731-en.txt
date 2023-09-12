@@ -1,7 +1,7 @@
 {{translation:{id:UT22084-094-008,key:toh731,version:1.2.10,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Noble Sūtra
 Tārā Who Protects from the Eight Dangers
-{{milestone:{label:1.1,id:UT22084-094-008-25}}} Homage to the Three Jewels.{{page:{number:1,id:UT22084-094-008-113,folio:F.222.b}}}
+{{milestone:{label:1.1,id:UT22084-094-008-25}}}{{page:{number:1,id:UT22084-094-008-113,folio:F.222.b}}} Homage to the Three Jewels.
 Homage to the venerable lady Tārā.
 Homage to the Blessed Śākyamuni.
 {{milestone:{label:1.2,id:UT22084-094-008-26}}}Thus did I hear at one time. The Blessed One was dwelling in the realm of gods atop Mount Meru. At that time, the goddess Tārā, who was in the assembly, spoke the following words:
@@ -79,9 +79,9 @@ The three lower realms and all the suffering of saṃsāra will be purified,
 And the obscurations will be cleared away.
 The meaningful quintessence is as follows:
 {{milestone:{label:1.19,id:UT22084-094-008-47}}}oṁ, bodhisattva great lady, goddess, please protect us!{{note:{index7,id:UT22084-094-008-48}}}
-oṁ nama āryāvalokiteśvarāya bodhi­sattvāya mahā­sattvāya mahā­kāruṇikāya |tadyathā |{{note:{index8,id:UT22084-094-008-49}}}{{note:{index9,id:UT22084-094-008-50}}}
+oṁ nama āryāvalokiteśvarāya bodhi­sattvāya mahā­sattvāya mahā­kāruṇikāya |{{note:{index8,id:UT22084-094-008-49}}}tadyathā |{{note:{index9,id:UT22084-094-008-50}}}
 oṁ tāre tuttāre ture sarva­duṣṭān praduṣṭān mama kṛte jambhaya stambhaya mohaya bandhaya hūṁ hūṁ hūṁ phaṭ phaṭ phaṭ svāhā  |{{note:{index10,id:UT22084-094-008-51}}}
-nama āryāvalobhayā narā bodhisattvā mahā­sattvāni adhiṣṭhānādhiṣṭhite mama sarva­karmāvaraṇa svabhāva­śuddhe  viśuddhe śodhaya viśodhaya hūṁ phaṭ svāhā |{{page:{number:4,id:UT22084-094-008-116,folio:F.224.a}}}{{note:{index11,id:UT22084-094-008-52}}}
+nama āryāvalobhayā narā bodhisattvā mahā­sattvāni adhiṣṭhānādhiṣṭhite mama sarva­karmāvaraṇa svabhāva­śuddhe {{page:{number:4,id:UT22084-094-008-116,folio:F.224.a}}} viśuddhe śodhaya viśodhaya hūṁ phaṭ svāhā |{{note:{index11,id:UT22084-094-008-52}}}
 {{milestone:{label:1.20,id:UT22084-094-008-53}}}“Then the goddess, who is herself 
 The embodiment of buddhahood, is praised:{{note:{index12,id:UT22084-094-008-54}}}
 {{milestone:{label:1.21,id:UT22084-094-008-111}}}“ ‘Lady who acts with immense compassion for the good of beings—

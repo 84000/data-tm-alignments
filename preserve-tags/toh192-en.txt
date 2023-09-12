@@ -1,8 +1,8 @@
 {{translation:{id:UT22084-061-012,key:toh192,version:1.1.10,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Noble Mahāyāna Sūtra
 The Prophecy of Kṣemavatī
-{{milestone:{label:1.1,id:UT22084-061-012-14}}} Homage to all buddhas and bodhisattvas. {{page:{number:1,id:UT22084-061-012-96,folio:F.243.b}}}
- Thus did I hear at one time. The Blessed One was residing in Rājagṛha on Vulture Peak together with a large monastic congregation of twenty thousand monks and many bodhisattva great beings including Maitreya and Mañjuśrī.  At dawn, the Blessed One donned his robes, picked up his alms bowl, and, together with the bodhisattva great being Maitreya, went to the city of Rājagṛha for alms. As they progressed through their rounds in the city of Rājagṛha, they neared the palace of King Bimbisāra. From atop the royal residence, King Bimbisāra’s queen, Kṣemavatī, could see the Blessed One approaching from a distance. Filled with joy at the sight of the Blessed One, Kṣemavatī descended from the palace and laid out ornate cushions made of white silk for the Blessed One and the bodhisattva great being Maitreya. The Blessed One and the bodhisattva great being Maitreya seated themselves on the seats that had been prepared for them, and Kṣemavatī, bedecked in all her jewelry, bowed her head at their feet. So that she might hear teachings on the Dharma, she sat before the Blessed One with great respect and reverence for him.{{page:{number:2,id:UT22084-061-012-97,folio:F.244.a}}}
+{{milestone:{label:1.1,id:UT22084-061-012-14}}}{{page:{number:1,id:UT22084-061-012-96,folio:F.243.b}}} Homage to all buddhas and bodhisattvas. 
+ Thus did I hear at one time. The Blessed One was residing in Rājagṛha on Vulture Peak together with a large monastic congregation of twenty thousand monks and many bodhisattva great beings including Maitreya and Mañjuśrī. {{page:{number:2,id:UT22084-061-012-97,folio:F.244.a}}} At dawn, the Blessed One donned his robes, picked up his alms bowl, and, together with the bodhisattva great being Maitreya, went to the city of Rājagṛha for alms. As they progressed through their rounds in the city of Rājagṛha, they neared the palace of King Bimbisāra. From atop the royal residence, King Bimbisāra’s queen, Kṣemavatī, could see the Blessed One approaching from a distance. Filled with joy at the sight of the Blessed One, Kṣemavatī descended from the palace and laid out ornate cushions made of white silk for the Blessed One and the bodhisattva great being Maitreya. The Blessed One and the bodhisattva great being Maitreya seated themselves on the seats that had been prepared for them, and Kṣemavatī, bedecked in all her jewelry, bowed her head at their feet. So that she might hear teachings on the Dharma, she sat before the Blessed One with great respect and reverence for him.
 {{milestone:{label:1.2,id:UT22084-061-012-15}}}The Blessed One saw Queen Kṣemavatī bedecked in all her jewelry and, although he knew the answer, addressed her in order to benefit all beings. He asked, “Kṣemavatī, what is the name of the tree that bears the kind of brilliant, dazzling, shining fruit that adorns your body?”
 {{milestone:{label:1.3,id:UT22084-061-012-16}}}Queen Kṣemavatī answered the Blessed One with the following verses:
 “The great being has asked,
@@ -37,7 +37,7 @@ That they spread far and wide without moving,
 This excellent broad fruit tree in the past
 By seeking the essence of buddhahood
 With the aim of benefiting all beings.
-{{milestone:{label:1.11,id:UT22084-061-012-25}}}“Guide, this tree of merit{{note:{index11,id:UT22084-061-012-26}}}
+{{milestone:{label:1.11,id:UT22084-061-012-25}}}“Guide,{{note:{index11,id:UT22084-061-012-26}}} this tree of merit
 Will have many more fruits besides.
 I will experience more
 Than the mere flowers.
@@ -53,7 +53,7 @@ And is all-knowing and all-seeing.
 Who are oppressed by suffering,
 And become a compassionate refuge 
 For the denizens of the world.”
-{{milestone:{label:1.15,id:UT22084-061-012-30}}}The Blessed One responded, “Kṣemavatī,  you have acted to bring benefit and happiness to many people and have compassion for the world. You have acted for the sake of the vast assembly of beings, for the happiness and benefit of gods and humans alike. Excellent, excellent indeed!”{{page:{number:4,id:UT22084-061-012-99,folio:F.245.a}}}
+{{milestone:{label:1.15,id:UT22084-061-012-30}}}The Blessed One responded, “Kṣemavatī, {{page:{number:4,id:UT22084-061-012-99,folio:F.245.a}}} you have acted to bring benefit and happiness to many people and have compassion for the world. You have acted for the sake of the vast assembly of beings, for the happiness and benefit of gods and humans alike. Excellent, excellent indeed!”
 {{milestone:{label:1.16,id:UT22084-061-012-31}}}“Blessed One,” Queen Kṣemavatī replied, “the Blessed One has the thirty-two major and eighty minor bodily marks of a great being, the ten powers of the thus-gone ones, the four fearlessnesses, the four special modes of knowledge, the eighteen unique qualities of a buddha, great loving-kindness, great compassion, great joy, and great equanimity. Where do all of your qualities come from? And, furthermore, where do the unfathomable, inconceivable, immeasurable, ineffable, incalculable qualities of the Buddha come from?”
 {{milestone:{label:1.17,id:UT22084-061-012-32}}}The Blessed One answered Queen Kṣemavatī with these verses:
 “Desiring the wisdom of the buddhas

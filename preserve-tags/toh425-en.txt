@@ -2,7 +2,7 @@
 {{milestone:{label:tr,id:translation}}}The King of Tantras, the Glorious Mahāmāyā 
 {{milestone:{label:1,id:UT22084-080-009-chapter-1}}}The First Instruction
 Chapter 1
-{{milestone:{label:1.1,id:UT22084-080-009-24}}} Homage to the Glorious Vajraḍākinī!{{page:{number:1,id:UT22084-080-009-223,folio:F.167.a}}}
+{{milestone:{label:1.1,id:UT22084-080-009-24}}}{{page:{number:1,id:UT22084-080-009-223,folio:F.167.a}}} Homage to the Glorious Vajraḍākinī!
 I pay homage to the protector of beings, Glorious Vajraḍākinī,
 Universal sovereign of the ḍākinīs, the very essence of the five wisdoms and three bodies.
 {{milestone:{label:1.2,id:UT22084-080-009-25}}}I pay homage to all the vajraḍākinīs
@@ -11,7 +11,7 @@ Who cut the bonds of conceptual thought and descend to act in the world.
 {{milestone:{label:1.4,id:UT22084-080-009-27}}}She pervades the entire Egg of Brahmā, the animate and inanimate.
 She is the source of all goddesses and rules over Brahmā and the rest.
 {{milestone:{label:1.5,id:UT22084-080-009-28}}}She is their great secret, the great Queen Mahāmāyā.
-She is the great illusion, intensely fierce, who destroys all that exists. [507]{{note:{index23,id:UT22084-080-009-183}}}
+She is the great illusion, intensely fierce, who destroys all that exists.{{note:{index23,id:UT22084-080-009-183}}} [507]
 {{milestone:{label:1.6,id:UT22084-080-009-29}}}She pervades all of this: the animate and inanimate, the three worlds.
 Time after time she gathers in and again emanates the triple world.
 {{milestone:{label:1.7,id:UT22084-080-009-30}}}This mother of the guhyakas is celebrated as the essence of illusion.
@@ -62,7 +62,7 @@ In a variety of forms the essential practice is revealed. {{page:{number:4,id:UT
 Through extracting various essences the yogī constantly benefits beings.{{note:{index35,id:UT22084-080-009-195}}}
 {{milestone:{label:1.29,id:UT22084-080-009-52}}}With the collected semen, liquor, and extracted large pill,
 He mixes in the great flesh and unites with the yoginī.
-{{milestone:{label:1.30,id:UT22084-080-009-53}}}He gains long life, great virility, great splendor, and becomes exceedingly powerful; {{note:{index36,id:UT22084-080-009-196}}}
+{{milestone:{label:1.30,id:UT22084-080-009-53}}}He gains long life, great virility,{{note:{index36,id:UT22084-080-009-196}}} great splendor, and becomes exceedingly powerful; 
 He possesses divine sight, magical ability, and drinks the moon day after day;
 {{milestone:{label:1.31,id:UT22084-080-009-54}}}He becomes long-lived so that he lives for a great age;
 He manifests an alluring form and conjures miracles;
@@ -136,7 +136,7 @@ It is adorned with the figure of the Buddha.
 {{milestone:{label:3.8,id:UT22084-080-009-84}}}In the east he shines like a blue lotus, to the south he is yellow,
 To the west whitish red, and in the north he glows emerald.{{note:{index49,id:UT22084-080-009-209}}}
 Shrouded in a garland of flames, he is beautiful with three eyes, four faces, and four arms.
-{{milestone:{label:3.9,id:UT22084-080-009-85}}}Imagine that the goddess in the east has three eyes and holds a khaṭvāṅga and bell in her left hands and a vajra and skull cup in her right hands. The goddess in the south wields a trident, a jewel, a banner, and a jackal. The goddess in the west holds a bow, an arrow, a multicolored lotus, and a skull cup.  The goddess in the north wields a sword, a noose, a hand drum, and a skull cup.{{page:{number:7,id:UT22084-080-009-229,folio:F.170.a}}}
+{{milestone:{label:3.9,id:UT22084-080-009-85}}}Imagine that the goddess in the east has three eyes and holds a khaṭvāṅga and bell in her left hands and a vajra and skull cup in her right hands. The goddess in the south wields a trident, a jewel, a banner, and a jackal. The goddess in the west holds a bow, an arrow, a multicolored lotus, and a skull cup. {{page:{number:7,id:UT22084-080-009-229,folio:F.170.a}}} The goddess in the north wields a sword, a noose, a hand drum, and a skull cup.
 {{milestone:{label:3.10,id:UT22084-080-009-86}}}In its center visualize the vajra body, speech, and mind
 Bearing a skull cup and khaṭvāṅga, and so too a bow and arrow.
 {{milestone:{label:3.11,id:UT22084-080-009-87}}}Meditating on that which possesses the first mantra, it blazes for an instant.

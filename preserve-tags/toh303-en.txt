@@ -1,16 +1,16 @@
 {{translation:{id:UT22084-072-003,key:toh303,version:1.0.7,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Sūtra on Having Moral Discipline
-{{milestone:{label:1.1,id:UT22084-072-003-17}}} Homage to the Omniscient One!{{page:{number:1,id:UT22084-072-003-86,folio:F.127.a}}}
+{{milestone:{label:1.1,id:UT22084-072-003-17}}}{{page:{number:1,id:UT22084-072-003-86,folio:F.127.a}}} Homage to the Omniscient One!
 {{milestone:{label:1.2,id:UT22084-072-003-18}}}Thus did I hear at one time. The Blessed One was dwelling in Anāthapiṇḍada’s park, Prince Jeta’s Grove in Śrāvastī, together with a great saṅgha of 1,250 monks.
-{{milestone:{label:1.3,id:UT22084-072-003-19}}}At that time, the Blessed One said to the monks, “Monks, since your consciousness will fade, your life force will cease, and the formations of life are certain to be destroyed, should you not practice with diligence and steadfast determination?{{note:{index6,id:UT22084-072-003-20}}}
+{{milestone:{label:1.3,id:UT22084-072-003-19}}}At that time, the Blessed One said to the monks, “Monks,{{note:{index6,id:UT22084-072-003-20}}} since your consciousness will fade, your life force will cease, and the formations of life are certain to be destroyed, should you not practice with diligence and steadfast determination?
 {{milestone:{label:1.4,id:UT22084-072-003-21}}}“This human life is extremely difficult to find. Thus, having obtained it, and having used it to find the Victor’s teachings and to go forth in them, if you are deceived by those who are opposed to the meaning of liberation, it is sure that you will suffer. 
-{{milestone:{label:1.5,id:UT22084-072-003-22}}}“Monks, it is easy to be separated from the life force and succumb to death, but the degeneration of moral discipline is not the same. Why is that? When you are separated from the life force, that particular lifetime comes to an end. But with the degeneration and destruction of moral discipline, for ten million lives you will be separated from your kin, abandon well-being, and experience downfalls.{{note:{index7,id:UT22084-072-003-23}}}{{note:{index8,id:UT22084-072-003-24}}}
+{{milestone:{label:1.5,id:UT22084-072-003-22}}}“Monks, it is easy to be separated from the life force and succumb to death, but the degeneration of moral discipline is not the same. Why is that?{{note:{index7,id:UT22084-072-003-23}}} When you are separated from the life force, that particular lifetime comes to an end. But with the degeneration and destruction of moral discipline, for ten million lives you will be separated from your kin, abandon well-being, and experience downfalls.{{note:{index8,id:UT22084-072-003-24}}}
 {{milestone:{label:1.6,id:UT22084-072-003-25}}}“Therefore, the Teacher has praised moral discipline.{{note:{index9,id:UT22084-072-003-26}}}
 By having moral discipline one will encounter the presence of buddhas.
 {{milestone:{label:1.7,id:UT22084-072-003-27}}}“Having moral discipline is the best of all ornaments.
 To acquire moral discipline is to be anointed with fragrance.
 Having moral discipline is the source of all joy.
-Having moral discipline is the water that clears away distress.{{page:{number:2,id:UT22084-072-003-87,folio:F.127.b}}}{{note:{index10,id:UT22084-072-003-28}}}
+Having moral discipline is the water that clears away distress.{{note:{index10,id:UT22084-072-003-28}}}{{page:{number:2,id:UT22084-072-003-87,folio:F.127.b}}}
 {{milestone:{label:1.8,id:UT22084-072-003-29}}}“Having moral discipline is praised by the whole world.{{note:{index11,id:UT22084-072-003-30}}}
 Through pure moral discipline one will find the highest states of existence.{{note:{index12,id:UT22084-072-003-31}}}
 Even beings like huge black poisonous nāga serpents, not to mention other kinds,
@@ -23,10 +23,10 @@ Those who maintain moral discipline attain nirvāṇa.{{note:{index15,id:UT22084
 Without moral discipline one cannot see the Dharma.{{note:{index16,id:UT22084-072-003-37}}}
 Just as without legs there is no way to embark on a path,
 Without moral discipline there is no liberation. 
-{{milestone:{label:1.11,id:UT22084-072-003-38}}}“In the same way, just as a good vase is a vessel for riches,{{note:{index17,id:UT22084-072-003-39}}}
-Moral discipline is the foundation for generating good qualities.{{note:{index18,id:UT22084-072-003-40}}}
+{{milestone:{label:1.11,id:UT22084-072-003-38}}}“In the same way, just as a good vase{{note:{index17,id:UT22084-072-003-39}}} is a vessel for riches,
+Moral discipline{{note:{index18,id:UT22084-072-003-40}}} is the foundation for generating good qualities.
 Just as a broken vase is not a suitable vessel for riches,
-If moral discipline is shattered, all good qualities are lost.{{note:{index19,id:UT22084-072-003-41}}}{{note:{index20,id:UT22084-072-003-42}}}
+If moral discipline is shattered,{{note:{index19,id:UT22084-072-003-41}}} all good qualities are lost.{{note:{index20,id:UT22084-072-003-42}}}
 {{milestone:{label:1.12,id:UT22084-072-003-43}}}“Do you think those who have lost moral discipline from the start 
 Will obtain nirvāṇa later?
 For those whose nose and ear are cut off, and so forth,

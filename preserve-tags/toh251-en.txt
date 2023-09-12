@@ -1,13 +1,13 @@
 {{translation:{id:UT22084-066-009,key:toh251,version:1.0.2,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Noble Mahāyāna Sūtra on 
 The Four Factors
-{{milestone:{label:1.1,id:UT22084-066-009-26}}} Homage to all the buddhas and bodhisattvas!{{page:{number:1,id:UT22084-066-009-75,folio:F.60.b}}}
+{{milestone:{label:1.1,id:UT22084-066-009-26}}}{{page:{number:1,id:UT22084-066-009-75,folio:F.60.b}}} Homage to all the buddhas and bodhisattvas!
 {{milestone:{label:1.2,id:UT22084-066-009-226}}}Thus did I hear at one time. The Buddha was residing in Śrāvastī at Jeta’s Grove, Anāthapiṇḍada’s park, together with a great community of monks, consisting of 1,250 monks, and a great assembly of bodhisattvas. At that time, the Blessed One addressed the monks: 
 {{milestone:{label:1.3,id:UT22084-066-009-30}}}“Monks, for as long as they live, bodhisattvas, great beings, should not abandon four factors even at the cost of their lives. What are these four? 
 {{milestone:{label:1.4,id:UT22084-066-009-31}}}“Monks, for as long as they live, bodhisattvas, great beings, should not abandon the thought of awakening even at the cost of their lives.
 {{milestone:{label:1.5,id:UT22084-066-009-32}}}“Monks, for as long as they live, bodhisattvas, great beings, should not abandon the spiritual friend even at the cost of their lives.
 {{milestone:{label:1.6,id:UT22084-066-009-33}}}“Monks, for as long as they live, bodhisattvas, great beings, should not abandon tolerance and lenience even at the cost of their lives.{{note:{index16,id:UT22084-066-009-34}}}
-{{milestone:{label:1.7,id:UT22084-066-009-35}}}“Monks, for as long as they live, bodhisattvas, great beings, should not abandon dwelling in the wilderness even at the cost of their lives.{{note:{index17,id:UT22084-066-009-135}}}
+{{milestone:{label:1.7,id:UT22084-066-009-35}}}“Monks, for as long as they live, bodhisattvas, great beings, should not abandon dwelling in the wilderness{{note:{index17,id:UT22084-066-009-135}}} even at the cost of their lives.
 {{milestone:{label:1.8,id:UT22084-066-009-36}}}“Monks, for as long as they live, bodhisattvas, great beings, should not abandon these four factors even at the cost of their lives.”
 {{milestone:{label:1.9,id:UT22084-066-009-37}}}The Blessed One spoke these words, and once the Sugata had spoken in this way, he, the Teacher, also said the following: 
 {{milestone:{label:1.10,id:UT22084-066-009-38}}}“Let the wise conceive the thought of perfect awakening,

@@ -1,6 +1,6 @@
 {{translation:{id:UT22084-072-002,key:toh302,version:1.0.5,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Sūtra on What Mendicants Hold Most Dear
-{{milestone:{label:1.1,id:UT22084-072-002-38}}} Homage to the Omniscient One. {{page:{number:1,id:UT22084-072-002-143,folio:F.125.a}}}{{page:{number:2,id:UT22084-072-002-147,folio:F.125.b}}}
+{{milestone:{label:1.1,id:UT22084-072-002-38}}}{{page:{number:1,id:UT22084-072-002-143,folio:F.125.a}}}{{page:{number:2,id:UT22084-072-002-147,folio:F.125.b}}} Homage to the Omniscient One. 
 Thus did I hear at one time. The Blessed One was residing in the Blooming Lotus Monastery in the great city of Śrāvastī together with a retinue that consisted of a saṅgha of 12,500 mendicants. At that time, among the assembled retinue of the Blessed One, there was a noble one called Upāli, whose senses were disciplined, who was well learned, and who had profound wisdom. He was devoted to the Dharma and Vinaya excellently taught by the Blessed One, and he held them in the highest esteem. Upāli rose from his seat, draped his upper robe over one shoulder, and, kneeling on his right knee with palms joined at his heart, he smiled and supplicated the Blessed One with these words:
 {{milestone:{label:1.2,id:UT22084-072-002-41}}}“Arisen like a lotus from the mud of saṃsāra, 
 Protector, unshakable like a mountain, your sage’s body
@@ -22,12 +22,12 @@ And mendicants are the heirs of the victorious ones.
 Mendicants are those who have cut the life force of afflictions,
 And mendicants are those who enter the garden of liberation.
 {{milestone:{label:1.7,id:UT22084-072-002-48}}}“The very nature of mendicants is restraint,{{note:{index18,id:UT22084-072-002-49}}}
-And their completely pure obligations are the two hundred and fifty precepts,{{page:{number:3,id:UT22084-072-002-144,folio:F.126.a}}}{{note:{index19,id:UT22084-072-002-50}}}
+And their completely pure obligations are the two hundred and fifty precepts,{{note:{index19,id:UT22084-072-002-50}}}{{page:{number:3,id:UT22084-072-002-144,folio:F.126.a}}}
 Such as those on the four root downfalls, which comprise disciplined conduct.
 {{milestone:{label:1.8,id:UT22084-072-002-51}}}“As for the types of mendicants, what are they called?
 There are those who hold only the outer attributes, and there are genuine mendicants. 
 {{milestone:{label:1.9,id:UT22084-072-002-52}}}“As for the usage of the term, because their afflictions are completely exhausted,{{note:{index20,id:UT22084-072-002-53}}}
-Because they arouse wholesomeness, beg for food, {{note:{index21,id:UT22084-072-002-54}}}
+Because they arouse wholesomeness,{{note:{index21,id:UT22084-072-002-54}}} beg for food, 
 Abide in peace, have entered the path, 
 Lead a proper life, have abandoned attachment, 
 And are attractive, for these reasons they are called ‘mendicants.’{{note:{index22,id:UT22084-072-002-55}}}
@@ -68,11 +68,11 @@ They are genuine mendicants.
 {{milestone:{label:1.18,id:UT22084-072-002-69}}}“Those who have the three main robes and the five accompanying implements 
 Along with the sage’s bowl and staff,
 Who are completely restrained in body, speech, and mind,
-And who show ascetic discipline in their conduct—{{note:{index28,id:UT22084-072-002-70}}}
+And who show ascetic discipline{{note:{index28,id:UT22084-072-002-70}}} in their conduct—
 They are also genuine mendicants.
 {{milestone:{label:1.19,id:UT22084-072-002-71}}}“Both types of genuine mendicants will approach the city of liberation {{page:{number:4,id:UT22084-072-002-145,folio:F.126.b}}}
 And experience the supreme bliss of liberation.
-{{milestone:{label:1.20,id:UT22084-072-002-72}}}“As for the other type—those who are disingenuous— {{note:{index29,id:UT22084-072-002-73}}}
+{{milestone:{label:1.20,id:UT22084-072-002-72}}}“As for the other type—those who are disingenuous{{note:{index29,id:UT22084-072-002-73}}}— 
 With their alms bowls and other implements ablaze,
 They will be boiled like molten iron 
 In the hells for four thousand eons. 

@@ -1,7 +1,7 @@
 {{translation:{id:UT22084-079-011,key:toh384,version:2.20.14,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Glorious King of Tantras That Resolves All Secrets
 {{milestone:{label:p,id:UT22084-079-011-prologue}}}Prologue
-{{milestone:{label:p.1,id:UT22084-079-011-16}}} I pay homage to Glorious Vajrasattva!{{page:{number:1,id:UT22084-079-011-366,folio:F.187.a}}}
+{{milestone:{label:p.1,id:UT22084-079-011-16}}}{{page:{number:1,id:UT22084-079-011-366,folio:F.187.a}}} I pay homage to Glorious Vajrasattva!
 {{milestone:{label:p.2,id:UT22084-079-011-364}}}Thus did I hear at one time. The Blessed One dwelt in equanimity in the womb of the Vajra Lady, which is the enlightened body, speech, and mind of all tathāgatas.
 Then, the entourage, including the bodhisattva Vajragarbha and others, performed three circumambulations counterclockwise, made outer, inner, and secret offerings, and asked the following:
 {{milestone:{label:p.3,id:UT22084-079-011-17}}}“O Blessed Vajra Holder!
@@ -32,7 +32,7 @@ The sides are the three liberations.
 This signifies the destruction of the ten nonvirtues
 That emerge from ordinary body, speech, and mind. 
 {{milestone:{label:1.5,id:UT22084-079-011-22}}}“The dharma body is immaculate, 
-And therefore  naturally all-pervading.{{page:{number:2,id:UT22084-079-011-367,folio:F.187.b}}}
+And therefore {{page:{number:2,id:UT22084-079-011-367,folio:F.187.b}}} naturally all-pervading.
 This is the significance of vast.
 {{milestone:{label:1.6,id:UT22084-079-011-23}}}“Since even the noble listeners, solitary realizers, 
 And bodhisattvas as well
@@ -81,7 +81,7 @@ For the overcoming of concepts oriented toward the ten nonvirtues.
 To destroy the wicked ones
 Of attachment, hatred, and ignorance.
 {{milestone:{label:1.19,id:UT22084-079-011-36}}}“Rain clouds are arrayed 
-So that body and speech may act for the welfare of beings,{{note:{index18,id:UT22084-079-011-351}}}{{note:{index19,id:UT22084-079-011-352}}}
+So that body and speech{{note:{index18,id:UT22084-079-011-351}}} may act for the welfare of{{note:{index19,id:UT22084-079-011-352}}} beings,
 With divine pride in the two form buddha bodies
 Endowed with great compassion. {{page:{number:3,id:UT22084-079-011-368,folio:F.188.a}}}
 {{milestone:{label:1.20,id:UT22084-079-011-37}}}“Inner and secret are the same.
@@ -94,7 +94,7 @@ The eight spokes stand for the eight consciousnesses.
 Viewed from the outside, he is luminous inside.
 Likewise, from inside out,
 Meaning that all appears as one.
-{{milestone:{label:1.23,id:UT22084-079-011-40}}}“The five kinds of gems symbolize the five buddha bodies.{{note:{index20,id:UT22084-079-011-353}}}
+{{milestone:{label:1.23,id:UT22084-079-011-40}}}“The five kinds of gems{{note:{index20,id:UT22084-079-011-353}}} symbolize the five buddha bodies.
 The five colors indicate the five families.
 The four corners are said to be the four pure abodes.
 {{milestone:{label:1.24,id:UT22084-079-011-41}}}“The four sides are the four means of magnetizing.
@@ -487,7 +487,7 @@ The three suchness channels
 Are located in the secret place and give rise to bliss.
 {{milestone:{label:2.30,id:UT22084-079-011-127}}}“There are seventy-two thousand houses.
 Each house has a hundred thousand further houses.
-The types of worms present in those houses {{note:{index23,id:UT22084-079-011-356}}}
+The types of worms{{note:{index23,id:UT22084-079-011-356}}} present in those houses 
 Are seventy-two thousand and their number
 Should likewise be understood as multiplied by a hundred thousand.
 {{milestone:{label:2.31,id:UT22084-079-011-128}}}“It is taught that in the inner and secret channels 
@@ -655,7 +655,7 @@ The first abides as the letter e at the secret nose-tip.
 The awareness chakra, and the rest, 
 Abides in the Secret Guardian of Bliss.
 {{milestone:{label:3.14,id:UT22084-079-011-168}}}“The natural chakra of great bliss
-Is replete with the flavor of great bliss, {{note:{index24,id:UT22084-079-011-357}}}
+Is replete with the flavor of{{note:{index24,id:UT22084-079-011-357}}} great bliss, 
 Just as a sesame seed is with sesame butter.
 {{milestone:{label:3.15,id:UT22084-079-011-169}}}“Like sap dripping
 From a cut tree branch,
@@ -671,11 +671,11 @@ Occurs according to the order of the emanation chakra and the rest.
 {{milestone:{label:3.17,id:UT22084-079-011-171}}}“The emergence of the form of clouds
 Is the sign for birth, the syllable a. 
 That which resembles a butter lamp 
-Is taught to be the sign of haṁ, for death.{{note:{index25,id:UT22084-079-011-358}}}
+Is taught to be the sign of haṁ, for{{note:{index25,id:UT22084-079-011-358}}} death.
 {{milestone:{label:3.18,id:UT22084-079-011-172}}}“The fifth, which resembles space,
 Should be understood as the empty sign 
 For the intermediate state, non-duality.
-Moreover,  vibrating and so forth{{page:{number:15,id:UT22084-079-011-380,folio:F.194.a}}}
+Moreover, {{page:{number:15,id:UT22084-079-011-380,folio:F.194.a}}} vibrating and so forth
 Should be learned from a master’s oral instructions.
 {{milestone:{label:3.19,id:UT22084-079-011-173}}}“Next, concerning the third secret, 
 The characteristics of the four joys 
@@ -727,7 +727,7 @@ And the particularities of various religious systems
 That such a plethora has been taught.
 {{milestone:{label:3.31,id:UT22084-079-011-185}}}“A practitioner who has traversed the three initiations
 Is taught to be a great, fully ordained monk. 
-For it is taught that he will accomplish all.”{{note:{index26,id:UT22084-079-011-359}}}
+For it is taught that he{{note:{index26,id:UT22084-079-011-359}}} will accomplish all.”
 {{milestone:{label:3.32,id:UT22084-079-011-186}}}Vajragarbha then asked:
 “What is such a triple-initiation fully ordained monk like?
 What are his activities?”
@@ -808,7 +808,7 @@ And ultimate maṇḍalas and obtains initiation,
 One must meditate, recite, and so forth,
 Lest one might obstruct and denigrate the secret mantra.
 {{milestone:{label:5.3,id:UT22084-079-011-204}}}“Disparaging any spiritual practice, 
-Ridiculing vajra siblings, disciples with shared tantric commitments,{{note:{index28,id:UT22084-079-011-361}}}{{note:{index29,id:UT22084-079-011-362}}}
+Ridiculing{{note:{index28,id:UT22084-079-011-361}}} vajra siblings, disciples{{note:{index29,id:UT22084-079-011-362}}} with shared tantric commitments,
 Breaking the root and branch samaya vows, 
 Cursing the lama—by the fruition of these 
 One will be born as a hell-being in Endless Torment.

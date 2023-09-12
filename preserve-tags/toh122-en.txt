@@ -1,8 +1,8 @@
 {{translation:{id:UT22084-054-003,key:toh122,version:1.24.18,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Noble Mahāyāna Sūtra on
 Wisdom at the Hour of Death
-{{milestone:{label:1.1,id:UT22084-054-003-10}}} Homage to all buddhas and bodhisattvas! {{page:{number:1,id:UT22084-054-003-72,folio:F.153.a}}}
-{{milestone:{label:1.2,id:UT22084-054-003-11}}}Thus did I hear at one time. While the Blessed One was residing in the palace of the king of the gods in the Akaniṣṭha realm, he taught the Dharma to the entire assembly. {{note:{index9,id:UT22084-054-003-67}}}
+{{milestone:{label:1.1,id:UT22084-054-003-10}}}{{page:{number:1,id:UT22084-054-003-72,folio:F.153.a}}} Homage to all buddhas and bodhisattvas! 
+{{milestone:{label:1.2,id:UT22084-054-003-11}}}Thus did I hear at one time. While the Blessed One was residing in the palace of the king of the gods in the Akaniṣṭha realm,{{note:{index9,id:UT22084-054-003-67}}} he taught the Dharma to the entire assembly. 
 {{milestone:{label:1.3,id:UT22084-054-003-12}}}The bodhisattva mahāsattva Ākāśagarbha then paid homage to the Blessed One and asked, “Blessed One, how should we think about the mind of a bodhisattva who is about to die?”
 {{milestone:{label:1.4,id:UT22084-054-003-13}}}The Blessed One replied, “Ākāśagarbha, when a bodhisattva is about to die, he should cultivate the wisdom of the hour of death. The wisdom of the hour of death is as follows: 
 {{milestone:{label:1.5,id:UT22084-054-003-14}}}“All phenomena are naturally pure. So, one should cultivate the clear understanding that there are no entities. 
@@ -13,7 +13,7 @@ Wisdom at the Hour of Death
 The Blessed One then spoke the following verses:
 {{milestone:{label:1.10,id:UT22084-054-003-19}}}“Since all phenomena are naturally pure,
 One should cultivate the clear understanding that there are no entities.
-{{milestone:{label:1.11,id:UT22084-054-003-20}}}“Since all phenomena are connected with the enlightened mind,{{note:{index11,id:UT22084-054-003-69}}}
+{{milestone:{label:1.11,id:UT22084-054-003-20}}}“Since all phenomena{{note:{index11,id:UT22084-054-003-69}}} are connected with the enlightened mind,
 One should cultivate the clear understanding of great compassion.{{note:{index12,id:UT22084-054-003-70}}}
 {{milestone:{label:1.12,id:UT22084-054-003-21}}}“Since all phenomena are naturally luminous,
 One should cultivate the clear understanding of non-apprehension.
@@ -21,5 +21,5 @@ One should cultivate the clear understanding of non-apprehension.
 One should cultivate the clear understanding of non-attachment.
 {{milestone:{label:1.14,id:UT22084-054-003-23}}}“Since the mind is the cause for the arising of wisdom,
 Do not look for the Buddha elsewhere.”
-{{milestone:{label:1.15,id:UT22084-054-003-24}}}After the Blessed One had spoken,  the whole assembly, including the bodhisattva Ākāśagarbha and others, were overjoyed and full of praise for the Buddha’s words. {{page:{number:2,id:UT22084-054-003-73,folio:F.153.b}}}
+{{milestone:{label:1.15,id:UT22084-054-003-24}}}After the Blessed One had spoken, {{page:{number:2,id:UT22084-054-003-73,folio:F.153.b}}} the whole assembly, including the bodhisattva Ākāśagarbha and others, were overjoyed and full of praise for the Buddha’s words. 
 {{milestone:{label:1.16,id:UT22084-054-003-25}}}This concludes the Noble Mahāyāna Sūtra on Wisdom at the Hour of Death. 

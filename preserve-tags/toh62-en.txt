@@ -1,9 +1,9 @@
 {{translation:{id:UT22084-042-003,key:toh62,version:1.0.13,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Noble Mahāyāna Sūtra
  The Questions of Rāṣṭrapāla (1)
-{{milestone:{label:1.1,id:UT22084-042-003-321994}}} Homage to all buddhas and bodhisattvas! {{page:{number:1,id:UT22084-042-003-321856,folio:F.227.a}}}{{page:{number:2,id:UT22084-042-003-321857,folio:F.227.b}}}
-Thus have I heard at one time. In Rājagṛha, on the Vulture’s Peak, the Bhagavān was residing together with a great assembly of one thousand two hundred fifty monks and five thousand bodhisattvas, whose eloquence was unimpeded, who were endowed with patience, who had conquered the hostile māras, who were very close to realizing all the buddha qualities, who were impeded by only one birth, who had attained concentration and retention, who had reached limitless eloquence and unimpeded fearlessness, who had obtained magical power and the ultimate perfection of power, and who had appropriated all inexhaustible collections of good qualities without exception. The bodhisattvas present included the bodhisattva mahāsattvas Samantabhadra, Samantanetra, Samantāvalokita, Samantaraśmi, Samantaprabha, Uttaramati, Vardhamānamati, Anantamati, Vipulamati, Akṣayamati, Dharaṇīdhara, Jagatīṃdhara, Jayamati, Viśeṣamati, and Dhāraṇīśvararāja. In addition, the sixty unequaled bodhisattvas headed by Mañjuśrī; the sixteen noble men headed by Bhadrapāla; Brahmā, lord of the Sahā world; Śakra, lord of the gods; the four guardians of the world; the god Susīma; and the god Susthitamati—along with all lords of the gods, lords of the nāgas, lords of the kinnaras, lords of the gandharvas, lords of the yakṣas, lords of the asuras, and lords of the garuḍas, all with their retinues of hundreds of thousands—had assembled and taken their seats. {{page:{number:3,id:UT22084-042-003-321858,folio:F.228.a}}}{{note:{index18,id:UT22084-042-003-40}}}
-{{milestone:{label:1.2,id:UT22084-042-003-41}}}The Bhagavān was seated on the lion throne at the seat of enlightenment, towering above the whole assembled retinue like Mount Meru. Illuminating the entire world like the sun, and all beings like the moon, he remained perfectly at peace like Brahmā. His body was difficult to approach like the body of Śakra, and he was endowed with the seven precious branches of enlightenment like a cakravartin. Like a lion, he proclaimed that all phenomena have no self and are empty. He was endowed with a body that illuminates the whole world like a huge mass of flames, his radiance blazing brightly like the king of precious jewels among the entire assortment of precious jewels, which is the splendor of all gods. Pervading the trichiliocosm with his splendor, he had become swift in determining the meaning, and had perfectly attained all excellent qualities. He resided in the assembly, intoned the melodious Brahmā voice, and taught the Dharma, endowed with a speech that makes all sentient beings understand. He accurately taught pure conduct, the Dharma that is good in the beginning, good in the middle, and good in the end, which is of good meaning, in good words, unadulterated, completely perfect, completely pure, and completely purified.{{note:{index19,id:UT22084-042-003-42}}}{{note:{index20,id:UT22084-042-003-43}}}{{note:{index21,id:UT22084-042-003-44}}}{{note:{index22,id:UT22084-042-003-45}}}
+{{milestone:{label:1.1,id:UT22084-042-003-321994}}}{{page:{number:1,id:UT22084-042-003-321856,folio:F.227.a}}} Homage to all buddhas and bodhisattvas! {{page:{number:2,id:UT22084-042-003-321857,folio:F.227.b}}}
+Thus have I heard at one time. In Rājagṛha, on the Vulture’s Peak, the Bhagavān was residing together with a great assembly of one thousand two hundred fifty monks and five thousand bodhisattvas, whose eloquence was unimpeded, who were endowed with patience, who had conquered the hostile māras, who were very close to realizing all the buddha qualities, who were impeded by only one birth, who had attained concentration and retention, who had reached limitless eloquence and unimpeded fearlessness, who had obtained magical power and the ultimate perfection of power,{{note:{index18,id:UT22084-042-003-40}}} and who had appropriated all inexhaustible collections of good qualities without exception. The bodhisattvas present included the bodhisattva mahāsattvas Samantabhadra, Samantanetra, Samantāvalokita, Samantaraśmi, Samantaprabha, Uttaramati, Vardhamānamati, Anantamati, Vipulamati, Akṣayamati, Dharaṇīdhara, Jagatīṃdhara, Jayamati, Viśeṣamati, and Dhāraṇīśvararāja. In addition, the sixty unequaled bodhisattvas headed by Mañjuśrī; the sixteen noble men headed by Bhadrapāla; Brahmā, lord of the Sahā world; Śakra, lord of the gods; the four guardians of the world; the god Susīma; and the god Susthitamati—along with all lords of the gods, lords of the nāgas, lords of the kinnaras, lords of the gandharvas, lords of the yakṣas, lords of the asuras, and lords of the garuḍas, all with their retinues of hundreds of thousands—had assembled and taken their seats. {{page:{number:3,id:UT22084-042-003-321858,folio:F.228.a}}}
+{{milestone:{label:1.2,id:UT22084-042-003-41}}}The Bhagavān was seated on the lion throne at the seat of enlightenment,{{note:{index19,id:UT22084-042-003-42}}} towering above the whole assembled retinue like Mount Meru. Illuminating the entire world like the sun, and all beings like the moon, he remained perfectly at peace like Brahmā. His body was difficult to approach like the body of Śakra, and he was endowed with the seven precious branches of enlightenment like a cakravartin. Like a lion, he proclaimed that all phenomena have no self and are empty. He was endowed with a body that illuminates the whole world like a huge mass of flames, his radiance blazing brightly like the king of precious jewels among the entire assortment of precious jewels, which is the splendor of all gods.{{note:{index20,id:UT22084-042-003-43}}} Pervading the trichiliocosm with his splendor, he had become swift{{note:{index21,id:UT22084-042-003-44}}} in determining the meaning, and had perfectly attained all excellent qualities. He resided in the assembly, intoned the melodious Brahmā voice, and taught the Dharma, endowed with a speech that makes all sentient beings understand. He accurately taught pure conduct, the Dharma that is{{note:{index22,id:UT22084-042-003-45}}} good in the beginning, good in the middle, and good in the end, which is of good meaning, in good words, unadulterated, completely perfect, completely pure, and completely purified.
 {{milestone:{label:1.3,id:UT22084-042-003-46}}}Then the bodhisattva mahāsattva named Prāmodyarāja joined the assembly, was seated, and beheld the Bhagavān seated on the lion throne—the one abiding in splendor outshining the whole gathering of the retinue, with rays of light surpassing a thousand suns. With a happy, delighted, and faithfully yearning mind, Prāmodyarāja rose from his seat, joined his palms, and praised the Bhagavān with the following appropriate verses:
 {{milestone:{label:1.4,id:UT22084-042-003-47}}}“Victorious One, you shine like a golden mountain;
 With your splendor, you outshine beings— {{page:{number:4,id:UT22084-042-003-321859,folio:F.228.b}}}
@@ -11,7 +11,7 @@ The hosts of gods, asuras, kinnaras,
 Nāgas, śrāvakas, and sons of the buddhas. {1}
 {{milestone:{label:1.5,id:UT22084-042-003-48}}}“Just as Mount Meru, the dwelling place of hosts of gods,
 Is beautiful, though located in the middle of the ocean,
-Out of compassion you dwell in the middle of the ocean of suffering,{{note:{index23,id:UT22084-042-003-49}}}
+Out of compassion{{note:{index23,id:UT22084-042-003-49}}} you dwell in the middle of the ocean of suffering,
 Sending forth hundreds of thousands of light rays. {2}
 {{milestone:{label:1.6,id:UT22084-042-003-50}}}“Just as Brahmā is magnificent residing in his Brahmā states,
 Presiding over his Brahmā realm,
@@ -22,7 +22,7 @@ Is gorgeous in all his splendor,
 So you, king of sages, who is adorned with the buddha marks and rich in the qualities of wisdom,
 Illuminate the entire world. {4}
 {{milestone:{label:1.8,id:UT22084-042-003-52}}}“Just as the luminous king of the four continents
-Shines in the world, making it beautiful,{{note:{index24,id:UT22084-042-003-53}}}
+Shines{{note:{index24,id:UT22084-042-003-53}}} in the world, making it beautiful,
 So you, possessing a mind of compassionate intent, {5}
 Make beings enter the noble path, making them beautiful.
 {{milestone:{label:1.9,id:UT22084-042-003-54}}}“Just as the sun, shining brightly in the sky, 
@@ -59,16 +59,16 @@ May all beings reach supreme enlightenment
 Through the merit that has thus been attained.” {13}
 {{milestone:{label:1.17,id:UT22084-042-003-63}}}Then, having praised the Bhagavān with these verses, the bodhisattva mahāsattva Prāmodyarāja joined his palms and, without blinking, gazed at the body of the Tathāgata. This caused him to investigate the dharmadhātu itself. He penetrated the dharmadhātu, which is profound, difficult to fathom, difficult to see, difficult to internalize, impossible to analyze, not reached by reasoning, peaceful, and subtle. He investigated the inconceivable experiential sphere of the Buddha.
 {{milestone:{label:1.18,id:UT22084-042-003-64}}}He was made to fully understand that the wisdom of the Tathāgata extends to all phenomena. He accurately observed that the sphere of the buddhas equals the unequaled. He penetrated the experiential sphere, which is the object of the Tathāgata’s skillful means. He realized that the illustrious buddhas are immersed in the unique nature of the dharmadhātu, and he accurately observed the illustrious buddhas whose experiential spheres are like space, without a basis.
-{{milestone:{label:1.19,id:UT22084-042-003-65}}}He became convinced that all phenomena are contained in the limit of existence, whose nature is without limit, and he came to strongly desire the unobscured liberation of a buddha. He understood that the bodies of the illustrious buddhas are permanent, peaceful, and eternal, and that the bodies of the tathāgatas completely pervade all the limitless buddhafields and manifest to all sentient beings. He was made to recall that the qualities of the illustrious buddhas do not reach an end, even at the endpoints of future eons.  Investigating the dharmadhātu itself, the bodhisattva mahāsattva Prāmodyarāja stood in silence.{{page:{number:6,id:UT22084-042-003-321861,folio:F.229.b}}}
+{{milestone:{label:1.19,id:UT22084-042-003-65}}}He became convinced that all phenomena are contained in the limit of existence, whose nature is without limit, and he came to strongly desire the unobscured liberation of a buddha. He understood that the bodies of the illustrious buddhas are permanent, peaceful, and eternal, and that the bodies of the tathāgatas completely pervade all the limitless buddhafields and manifest to all sentient beings. He was made to recall that the qualities of the illustrious buddhas do not reach an end, even at the endpoints of future eons. {{page:{number:6,id:UT22084-042-003-321861,folio:F.229.b}}} Investigating the dharmadhātu itself, the bodhisattva mahāsattva Prāmodyarāja stood in silence.
 {{milestone:{label:1.20,id:UT22084-042-003-66}}}Meanwhile, the venerable Rāṣṭrapāla had promised to dwell in Śrāvastī for the three months of the rainy season. When the three months had passed and his robes had been made and received, he took up his bowl and robes, and together with the assembly of fully ordained monks and the new ones—beginners who had recently become renunciants—he proceeded to roam the country, walking toward the great city of Rājagṛha and Vulture’s Peak.
 {{milestone:{label:1.21,id:UT22084-042-003-67}}}The venerable Rāṣṭrapāla proceeded to the Bhagavān’s dwelling place, and having reached him, he bowed with his head to the Bhagavān’s feet. After circumambulating the Bhagavān three times, he sat down to one side. Seated to one side, the venerable Rāṣṭrapāla joined his palms and praised the Bhagavān with the following verses:
 {{milestone:{label:1.22,id:UT22084-042-003-68}}} “I pay homage to you, supreme one among men, illuminator.
 I pay homage to you whose mind is like the sky.
 I pay homage to you, Victorious One who eradicates doubts.
-I pay homage to you, Sage who has gone beyond the three worlds. {14}{{note:{index26,id:UT22084-042-003-69}}}
+I pay homage to you, Sage who has gone beyond the three worlds.{{note:{index26,id:UT22084-042-003-69}}} {14}
 {{milestone:{label:1.23,id:UT22084-042-003-70}}} “In great millions of buddhafields, the guides proclaim your glory.
 Having heard this, the sons of the victorious ones{{note:{index27,id:UT22084-042-003-71}}}
-Arrived here, overjoyed to worship you, O Sage,{{note:{index28,id:UT22084-042-003-72}}}
+Arrived here,{{note:{index28,id:UT22084-042-003-72}}} overjoyed to worship you, O Sage,
 You, the one endowed with an ocean of qualities. {15}
 {{milestone:{label:1.24,id:UT22084-042-003-73}}} “Having thus worshiped you in a way befitting a sugata,
 They listen to the immaculate Dharma from you, great Sage,
@@ -76,7 +76,7 @@ Praise your garland of qualities,
 And return to their respective buddhafields with their minds overjoyed. {16}
 {{milestone:{label:1.25,id:UT22084-042-003-74}}} “While you were seeking supreme, excellent enlightenment,
 You acted for the sake of sentient beings,
-Over inconceivable, myriad eons. {{note:{index29,id:UT22084-042-003-75}}}
+Over inconceivable, myriad{{note:{index29,id:UT22084-042-003-75}}} eons. 
 Without your mind ever becoming exhausted, {17}
 {{milestone:{label:1.26,id:UT22084-042-003-76}}} “O guide, you practiced generosity and discipline,
 You trained in patience, diligence, and meditative absorption, and
@@ -107,7 +107,7 @@ How the Victorious One’s relics will be praised,
 And how the Dharma treasure will be preserved.
 All of this is known by you, the most excellent of men. {24}
 {{milestone:{label:1.33,id:UT22084-042-003-84}}} “Homage to you, Victorious One, ocean of wisdom,
-Who has always—through the three times—realized the wisdom of one who has the ten strengths,{{note:{index31,id:UT22084-042-003-85}}}
+Who has always—through the three times{{note:{index31,id:UT22084-042-003-85}}}—realized the wisdom of one who has the ten strengths,
 Who has no obscurations,
 And who is not attached to any phenomenon. {25}
 {{milestone:{label:1.34,id:UT22084-042-003-86}}} “There is no one equal to you, let alone anyone superior.
@@ -119,7 +119,7 @@ Outshining beings, including the gods.
 Brahmā, Śakra, and the Akaniṣṭha gods
 Do not seem beautiful in your presence. {27}
 {{milestone:{label:1.36,id:UT22084-042-003-88}}} “You are stainless like the golden mountain, 
-And the hair on your head, glossy and smooth, spirals clockwise.{{note:{index32,id:UT22084-042-003-89}}}
+And the hair{{note:{index32,id:UT22084-042-003-89}}} on your head, glossy and smooth, spirals clockwise.
 The uṣṇīṣa on your head produced by your extensive merit
 Shines vividly like Mount Meru, the king of mountains. {28}
 {{milestone:{label:1.37,id:UT22084-042-003-90}}} “The beautiful hair tuft between your eyebrows
@@ -162,7 +162,7 @@ Nor the occurrence of suffering from deprivation. {37}
 I have gathered by praising the Victorious One,
 Who has crossed over to the other side through having mastered all phenomena,
 Who is the great sage, the supreme one in this world.” {38}
-{{milestone:{label:1.47,id:UT22084-042-003-100}}}Then, having praised the Bhagavān with these verses, the venerable Rāṣṭrapāla joined his palms.  Rising from his seat, he draped his upper garment over one shoulder and placed his right knee on the ground. He then bowed toward the Bhagavān with joined hands and made a request to the Bhagavān, “If you, Bhagavān, allowed me the opportunity to approach you with a question, I would like to ask you, the bhagavān, the tathāgata, the arhat, the perfect and complete Buddha, about certain issues.”{{page:{number:9,id:UT22084-042-003-321864,folio:F.231.a}}}
+{{milestone:{label:1.47,id:UT22084-042-003-100}}}Then, having praised the Bhagavān with these verses, the venerable Rāṣṭrapāla joined his palms. {{page:{number:9,id:UT22084-042-003-321864,folio:F.231.a}}} Rising from his seat, he draped his upper garment over one shoulder and placed his right knee on the ground. He then bowed toward the Bhagavān with joined hands and made a request to the Bhagavān, “If you, Bhagavān, allowed me the opportunity to approach you with a question, I would like to ask you, the bhagavān, the tathāgata, the arhat, the perfect and complete Buddha, about certain issues.”
 {{milestone:{label:1.48,id:UT22084-042-003-101}}}Having thus been petitioned, the Bhagavān said to the venerable Rāṣṭrapāla, “Rāṣṭrapāla, ask whatever you like! I will please your mind by clarifying whatever questions you may have.”
 {{milestone:{label:1.49,id:UT22084-042-003-102}}}Having said these words, the venerable Rāṣṭrapāla asked the Bhagavān, “Bhagavān, how many qualities has a bodhisattva mahāsattva—one who obtains the excellence of all qualities and virtues, who obtains knowledge not depending on others, who gains swift insight, who obtains the ascertainment of eloquence, who obtains illumination, who realizes omniscience, who causes beings to ripen, who eliminates doubt, who eliminates desire, who obtains the ascertainment of omniscience, who is skillful in guiding beings, who acts as he speaks, whose speech is based on genuine intentions, who is skillful in dealing with all sentient beings, who attains the recollection of the Buddha, who asks all questions, who retains all Dharma teachings, and who swiftly obtains omniscience?”
 {{milestone:{label:1.50,id:UT22084-042-003-103}}}Then the venerable Rāṣṭrapāla uttered the following verses:
@@ -206,7 +206,7 @@ The time has come to proclaim, O excellent jewel. {47}
 The Victorious One truly understands my intentions.
 I am not deceiving the Victorious One; I am genuinely interested!
 Please explain the genuine conduct.” {48}
-{{milestone:{label:1.60,id:UT22084-042-003-113}}}Having thus been petitioned, the Bhagavān said the following to the venerable Rāṣṭrapāla: “You are right, Rāṣṭrapāla! You, Rāṣṭrapāla, have gone forth for the benefit of many living beings. And it is good that you, Rāṣṭrapāla,  have well considered this topic you queried Tathāgata about, for the happiness of many people, for the sake and benefit of gods and men, and so that I will take care of the bodhisattva mahāsattvas present and future. Therefore, Rāṣṭrapāla, listen closely and keep it in your mind! I will explain it to you.” The venerable Rāṣṭrapāla answered, “Very well, Bhagavān!” and as he listened carefully to each of the Bhagavān’s words, the Bhagavān uttered the following words to him:{{page:{number:11,id:UT22084-042-003-321866,folio:F.232.a}}}
+{{milestone:{label:1.60,id:UT22084-042-003-113}}}Having thus been petitioned, the Bhagavān said the following to the venerable Rāṣṭrapāla: “You are right, Rāṣṭrapāla! You, Rāṣṭrapāla, have gone forth for the benefit of many living beings. And it is good that you, Rāṣṭrapāla, {{page:{number:11,id:UT22084-042-003-321866,folio:F.232.a}}} have well considered this topic you queried Tathāgata about, for the happiness of many people, for the sake and benefit of gods and men, and so that I will take care of the bodhisattva mahāsattvas present and future. Therefore, Rāṣṭrapāla, listen closely and keep it in your mind! I will explain it to you.” The venerable Rāṣṭrapāla answered, “Very well, Bhagavān!” and as he listened carefully to each of the Bhagavān’s words, the Bhagavān uttered the following words to him:
 {{milestone:{label:1.61,id:UT22084-042-003-114}}}“Rāṣṭrapāla, a bodhisattva mahāsattva endowed with four qualities attains the following types of purity. What are these four? They are making efforts in accordance with beings’ aspirations and highest intent, being impartial toward all sentient beings, meditating on emptiness, and acting just as one speaks. Rāṣṭrapāla, if bodhisattva mahāsattvas are endowed with these four qualities, they will attain purity. This is how it is. In this regard, the following is said:
 {{milestone:{label:1.62,id:UT22084-042-003-115}}} “Those endowed with infinite wisdom
 Always possess diligence out of sincere intentions.
@@ -241,7 +241,7 @@ But turn far away from them like from a scorching fire. {55}
 They never generate any view of a self, a sentient being, or a life force.
 Their discipline is faultless, and they are endowed with a tame and peaceful mind.
 Living beings are encouraged to take up the unsurpassable discipline of the Buddha as well. {56}
-{{milestone:{label:1.71,id:UT22084-042-003-124}}}“Rāṣṭrapāla, these four are the qualities that cause delight in the bodhisattvas dwelling in saṃsāra. What are these four? Rāṣṭrapāla, seeing the Buddha is a quality that causes delight in the bodhisattvas dwelling in saṃsāra. Rāṣṭrapāla, hearing appropriate instructions is a quality that causes delight in the bodhisattvas dwelling in saṃsāra. Rāṣṭrapāla, complete abandonment of possessions is a quality that causes delight in the bodhisattvas dwelling in saṃsāra, and, Rāṣṭrapāla, being receptive to the Dharma of non-apprehension is a quality that causes delight in the bodhisattvas dwelling in saṃsāra. Rāṣṭrapāla, these four are things that cause delight in the bodhisattvas dwelling in saṃsāra.  This is how it is. About this, the following is said:{{page:{number:13,id:UT22084-042-003-321868,folio:F.233.a}}}
+{{milestone:{label:1.71,id:UT22084-042-003-124}}}“Rāṣṭrapāla, these four are the qualities that cause delight in the bodhisattvas dwelling in saṃsāra. What are these four? Rāṣṭrapāla, seeing the Buddha is a quality that causes delight in the bodhisattvas dwelling in saṃsāra. Rāṣṭrapāla, hearing appropriate instructions is a quality that causes delight in the bodhisattvas dwelling in saṃsāra. Rāṣṭrapāla, complete abandonment of possessions is a quality that causes delight in the bodhisattvas dwelling in saṃsāra, and, Rāṣṭrapāla, being receptive to the Dharma of non-apprehension is a quality that causes delight in the bodhisattvas dwelling in saṃsāra. Rāṣṭrapāla, these four are things that cause delight in the bodhisattvas dwelling in saṃsāra. {{page:{number:13,id:UT22084-042-003-321868,folio:F.233.a}}} This is how it is. About this, the following is said:
 {{milestone:{label:1.72,id:UT22084-042-003-125}}} “In every lifetime, they see the perfect buddhas, the supreme ones among men,
 Who fully illuminate the whole world with their splendor.
 When seeking supreme, excellent enlightenment for the sake of liberating beings, 
@@ -249,13 +249,13 @@ They abide in delight and devotion; thus, they worship the lord of men, the Vict
 {{milestone:{label:1.73,id:UT22084-042-003-126}}} “They listen to the peaceful and harmonious Dharma from the guides.
 Having heard it, they practice it with firm intention, steadily and properly.
 Hearing the Dharma of non-apprehension, no doubt arises about the fact
-That all things are without existence and lack a self. {58}{{note:{index33,id:UT22084-042-003-127}}}
+That all things are without existence{{note:{index33,id:UT22084-042-003-127}}} and lack a self. {58}
 {{milestone:{label:1.74,id:UT22084-042-003-128}}} “They fully renounce all their possessions and acquire nothing.
 Conscious of having become beggars, their minds are very pleased.
 They renounce everything—villages, kingdoms, lands, lives, children, and wives—
 And their minds never waver. {59}
 {{milestone:{label:1.75,id:UT22084-042-003-129}}}“Rāṣṭrapāla, bodhisattvas should have no concern for four things. What are these four? Rāṣṭrapāla, bodhisattvas should have no concern for living in households. Rāṣṭrapāla, having become renunciants, bodhisattvas should have no concern for gain or honor. Rāṣṭrapāla, bodhisattvas should not be concerned with becoming acquainted with householders. And Rāṣṭrapāla, bodhisattvas should have no concern for their bodies or lives. Rāṣṭrapāla, for these four things bodhisattvas should have no concern. This is how it is. About this, the following is said:
-{{milestone:{label:1.76,id:UT22084-042-003-130}}} “Having renounced the household with its boundless thicket of faults, they never have any concern for wealth.{{note:{index34,id:UT22084-042-003-131}}}
+{{milestone:{label:1.76,id:UT22084-042-003-130}}} “Having renounced the household with its boundless thicket of faults,{{note:{index34,id:UT22084-042-003-131}}} they never have any concern for wealth.
 These gentle ones, endowed with such qualities, will take delight in the forest, with their senses under control.
 Wherever they are, they will not draw close to women or men.
 Like rhinoceroses, they dwell in solitude with a pure, immaculate, stainless intention. {60}
@@ -288,7 +288,7 @@ By preparing the boat of the peaceful, highest, and excellent Dharma. {66} {{pag
 Who wander in the conditioned realms of the world.{{note:{index35,id:UT22084-042-003-140}}}
 ‘I will completely liberate all those beings’:
 For this reason, I make this aspiration prayer for the highest enlightenment. {67}
-{{milestone:{label:1.85,id:UT22084-042-003-141}}}“Rāṣṭrapāla, there are four points that bodhisattvas should know to be states of noble ones. What are these four? They are obtaining the higher realms—that is to say, meeting with buddhas that appear; serving the gurus—that is to say, tending to them with minds free from worldly concerns; taking delight in remote dwellings—that is to say, without having concern for gain or honor; and obtaining courage—that is to say, being receptive to the profound. Rāṣṭrapāla, bodhisattvas should know that these four points are states of noble ones. This is how it is. About this, the following is said:{{note:{index36,id:UT22084-042-003-142}}}
+{{milestone:{label:1.85,id:UT22084-042-003-141}}}“Rāṣṭrapāla, there are four points that bodhisattvas should know to be states of noble ones.{{note:{index36,id:UT22084-042-003-142}}} What are these four? They are obtaining the higher realms—that is to say, meeting with buddhas that appear; serving the gurus—that is to say, tending to them with minds free from worldly concerns; taking delight in remote dwellings—that is to say, without having concern for gain or honor; and obtaining courage—that is to say, being receptive to the profound. Rāṣṭrapāla, bodhisattvas should know that these four points are states of noble ones. This is how it is. About this, the following is said:
 {{milestone:{label:1.86,id:UT22084-042-003-143}}} “These resolute ones always live in wildwoods and ravines.
 They never strive for gain in any way.
 With minds free from desire, they are constantly endowed with courage.
@@ -305,7 +305,7 @@ And introduce them perfectly to the ten virtues. {70}
 Thinking, ‘We will reach those shortly.’
 Having awakened to immaculate, perfect enlightenment,
 They think, ‘We will liberate billions of sentient beings from limitless suffering.’ {71}
-{{milestone:{label:1.90,id:UT22084-042-003-148}}}“Rāṣṭrapāla, there are four things that thoroughly purify the enlightened conduct of bodhisattvas. What are these four?  The conduct of a bodhisattva, for those whose minds are without hostility, is as follows: For those who have abandoned hypocrisy, flattery, and extortion of property, it consists in dwelling in the forest. For those who have renounced all possessions, it consists in having no expectations concerning ripening. It further consists in longing for the Dharma day and night, and in not looking for the faults in those who teach the Dharma. Rāṣṭrapāla, these four are the things that thoroughly purify the enlightened conduct of bodhisattvas.”{{page:{number:16,id:UT22084-042-003-321871,folio:F.234.b}}}
+{{milestone:{label:1.90,id:UT22084-042-003-148}}}“Rāṣṭrapāla, there are four things that thoroughly purify the enlightened conduct of bodhisattvas. What are these four? {{page:{number:16,id:UT22084-042-003-321871,folio:F.234.b}}} The conduct of a bodhisattva, for those whose minds are without hostility, is as follows: For those who have abandoned hypocrisy, flattery, and extortion of property, it consists in dwelling in the forest. For those who have renounced all possessions, it consists in having no expectations concerning ripening. It further consists in longing for the Dharma day and night, and in not looking for the faults in those who teach the Dharma. Rāṣṭrapāla, these four are the things that thoroughly purify the enlightened conduct of bodhisattvas.”
 {{milestone:{label:1.91,id:UT22084-042-003-149}}}Then, the Bhagavān uttered the following verses:
  “Longing for unsurpassable enlightenment,
 Without rigidity, impurity, or a hostile mind,
@@ -369,7 +369,7 @@ They will cause the Dharma to decline. {85}
 They are very far from the treasure of the noble ones.
 Having abandoned the excellent noble path,
 They will wander in the five realms of existence.” {86}
-{{milestone:{label:1.107,id:UT22084-042-003-167}}}“Rāṣṭrapāla, there are four things that obstruct the enlightenment of bodhisattvas.  What are these four? Rāṣṭrapāla, laziness is something that obstructs the enlightenment of bodhisattvas. Rāṣṭrapāla, lack of faith is something that obstructs the enlightenment of bodhisattvas. Rāṣṭrapāla, pride is something that obstructs the enlightenment of bodhisattvas. Rāṣṭrapāla, entertaining jealous and avaricious thoughts when others are honored is something that obstructs the enlightenment of bodhisattvas. Rāṣṭrapāla, these four are the things that obstruct the enlightenment of bodhisattvas.”{{page:{number:18,id:UT22084-042-003-321873,folio:F.235.b}}}
+{{milestone:{label:1.107,id:UT22084-042-003-167}}}“Rāṣṭrapāla, there are four things that obstruct the enlightenment of bodhisattvas. {{page:{number:18,id:UT22084-042-003-321873,folio:F.235.b}}} What are these four? Rāṣṭrapāla, laziness is something that obstructs the enlightenment of bodhisattvas. Rāṣṭrapāla, lack of faith is something that obstructs the enlightenment of bodhisattvas. Rāṣṭrapāla, pride is something that obstructs the enlightenment of bodhisattvas. Rāṣṭrapāla, entertaining jealous and avaricious thoughts when others are honored is something that obstructs the enlightenment of bodhisattvas. Rāṣṭrapāla, these four are the things that obstruct the enlightenment of bodhisattvas.”
 {{milestone:{label:1.108,id:UT22084-042-003-168}}}Then, the Bhagavān uttered the following verses:
  “Lacking faith, being lazy, and always deluded,
 They are self-conceited and constantly enraged.
@@ -391,7 +391,7 @@ Beware—you are sure to be reborn and suffer in the lower realms! {90}
 Will appear only once in many millions of eons.
 Now that you have arrived at this excellent and unique moment,
 Renounce your carelessness if you desire liberation!” {91}
-{{milestone:{label:1.113,id:UT22084-042-003-175}}}“Rāṣṭrapāla, there are four persons that a bodhisattva should not attend to. Who are these four? Rāṣṭrapāla, a bodhisattva should not attend to a person who is a nefarious friend. Rāṣṭrapāla, a bodhisattva should not attend to a person who entertains an objectifying view. Rāṣṭrapāla, a bodhisattva  should not attend to a person who abandons the true Dharma. And Rāṣṭrapāla, a bodhisattva should not attend to a person who craves material things. Rāṣṭrapāla, these four are the persons that a bodhisattva should not attend to.”{{page:{number:19,id:UT22084-042-003-321874,folio:F.236.a}}}
+{{milestone:{label:1.113,id:UT22084-042-003-175}}}“Rāṣṭrapāla, there are four persons that a bodhisattva should not attend to. Who are these four? Rāṣṭrapāla, a bodhisattva should not attend to a person who is a nefarious friend. Rāṣṭrapāla, a bodhisattva should not attend to a person who entertains an objectifying view. Rāṣṭrapāla, a bodhisattva {{page:{number:19,id:UT22084-042-003-321874,folio:F.236.a}}} should not attend to a person who abandons the true Dharma. And Rāṣṭrapāla, a bodhisattva should not attend to a person who craves material things. Rāṣṭrapāla, these four are the persons that a bodhisattva should not attend to.”
 {{milestone:{label:1.114,id:UT22084-042-003-176}}}Then, the Bhagavān uttered the following verses:
  “Those who avoid nefarious friends
 And turn to virtuous friends
@@ -404,7 +404,7 @@ And who cling to self, vitality, and sustenance. {93}
 {{milestone:{label:1.116,id:UT22084-042-003-179}}} “Those who desire to awaken to genuine enlightenment
 Avoid, like a pot of vomit,
 Those who reject the Dharma of the supreme ones among men,
-Which is peaceful, passionless, and ambrosia-like. {94}{{note:{index39,id:UT22084-042-003-180}}}
+Which is peaceful, passionless, and ambrosia-like.{{note:{index39,id:UT22084-042-003-180}}} {94}
 {{milestone:{label:1.117,id:UT22084-042-003-181}}} “They do not associate with those
 Who are attached to material things, bowls, and robes,
 And who always seek to mingle with householders.
@@ -417,7 +417,7 @@ Should avoid nefarious friends. {96}
 Abandon gain, pleasant and unpleasant,
 As well as fame, calumny, jealousy, and ego,
 And constantly seek the wisdom of a buddha.” {97}
-{{milestone:{label:1.120,id:UT22084-042-003-184}}}“Rāṣṭrapāla, there are four things that result in suffering for bodhisattvas. What are these four? Rāṣṭrapāla, conceit due to knowledge is something that results in suffering for bodhisattvas. Rāṣṭrapāla, a jealous and avaricious mind is something that results in suffering for bodhisattvas. Rāṣṭrapāla, lack of devotion is something that results in suffering for bodhisattvas.  Rāṣṭrapāla, seeking out enjoyments based on knowing and enduring impure things is something that results in suffering for bodhisattvas. Rāṣṭrapāla, these four are the things that result in suffering for bodhisattvas.”{{page:{number:20,id:UT22084-042-003-321875,folio:F.236.b}}}
+{{milestone:{label:1.120,id:UT22084-042-003-184}}}“Rāṣṭrapāla, there are four things that result in suffering for bodhisattvas. What are these four? Rāṣṭrapāla, conceit due to knowledge is something that results in suffering for bodhisattvas. Rāṣṭrapāla, a jealous and avaricious mind is something that results in suffering for bodhisattvas. Rāṣṭrapāla, lack of devotion is something that results in suffering for bodhisattvas. {{page:{number:20,id:UT22084-042-003-321875,folio:F.236.b}}} Rāṣṭrapāla, seeking out enjoyments based on knowing and enduring impure things is something that results in suffering for bodhisattvas. Rāṣṭrapāla, these four are the things that result in suffering for bodhisattvas.”
 {{milestone:{label:1.121,id:UT22084-042-003-185}}}Then, the Bhagavān uttered the following verses:
  “When the ignorant ones despise
 Those who uphold the Dharma on earth
@@ -468,18 +468,18 @@ Having abandoned my kinsmen, I lived happily. {108}
 {{milestone:{label:1.133,id:UT22084-042-003-199}}}“I was always joyful in remote forests;
 I fully purified my intent for the sake of enlightenment.
 My diligence never waned, even occasionally,
-As I sought the wisdom of great beings. {109}{{note:{index41,id:UT22084-042-003-200}}}
+As I sought{{note:{index41,id:UT22084-042-003-200}}} the wisdom of great beings. {109}
 {{milestone:{label:1.134,id:UT22084-042-003-201}}}“Once I beheld sentient beings, who are forced to wander
 In the five realms, this prison of existence,
 In that very moment I generated vast compassion
-And accomplished excellent enlightenment for the sake of the world. {110}{{note:{index42,id:UT22084-042-003-202}}}{{note:{index43,id:UT22084-042-003-203}}}
+And accomplished excellent{{note:{index42,id:UT22084-042-003-202}}} enlightenment for the sake of the world.{{note:{index43,id:UT22084-042-003-203}}} {110}
 {{milestone:{label:1.135,id:UT22084-042-003-204}}}“I sought supreme enlightenment for many eons
 And gave up many things: my beloved sons, daughters, and wives,
 My precious life, and exceedingly abundant lands,
 Cities, riches, and crops. {111}
 {{milestone:{label:1.136,id:UT22084-042-003-205}}}“I, the Sage, delighted in patience
 In pleasant forests abundant with flowers, fruits, and water.
-Even when King Kali cut off my hands and legs,{{note:{index44,id:UT22084-042-003-206}}}
+Even when King Kali{{note:{index44,id:UT22084-042-003-206}}} cut off my hands and legs,
 My mind did not turn to anger. {112}
 {{milestone:{label:1.137,id:UT22084-042-003-207}}}“Even when the king pierced me with a sturdy arrow,
 When I was the sage called Śyāmaka, living in woods and caves,
@@ -491,7 +491,7 @@ For the sake of the causes for supreme enlightenment,
 I disregarded body and life. {114}
 {{milestone:{label:1.139,id:UT22084-042-003-209}}}“For the sake of the lives of a tigress and her cubs,
 I satiated the tigress by sacrificing my body.
-From the heavens, hosts of gods proclaimed,{{note:{index45,id:UT22084-042-003-210}}}
+From the heavens, hosts of gods{{note:{index45,id:UT22084-042-003-210}}} proclaimed,
 ‘Excellent, great being with firm effort!’ {115}
 {{milestone:{label:1.140,id:UT22084-042-003-211}}}“When wandering through former existences, I was
 A young brahmin who took great delight in generosity;
@@ -508,7 +508,7 @@ At that time, I was King Sarvadada. {118}
 {{milestone:{label:1.143,id:UT22084-042-003-215}}}“When I was that king,
 Having seen a pigeon coming for refuge,
 I even cut flesh from my own body.
-I gave away my own body; I gave it fearlessly. {119}{{note:{index47,id:UT22084-042-003-216}}}
+I gave away my own body; I gave it fearlessly.{{note:{index47,id:UT22084-042-003-216}}} {119}
 {{milestone:{label:1.144,id:UT22084-042-003-217}}}“Formerly, when I was King Kesarin,
 Even though all sorts of unequaled medicines were produced
 By the best physicians for me,
@@ -531,7 +531,7 @@ And as he demanded my head, {{page:{number:23,id:UT22084-042-003-321878,folio:F.
 I cut it off and offered it to him. {124}
 {{milestone:{label:1.149,id:UT22084-042-003-222}}}“When I was Puṇyasama,
 I supplied for the benefit of living beings
-Copious quantities of various kinds of medicine{{note:{index48,id:UT22084-042-003-223}}}
+Copious quantities of various kinds{{note:{index48,id:UT22084-042-003-223}}} of medicine
 At all the arched gates on streets leading into villages and cities. {125}
 {{milestone:{label:1.150,id:UT22084-042-003-224}}}“While practicing in former existences,{{note:{index49,id:UT22084-042-003-225}}}
 At the time when I was King Śubha,
@@ -596,7 +596,7 @@ I gave my own flesh and blood. {140}
 {{milestone:{label:1.165,id:UT22084-042-003-240}}}“When I was lady Rūpyāvatī,
 Having seen a woman tormented by hunger and thirst,
 I gave away both my lovely,
-Golden breasts, well rounded and very youthful. {141}{{note:{index50,id:UT22084-042-003-241}}}
+Golden breasts, well rounded{{note:{index50,id:UT22084-042-003-241}}} and very youthful. {141}
 {{milestone:{label:1.166,id:UT22084-042-003-242}}}“When I was King Viśrutaśrī,
 I abandoned many things that are difficult to abandon:
 Exceedingly delightful ornaments,
@@ -626,7 +626,7 @@ Even though the man whom I protected for seven days
 Surrendered me to a hunter,
 At that time, I did not feel rage. {148}
 {{milestone:{label:1.173,id:UT22084-042-003-249}}}“I was an elephant, as white as snow or jasmine,
-Intent on supreme enlightenment and seeking the qualities of a buddha.{{note:{index51,id:UT22084-042-003-250}}}
+Intent on supreme{{note:{index51,id:UT22084-042-003-250}}} enlightenment and seeking the qualities of a buddha.
 Even though I was pierced by a poisonous arrow,
 I was not enraged upon surrendering my excellent tusks. {149}
 {{milestone:{label:1.174,id:UT22084-042-003-251}}}“When I was immersed in loving kindness
@@ -688,12 +688,12 @@ Therefore, I am not stealing.’ {163}
 {{milestone:{label:1.188,id:UT22084-042-003-265}}}“ ‘Very well, parrot! Take the rice as you please!{{note:{index52,id:UT22084-042-003-266}}}
 Such devotion is rare even among humans.
 It seems you are the human; I am the animal here.
-How great that you are so disciplined, peaceful, and well restrained.’ {164}{{note:{index53,id:UT22084-042-003-267}}}
+How great that you are so disciplined, peaceful,{{note:{index53,id:UT22084-042-003-267}}} and well restrained.’ {164}
 {{milestone:{label:1.189,id:UT22084-042-003-268}}}“Searching for immaculate, excellent enlightenment,
 When I trained in the past, in a hundred ways difficult to navigate
 Such as these,
 My mind was not discouraged. {165}
-{{milestone:{label:1.190,id:UT22084-042-003-269}}}“Neither within nor without{{note:{index54,id:UT22084-042-003-270}}}
+{{milestone:{label:1.190,id:UT22084-042-003-269}}}“Neither within{{note:{index54,id:UT22084-042-003-270}}} nor without
 Is there anything that I have not sacrificed.
 Thus I practiced discipline, patience, effort,
 Meditative absorption, skillful means, and insight. {166}
@@ -725,7 +725,7 @@ That this is by no means the word of the Buddha. {172}
 Of unfathomable qualities.{{note:{index57,id:UT22084-042-003-280}}}
 That person also exclaimed, ‘Don’t adopt this!
 Do not engage with it! This is wrong!’ {173}
-{{milestone:{label:1.198,id:UT22084-042-003-281}}}“Some say, ‘Where it is taught that a self does not exist,{{note:{index58,id:UT22084-042-003-282}}}
+{{milestone:{label:1.198,id:UT22084-042-003-281}}}“Some say,{{note:{index58,id:UT22084-042-003-282}}} ‘Where it is taught that a self does not exist,
 That there is no life force, and no person of any kind at all,
 There, the stress of striving to practice moral discipline
 And to observe one’s vows becomes pointless. {174}
@@ -733,7 +733,7 @@ And to observe one’s vows becomes pointless. {174}
 In which no self, no sentient beings, and no humans existed,
 It would be useless to exert myself in it,
 Since it would accept neither a self nor sentient being.’ {175}
-{{milestone:{label:1.200,id:UT22084-042-003-284}}}“These self-fabrications, concocted in their own minds{{note:{index59,id:UT22084-042-003-285}}}
+{{milestone:{label:1.200,id:UT22084-042-003-284}}}“These self-fabrications,{{note:{index59,id:UT22084-042-003-285}}} concocted in their own minds
 By those similar to evil-minded people and wicked heretics–
 These words would never be taught by the Victorious One
 In the midst of the assembly of monks.” {176}
@@ -743,12 +743,12 @@ Very impudent like crows, agitated and enraged,
 And consumed by jealousy, pride, and vanity regarding my teaching. {177}
 {{milestone:{label:1.202,id:UT22084-042-003-288}}}“Waving their hands and feet,
 They adjust their robes,
-Draping them like a shawl; and drunk on beer and haughtiness,{{note:{index61,id:UT22084-042-003-289}}}
+Draping them like a shawl;{{note:{index61,id:UT22084-042-003-289}}} and drunk on beer and haughtiness,
 They wander through the town and households. {178}
 {{milestone:{label:1.203,id:UT22084-042-003-290}}}“Having taken up the victory banner of the Buddha,{{note:{index62,id:UT22084-042-003-291}}}
 They perform services for members of households.
 Having abandoned this teaching—an accumulation of good qualities—
-They always carry letters with them. {179}{{note:{index63,id:UT22084-042-003-292}}}
+They always carry letters with them.{{note:{index63,id:UT22084-042-003-292}}} {179}
 {{milestone:{label:1.204,id:UT22084-042-003-293}}}“They keep cows, horses, donkeys, and cattle, {{page:{number:28,id:UT22084-042-003-321883,folio:F.240.b}}}
 And have male and female servants.
 Their minds are occupied with agriculture and trade,
@@ -760,18 +760,18 @@ Are the same as their personal property. {181}
 {{milestone:{label:1.206,id:UT22084-042-003-295}}}“Seeing monks rich in qualities,
 They do not praise them.
 Having become involved in roguery and lapses in discipline,
-They nonetheless declare ‘women are terrifying and unbearable.’ {182}{{note:{index64,id:UT22084-042-003-296}}}
+They nonetheless declare ‘women are terrifying and unbearable.’{{note:{index64,id:UT22084-042-003-296}}} {182}
 {{milestone:{label:1.207,id:UT22084-042-003-297}}}“A householder is not attracted to pleasures
 To the same extent as these renunciates!
 Like householders they end up having wives,
 Sons, and daughters. {183}
 {{milestone:{label:1.208,id:UT22084-042-003-298}}}“In households where they are venerated
-With robes, food, and riches,{{note:{index65,id:UT22084-042-003-299}}}
+With robes, food,{{note:{index65,id:UT22084-042-003-299}}} and riches,
 They grow enamored of the wives.
 Never noble, they fall under the influence of afflictions. {184}
 {{milestone:{label:1.209,id:UT22084-042-003-300}}}“They constantly tell the householders,
 ‘One should not attend to these pleasures,
-For they cause one to fall into the realms of animals, hungry ghosts, or hell beings.’{{note:{index66,id:UT22084-042-003-301}}}
+For they cause one to fall into the realms of{{note:{index66,id:UT22084-042-003-301}}} animals, hungry ghosts, or hell beings.’
 However, they themselves are neither disciplined nor calm. {185}
 {{milestone:{label:1.210,id:UT22084-042-003-302}}}“Just as they themselves are undisciplined,
 So the assembly of their disciples completely lack discipline.
@@ -786,13 +786,13 @@ And think, ‘I will always receive offerings from these people!’ {187}
 Never do I aim to receive services
 From the assembly of students.’ {188}
 {{milestone:{label:1.213,id:UT22084-042-003-305}}}“Many come to them, burdened by illness and leprosy,
-Suffering from white spots and repulsive to behold;{{note:{index67,id:UT22084-042-003-306}}}
+Suffering from white spots{{note:{index67,id:UT22084-042-003-306}}} and repulsive to behold;
 These monks, never noble,
 Would ordain anyone who comes to them. {189}
 {{milestone:{label:1.214,id:UT22084-042-003-307}}}“Bereft of both teaching and precepts,
 They never strive toward the good qualities of monks;
 They are neither householders nor monks!
-They become destitute, like a charnel ground bereft of trees. {190}{{note:{index68,id:UT22084-042-003-308}}}
+They become destitute, like a charnel ground bereft of trees.{{note:{index68,id:UT22084-042-003-308}}} {190}
 {{milestone:{label:1.215,id:UT22084-042-003-309}}}“They have no interest in the prātimokṣa, {{page:{number:29,id:UT22084-042-003-321884,folio:F.241.a}}}
 The trainings, or the Vinaya,
 But impetuously follow their own will,
@@ -813,7 +813,7 @@ And think about them day and night. {194}
 They constantly toil in monastic affairs.
 They scowl and grow attached to their dwelling.
 Their retinue of disciples is undisciplined as well. {195}
-{{milestone:{label:1.220,id:UT22084-042-003-314}}}“They say, ‘I am the custodian of the monastery.{{note:{index69,id:UT22084-042-003-315}}}
+{{milestone:{label:1.220,id:UT22084-042-003-314}}}“They say,{{note:{index69,id:UT22084-042-003-315}}} ‘I am the custodian of the monastery.
 Things are done by me according to my agenda.
 There will be room in this monastery
 For monks who are in agreement with me.’ {196}
@@ -844,7 +844,7 @@ Of the excellent Victorious One also disappear. {202}
 {{milestone:{label:1.227,id:UT22084-042-003-323}}}“In future times, those endowed with discipline and qualities
 Will be constantly despised.
 Having left behind villages and cities of the kingdom,
-They will dwell in forests. {203}{{note:{index71,id:UT22084-042-003-324}}}
+They will dwell in forests.{{note:{index71,id:UT22084-042-003-324}}} {203}
 {{milestone:{label:1.228,id:UT22084-042-003-325}}}“Those who are divisive, treacherous, fond of quarreling,
 And devoid of qualities will always be treated with respect.
 They will be celebrated as teachers of the people
@@ -889,7 +889,7 @@ Or else one will later have regrets. {213}
 The trainings, and the qualities of spiritual practice
 Should abandon their relatives, acquisitions, and reputations
 And constantly exert themselves accordingly. {214}
-{{milestone:{label:1.239,id:UT22084-042-003-336}}}“Know that conditioned things are like an illusion,{{note:{index72,id:UT22084-042-003-337}}}
+{{milestone:{label:1.239,id:UT22084-042-003-336}}}“Know{{note:{index72,id:UT22084-042-003-337}}} that conditioned things are like an illusion,
 Perishable, and like a dream,
 That you will soon be deprived of every pleasure,
 And that there is nothing permanent here. {215}
@@ -898,12 +898,12 @@ The perfections, the bodhisattva levels, and the strengths.
 So long as you have not attained supreme enlightenment,
 You should never slacken in your diligence.” {216}
 {{milestone:{label:1.241,id:UT22084-042-003-339}}}Conclusion of the first chapter: “The Introduction.”
-{{milestone:{label:1.242,id:UT22084-042-003-340}}}“Rāṣṭrapāla, persons who have boarded the bodhisattva vehicle will generally make the following mistakes: Those without diligence will worship those without diligence; the deceitful will worship the deceitful; and the ignorant ones will think that the ignorant ones should be respected. They will take pleasure in material things and have numerous attachments. They will envy households, be deceitful, talk nonsense like crows, be hypocritical, and attach importance to relatives. They will enrich themselves by means of praising each other, and they will enter villages to gain profit—not for the sake of assisting beings, or out of kindheartedness. They say, ‘How can others, those ignorant ones who consider themselves to be knowledgeable, have an opinion about me, the learned one endowed with virtuous qualities?’{{note:{index73,id:UT22084-042-003-341}}}{{note:{index74,id:UT22084-042-003-342}}}
-{{milestone:{label:1.243,id:UT22084-042-003-343}}}“Thus, they make claims to being knowledgeable. They are not—similarly, they do not make any effort. They will be like broken vessels, looking for mistakes in one another, their practice corrupted. They will be ignorant and lazy. Because of their mutual collaboration in reciting broken Dharma together,  they will give little thought to understanding, while fancying their own ideas. They will be unremittingly hostile and filled with ill will, and they will train others in their teaching by advising them with inappropriate discourse. They will not be fond of asking questions and will not be interested in listening to the Dharma. Through improper conduct, they will take rebirth in poor households. Renouncing their lives in poor households, they will pretend to take pleasure in this teaching, only for the sake of profit. They will not even confess their faults, let alone realize wisdom. Rejecting the good qualities of the buddhas, they themselves will claim to be ascetics—merely for the sake of public reputation and profit.{{page:{number:32,id:UT22084-042-003-321887,folio:F.242.b}}}{{note:{index75,id:UT22084-042-003-344}}}{{note:{index76,id:UT22084-042-003-345}}}
-{{milestone:{label:1.244,id:UT22084-042-003-346}}}“Rāṣṭrapāla, I cannot say that such people have even the acceptance that accords with reality, let alone the wisdom of the buddhas. If even the higher realms are far away for them, how much more so is enlightenment?{{note:{index77,id:UT22084-042-003-347}}}
+{{milestone:{label:1.242,id:UT22084-042-003-340}}}“Rāṣṭrapāla, persons who have boarded the bodhisattva vehicle will generally make the following mistakes: Those without diligence will worship those without diligence; the deceitful will worship the deceitful; and the ignorant ones will think that the ignorant ones{{note:{index73,id:UT22084-042-003-341}}} should be respected. They will take pleasure in material things and have numerous attachments. They will envy households, be deceitful, talk nonsense like crows, be hypocritical, and attach importance to relatives. They will enrich themselves by means of praising each other, and they will enter villages to gain profit—not for the sake of assisting beings, or out of kindheartedness. They say,{{note:{index74,id:UT22084-042-003-342}}} ‘How can others, those ignorant ones who consider themselves to be knowledgeable, have an opinion about me, the learned one endowed with virtuous qualities?’
+{{milestone:{label:1.243,id:UT22084-042-003-343}}}“Thus, they make claims to being knowledgeable. They are not—similarly, they do not make any effort. They will be like broken vessels, looking for mistakes in one another, their practice corrupted. They will be ignorant and lazy. Because of their mutual collaboration in reciting broken Dharma together, {{page:{number:32,id:UT22084-042-003-321887,folio:F.242.b}}} they will give little thought to understanding, while fancying their own ideas. They will be unremittingly hostile{{note:{index75,id:UT22084-042-003-344}}} and filled with ill will, and they will train others in their teaching by advising them with inappropriate discourse.{{note:{index76,id:UT22084-042-003-345}}} They will not be fond of asking questions and will not be interested in listening to the Dharma. Through improper conduct, they will take rebirth in poor households. Renouncing their lives in poor households, they will pretend to take pleasure in this teaching, only for the sake of profit. They will not even confess their faults, let alone realize wisdom. Rejecting the good qualities of the buddhas, they themselves will claim to be ascetics—merely for the sake of public reputation and profit.
+{{milestone:{label:1.244,id:UT22084-042-003-346}}}“Rāṣṭrapāla, I cannot say that such people have even the acceptance that accords with reality,{{note:{index77,id:UT22084-042-003-347}}} let alone the wisdom of the buddhas. If even the higher realms are far away for them, how much more so is enlightenment?
 {{milestone:{label:1.245,id:UT22084-042-003-348}}}“Rāṣṭrapāla, I speak of eight things that cause obstacles to enlightenment for persons like those. What are these eight? Taking rebirth in the three lower realms, taking rebirth among people of the borderlands, taking rebirth in poor households, taking rebirth in low-caste families, being ugly and blind, associating with nefarious friends, having many diseases, and dying without relinquishing distress. Rāṣṭrapāla, I say that these eight things cause obstacles to enlightenment. Why is that?
-{{milestone:{label:1.246,id:UT22084-042-003-349}}}“Rāṣṭrapāla, I do not speak of the enlightenment of someone who acknowledges it only verbally. I do not speak of the completely pure conduct of someone who is hypocritical. I do not speak of the conduct conducive to enlightenment of someone who is deceitful. I do not speak of buddha worship of someone who attaches importance to worldly concerns. I do not speak of the completely pure insight of someone who is conceited. I do not speak of the removal of doubt of someone who has faulty knowledge. I do not speak of the completely pure intention of someone who is avaricious. I do not speak of retention in the case of someone who has little diligence. I do not speak of the attainment of the higher realms of someone who does not seek pure qualities.  I do not speak of the completely pure body of someone who envies households.{{page:{number:33,id:UT22084-042-003-321888,folio:F.243.a}}}
-{{milestone:{label:1.247,id:UT22084-042-003-350}}}“I do not speak of meeting the Buddha in the case of someone whose noble path is contrived. I do not speak of the complete purity of speech of someone who is attached to a household. I do not speak of the complete purity of mind in the case of someone who is not respectful. I do not speak of the longing for the Dharma in the case of someone who is unrestrained. I do not speak of the quest for the Dharma in the case of someone who is overly concerned with body and life. Rāṣṭrapāla, I do not reproach even the six heretical teachers to the extent that I reproach those fools. Why is that? They speak in one way and act another. They deceive the whole world, including the gods.” {{note:{index78,id:UT22084-042-003-351}}}
+{{milestone:{label:1.246,id:UT22084-042-003-349}}}“Rāṣṭrapāla, I do not speak of the enlightenment of someone who acknowledges it only verbally. I do not speak of the completely pure conduct of someone who is hypocritical. I do not speak of the conduct conducive to enlightenment of someone who is deceitful. I do not speak of buddha worship of someone who attaches importance to worldly concerns. I do not speak of the completely pure insight of someone who is conceited. I do not speak of the removal of doubt of someone who has faulty knowledge. I do not speak of the completely pure intention of someone who is avaricious. I do not speak of retention in the case of someone who has little diligence. I do not speak of the attainment of the higher realms of someone who does not seek pure qualities. {{page:{number:33,id:UT22084-042-003-321888,folio:F.243.a}}} I do not speak of the completely pure body of someone who envies households.
+{{milestone:{label:1.247,id:UT22084-042-003-350}}}“I do not speak of meeting the Buddha in the case of someone whose noble path{{note:{index78,id:UT22084-042-003-351}}} is contrived. I do not speak of the complete purity of speech of someone who is attached to a household. I do not speak of the complete purity of mind in the case of someone who is not respectful. I do not speak of the longing for the Dharma in the case of someone who is unrestrained. I do not speak of the quest for the Dharma in the case of someone who is overly concerned with body and life. Rāṣṭrapāla, I do not reproach even the six heretical teachers to the extent that I reproach those fools. Why is that? They speak in one way and act another. They deceive the whole world, including the gods.” 
 {{milestone:{label:1.248,id:UT22084-042-003-352}}}Then, the Bhagavān uttered the following verses:
 “Uncontrolled, wild, arrogant,
 Disrespectful, proud, overly attached,
@@ -912,7 +912,7 @@ Such people are very far away from enlightenment. {217}
 {{milestone:{label:1.249,id:UT22084-042-003-354}}}“For someone who is overpowered by attachment, laziness increases;
 For someone who is overpowered by laziness, faith is destroyed;
 For someone whose faith is lost, discipline is destroyed;
-And for someone who has lapsed in discipline, the chance of the higher realms is destroyed. {218}{{note:{index80,id:UT22084-042-003-355}}}
+And for someone who has lapsed in discipline, the chance of{{note:{index80,id:UT22084-042-003-355}}} the higher realms is destroyed. {218}
 {{milestone:{label:1.250,id:UT22084-042-003-356}}}“Since such people have become poor, they become renunciants.
 Having received adulation, they then escape poverty.
 It is as if they have thrown away a load of gold
@@ -921,7 +921,7 @@ And taken up a load of grain. {219}
 Having gone there, they only seek garments and frequent their relatives.
 Having abandoned the excellences of superknowledge, knowledge, and eloquence,
 They repeatedly latch on to their relatives. {220}
-{{milestone:{label:1.252,id:UT22084-042-003-358}}}“Due to their pride, such deluded ones choose{{note:{index81,id:UT22084-042-003-359}}}
+{{milestone:{label:1.252,id:UT22084-042-003-358}}}“Due to their pride, such deluded ones{{note:{index81,id:UT22084-042-003-359}}} choose
 The lower realms, a condition among the unfortunate states,
 Poverty, birth into a low-caste family,
 Blindness, ugliness, and weakness. {221}
@@ -930,14 +930,14 @@ Their mindfulness is destroyed by recklessness and profiteering.{{note:{index82,
 They fall into a great and terrifying abyss
 From which there is no liberation for millions of eons. {222}
 {{milestone:{label:1.254,id:UT22084-042-003-362}}}“If enlightenment were possible through profit-making in this life,
-Even the likes of Devadatta would attain enlightenment.{{note:{index83,id:UT22084-042-003-363}}}
+Even the likes of{{note:{index83,id:UT22084-042-003-363}}} Devadatta would attain enlightenment.
 As birds are swept downward by violent winds,
 So are the improper ones by attachment. {223} {{page:{number:34,id:UT22084-042-003-321889,folio:F.243.b}}}
 {{milestone:{label:1.255,id:UT22084-042-003-364}}}“Their merit is destroyed, they desire others’ wives,
 Their discipline is impure, and they are morally bankrupt.
 Those who have not obtained wisdom through the aspiration for enlightenment
 Are not inclined toward the teaching, as one is toward wood at a cremation ground. {224}
-{{milestone:{label:1.256,id:UT22084-042-003-365}}}“Bodhisattvas aiming for enlightenment seek the buddha qualities,{{note:{index84,id:UT22084-042-003-366}}}
+{{milestone:{label:1.256,id:UT22084-042-003-365}}}“Bodhisattvas{{note:{index84,id:UT22084-042-003-366}}} aiming for enlightenment seek the buddha qualities,
 But they do not dwell like someone in possession of liberation.
 Just like a monkey stuck in an adhesive trap,
 Such is the enlightenment of those overcome by pride. {225}
@@ -954,7 +954,7 @@ Bodhisattvas never long for them.
 How, then, could there be enlightenment for those who long for what is opposed to the Dharma,
 Like a blind person for whom there is no illuminated road?” {228}
 {{milestone:{label:1.260,id:UT22084-042-003-370}}}“Formerly, Rāṣṭrapāla, at a time in the past, truly innumerable, innumerable, very long, inconceivable, incomparable, measureless, immeasurable eons ago, there appeared in the world the illustrious buddha known as Siddhārthabuddhi. He was a tathāgata, an arhat, a perfect and complete buddha endowed with perfect knowledge and conduct, a sugata, knower of the world, an unsurpassed guide of those to be trained, a teacher of gods and men. At that time, Rāṣṭrapāla, there was a king called Arciṣmān. Rāṣṭrapāla, King Arciṣmān ruled over a kingdom in Jambudvīpa extending over sixteen thousand yojanas. At that time, Rāṣṭrapāla, there were twenty thousand cities and ten billion households in Jambudvīpa.
-{{milestone:{label:1.261,id:UT22084-042-003-371}}}“Rāṣṭrapāla, King Arciṣmān had a city named Ratnaprabhāsa, the capital where he lived. From east to west it was twelve yojanas in length, and from south to north it was seven yojanas in breadth. It was decorated with seven successive concentric outer walls made of the seven precious substances  and ornamented with painted checkered patterns. At that time, the beings’ lifespans reached a hundred million years.{{page:{number:35,id:UT22084-042-003-321890,folio:F.244.a}}}
+{{milestone:{label:1.261,id:UT22084-042-003-371}}}“Rāṣṭrapāla, King Arciṣmān had a city named Ratnaprabhāsa, the capital where he lived. From east to west it was twelve yojanas in length, and from south to north it was seven yojanas in breadth. It was decorated with seven successive concentric outer walls made of the seven precious substances {{page:{number:35,id:UT22084-042-003-321890,folio:F.244.a}}} and ornamented with painted checkered patterns. At that time, the beings’ lifespans reached a hundred million years.
 {{milestone:{label:1.262,id:UT22084-042-003-372}}}“Rāṣṭrapāla, king Arciṣmān had a son called Puṇyaraśmi, who had a beautiful body and was handsome, pleasant to look at, and magnificently endowed with a most excellent, splendid complexion. As soon as he was born, a thousand treasuries of the seven precious substances manifested. In the king’s court, too, manifested a treasury of seven precious substances that was about the height of ten men. Rāṣṭrapāla, as soon as young prince Puṇyaraśmi was born, all the beings of Jambudvīpa rejoiced. The prisoners were released from jail.
 {{milestone:{label:1.263,id:UT22084-042-003-373}}}“Rāṣṭrapāla, young prince Puṇyaraśmi mastered all the worldly arts, as many as there are, in seven days. Then, Rāṣṭrapāla, in the middle of the night, the gods of the Śuddhāvāsa realm roused young prince Puṇyaraśmi saying, ‘Young prince, be conscientious! Become skilled in the thorough analysis of impermanence! Young prince, the life of men is not long. You will have to depart from this life. Behold the other world with fear, and do not act in contradiction with your duties.’ At that time, the gods also uttered the following verses:
 {{milestone:{label:1.264,id:UT22084-042-003-374}}}“ ‘Young prince, beware of carelessness!
@@ -1003,7 +1003,7 @@ Zealously clearing away Māra’s armies,
 You will attain buddha wisdom before long. {239}
 {{milestone:{label:1.275,id:UT22084-042-003-385}}}“ ‘Always attend to virtuous friends,
 And avoid nefarious friends.
-Virtuous friends always lead you to the virtuous path;{{note:{index85,id:UT22084-042-003-386}}}
+Virtuous friends{{note:{index85,id:UT22084-042-003-386}}} always lead you to the virtuous path;
 They always cause you to shun the wrong path. {240}
 {{milestone:{label:1.276,id:UT22084-042-003-387}}}“ ‘Perfectly develop resolute effort;
 Abandon the desire for body and life.
@@ -1018,18 +1018,18 @@ Abandon father, mother, sons, dear friends,
 And all others close to your heart,
 Without craving for body and life.
 Seek now the vast wisdom of the Sugata,
-The supreme, unsurpassable message.’ {243}{{note:{index86,id:UT22084-042-003-390}}}
+The supreme, unsurpassable message.’{{note:{index86,id:UT22084-042-003-390}}} {243}
 {{milestone:{label:1.279,id:UT22084-042-003-391}}}“Rāṣṭrapāla, from then on, for ten years the young prince Puṇyaraśmi was never overpowered by drowsiness or torpor. He never laughed, never played, never enjoyed himself, and never engaged in sports. He never went to the pleasure groves, he was never excited to meet friends, and he never took pleasure in music. He never desired kingship, wealth, houses, or cities. Thus, he had no concern for anything, and was engaged in solitary reflection. Devoting himself to secluded contemplation, he contemplated, in a condition of utter helplessness, that the world is without essence and subject to destruction. He thought about meeting with unpleasant things and being separated from pleasant things, about how the childish are deceived, and that there is no enjoyment of pleasure in saṃsāra. He thought about the deceptive character of the enjoyments of kingship, and how one cannot be content with the enjoyments of existence. And he reflected upon ordinary persons, constantly in disagreement, thinking, ‘As I am in the middle of childish ones, who are not diligent, I should spend my time in silence.’ Alone, he stayed in silence. Pondering conscientiously, he abided alone, aloof from pleasurable things.
-{{milestone:{label:1.280,id:UT22084-042-003-392}}}“Then, Rāṣṭrapāla, King Arciṣmān had a city built elsewhere, called Ratipradhāna, for the young prince’s enjoyment. He constructed seven hundred streets running north and seven hundred running south. It was encircled on all sides by seven successive concentric outer walls made of the seven precious substances, adorned with nets of small bells, nets of pearls, and jeweled pillars. One thousand jeweled pillars were erected  at the arched gates to all the streets. Sixty thousand strings of jewels were fastened to all the jeweled pillars. In the four directions, ten million garlands of cymbals were tied to all the strings of jewels. When they were stirred into motion by the wind, a sound arose like the pleasant melody of hundreds of thousands of musical instruments. At each arched gate to the streets were stationed five hundred girls, skilled in song and dance, in the prime of their lives, appropriate for the enjoyment of all the people.{{page:{number:38,id:UT22084-042-003-321893,folio:F.245.b}}}{{note:{index87,id:UT22084-042-003-393}}}
+{{milestone:{label:1.280,id:UT22084-042-003-392}}}“Then, Rāṣṭrapāla, King Arciṣmān had a city built elsewhere, called Ratipradhāna, for the young prince’s enjoyment. He constructed seven hundred streets running north and seven hundred running south. It was encircled on all sides by seven successive concentric outer walls made of the seven precious substances, adorned with nets of small bells, nets of pearls, and jeweled pillars. One thousand jeweled pillars were erected {{page:{number:38,id:UT22084-042-003-321893,folio:F.245.b}}} at the arched gates to all the streets. Sixty thousand strings of jewels were fastened to all the jeweled pillars. In the four directions, ten million garlands of cymbals were tied to all the strings of jewels.{{note:{index87,id:UT22084-042-003-393}}} When they were stirred into motion by the wind, a sound arose like the pleasant melody of hundreds of thousands of musical instruments. At each arched gate to the streets were stationed five hundred girls, skilled in song and dance, in the prime of their lives, appropriate for the enjoyment of all the people.
 {{milestone:{label:1.281,id:UT22084-042-003-394}}}“To all of them King Arciṣmān gave this command: ‘Day and night you should truly please sentient beings who approach from the four directions with song, dance, and the sound of music. By every means, you should generate nothing but thoughts that please the young prince. Do not speak about anything else. Do not say anything unpleasant to sentient beings.
 {{milestone:{label:1.282,id:UT22084-042-003-395}}}“ ‘At the arched gates leading to all the streets, food should be offered to those who long for food, drink to those who long for drink, and vehicles to those who long for vehicles. In addition to these things, they should be given all manner of clothing, fragrant substances, garlands, ointments, beds, cushions for their backs, basic necessities, unrefined gold, silver, jewels, pearls, beryl, shells, crystals, coral, gold and silver coins, elephants, horses, chariots, oxen, cattle, and adornments.’ This abundance of precious objects was displayed to be enjoyed by everyone.
-{{milestone:{label:1.283,id:UT22084-042-003-396}}}“At that time, in the center of the city, a house was built for the young prince’s enjoyment. It was about one yojana in circumference, checkered with the seven precious substances, and adorned with hundreds of arched gates. On the inside a court was built, where forty million cushions were arranged for the enjoyment of the young prince. In the middle of that, a pleasure grove was created, filled with all sorts of flowering trees, fruit trees, and jeweled trees.  Rāṣṭrapāla, in the midst of this pleasure grove, a pond made of various kinds of precious substances was constructed. It was endowed with steps made of the four kinds of precious substances, namely, gold, silver, beryl, and crystal. One hundred eight lions’ mouths were erected, through which scented water streamed into the pond. Also, through one hundred eight lions’ mouths, water flowed out of that pond.{{page:{number:39,id:UT22084-042-003-321894,folio:F.246.a}}}
-{{milestone:{label:1.284,id:UT22084-042-003-397}}}“Blue, red, pink, and white lotuses bloomed constantly. The pond was completely encircled by jeweled trees and enriched by everlasting flowering and fruit trees. On the banks of this pond were planted eight hundred jeweled trees, and on all these jeweled trees were fastened strings of jewels. To each of these were fastened ten million garlands of cymbals. When they were stirred into motion by the wind, a sound arose like the pleasant melody of hundreds of thousands of musical instruments. To ensure that the young prince’s body was touched by neither earth nor dust, a canopy of jewels was spread out above this pond.{{note:{index88,id:UT22084-042-003-398}}}{{note:{index89,id:UT22084-042-003-399}}}
+{{milestone:{label:1.283,id:UT22084-042-003-396}}}“At that time, in the center of the city, a house was built for the young prince’s enjoyment. It was about one yojana in circumference, checkered with the seven precious substances, and adorned with hundreds of arched gates. On the inside a court was built, where forty million cushions were arranged for the enjoyment of the young prince. In the middle of that, a pleasure grove was created, filled with all sorts of flowering trees, fruit trees, and jeweled trees. {{page:{number:39,id:UT22084-042-003-321894,folio:F.246.a}}} Rāṣṭrapāla, in the midst of this pleasure grove, a pond made of various kinds of precious substances was constructed. It was endowed with steps made of the four kinds of precious substances, namely, gold, silver, beryl, and crystal. One hundred eight lions’ mouths were erected, through which scented water streamed into the pond. Also, through one hundred eight lions’ mouths, water flowed out of that pond.
+{{milestone:{label:1.284,id:UT22084-042-003-397}}}“Blue, red, pink, and white lotuses bloomed constantly. The pond{{note:{index88,id:UT22084-042-003-398}}} was completely encircled by jeweled trees and enriched by everlasting flowering and fruit trees. On the banks of this pond were planted eight hundred jeweled trees, and on all these jeweled trees were fastened strings of jewels. To each of these were fastened ten million garlands of cymbals. When they were stirred into motion by the wind, a sound arose like the pleasant melody of hundreds of thousands of musical instruments. To ensure that the young prince’s body was touched by neither earth nor dust,{{note:{index89,id:UT22084-042-003-399}}} a canopy of jewels was spread out above this pond.
 {{milestone:{label:1.285,id:UT22084-042-003-400}}}“At that time forty million thrones, made of seven precious substances, were arranged in this court, and on each of the thrones were spread five hundred pieces of calico fabric.
-{{milestone:{label:1.286,id:UT22084-042-003-401}}}“A throne was erected, fashioned out of the seven precious substances, about the height of seven men, where young prince Puṇyaraśmi was seated. In the middle of this, eight hundred and seventy million pieces of calico fabric were spread out. Everywhere at the base of the throne incense pots of agarwood perfumed the air. Three times per day and three times per night, flowers were scattered. The throne was decorated with a golden covering. It was draped with golden lotuses. It was arrayed with nets of pearls and jewels, which shone with the splendor of precious jewels. Eighty thousand jeweled canopies were suspended. On every jeweled tree, a hundred banners were suspended. Throughout this pleasure grove, nine million nine hundred thousand lights of precious strings of jewels measuring about one yojana were placed. The whole world  was illuminated by their splendor.{{page:{number:40,id:UT22084-042-003-321895,folio:F.246.b}}}{{note:{index90,id:UT22084-042-003-402}}}
+{{milestone:{label:1.286,id:UT22084-042-003-401}}}“A throne was erected, fashioned out of the seven precious substances, about the height of seven men, where young prince Puṇyaraśmi was seated. In the middle of this, eight hundred and seventy million pieces of calico fabric were spread out. Everywhere at the base of the throne incense pots of agarwood perfumed the air. Three times per day and three times per night, flowers were scattered. The throne{{note:{index90,id:UT22084-042-003-402}}} was decorated with a golden covering. It was draped with golden lotuses. It was arrayed with nets of pearls and jewels, which shone with the splendor of precious jewels. Eighty thousand jeweled canopies were suspended. On every jeweled tree, a hundred banners were suspended. Throughout this pleasure grove, nine million nine hundred thousand lights of precious strings of jewels measuring about one yojana were placed. The whole world {{page:{number:40,id:UT22084-042-003-321895,folio:F.246.b}}} was illuminated by their splendor.
 {{milestone:{label:1.287,id:UT22084-042-003-403}}}“Rāṣṭrapāla, in this pleasure grove lived flocks of birds that spoke in human tongues, namely, parrots, myna birds, cranes, cuckoos, peacocks, geese, wild geese, kuṇāla birds, kalaviṅka birds, and partridges. When they spoke and sang, a sound came forth that satisfied the gods of the pleasure grove. For the young prince’s enjoyment, meals of five hundred flavors, replete with all sorts of tastes, were continuously arrayed. At that time, youths between the ages of sixteen and twenty years were rounded up from all the cities and led to this grove. Eight hundred million people, all of whom were learned in arts and crafts, in the worldly pleasures, and in acts of service, were led to this city.
 {{milestone:{label:1.288,id:UT22084-042-003-404}}}“Ten million girls were offered to him by his parents, ten million by his relatives, ten million by people of the city, and ten million by all the kings. All of them had exclusively gorgeous bodies, ravishing and delightful. Moreover, they were all sixteen years of age, and skilled in singing, playing instruments, dancing, entertaining, and the ways of approaching men. They were all upright, youthful, and charming, with soft curves. They were honest in speech, had smiling faces and skillful behavior, and were skilled in all arts. They were neither too tall nor too short, neither too thin nor too fat, and neither too fair nor too dark. Their breaths carried the scent of lotus flowers, and from their bodies emanated the fragrance of sandalwood. They appeared as brilliant as divine maidens, looking extremely attractive and singing melodious songs. Amidst them was seated young prince Puṇyaraśmi.
-{{milestone:{label:1.289,id:UT22084-042-003-405}}}“With regard to these sounds of song and music, he gave rise to the thought, ‘Alas!  This great assembly is not friendly toward me and has appeared in order to destroy my virtuous qualities. I will not concern myself with them!’ At that time, just like a man who is about to be killed and is not surprised upon seeing his executioner, the young prince Puṇyaraśmi was not surprised when he saw those women. And he was not surprised to see his female companions in the city. During those ten years he thought, ‘I will become liberated from such an inhospitable assembly.’ And he pondered, ‘When will I lead a conscientious life, through which I can become liberated?’ Apart from generating such thoughts, he never grasped for the characteristic signs of form.{{page:{number:41,id:UT22084-042-003-321896,folio:F.247.a}}}{{note:{index91,id:UT22084-042-003-406}}}
+{{milestone:{label:1.289,id:UT22084-042-003-405}}}“With regard to these sounds of song and music, he gave rise to the thought, ‘Alas! {{page:{number:41,id:UT22084-042-003-321896,folio:F.247.a}}} This great assembly is not friendly toward me and has appeared in order to destroy my virtuous qualities. I will not concern myself with them!’ At that time, just like a man who is about to be killed and is not surprised upon seeing his executioner, the young prince Puṇyaraśmi was not surprised when he saw those women. And he was not surprised to see his female companions in the city.{{note:{index91,id:UT22084-042-003-406}}} During those ten years he thought, ‘I will become liberated from such an inhospitable assembly.’ And he pondered, ‘When will I lead a conscientious life, through which I can become liberated?’ Apart from generating such thoughts, he never grasped for the characteristic signs of form.
 {{milestone:{label:1.290,id:UT22084-042-003-407}}}“Likewise, he did not grasp for the characteristics of sound, smell, taste, or touch.
 “Then those girls said, ‘Your majesty, King Arciṣmān, the young prince does not engage in play, he does not enjoy himself, and he refuses to be courted.’ 
 {{milestone:{label:1.291,id:UT22084-042-003-409}}}“Then, Rāṣṭrapāla, King Arciṣmān, together with eighty thousand kings, went to young prince Puṇyaraśmi. Having arrived there, with tears running down his cheeks, his body trembled. Grieving, he tumbled to the ground. When he arose, he uttered the following verses to young prince Puṇyaraśmi:
@@ -1038,7 +1038,7 @@ Tormented by sorrow at home, I have fallen to the ground.
 Tell me quickly, who has displeased you?
 I shall punish them severely here and now. {244}
 {{milestone:{label:1.293,id:UT22084-042-003-411}}}“ ‘Look at this city, pleasing like those of the gods,
-That I have built here for your sake.{{note:{index92,id:UT22084-042-003-412}}}
+That I have built{{note:{index92,id:UT22084-042-003-412}}} here for your sake.
 Tell me quickly which part of it is insufficient,
 And I will present you today with riches like those of Śakra. {245}
 {{milestone:{label:1.294,id:UT22084-042-003-413}}}“ ‘Look at this multitude of women like heavenly maidens,
@@ -1059,10 +1059,10 @@ The lotuses are also adorned with exquisite, intoxicated bees.
 Think about that, my son—who would not take pleasure in it? {249}
 {{milestone:{label:1.298,id:UT22084-042-003-417}}}“ ‘Geese, peacocks, parrots, cuckoos, myna birds,
 Kalaviṅka birds, partridges, and kuṇāla birds
-All have melodious voices like those on Mount Gandharvamādana near the Himālayas—{{note:{index93,id:UT22084-042-003-418}}}
+All have melodious voices like those on Mount Gandharvamādana{{note:{index93,id:UT22084-042-003-418}}} near the Himālayas—
 Hearing them, what man would not find pleasure in them? {250}
 {{milestone:{label:1.299,id:UT22084-042-003-419}}}“ ‘Mansions are endowed with nets of pearls and embedded with jewels.
-They are adorned with gold and beryl like Indra’s Palace of Victory.{{note:{index94,id:UT22084-042-003-420}}}
+They are adorned with gold and beryl like Indra’s{{note:{index94,id:UT22084-042-003-420}}} Palace of Victory.
 Excellent jeweled thrones are adorned
 With golden bells, small bells, and garlands of cymbals that make beautiful sounds. {251}
 {{milestone:{label:1.300,id:UT22084-042-003-421}}}“ ‘A supremely sonorous and continuous sound announces
@@ -1070,7 +1070,7 @@ That for your sake, generous gifts are spread out on the streets.
 A thousand girls sing sublime, enchanting songs,
 Resounding like those of the heavenly maidens in the pleasure groves.
 My son, why do you not find pleasure through distraction
-In this pleasant haven resembling the godly realms? {252}{{note:{index95,id:UT22084-042-003-422}}}
+In this pleasant haven resembling the godly realms?{{note:{index95,id:UT22084-042-003-422}}} {252}
 {{milestone:{label:1.301,id:UT22084-042-003-423}}}“ ‘Young prince, your playmates resemble the sons of gods.
 Go play with those boys!
 Your parents are choked with tears.
@@ -1100,7 +1100,7 @@ Will be like wasteland shrubs, not enjoyable at all.
 This impermanence destroys all glory.
 Out of ignorance, I become reckless in this unstable life. {259}
 {{milestone:{label:1.308,id:UT22084-042-003-430}}}“ ‘The thirst of the mind cannot be quenched, as is the case when drinking ocean water.
-By enjoying things with ever-increasing craving, one always wants more.{{note:{index96,id:UT22084-042-003-431}}}
+By enjoying things with ever-increasing craving,{{note:{index96,id:UT22084-042-003-431}}} one always wants more.
 Looking at beings who kill each other out of desire,
 I am as unwavering as Mount Meru in the wind. {260}
 {{milestone:{label:1.309,id:UT22084-042-003-432}}}“ ‘You, king, my father, as well as my siblings,
@@ -1115,7 +1115,7 @@ Unwholesome, O king, is attachment to objects of desire, for the wise in the thr
 A bodhisattva is not attached to the sense objects.”
 I will be a buddha for the benefit of, and out of compassion for, the world. {{page:{number:44,id:UT22084-042-003-321899,folio:F.248.b}}}
 O king, there is no enlightenment for one who acts recklessly. {263}
-{{milestone:{label:1.312,id:UT22084-042-003-435}}}“ ‘O king, one who is afflicted by desire is a slave of the mind.{{note:{index97,id:UT22084-042-003-436}}}
+{{milestone:{label:1.312,id:UT22084-042-003-435}}}“ ‘O king, one who is afflicted by desire{{note:{index97,id:UT22084-042-003-436}}} is a slave of the mind.
 Taking delight in squandering merit, one turns away from the higher realms.
 Never interact with someone seething with violence.
 Like a bird put in a cage, how will one find relief? {264}
@@ -1134,7 +1134,7 @@ I will satisfy those who hungry for the well-explained doctrine for a long time.
 {{milestone:{label:1.316,id:UT22084-042-003-440}}}“ ‘I will rescue those who have descended along the paths of lower realms.
 I will give my eyes to the blind and dry up the creeper of craving.
 I will be a light of insight, a lamp for the sake of supreme liberation,
-By which the three worlds are seen as resembling an actor’s theater. {268}{{note:{index98,id:UT22084-042-003-441}}}
+By which the three worlds are seen as resembling an actor’s theater.{{note:{index98,id:UT22084-042-003-441}}} {268}
 {{milestone:{label:1.317,id:UT22084-042-003-442}}}“ ‘With lightning garlands of deep insight, clouds of loving kindness,
 The thunder of friendliness, compassion, and the perfections for sentient beings’ well-being,
 And the veil of soothing rain of the branches of enlightenment,
@@ -1154,12 +1154,12 @@ But I would never delight in these desirable things here. {272}
 {{milestone:{label:1.321,id:UT22084-042-003-446}}}“ ‘Go swiftly, O excellent king, together with your kinsmen,
 And bestow all the pleasures of your kingdom upon everyone.
 Let them proceed to take whatever they wish.
-I will not grow reckless, father, craving millions of kingdoms. {273}{{note:{index99,id:UT22084-042-003-447}}}
+I will not grow reckless, father, craving millions{{note:{index99,id:UT22084-042-003-447}}} of kingdoms. {273}
 {{milestone:{label:1.322,id:UT22084-042-003-448}}}“ ‘Amidst a crowd of women, one cannot achieve enlightenment,
 This accomplishment of bliss, peace, and the unexcelled state.
 Because the Victorious One attained enlightenment by rejoicing in the forest,
 I, too, shall go and stay on mountains and in forests.’ {274}
-{{milestone:{label:1.323,id:UT22084-042-003-449}}}“Then, Rāṣṭrapāla, while young prince Puṇyaraśmi was residing in his court, he took a stroll in the company of these distraught women, and he abided by three ways of conduct. What are these three? They are giving up drowsiness and torpor while standing, going, and sitting. Having ascended to the roof of the palace, he heard the gods of the Śuddhāvāsa realm on the eighth floor extensively praising the Buddha, Dharma, and Saṅgha as they were flying through the air. Having heard this, Rāṣṭrapāla, young prince Puṇyaraśmi, his hairs bristling with euphoria, shed tears and, overwhelmed by excitement and with palms joined together, uttered the following verse to the gods:{{note:{index100,id:UT22084-042-003-450}}}
+{{milestone:{label:1.323,id:UT22084-042-003-449}}}“Then, Rāṣṭrapāla, while young prince Puṇyaraśmi was residing in his court, he took a stroll in the company of these distraught women, and he abided by three ways of conduct. What are these three? They are giving up drowsiness and torpor while standing, going, and sitting. Having ascended to the roof of the palace, he heard the gods of the Śuddhāvāsa realm on the eighth floor extensively praising the Buddha, Dharma, and Saṅgha as they were flying through the air. Having heard this, Rāṣṭrapāla, young prince Puṇyaraśmi, his hairs bristling with euphoria, shed tears and, overwhelmed by excitement{{note:{index100,id:UT22084-042-003-450}}} and with palms joined together, uttered the following verse to the gods:
 {{milestone:{label:1.324,id:UT22084-042-003-451}}}“ ‘O gods, you have generated compassion for me, a suffering man;
 And if it does not disturb you, I will ask you a short question:
 Of whose good qualities do you speak as you fly through the air here?
@@ -1170,7 +1170,7 @@ Called Siddhārthabuddhi, the refuge for those without refuge?
 He is skilled in conduct, endowed with highest merit, insight, and qualities. {{page:{number:46,id:UT22084-042-003-321901,folio:F.249.b}}}
 His assembly consists of countless meditators.’ {276}
 {{milestone:{label:1.327,id:UT22084-042-003-454}}}“Puṇyaraśmi replied:
-“ ‘May I, too, behold the Victorious One!{{note:{index101,id:UT22084-042-003-455}}}
+“ ‘May I, too, behold{{note:{index101,id:UT22084-042-003-455}}} the Victorious One!
 Please tell me everything: What are his body and complexion like?
 How should one practice to become a protector for all sentient beings?
 What is the conduct of a bodhisattva like?’ {277}
@@ -1200,7 +1200,7 @@ A symphony of sounds like a melodious Brahmā voice.
 The melodies of kinnaras are guileless and faultless,
 Fostering the realization of all aims. {283}
 {{milestone:{label:1.334,id:UT22084-042-003-462}}}“ ‘Smooth like a marvelous crystal, delighting the learned ones,
-Inspiring, calming, enlightening, and pleasing; {284}{{note:{index102,id:UT22084-042-003-463}}}
+Inspiring, calming, enlightening,{{note:{index102,id:UT22084-042-003-463}}} and pleasing; {284}
 In accord with the highest conduct, and satisfying questions: {{page:{number:47,id:UT22084-042-003-321902,folio:F.250.a}}}
 These are the qualities of the Dharma Lord’s speech.
 {{milestone:{label:1.335,id:UT22084-042-003-464}}}“ ‘The teacher’s neck is lovely like a conch, his shoulders and head are round,
@@ -1210,9 +1210,9 @@ The Victorious One’s body is the color of perfectly pure gold. {285}
 {{milestone:{label:1.336,id:UT22084-042-003-466}}}“ ‘His bodily hair curls to the right, each hair standing straight. 
 His navel is deep, and his secret part sheathed like that of a horse. 
 The Self-Realized One has thighs like elephants’ trunks and the calves of an antelope.
-The soles of his feet are beautifully adorned, marked with auspicious wheels. {286}{{note:{index104,id:UT22084-042-003-467}}}
-{{milestone:{label:1.337,id:UT22084-042-003-468}}}“ ‘His gait is like that of the chief of elephants, of a courageous lion,{{note:{index105,id:UT22084-042-003-469}}}
-And like that of a majestic bull. He is mighty like the nāga Indrayaṣṭi.{{note:{index106,id:UT22084-042-003-470}}}
+The soles of his feet are beautifully adorned, marked with auspicious wheels.{{note:{index104,id:UT22084-042-003-467}}} {286}
+{{milestone:{label:1.337,id:UT22084-042-003-468}}}“ ‘His gait{{note:{index105,id:UT22084-042-003-469}}} is like that of the chief of elephants, of a courageous lion,
+And like that of a majestic{{note:{index106,id:UT22084-042-003-470}}} bull. He is mighty like the nāga Indrayaṣṭi.
 A rain of flowers from the sky forms a canopy of flowers, following him.
 These are his marvelous qualities. {287}
 {{milestone:{label:1.338,id:UT22084-042-003-471}}}“ ‘The Victorious One is entirely unstained by gain and loss,
@@ -1221,11 +1221,11 @@ Like a lotus unstained by water.
 There is no sentient being equal to this lion among men.’ {288}
 {{milestone:{label:1.339,id:UT22084-042-003-472}}}“Rāṣṭrapāla, once young prince Puṇyaraśmi had heard this praise of the Buddha, Dharma, and Saṅgha, he was contented, happy, delighted, and overjoyed. Happiness and mental pleasure were born in him.
 {{milestone:{label:1.340,id:UT22084-042-003-473}}}“Then, Rāṣṭrapāla, young prince Puṇyaraśmi thought the following:
-“ ‘What is the Buddha, the Bhagavān, like? What is the excellent Saṅgha like? What is the Dharma that he revealed like? What are his excellent disciples like, so that they realize how saṃsāra is frightful and antagonistic; how in saṃsāra, childish ordinary beings are ungrateful; how the view that the aggregates are a person is frightful; how household life has many drawbacks; how passions have many faults; how recklessness is condemned by the learned ones; how the darkness of ignorance brings delusion;  how formative predispositions are difficult to realize; how the mind is difficult to tame; how mind and matter are profound; how the six sense fields are not reliable; how, when sensory contact is not thoroughly understood, suffering will ripen; how sensations have all sorts of drawbacks; how becoming is a true fetter; how it is difficult to escape from appropriation; how craving for worldly existence is not noble; how, when there is worldly existence, the continuity of birth is difficult to terminate; how old age brings change; how sickness causes destruction; how one is not protected after death; how the transition stage is abhorrent; how the emergence into existence has many drawbacks; and how the teaching of the Tathāgata is delightful.{{page:{number:48,id:UT22084-042-003-321903,folio:F.250.b}}}{{note:{index107,id:UT22084-042-003-475}}}{{note:{index108,id:UT22084-042-003-476}}}
+“ ‘What is the Buddha, the Bhagavān, like? What is the excellent Saṅgha like? What is the Dharma that he revealed like? What are his excellent disciples like, so that they realize how saṃsāra is frightful and antagonistic; how in saṃsāra, childish ordinary beings are ungrateful; how the view that the aggregates are a person is frightful; how household life has many drawbacks; how passions have many faults; how recklessness is condemned by the learned ones; how the darkness of ignorance brings delusion; {{page:{number:48,id:UT22084-042-003-321903,folio:F.250.b}}} how formative predispositions are difficult to realize; how the mind is difficult to tame; how mind and matter are profound; how the six sense fields are not reliable; how, when sensory contact is not thoroughly understood, suffering will ripen; how sensations have all sorts of drawbacks; how becoming is a true fetter;{{note:{index107,id:UT22084-042-003-475}}} how it is difficult to escape from appropriation; how craving for worldly existence is not noble; how, when there is worldly existence, the continuity of birth is difficult to terminate; how old age{{note:{index108,id:UT22084-042-003-476}}} brings change; how sickness causes destruction; how one is not protected after death; how the transition stage is abhorrent; how the emergence into existence has many drawbacks; and how the teaching of the Tathāgata is delightful.
 {{milestone:{label:1.341,id:UT22084-042-003-477}}}“ ‘These realizations are not possible for those who are slaves to desire, impaired by afflictions, deluded, and hardhearted, who take pleasure in recklessness, who live among fools, who have improper thoughts and thoughts attached to saṃsāra, and who reside among pernicious men. And if they are not even able to fully practice the path to higher realms, how could they realize unsurpassable, completely perfect enlightenment?’
 {{milestone:{label:1.342,id:UT22084-042-003-478}}}“He thought, ‘If I left through the door, the assembly of my kinsmen would prevent me. Therefore, I will jump from the upper roof of the palace.’
 {{milestone:{label:1.343,id:UT22084-042-003-479}}}“At this point, Rāṣṭrapāla, young prince Puṇyaraśmi, facing the direction of the Bhagavān, the Tathāgata Siddhārthabuddhi, jumped from the palace, saying, ‘If the Tathāgata knows everything and sees everything, may he pay heed to me.’
-{{milestone:{label:1.344,id:UT22084-042-003-480}}}“Just then, Rāṣṭrapāla, the tathāgata, arhat, perfect and complete Buddha  Siddhārthabuddhi extended his right hand and issued forth light, which touched Puṇyaraśmi. From that light, a hundred-thousand-petaled lotus the size of a chariot wheel emerged. From that lotus, a hundred thousand light rays shone forth, and there was a great brightness. Young prince Puṇyaraśmi was enveloped by this brightness. Then, Rāṣṭrapāla, young prince Puṇyaraśmi, resting on the lotus, faced the direction of the bhagavān, tathāgata, arhat, perfect and complete Buddha Siddhārthabuddhi, bowed with joined palms, and uttered three times, ‘I pay homage to the Buddha.’ At this point, Rāṣṭrapāla, the Tathāgata Siddhārthabuddhi withdrew the light, and the prince fell at the feet of the tathāgata—just as a tree falls when it is chopped down—and praised the tathāgata a hundred thousand times.{{page:{number:49,id:UT22084-042-003-321904,folio:F.251.a}}}
+{{milestone:{label:1.344,id:UT22084-042-003-480}}}“Just then, Rāṣṭrapāla, the tathāgata, arhat, perfect and complete Buddha {{page:{number:49,id:UT22084-042-003-321904,folio:F.251.a}}} Siddhārthabuddhi extended his right hand and issued forth light, which touched Puṇyaraśmi. From that light, a hundred-thousand-petaled lotus the size of a chariot wheel emerged. From that lotus, a hundred thousand light rays shone forth, and there was a great brightness. Young prince Puṇyaraśmi was enveloped by this brightness. Then, Rāṣṭrapāla, young prince Puṇyaraśmi, resting on the lotus, faced the direction of the bhagavān, tathāgata, arhat, perfect and complete Buddha Siddhārthabuddhi, bowed with joined palms, and uttered three times, ‘I pay homage to the Buddha.’ At this point, Rāṣṭrapāla, the Tathāgata Siddhārthabuddhi withdrew the light, and the prince fell at the feet of the tathāgata—just as a tree falls when it is chopped down—and praised the tathāgata a hundred thousand times.
 {{milestone:{label:1.345,id:UT22084-042-003-481}}}“Then, Rāṣṭrapāla, young prince Puṇyaraśmi uttered the following verses to the Bhagavān, Tathāgata Siddhārthabuddhi:
 {{milestone:{label:1.346,id:UT22084-042-003-482}}}“ ‘For a long time I was sick; for a long time I was blind.
 Now after great hardship, I have found you, king of physicians.
@@ -1234,7 +1234,7 @@ And successful in the teaching of the Sugata. {289}
 {{milestone:{label:1.347,id:UT22084-042-003-483}}}“ ‘The understanding of conscientiousness, O guide,
 I have received at night from the gods in the sky.
 Having understood it, I became distraught, thinking,
-“How can people still be reckless?” {290}{{note:{index109,id:UT22084-042-003-484}}}
+“How can people still be reckless?”{{note:{index109,id:UT22084-042-003-484}}} {290}
 {{milestone:{label:1.348,id:UT22084-042-003-485}}}“ ‘Now be the guide for one who has lost his way;
 Now be the eyes for one who is blind from birth.
 Source of faith, compassionate healer,
@@ -1285,10 +1285,10 @@ I praise you, one whose speech is true and pleasant. {301}
 With your light, you illuminate hundreds of buddhafields.
 Brahmā and Indra, the protectors of the world,
 Are outshone by your splendor, Bhagavān. {302}
-{{milestone:{label:1.362,id:UT22084-042-003-500}}}“ ‘Your antelope-like calves are unequaled, O Bhagavān!{{note:{index111,id:UT22084-042-003-501}}}
+{{milestone:{label:1.362,id:UT22084-042-003-500}}}“ ‘Your antelope-like calves{{note:{index111,id:UT22084-042-003-501}}} are unequaled, O Bhagavān!
 Your gait is like that of the king of elephants, the peacock, and the lion.
 Bhagavān, you stride gazing a plough’s length ahead,
-Making the earth and mountain slopes tremble. {303}{{note:{index112,id:UT22084-042-003-502}}}
+Making the earth and mountain slopes{{note:{index112,id:UT22084-042-003-502}}} tremble. {303}
 {{milestone:{label:1.363,id:UT22084-042-003-503}}}“ ‘Bhagavān, your body is adorned with the buddha marks;
 Your skin is soft and golden hued.
 Beings never tire of beholding such a body.
@@ -1301,7 +1301,7 @@ The possessor of supreme compassion. {305}
 Who is firmly devoted to patience and diligence,
 Holder of the luminous splendor of meditative absorption and insight,
 And holder of unequaled wisdom. {306}
-{{milestone:{label:1.366,id:UT22084-042-003-506}}}“ ‘You, hero of speech, conquer bad teachers.{{note:{index113,id:UT22084-042-003-507}}}
+{{milestone:{label:1.366,id:UT22084-042-003-506}}}“ ‘You, hero of speech,{{note:{index113,id:UT22084-042-003-507}}} conquer bad teachers.
 You roar like a lion in the assembly.
 O king of physicians who dispels the three stains,
 I praise you, one who brings supreme happiness! {307}
@@ -1364,7 +1364,7 @@ Restful, peaceful, and immaculate. {321}
 {{milestone:{label:1.381,id:UT22084-042-003-524}}}“ ‘You, treasure of merit, have been striving for merit;
 Your meritorious activity will never cease.
 It will not cease for many millions of eons,
-Until all beings have attained excellent enlightenment. {322}{{note:{index116,id:UT22084-042-003-525}}}
+Until all beings{{note:{index116,id:UT22084-042-003-525}}} have attained excellent enlightenment. {322}
 {{milestone:{label:1.382,id:UT22084-042-003-526}}}“ ‘They will obtain a completely pure buddhafield,{{note:{index117,id:UT22084-042-003-527}}}
 Its radiance like that of the Paranirmita gods—always delighting.
 In this most excellent buddhafield,
@@ -1389,7 +1389,7 @@ I will disclose the stainless Dharma to the world! {327} {{page:{number:54,id:UT
 Through the extensive merit obtained today
 By praising the Sugata, who has perfected all good qualities
 And is honored by gods, men, and nāgas.’ {328}
-{{milestone:{label:1.388,id:UT22084-042-003-533}}}“At this point, Rāṣṭrapāla, the day was dawning, and King Arciṣmān heard the sound of weeping in the quarters of the young prince’s women. Having heard it, he went with great haste to the city of Ratipradhāna. Upon arriving there, he asked, ‘Why are you weeping?’ They answered, ‘Because prince Puṇyaraśmi is not here.’ Then, Rāṣṭrapāla, King Arciṣmān, for the sake of the prince, fell to the ground like a felled tree. Upon rising, he wept and searched the city a thousand times. Then, Rāṣṭrapāla, the main deity of that city said this to King Arciṣmān:{{note:{index118,id:UT22084-042-003-534}}}{{note:{index119,id:UT22084-042-003-535}}}
+{{milestone:{label:1.388,id:UT22084-042-003-533}}}“At this point, Rāṣṭrapāla, the day was dawning,{{note:{index118,id:UT22084-042-003-534}}} and King Arciṣmān heard the sound of weeping in the quarters of the young prince’s women. Having heard it, he went with great haste{{note:{index119,id:UT22084-042-003-535}}} to the city of Ratipradhāna. Upon arriving there, he asked, ‘Why are you weeping?’ They answered, ‘Because prince Puṇyaraśmi is not here.’ Then, Rāṣṭrapāla, King Arciṣmān, for the sake of the prince, fell to the ground like a felled tree. Upon rising, he wept and searched the city a thousand times. Then, Rāṣṭrapāla, the main deity of that city said this to King Arciṣmān:
 {{milestone:{label:1.389,id:UT22084-042-003-536}}}“ ‘The prince has departed to the east, great king, in order to behold, praise, worship, and serve the Tathāgata Siddhārthabuddhi.’ Then, Rāṣṭrapāla, to search for him, King Arciṣmān, along with a retinue of ladies of the court and myriad beings, departed for the eastern direction where the prince had gone. He came before the tathāgata, the arhat, the perfect and complete Buddha Siddhārthabuddhi, and, bowing his head toward the feet of that Bhagavān, stood to one side. Standing to one side, King Arciṣmān praised the Bhagavān with the following verses:
 {{milestone:{label:1.390,id:UT22084-042-003-537}}}“ ‘No one in the three worlds is your equal, let alone a superior.
 Excellent being, honored by the lord of the gods and the king of the asuras,
@@ -1406,7 +1406,7 @@ Therefore, your body is beautiful and very captivating. {331}
 {{milestone:{label:1.393,id:UT22084-042-003-540}}}“ ‘By your generosity, discipline, concentration, and insight,
 By your patience, diligence, absorption, and skillful means, you have refined your form.
 In your presence, Indra and Brahmā fade.
-Even the flash of the moonstones and sunstones is not as resplendent. {332}{{note:{index120,id:UT22084-042-003-541}}}
+Even the flash of the moonstones and sunstones{{note:{index120,id:UT22084-042-003-541}}} is not as resplendent. {332}
 {{milestone:{label:1.394,id:UT22084-042-003-542}}}“ ‘For the sake of beings, you manifest a lovely shape.
 You are present like the moon in the water and an illusion.
 The Victorious One’s body is present in all our directions.
@@ -1434,7 +1434,7 @@ You showed yourself out of compassion to turn the wheel here as well. {338}
 {{milestone:{label:1.400,id:UT22084-042-003-548}}}“ ‘Beholding beings, who constantly entertain eternalist views, {{page:{number:56,id:UT22084-042-003-321911,folio:F.254.b}}}
 You say to your retinue, “I will go beyond suffering.”
 Beholding beings who always delight in saṃsāra,
-You speak of extinguishment—peaceful and cooling. {339}{{note:{index121,id:UT22084-042-003-549}}}
+You speak of extinguishment{{note:{index121,id:UT22084-042-003-549}}}—peaceful and cooling. {339}
 {{milestone:{label:1.401,id:UT22084-042-003-550}}}“ ‘You are unequaled in merit, wisdom, insight, and skillful means.
 Your body’s splendor, O Sage, radiates throughout myriad buddhafields.
 Leaders in all directions offer praise to you.
@@ -1452,20 +1452,20 @@ And unequaled in the three worlds—who could be more extraordinary?
 May the world attain unexcelled, peaceful, and excellent enlightenment
 By the excellent merit I accumulated in this praise!’ {343}
 {{milestone:{label:1.405,id:UT22084-042-003-554}}}“At this point, Rāṣṭrapāla, the Tathāgata Siddhārthabuddhi, upon realizing the extraordinary intent of King Arciṣmān, taught the Dharma in such a way that no one would turn away from unsurpassable, completely perfect enlightenment. Then, Rāṣṭrapāla, young prince Puṇyaraśmi requested the bhagavān, the Tathāgata Siddhārthabuddhi, ‘I beseech you, Bhagavān, to take your meal in our city tomorrow.’ The Bhagavān, out of kindheartedness for young prince Puṇyaraśmi, agreed without uttering a word. Then, Rāṣṭrapāla, young prince Puṇyaraśmi proclaimed to his parents, friends, and women, ‘All of you, rejoice!
-{{milestone:{label:1.406,id:UT22084-042-003-555}}}“ ‘Would you agree to make the richly ornamented city of Ratipradhāna into a suitable offering for the Tathāgata, without attachment?’—They rejoiced unanimously.  Then, Rāṣṭrapāla, young prince Puṇyaraśmi proceeded to offer the richly ornamented city of Ratipradhāna to the Tathāgata, without attachment. He offered to the Tathāgata, together with his assembly of monks, food with the full range of five hundred flavors. To all these monks he offered a monastery covered in seven precious substances, bedecked with jeweled pathways, and adorned on top with a canopy of jeweled nets. To the right and left, groves of flower trees were carefully planted, beautified with ponds of white lotus flowers. Beds were swathed in a hundred thousand pieces of calico fabric, stainless on both sides. To each monk he gave flawless robes, and day after day he offered additional robes. For thirty million years he was not overcome by drowsiness or torpor, and he did not act out of self-cherishing. Worshiping the buddha, he did not turn his mind to anything else.{{page:{number:57,id:UT22084-042-003-321912,folio:F.255.a}}}{{note:{index122,id:UT22084-042-003-556}}}{{note:{index123,id:UT22084-042-003-557}}}{{note:{index124,id:UT22084-042-003-558}}}
-{{milestone:{label:1.407,id:UT22084-042-003-559}}}“For the duration of that period, the concept of desire, the concept of harming others, and the concept of causing harm did not arise. A craving for kingship did not arise. He had no concern for his body or his life force, let alone for anything else. During that time, he completely understood what the Bhagavān had taught, and thus he did not ask the Tathāgata a second time. For the duration of that period, he did not bathe or anoint his body with ghee or sesame oil or wash his feet, nor did he conceive of his hardships. He never sat down except to eat, defecate, or urinate. When the Tathāgata entered parinirvāṇa, Puṇyaraśmi had a funeral pyre of red sandalwood erected for his ritual cremation.{{note:{index125,id:UT22084-042-003-560}}}{{note:{index126,id:UT22084-042-003-561}}}
-{{milestone:{label:1.408,id:UT22084-042-003-562}}}“At the very spot where the Tathāgata had been cremated, Puṇyaraśmi worshiped his relics with all the flowers, garlands, incense, and sounds of musical instruments of the entire world for a hundred thousand years. Thus, having brought together all causes and conditions, he caused as many as eight hundred forty million stūpas to be built.  These stūpas were covered in precious lattices made of the seven precious substances and were sheltered by canopies made of pearl lattices. Moreover, on each stūpa he raised five hundred parasols made of the seven precious substances; and furthermore, at each stūpa he sounded hundreds of thousands of cymbals. He planted flower trees in all corners of the world. At each stūpa, he lit lamps on a hundred thousand lamp stands. Moreover, on each of these lamp stands, sixty-four thousand lamps with scented oil were lit. Moreover, he worshiped with many varieties of incense, garlands, and ointments. In such ways he worshiped for as many as ten million years, and subsequently became a renunciant.{{page:{number:58,id:UT22084-042-003-321913,folio:F.255.b}}}{{note:{index127,id:UT22084-042-003-563}}}{{note:{index128,id:UT22084-042-003-564}}}
+{{milestone:{label:1.406,id:UT22084-042-003-555}}}“ ‘Would you agree to make the richly ornamented city of Ratipradhāna into a suitable offering for the Tathāgata, without attachment?’—They rejoiced unanimously. {{page:{number:57,id:UT22084-042-003-321912,folio:F.255.a}}} Then, Rāṣṭrapāla, young prince Puṇyaraśmi proceeded to offer the richly ornamented city of Ratipradhāna to the Tathāgata, without attachment. He offered to the Tathāgata, together with his assembly of monks, food with the full range of five hundred flavors. To all these monks he offered a monastery covered in seven precious substances, bedecked with jeweled pathways, and adorned on top with a canopy of jeweled nets. To the right and left, groves of flower trees were carefully planted, beautified with ponds of white lotus flowers.{{note:{index122,id:UT22084-042-003-556}}} Beds were swathed in a hundred thousand pieces of calico fabric, stainless on both sides. To each monk he gave flawless robes, and day after day{{note:{index123,id:UT22084-042-003-557}}} he offered additional robes. For thirty million years he was not overcome by drowsiness or torpor, and he did not act out of self-cherishing.{{note:{index124,id:UT22084-042-003-558}}} Worshiping the buddha, he did not turn his mind to anything else.
+{{milestone:{label:1.407,id:UT22084-042-003-559}}}“For the duration of that period, the concept of desire, the concept of harming others, and the concept of causing harm did not arise. A craving for kingship did not arise. He had no concern for his body or his life force, let alone for anything else. During that time, he completely understood what the Bhagavān had taught, and thus he did not ask the Tathāgata a second time. For the duration of that period, he did not bathe or anoint his body with ghee or sesame oil{{note:{index125,id:UT22084-042-003-560}}} or wash his feet, nor did he conceive of his hardships. He never sat down except to eat, defecate, or urinate. When the Tathāgata entered parinirvāṇa, Puṇyaraśmi{{note:{index126,id:UT22084-042-003-561}}} had a funeral pyre of red sandalwood erected for his ritual cremation.
+{{milestone:{label:1.408,id:UT22084-042-003-562}}}“At the very spot where the Tathāgata had been cremated, Puṇyaraśmi{{note:{index127,id:UT22084-042-003-563}}} worshiped his relics with all the flowers, garlands, incense, and sounds of musical instruments of the entire world for a hundred thousand years. Thus, having brought together all causes and conditions, he caused as many as eight hundred forty million stūpas to be built. {{page:{number:58,id:UT22084-042-003-321913,folio:F.255.b}}} These stūpas were covered in precious lattices made of the seven precious substances and were sheltered by canopies made of pearl lattices. Moreover, on each stūpa he raised{{note:{index128,id:UT22084-042-003-564}}} five hundred parasols made of the seven precious substances; and furthermore, at each stūpa he sounded hundreds of thousands of cymbals. He planted flower trees in all corners of the world. At each stūpa, he lit lamps on a hundred thousand lamp stands. Moreover, on each of these lamp stands, sixty-four thousand lamps with scented oil were lit. Moreover, he worshiped with many varieties of incense, garlands, and ointments. In such ways he worshiped for as many as ten million years, and subsequently became a renunciant.
 {{milestone:{label:1.409,id:UT22084-042-003-565}}}“Having become a renunciant, he put on the three Dharma robes, continually engaged in begging for alms, and always slept in a seated posture without ever lying down. He never became overwhelmed by drowsiness and torpor. With a mind free from worldly concerns, he offered the gift of Dharma for as long as forty million years. He did not expect even appreciation from others, let alone gain and honor. He also never tired of listening to the Dharma or explaining it. Even the gods served him. All people in the country, his retinue of ladies of the court, all his family members, and all his companions followed his example and became renunciants. At this point, Rāṣṭrapāla, the gods of the Śuddhāvāsa realm thought, ‘People of all countries have become renunciants following Puṇyaraśmi’s example. Therefore, if we honor and serve them, we will honor the Three Jewels.’
 {{milestone:{label:1.410,id:UT22084-042-003-566}}}“Following the parinirvāṇa of the tathāgata, the excellent Dharma had remained for six hundred forty million years, and it was preserved in its entirety by the monk Puṇyaraśmi. In such a way, he worshiped myriad buddhas.
-{{milestone:{label:1.411,id:UT22084-042-003-567}}}“Now, Rāṣṭrapāla, in case you hesitate, harbor any doubts, or  have a second thought, wondering whether at that time King Arciṣmān was someone else, you should not do so. Why not? Because at that time, the Tathāgata Amitāyus was indeed King Arciṣmān. Now, Rāṣṭrapāla, in case you hesitate, harbor any doubts, or have a second thought, wondering whether at that time young prince Puṇyaraśmi was someone else, you should not do so. Why not? Because at that time, I was young prince Puṇyaraśmi, and the main deity of the city was the Tathāgata Akṣobhya. Therefore, Rāṣṭrapāla, a bodhisattva mahāsattva who desires to be perfectly awakened to unsurpassable, completely perfect enlightenment should follow the example of young prince Puṇyaraśmi by accomplishing the highest intent, by abandoning pleasant and unpleasant things, and by conscientious conduct.{{page:{number:59,id:UT22084-042-003-321914,folio:F.256.a}}}{{note:{index129,id:UT22084-042-003-568}}}
-{{milestone:{label:1.412,id:UT22084-042-003-569}}}“Through the accomplishment of such difficult tasks, I attained unsurpassable, completely perfect enlightenment. Yet there are those without diligence; those who strive after gain, honor, and glory; those who are attached to public reputation; those who are overpowered by pride, afflicted, distressed, and far from the teachings due to their desires; those who became renunciants for no good reason; those who are weary of asceticism; those who are unruly bodhisattvas; those who are dishonest in body, speech, and mind; those who are fortune tellers; those who offer false promises; those who do not keep their word; those who are attached to the trappings of clothing, food, bedding, medicine for the sick, and personal belongings; those who have no sense of shame or modesty; those who display bad behavior; those who are devoted to something other than the genuine Dharma; those who are without the experiential sphere of spiritual practice; those who are far from the experiential sphere of the buddhas; those who are outside the vehicle of the Buddha; and those who do not possess the aspiration to perfect enlightenment. Having heard these teachings, Rāṣṭrapāla, you should know that such people are nefarious friends, unreasonable, motivated only by gain, and not to be associated with.”{{note:{index130,id:UT22084-042-003-570}}}{{note:{index131,id:UT22084-042-003-571}}}
+{{milestone:{label:1.411,id:UT22084-042-003-567}}}“Now,{{note:{index129,id:UT22084-042-003-568}}} Rāṣṭrapāla, in case you hesitate, harbor any doubts, or {{page:{number:59,id:UT22084-042-003-321914,folio:F.256.a}}} have a second thought, wondering whether at that time King Arciṣmān was someone else, you should not do so. Why not? Because at that time, the Tathāgata Amitāyus was indeed King Arciṣmān. Now, Rāṣṭrapāla, in case you hesitate, harbor any doubts, or have a second thought, wondering whether at that time young prince Puṇyaraśmi was someone else, you should not do so. Why not? Because at that time, I was young prince Puṇyaraśmi, and the main deity of the city was the Tathāgata Akṣobhya. Therefore, Rāṣṭrapāla, a bodhisattva mahāsattva who desires to be perfectly awakened to unsurpassable, completely perfect enlightenment should follow the example of young prince Puṇyaraśmi by accomplishing the highest intent, by abandoning pleasant and unpleasant things, and by conscientious conduct.
+{{milestone:{label:1.412,id:UT22084-042-003-569}}}“Through the accomplishment of such difficult tasks, I attained unsurpassable, completely perfect enlightenment. Yet there are those without diligence; those who strive after gain, honor, and glory; those who are attached to public reputation;{{note:{index130,id:UT22084-042-003-570}}} those who are overpowered by pride, afflicted, distressed, and far from the teachings due to their desires; those who became renunciants for no good reason; those who are weary of asceticism; those who are unruly bodhisattvas; those who are dishonest in body, speech, and mind; those who are fortune tellers; those who offer false promises; those who do not keep their word; those who are attached to the trappings of clothing, food, bedding, medicine for the sick, and personal belongings; those who have no sense of shame or modesty; those who display bad behavior; those who are devoted to something other than the genuine Dharma; those who are without the experiential sphere of spiritual practice;{{note:{index131,id:UT22084-042-003-571}}} those who are far from the experiential sphere of the buddhas; those who are outside the vehicle of the Buddha; and those who do not possess the aspiration to perfect enlightenment. Having heard these teachings, Rāṣṭrapāla, you should know that such people are nefarious friends, unreasonable, motivated only by gain, and not to be associated with.”
 {{milestone:{label:1.413,id:UT22084-042-003-572}}}Then, the Bhagavān uttered the following verses: {{page:{number:60,id:UT22084-042-003-321915,folio:F.256.b}}}
 “While engaged in the unfathomable practice of acquiring the ten strengths,
 Their hearts revolve around gain and public reputation.
 Having abandoned enlightenment, which is replete with a hundred qualities,
 They delight in frequenting others’ households for the sake of gain. {344}
 {{milestone:{label:1.414,id:UT22084-042-003-573}}}“Like malicious crows, they are shameless and without devotion.
-For the sake of public reputation, they have fallen under the power of Namuci.{{note:{index132,id:UT22084-042-003-574}}}{{note:{index133,id:UT22084-042-003-575}}}
+For the sake of public reputation,{{note:{index132,id:UT22084-042-003-574}}} they have fallen under the power of Namuci.{{note:{index133,id:UT22084-042-003-575}}}
 Dependent on their afflictions, they drown in the realms of existence
 And speak thus, ‘Here, we are endowed with good qualities!’ {345}
 {{milestone:{label:1.415,id:UT22084-042-003-576}}}“Their bodies are in the forest, but their minds dwell on the city.{{note:{index134,id:UT22084-042-003-577}}}
@@ -1500,7 +1500,7 @@ It will not be difficult to attain enlightenment. {352}
 Those who do not practice will turn their minds away after having heard it.{{note:{index136,id:UT22084-042-003-587}}}
 Therefore, you should generate devotion toward the doctrine,
 Lest you are filled with regret when you deviate in the future. {353}
-{{milestone:{label:1.423,id:UT22084-042-003-588}}}“Rāṣṭrapāla, suppose one bodhisattva engages in the five perfections, and the other diligently practices this Dharma discourse, thinking ‘I shall study this. I shall abide by these vows.’  In that case, the amount of the first one’s merit would not come close to even a hundredth part of the latter’s. It would not reach a thousandth, a hundred-thousandth, or a trillionth—it would not even be amenable to any counting, division, calculation, or comparison.”{{page:{number:61,id:UT22084-042-003-321916,folio:F.257.a}}}{{note:{index137,id:UT22084-042-003-589}}}{{note:{index138,id:UT22084-042-003-590}}}
+{{milestone:{label:1.423,id:UT22084-042-003-588}}}“Rāṣṭrapāla, suppose one bodhisattva engages in the five perfections,{{note:{index137,id:UT22084-042-003-589}}} and the other diligently practices this Dharma discourse, thinking ‘I shall study this. I shall abide by these vows.’ {{page:{number:61,id:UT22084-042-003-321916,folio:F.257.a}}} In that case, the amount of the first one’s merit would not come close to even a hundredth part of the latter’s. It would not reach a thousandth, a hundred-thousandth, or a trillionth—it would not even be amenable to any counting, division, calculation, or comparison.”{{note:{index138,id:UT22084-042-003-590}}}
 {{milestone:{label:1.424,id:UT22084-042-003-591}}}As the Bhagavān explained this Dharma discourse, all the accompanying thirty billion gods, humans, and asuras who had not previously given rise to the aspiration to enlightenment now gave rise to the mind intent on unsurpassable, perfectly complete enlightenment, without straying away from it. The minds of the seven thousand monks, no longer grasping, were completely liberated from contaminants.
 {{milestone:{label:1.425,id:UT22084-042-003-592}}}Then the venerable Rāṣṭrapāla asked this of the Bhagavān:
 “Bhagavān, what is the name of this Dharma discourse? How should I remember it?” Having thus been asked, the Bhagavān replied to the venerable Rāṣṭrapāla, “In this regard, Rāṣṭrapāla, you should remember this Dharma discourse as The Pure, Meaningful Promise. You should remember it as The Sport of Noble Men and The Ascertainment of the Conduct of a Bodhisattva. And you should also remember it as The Perfect Fulfillment of Meaning.” After the Bhagavān had spoken these words, the venerable Rāṣṭrapāla, as well as the world with its gods, humans, asuras, and gandharvas, rejoiced and praised what the Bhagavān had said.

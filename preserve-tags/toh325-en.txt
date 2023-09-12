@@ -1,6 +1,6 @@
 {{translation:{id:UT22084-072-025,key:toh325,version:1.1.9,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Verses of Nāga King Drum
-{{milestone:{label:1.1,id:UT22084-072-025-8}}} Homage to all buddhas and bodhisattvas!{{page:{number:1,id:UT22084-072-025-133,folio:F.204.b}}}
+{{milestone:{label:1.1,id:UT22084-072-025-8}}}{{page:{number:1,id:UT22084-072-025-133,folio:F.204.b}}} Homage to all buddhas and bodhisattvas!
 {{milestone:{label:1.2,id:UT22084-072-025-9}}}The Thus-Gone One has spoken 
 Of his past lives as a bodhisattva.
 As these stories have been carefully collected,

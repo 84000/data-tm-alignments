@@ -1,7 +1,7 @@
 {{translation:{id:UT22084-081-006,key:toh437,version:2.42.12,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Practice Manual of Noble Tārā Kurukullā
 {{milestone:{label:1,id:UT22084-081-006-chapter-1}}}Chapter 1
-{{milestone:{label:1.1,id:UT22084-081-006-27}}}Homage to noble Mañjuśrī, the youthful one.{{page:{number:1,id:UT22084-081-006-1496,folio:F.29.b}}}
+{{milestone:{label:1.1,id:UT22084-081-006-27}}}{{page:{number:1,id:UT22084-081-006-1496,folio:F.29.b}}}Homage to noble Mañjuśrī, the youthful one.
 Homage to the noble goddess, Tārā.
 {{milestone:{label:1.1,id:UT22084-081-006-27}}}The tantra of The Arising of Tārā is an ocean of yogic practice.
 Although its scripture and practice manual had declined and disappeared,
@@ -83,7 +83,7 @@ Single-faced, with elongated eyes,
 Sixteen years old and displaying an amorous sentiment,
 And puffed up with pride on account of her magical feminine charm. 
 {{milestone:{label:1.21,id:UT22084-081-006-47}}}The canvas should be woven with thread spun by a female of fair complexion. Both she and the weaver should eat milk-porridge.
-Upon a lotus seat, wearing an upper garment of red cloth, jewel earrings, and a jewel diadem,  she displays the mudrā granting fearlessness with her lower right hand, and with her second right hand holds an arrow that she draws to the tip of her ear. In her upper left hand she holds a bow, and in the second left, a red utpala. Crowned by Amitābha, dwelling in a cave in the mountains, she is Kurukullā. {{page:{number:3,id:UT22084-081-006-1498,folio:F.30.b}}}{{note:{index3,id:UT22084-081-006-593}}}
+Upon a lotus seat, wearing an upper garment of red cloth, jewel earrings, and a jewel diadem, {{page:{number:3,id:UT22084-081-006-1498,folio:F.30.b}}} she displays the mudrā granting fearlessness with her lower right hand, and with her second right hand holds an arrow that she draws to the tip of her ear.{{note:{index3,id:UT22084-081-006-593}}} In her upper left hand she holds a bow, and in the second left, a red utpala. Crowned by Amitābha, dwelling in a cave in the mountains, she is Kurukullā. 
 Below Kurukullā is Rāhu, and above him, Kāmadeva with his spouse. Above Kāmadeva there is a moon disk, and upon the moon disk a red lotus seat. On this seat one must paint the Blessed Lady with all her beautiful features, and then consecrate her image. In front of the painting, from the eighth through the full moon day, one should perform the eighteenfold pūjā, and recite the mantra. This is the heart essence of Tārā: 
 oṃ kurukulle hrīḥ hūṃ svāhā
 This is the mantra. Having done the preliminary propitiation consisting of one hundred thousand recitations, next, on a buddha-day in the month of Kārttika, Vaiśakha, or Āṣāḍha, having bathed at dawn and observed the restoration of vows ceremony, the practitioner should offer a complete pūjā.
@@ -125,8 +125,8 @@ These they summon by the power of their mantra.
 The mantra-adepts will thereby see.
 If with the eye of compassion mantra-adepts regard the world, 
 Which is stricken by all sorts of suffering, 
-{{milestone:{label:1.30,id:UT22084-081-006-56}}}They will become Tārā, benefiting the world like the wish-fulfilling jewel.{{note:{index5,id:UT22084-081-006-595}}}
-The entire world will become of Tārā and know peace.{{note:{index6,id:UT22084-081-006-596}}}
+{{milestone:{label:1.30,id:UT22084-081-006-56}}}They will become Tārā,{{note:{index5,id:UT22084-081-006-595}}} benefiting the world like the wish-fulfilling jewel.
+The entire world will become of Tārā{{note:{index6,id:UT22084-081-006-596}}} and know peace.
 Having overcome the demons, they bring down a rain of wealth;
 As a wish-fulfilling tree, they grant beings whatever they wish for. {{page:{number:5,id:UT22084-081-006-1500,folio:F.31.b}}}
 {{milestone:{label:1.31,id:UT22084-081-006-57}}}Having drawn to them all the riches of the lords of wealth without exception,
@@ -229,7 +229,7 @@ Gestures, garlands,
 Theatrical shows, songs, and other such offerings. 
 {{milestone:{label:2.19,id:UT22084-081-006-80}}}“The three jewels are my refuge; 
 I confess all my wrongdoings; 
-I rejoice  in the virtues of wandering beings; {{page:{number:7,id:UT22084-081-006-1502,folio:F.32.b}}}
+I rejoice {{page:{number:7,id:UT22084-081-006-1502,folio:F.32.b}}} in the virtues of wandering beings; 
 I set my mind on the enlightenment of a buddha”— 
 {{milestone:{label:2.20,id:UT22084-081-006-81}}}These words should be spoken three times,
 After which one requests departure.
@@ -363,7 +363,7 @@ There is engagement with the dharma body as well.
 Hence, the mantra, thereby established, 
 Has indeed been taught by the buddhas. 
 {{milestone:{label:2.54,id:UT22084-081-006-113}}}All the blessed ones, the thus-gone ones, then addressed the great bodhisattva Vajrapāṇi, so as to examine his noble mind: “How, O Vajrapāṇi, could the buddhas, the blessed ones, who possess vajra bodies, who possess dharmadhātu bodies, possibly die at some location on earth?”
-Vajrapāṇi, in turn, offered the following words to those buddhas and bodhisattvas: “The bodhisattvas have asked me this: ‘How could buddhas, who possess vajra bodies, dharmadhātu bodies, bodies of nonduality, possibly die at some location on earth?’ ” And he continued, “Listen, O bodhisattvas, the so-called nirvāṇa  means a passage to the realm of bliss.”{{page:{number:10,id:UT22084-081-006-1505,folio:F.34.a}}}
+Vajrapāṇi, in turn, offered the following words to those buddhas and bodhisattvas: “The bodhisattvas have asked me this: ‘How could buddhas, who possess vajra bodies, dharmadhātu bodies, bodies of nonduality, possibly die at some location on earth?’ ” And he continued, “Listen, O bodhisattvas, the so-called nirvāṇa {{page:{number:10,id:UT22084-081-006-1505,folio:F.34.a}}} means a passage to the realm of bliss.”
 “O Vajrapāṇi,” inquired the bodhisattvas, “do the buddhas, the blessed ones, go to the realm of bliss after they relinquish the dharma body, or do they go to the realm of bliss by means of the enjoyment body, having left behind their emanation body? How could they depart, having left behind the dharma body?”
 Vajrapāṇi replied, “A person with magical powers may employ magic for some specific purpose, and so also succeed in achieving that purpose. Likewise:
 “Accomplished since the beginning, 
@@ -461,7 +461,7 @@ And with crystal insight will expand.
 These are to be used in three activities. 
 {{milestone:{label:3.3,id:UT22084-081-006-134}}}In a pit the shape of an aśvattha tree leaf, which is the pure nature of the place of birth, one should light a fire with wood from the aśoka tree. One must then, in the prescribed way, perform one hundred and eight offerings of red lotus flowers. The fire should be obtained from the home of an actor. The offerings are to be smeared with the three sweets and presented together with the root mantra.
 Next comes the diagram. One should draw a triangular maṇḍala on cotton smeared with the mark of the moon. Within it, one writes entreating words that include the names of the practitioner and the one to be won: “Let me succeed in attracting such and such a person!” As one enriches this with the root mantra, one should write with a paint of liquid lac, blood from one’s left ring finger, camphor, kunkuma, and musk.
-If one wishes to increase insight one should, in the same pit as before, burn arka and karavīra with the sacrificial fire used for brahmin oblations. One should offer aṭarūṣaka leaves or sweet flag ten thousand times.{{note:{index11,id:UT22084-081-006-601}}}
+If one wishes to increase insight one should, in the same pit as before, burn arka and karavīra with the sacrificial fire used for brahmin oblations. One should offer aṭarūṣaka leaves{{note:{index11,id:UT22084-081-006-601}}} or sweet flag ten thousand times.
 For removing poison, one should light a fire in the same basin with wood of the sandal tree, and in that offer the flowers of the piṇḍatagara. Thus one will become a curer of all poison. One will heal the different pains and bring peace. 
 This is the rite of the gāruḍa knowledge tantra.
 On the paths of the triple universe
@@ -487,7 +487,7 @@ The leaves of gṛhābhidhāna,
 Brahmāṇī, māgadhī, and honey—
 These are to be eaten. 
 {{milestone:{label:3.7,id:UT22084-081-006-138}}}This is the ritual for increasing insight.
-{{milestone:{label:3.8,id:UT22084-081-006-139}}}Next there is honey with ghee, {{note:{index12,id:UT22084-081-006-602}}}
+{{milestone:{label:3.8,id:UT22084-081-006-139}}}Next{{note:{index12,id:UT22084-081-006-602}}} there is honey with ghee, 
 Cakrāṅkita, and the good root— 
 By applying this to the place struck by the poisonous fangs,
 Or by drinking it, one will neutralize the poison. 
@@ -515,7 +515,7 @@ Will destroy poison.
 This heart of Tārā conquers the three worlds— 
 {{milestone:{label:3.14,id:UT22084-081-006-145}}}That should be understood by those who love.
 {{milestone:{label:3.14,id:UT22084-081-006-145}}}As the negativities of speech completely disappear, one will be able to remove poison; when those of the mind disappear, insight will increase; and when the flaws of the body are exhausted, one will bring about enthrallment. 
-{{milestone:{label:3.15,id:UT22084-081-006-146}}}Hence, since this world is attached to nonvirtue, it does not gain accomplishment. Therefore, O sons of the victorious ones, you must act to benefit, and give up evil. By means of the specific gestures, the faults associated with the body certainly disappear  and, through the mantra, so do the faults associated with the composites of the tongue. {{page:{number:14,id:UT22084-081-006-1509,folio:F.36.a}}}
+{{milestone:{label:3.15,id:UT22084-081-006-146}}}Hence, since this world is attached to nonvirtue, it does not gain accomplishment. Therefore, O sons of the victorious ones, you must act to benefit, and give up evil. By means of the specific gestures, the faults associated with the body certainly disappear {{page:{number:14,id:UT22084-081-006-1509,folio:F.36.a}}} and, through the mantra, so do the faults associated with the composites of the tongue. 
 {{milestone:{label:3.16,id:UT22084-081-006-147}}}The faults associated with the mind fade away in those whose minds delight in meditation. With the joy of stainless faith, the cognitions of the body become unmoving—that is the time of the Buddha’s blessing. The one who sees with an eye free from evil and who possesses compassion will become king of the three worlds. With his power of merit superior because of generosity, he becomes the foremost on the surface of the earth, a benefactor endowed with diligence. 
 {{milestone:{label:3.17,id:UT22084-081-006-148}}}Having given up laziness, and by means of wisdom, he will not experience even a bit of the suffering of hell. Therefore, one relies on the wealth of the compassion of the sons of the victorious ones, and on their diligent conduct. Perceiving the buddhas in the center of the sky, one regards the buddhas by the power of concentration. Even in sleep one should always perceive oneself to be surrounded by the buddhas. 
 {{milestone:{label:3.18,id:UT22084-081-006-149}}}At the time of death the wise proceed to the summit of Mount Meru; 
@@ -543,7 +543,7 @@ Placed within a phuḥ syllable,
 It should be drawn on the doorstep. 
 {{milestone:{label:3.22,id:UT22084-081-006-153}}}This is the tantra for driving away snakes.
 {{milestone:{label:3.23,id:UT22084-081-006-154}}}Now, to bring women fortune, another method shall be explained: 
-One should draw a lotus flower with seven petals and apply the seven syllables to it. In its center one should, according to the enthrallment procedure, write the name of the person to be enthralled,  supported by a pair of hrīḥ syllables. One should draw this on birch bark, or on cotton with flowers, and make it into a charm that is to be worn on the upper arm.{{page:{number:15,id:UT22084-081-006-1510,folio:F.36.b}}}
+One should draw a lotus flower with seven petals and apply the seven syllables to it. In its center one should, according to the enthrallment procedure, write the name of the person to be enthralled, {{page:{number:15,id:UT22084-081-006-1510,folio:F.36.b}}} supported by a pair of hrīḥ syllables. One should draw this on birch bark, or on cotton with flowers, and make it into a charm that is to be worn on the upper arm.
 The master will become the slave of a woman
 And kings will turn into servants. 
 By means of the extremely pure and clean 
@@ -565,7 +565,7 @@ Having drawn this on birch bark,
 {{milestone:{label:3.27,id:UT22084-081-006-158}}}Moreover, children, the old, and the young will be self-protected by the diagram.
 {{milestone:{label:3.27,id:UT22084-081-006-158}}}If one desires the attainment of a lord, one should draw a citron and, in its center, a bow. Inside the bow, one should draw a jewel-shaped lotus bud. In the center of the lotus bud is the syllable jrūṃ, surrounded by the seven syllables. One should draw this on a golden tablet and keep it in the upper part of the house. One should surround it with an outer garland of lotuses, and, on the eighth or twelfth day of the month, using a jar containing five types of jewels, one should take it down. Having washed and worshiped it, one should recite the mantra one hundred and eight times. Within a year, one will become the equal of Kubera. Such a charm should be worn correctly.
 Next follows another method: on a Tuesday, if one finds a cowrie shell lying with its face up, one should place it in the palm of the hand and recite the mantra one hundred thousand times. If one plays dice, one will win. 
-Taking up the cowrie one should recite the Kurukullā mantra one hundred and eight times. On the twelfth or eighth day of the month, one should perform ablutions and make offerings. Then one should wrap the shell in silk and wear it on one’s arm.  Whoever does so will become a great master of riches. If one puts this shell in a box and hides it in the ground one will every day obtain a kārṣa’s worth of wealth. {{page:{number:16,id:UT22084-081-006-1511,folio:F.37.a}}}
+Taking up the cowrie one should recite the Kurukullā mantra one hundred and eight times. On the twelfth or eighth day of the month, one should perform ablutions and make offerings. Then one should wrap the shell in silk and wear it on one’s arm. {{page:{number:16,id:UT22084-081-006-1511,folio:F.37.a}}} Whoever does so will become a great master of riches. If one puts this shell in a box and hides it in the ground one will every day obtain a kārṣa’s worth of wealth. 
 This is the tantra on obtaining wealth, a kingdom, royalty, and the fruit.
 This completes the third chapter.
 {{milestone:{label:4,id:UT22084-081-006-chapter-4}}}Chapter 4
@@ -590,7 +590,7 @@ The disciple should enter there.
 At the time of the entry, the following should be declared: “You must not speak of this supreme secret of all the thus-gone ones in front of anyone who has not entered this maṇḍala. Your samaya vow would definitely degenerate. Having failed to avoid the distressful, you would certainly die and fall into hell.” 
 After that the samayas are to be given with the words, “The Three Jewels must never be abandoned…,” and so forth, just as it is extensively taught in the tantra. The oath is to be administered with the following words:
 “If any among the great samaya vows of the King of Dharma
-That you have received from me  should degenerate,{{page:{number:17,id:UT22084-081-006-1512,folio:F.37.b}}}
+That you have received from me {{page:{number:17,id:UT22084-081-006-1512,folio:F.37.b}}} should degenerate,
 The buddhas and bodhisattvas
 Who engage in the supreme conduct of secret mantra 
 {{milestone:{label:4.6,id:UT22084-081-006-164}}}“Will extract and consume
@@ -677,7 +677,7 @@ Empowered through the arrow and the other three
 And is, in accordance with the ritual,
 To be granted the secrets. 
 {{milestone:{label:4.27,id:UT22084-081-006-185}}}First one should train in the method of warding off the nāgas.
-{{milestone:{label:4.27,id:UT22084-081-006-185}}}namo ratna­trayāya. namaḥ sarva­buddha­bodhi­sattvebhyaḥ. namo ˈṣṭasarpa­pudgalāya. namaḥ samastebhyo buddha­koṭibhyaḥ.. tadyathā. oṁ hrīḥ hrīḥ hrīḥ sarva­nāgānām ananta­kulānāṃ vāsuki­kulānāṃ takṣaka­kulānāṃ śaṅkha­pāla­kulānāṃ karkoṭa­kulānāṃ padma­kulānāṃ mahā­padma­kulānāṃ kulika­kulānāṃ varāha­kulānāṃ puṇḍarīka­kulānāṃ ghana­kulānāṃ megha­kulānāṃ jalada­kulānāṃ jala­dhara­kulānāṃ jīmūta­kulānāṃ saṃvarta­kulānāṃ vasanta­kulānāṃ airāvata­kulānāṃ kumuda­kulānāṃ kahlāra­kulānāṃ saugandhi­kakulānāṃ hana hana śareṇa bandha bandha cāpena tāḍaya tāḍaya utpalena bhītānām abhayaṃ dehi pralaya­kāla iva jala­dhāram avatāraya varṣaṃ  tān nāgān vaśīkuru kuru phuḥ kulāpaya kulāpaya phuḥ phuḥ, oṁ kurukulle hrīḥ hūṁ phaṭ svāhā phaṭ{{page:{number:19,id:UT22084-081-006-1514,folio:F.38.b}}}{{note:{index16,id:UT22084-081-006-606}}}
+{{milestone:{label:4.27,id:UT22084-081-006-185}}}namo ratna­trayāya. namaḥ sarva­buddha­bodhi­sattvebhyaḥ. namo ˈṣṭasarpa­pudgalāya. namaḥ samastebhyo buddha­koṭibhyaḥ.. tadyathā. oṁ hrīḥ hrīḥ hrīḥ sarva­nāgānām ananta­kulānāṃ vāsuki­kulānāṃ takṣaka­kulānāṃ śaṅkha­pāla­kulānāṃ karkoṭa­kulānāṃ padma­kulānāṃ mahā­padma­kulānāṃ kulika­kulānāṃ varāha­kulānāṃ puṇḍarīka­kulānāṃ ghana­kulānāṃ megha­kulānāṃ jalada­kulānāṃ jala­dhara­kulānāṃ jīmūta­kulānāṃ saṃvarta­kulānāṃ vasanta­kulānāṃ airāvata­kulānāṃ kumuda­kulānāṃ kahlāra­kulānāṃ saugandhi­kakulānāṃ hana hana śareṇa bandha bandha cāpena tāḍaya tāḍaya utpalena bhītānām abhayaṃ dehi pralaya­kāla iva jala­dhāram avatāraya varṣaṃ {{page:{number:19,id:UT22084-081-006-1514,folio:F.38.b}}} tān nāgān vaśīkuru kuru phuḥ kulāpaya kulāpaya phuḥ phuḥ, oṁ kurukulle hrīḥ hūṁ phaṭ svāhā phaṭ{{note:{index16,id:UT22084-081-006-606}}}
 With this mantra, one should draw the maṇḍala with gaur dung. As prescribed, one should draw an eight-petaled lotus with sandalwood paste and place on its petals, starting from the eastern one, Ananta and the others—the eight nāgas—using candied sugar and bdellium. When the moon is in the Rohiṇī lunar house, one should perform a hundred and eight recitations, offer incense to the nāgas, and make offerings. If it does not begin to rain, they should be washed with wine and tormented with the fire of khadira wood. Doing this will bring rain. However, if the nāgas do not send rain, leprosy will break out.
 {{milestone:{label:4.28,id:UT22084-081-006-186}}}This is to be carried out by a knowledge holder who is a performer of rites. Afterward, they should be gathered and released in a great river. 
 “May the gods send rain
@@ -694,7 +694,7 @@ Doing this will delight the nāgas.
 One does not do this
 The nāgas will be displeased
 And so one will contract leprosy. 
-{{milestone:{label:4.30,id:UT22084-081-006-188}}}The king, along with his sons and queens, should bathe on the fifth day of the waning moon. They should obtain the root of pratyaṅgirā, blend it with milk or ghee, and having poured it into a silver dish, they should drink it. If the dish is offered to an ordained monk there will not be any danger from snakes for one year. Moreover, if, because of its unvirtuous actions,  a snake does bite, the snake itself will die. Success comes with seven repetitions of the mantra.{{page:{number:20,id:UT22084-081-006-1515,folio:F.39.a}}}
+{{milestone:{label:4.30,id:UT22084-081-006-188}}}The king, along with his sons and queens, should bathe on the fifth day of the waning moon. They should obtain the root of pratyaṅgirā, blend it with milk or ghee, and having poured it into a silver dish, they should drink it. If the dish is offered to an ordained monk there will not be any danger from snakes for one year. Moreover, if, because of its unvirtuous actions, {{page:{number:20,id:UT22084-081-006-1515,folio:F.39.a}}} a snake does bite, the snake itself will die. Success comes with seven repetitions of the mantra.
 Also, if one wishes to cure leprosy, one should, by means of this very mantra, neutralize a poison and then ingest it. This will cure leprosy.
 If one recites the root mantra over water, and then uses that water to wash the wound from a snake bite, that will remove the poison.
 Moreover, if one wishes to see nāgas, one should pronounce the mantra upon a red utpala petal one hundred thousand times for each of its syllables. The petal should then be tossed into a pond, or the like, that is inhabited by nāgas and blessed. This will make the females of the nāgas tremble. They will request orders from the practitioner: “What shall we do, O lord?” The practitioner of mantra should then request what he wishes.
@@ -704,11 +704,11 @@ This was the fourth chapter.
 {{milestone:{label:5.2,id:UT22084-081-006-190}}}Having approached the Lord, he said, “Father, I have seen the power of the secret mantra which you have granted.”
 The Blessed One asked, “Where have you seen that?”
 “In the presence of the nāgas. Therefore, I request that the Blessed One teach this mantra, so that other beings too may be protected by it.”
-{{milestone:{label:5.3,id:UT22084-081-006-191}}}So then, at that very time and on that occasion, the Lord dispatched Vajrapāṇi, and benevolently granted this mantra and this manual of instruction to the listeners and the bodhisattvas, to the monks and nuns, and to the male  and female lay practitioners. Therefore, children of noble family, one who creates a sandalwood maṇḍala and reads this mantra and this manual of instructions will not be harmed by poison, will not die from poison, and will have no fear of boils, eczema, leprosy, disease, nāgas, snakes, tigers and other beasts of prey, weapons, enemies, poverty, or untimely death. None of these will occur.{{page:{number:21,id:UT22084-081-006-1516,folio:F.39.b}}}
+{{milestone:{label:5.3,id:UT22084-081-006-191}}}So then, at that very time and on that occasion, the Lord dispatched Vajrapāṇi, and benevolently granted this mantra and this manual of instruction to the listeners and the bodhisattvas, to the monks and nuns, and to the male {{page:{number:21,id:UT22084-081-006-1516,folio:F.39.b}}} and female lay practitioners. Therefore, children of noble family, one who creates a sandalwood maṇḍala and reads this mantra and this manual of instructions will not be harmed by poison, will not die from poison, and will have no fear of boils, eczema, leprosy, disease, nāgas, snakes, tigers and other beasts of prey, weapons, enemies, poverty, or untimely death. None of these will occur.
 In order to protect the Teachings, the Lord granted Mahākāla the demoness Hārītī, whom he had nourished from his own alms bowl. She, however, was lacking in fortune because of her former bad deeds. She was not agreeable to Mahākāla, and so he did not stay with her, did not love her, and did not protect the Teachings either. She therefore became depressed, and in order to enthrall Mahākāla this Kurukullā compendium was taught. From then on, her fortune became vast and excellent. For that reason, children of noble family, if you wish to enthrall sentient beings you should familiarize yourselves with this mantra and this manual of instructions.
 It also came to pass that Sunanda’s son was born handsome and good looking, athletic and in possession of auspicious marks, and yet nevertheless dull-witted.
 Sunanda therefore said to the Blessed One, “O Lord, my son was born handsome and good looking, athletic and in possession of auspicious marks, and yet nevertheless dull-witted. How, O Lord, may he develop insight? Lord, if this child becomes literate he shall become a protector of your doctrine.”
-Upon hearing this, the Blessed One, with words preceded by mindfulness,  spoke this manual of practice and gave this mantra. As soon as he had done so, Sunanda’s son, Rohiṇīkumāra by name, acquired insight. By the twelfth year he was free from being intimidated by any of the treatises, as he was thoroughly acquainted with all of the crafts and arts. Therefore, children of noble family, in order to accumulate great insight, you should study this very mantra and its manual of practice.{{page:{number:22,id:UT22084-081-006-1517,folio:F.40.a}}}
+Upon hearing this, the Blessed One, with words preceded by mindfulness, {{page:{number:22,id:UT22084-081-006-1517,folio:F.40.a}}} spoke this manual of practice and gave this mantra. As soon as he had done so, Sunanda’s son, Rohiṇīkumāra by name, acquired insight. By the twelfth year he was free from being intimidated by any of the treatises, as he was thoroughly acquainted with all of the crafts and arts. Therefore, children of noble family, in order to accumulate great insight, you should study this very mantra and its manual of practice.
 {{milestone:{label:5.4,id:UT22084-081-006-192}}}Then the Blessed One spoke of the magical power of sky travel:
 “Mercury free from the mountain defect{{note:{index17,id:UT22084-081-006-607}}}
 One should properly obtain,
@@ -749,7 +749,7 @@ It should be known that the mercury has been perfected.
 {{milestone:{label:5.13,id:UT22084-081-006-201}}}“Kept together with meṣaśṛṅgī, 
 The vajra should be killed with the sap of snuhī. 
 The bodily products of a female musk shrew
-Are to be infused  into the perfected mercury. {{page:{number:23,id:UT22084-081-006-1518,folio:F.40.b}}}
+Are to be infused {{page:{number:23,id:UT22084-081-006-1518,folio:F.40.b}}} into the perfected mercury. 
 {{milestone:{label:5.14,id:UT22084-081-006-202}}}“When this has mingled with the mercury,
 Emeralds and so forth are also to be infused.
 The Kurukullā yogin
@@ -940,7 +940,7 @@ This method was taught by the Protector of the World.”
 {{milestone:{label:5.59,id:UT22084-081-006-247}}}Thus spoke the protector of sentient beings confined within saṃsāra,
 The Protector of the World.
 Upon Mount Potala, the king of mountains, 
-The Blessed One  was pained by the pain of others. {{page:{number:27,id:UT22084-081-006-1522,folio:F.42.b}}}
+The Blessed One {{page:{number:27,id:UT22084-081-006-1522,folio:F.42.b}}} was pained by the pain of others. 
 {{milestone:{label:5.60,id:UT22084-081-006-248}}}“There is nothing at all that is not buddhahood.
 For the sake of accomplishing the benefit of beings
 There is nothing that has not been done before. 

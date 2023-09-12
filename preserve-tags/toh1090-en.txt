@@ -1,38 +1,38 @@
 {{translation:{id:UT22084-101-146,key:toh1090,version:1.1.7,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}Praising the Lady Who Rules Disease
 {{milestone:{label:1.1,id:UT22084-101-146-179}}}Homage to Glorious Vajrapāṇi.
-{{milestone:{label:1.1,id:UT22084-101-146-179}}}O Devī, you wander in this world, naked, riding a donkey; {{note:{index25,id:UT22084-101-146-217}}}{{note:{index26,id:UT22084-101-146-266}}}
+{{milestone:{label:1.1,id:UT22084-101-146-179}}}{{note:{index25,id:UT22084-101-146-217}}}O Devī, you wander in this world, naked,{{note:{index26,id:UT22084-101-146-266}}} riding a donkey; 
 Anointed with sesame oil, your hair a single plait, and with lead earrings, you are seductive and fully adorned,
 While iron shackles grace your feet as anklets.
-We know your nature is beautiful, and yet who can know the matter of your great ocean of activity for others? |1|{{note:{index27,id:UT22084-101-146-180}}}{{note:{index28,id:UT22084-101-146-265}}}{{note:{index29,id:UT22084-101-146-181}}}
-{{milestone:{label:1.2,id:UT22084-101-146-182}}}In saṃsāra, at the time of destruction, when from human bodies blood and fat ooze forth, and smoke rises,{{note:{index30,id:UT22084-101-146-183}}}
+We know your{{note:{index27,id:UT22084-101-146-180}}} nature is beautiful,{{note:{index28,id:UT22084-101-146-265}}} and yet{{note:{index29,id:UT22084-101-146-181}}} who can know the matter of your great ocean of activity for others? |1|
+{{milestone:{label:1.2,id:UT22084-101-146-182}}}In saṃsāra, at the time of destruction, when from human bodies{{note:{index30,id:UT22084-101-146-183}}} blood and fat ooze forth, and smoke rises,
 O Devī, in a single instant you will toss all beings into your terrifying, fanged mouth.
-O Kālī, you who hold a human skull, as the domain of yogic practice you take delight in cremation grounds, {{note:{index31,id:UT22084-101-146-184}}}
-And the terrifying ringing of your bell subdues the wicked ones and dispels and quells all ills and mortal perils. |2|{{note:{index32,id:UT22084-101-146-185}}}{{note:{index33,id:UT22084-101-146-186}}}{{note:{index34,id:UT22084-101-146-187}}}
+O Kālī, you who hold a human skull, as the domain of yogic practice{{note:{index31,id:UT22084-101-146-184}}} you take delight in cremation grounds, 
+And the terrifying ringing of your bell subdues the wicked ones{{note:{index32,id:UT22084-101-146-185}}} and dispels and quells{{note:{index33,id:UT22084-101-146-186}}} all ills and mortal perils.{{note:{index34,id:UT22084-101-146-187}}} |2|
 {{milestone:{label:1.3,id:UT22084-101-146-188}}}Adorned with a crown of warriors’ heads, you bear a garland of heads severed on the battlefield. 
-You dance with your supple arms opened wide, wearing a nāga lord as a belt across your broad hips. {{note:{index35,id:UT22084-101-146-189}}}
+You dance with your supple arms opened wide, wearing a nāga lord{{note:{index35,id:UT22084-101-146-189}}} as a belt across your broad hips. 
 Intoxicated by the liquor of blood, in your hands you brandish a spear and sword. 
 Your eyes bloodshot, you are seen by the host of bhūtas who wander cremation grounds at night. |3|
-{{milestone:{label:1.4,id:UT22084-101-146-191}}}You wear a great torn hide and a half-open shawl, bound with a belt of braided straw.{{note:{index36,id:UT22084-101-146-192}}}{{note:{index37,id:UT22084-101-146-193}}}{{note:{index38,id:UT22084-101-146-194}}}
-With your moon-like face adorned with strings of fresh human entrails, you ring a bell at your cheek.{{note:{index39,id:UT22084-101-146-195}}}
-Your body freshly oiled and painted in patches with drops of blood, fat, and the like,{{page:{number:2,id:UT22084-101-146-197,folio:F.255.b}}}{{note:{index40,id:UT22084-101-146-196}}}
-You tear at human flesh with your glistening teeth. O Kāpālikā, protect me! |4|{{note:{index41,id:UT22084-101-146-198}}}
+{{milestone:{label:1.4,id:UT22084-101-146-191}}}You wear a great{{note:{index36,id:UT22084-101-146-192}}} torn{{note:{index37,id:UT22084-101-146-193}}} hide and a half-open shawl, bound with a belt of braided straw.{{note:{index38,id:UT22084-101-146-194}}}
+With your moon-like face adorned with strings of fresh human entrails, you ring{{note:{index39,id:UT22084-101-146-195}}} a bell at your cheek.
+Your body freshly oiled and painted in patches with drops of blood, fat, and the like,{{note:{index40,id:UT22084-101-146-196}}}{{page:{number:2,id:UT22084-101-146-197,folio:F.255.b}}}
+You tear at human flesh{{note:{index41,id:UT22084-101-146-198}}} with your glistening teeth. O Kāpālikā, protect me! |4|
 {{milestone:{label:1.5,id:UT22084-101-146-199}}}Fiercest among fierce ladies, terrifying, with human flesh in your mouth, the first time they saw you 
 Even the mātṛkās were frightened and terrified as you flew into a rage, your bloodshot eyes flickering about‍—I bow to you!
 Beautiful Kālī, your black body is so overwhelming that even Śakra and the rest are compelled
-To praise you daily, and even I, Yama, will always bow trembling before you. |5|{{note:{index42,id:UT22084-101-146-256}}}
-{{milestone:{label:1.6,id:UT22084-101-146-200}}}You who bring an end to humans and all living beings,{{note:{index43,id:UT22084-101-146-201}}}{{note:{index44,id:UT22084-101-146-202}}}
+To praise you daily, and even I, Yama,{{note:{index42,id:UT22084-101-146-256}}} will always bow trembling before you. |5|
+{{milestone:{label:1.6,id:UT22084-101-146-200}}}You who bring an end{{note:{index43,id:UT22084-101-146-201}}} to humans and all living beings,{{note:{index44,id:UT22084-101-146-202}}}
 On one side, by your ear, is an uraga, whose thousand-headed hood is spread and adorns you.{{note:{index45,id:UT22084-101-146-203}}}
-At the other ear you keep a supreme lion, as you trample the entire ocean-encircled earth. {{note:{index46,id:UT22084-101-146-204}}}
-The sun that crosses the sky, brilliant with a thousand rays, rests directly at your navel. |6|{{note:{index47,id:UT22084-101-146-205}}}
+At the other ear you keep a supreme lion, as you trample the entire{{note:{index46,id:UT22084-101-146-204}}} ocean-encircled earth. 
+The sun that crosses the sky, brilliant with a thousand rays, rests directly at your navel.{{note:{index47,id:UT22084-101-146-205}}} |6|
 {{milestone:{label:1.7,id:UT22084-101-146-206}}}You are the fire that blazes forth from the expanse of the ocean,{{note:{index48,id:UT22084-101-146-207}}}
 Able to dry up the whole of the sea.
 Because all women are pacified,{{note:{index49,id:UT22084-101-146-208}}}
-You are present as half of Mahādeva’s body. |7|{{note:{index50,id:UT22084-101-146-209}}}{{note:{index51,id:UT22084-101-146-257}}}
+You are present{{note:{index50,id:UT22084-101-146-209}}} as half of Mahādeva’s body.{{note:{index51,id:UT22084-101-146-257}}} |7|
 {{milestone:{label:1.8,id:UT22084-101-146-211}}}Durgā, Umā, Mahākālī,
 To whom gods and asuras pay homage—
 You who know all plagues,
 Render them harmless!{{note:{index52,id:UT22084-101-146-278}}}
 {{milestone:{label:1.8,id:UT22084-101-146-211}}}Yama’s Sister, Wife of the Demon,
-Sovereign Goddess of the Desire Realm‍—I praise you! |8|{{note:{index53,id:UT22084-101-146-212}}}
+Sovereign Goddess of the Desire Realm‍—I praise you!{{note:{index53,id:UT22084-101-146-212}}} |8|
 {{milestone:{label:1.9,id:UT22084-101-146-213}}}This concludes “Eight Verses Praising Śrīdevī Mahākālī, the Lady Who Rules All Disease,” composed by the brahmin Vararuci.{{note:{index54,id:UT22084-101-146-279}}}

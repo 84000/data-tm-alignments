@@ -1,13 +1,13 @@
 {{translation:{id:UT22084-072-012,key:toh312,version:1.1.28,style:annotated}}}
 {{milestone:{label:tr,id:translation}}}The Noble Mahāsūtra
 Entering the City of Vaiśālī
-{{milestone:{label:1.1,id:UT22084-072-012-50}}} Homage to all the buddhas and bodhisattvas!{{page:{number:1,id:UT22084-072-012-225,folio:F.157.b}}}
-Thus did I hear at one time: The Blessed One was residing in Nāḍikā, at the Impenetrable Dwelling Place. The Blessed One said to the venerable Ānanda, “Ānanda,  let us proceed to the city of Vaiśālī.” {{note:{index27,id:UT22084-072-012-52}}}
+{{milestone:{label:1.1,id:UT22084-072-012-50}}}{{page:{number:1,id:UT22084-072-012-225,folio:F.157.b}}} Homage to all the buddhas and bodhisattvas!
+Thus did I hear at one time: The Blessed One was residing in Nāḍikā, at the Impenetrable Dwelling Place.{{note:{index27,id:UT22084-072-012-52}}} The Blessed One said to the venerable Ānanda, “Ānanda,  let us proceed to the city of Vaiśālī.” 
 “Let us do so, O Honored One,” replied the venerable Ānanda, assenting to what the Blessed One had said.
 Thereupon the Blessed One, traveling through the country of Vṛji, arrived in Vaiśālī. In Vaiśālī, he stayed in Āmrapālī’s grove.
-{{milestone:{label:1.2,id:UT22084-072-012-55}}}At that time the Blessed One said to the venerable Ānanda, “Ānanda, go to the city of Vaiśālī, place your foot on the threshold of the city gate, and utter these mantras  and these verses: {{page:{number:2,id:UT22084-072-012-230,folio:F.158.a}}}
+{{milestone:{label:1.2,id:UT22084-072-012-55}}}At that time the Blessed One said to the venerable Ānanda, “Ānanda, go to the city of Vaiśālī, place your foot on the threshold of the city gate, and utter these mantras {{page:{number:2,id:UT22084-072-012-230,folio:F.158.a}}} and these verses: 
 “ ‘Visarata visarata visarata visarata{{note:{index28,id:UT22084-072-012-57}}}
-{{milestone:{label:1.3,id:UT22084-072-012-58}}}“ ‘The Buddha, who has compassion for the world, has spoken. This is the wish of all buddhas. It is the wish of all pratyekabuddhas. It is the wish of all arhats. It is the wish of all those undergoing training. It is the wish of all śrāvakas. It is the wish of all who speak words of truth. It is the wish of the Dharma. It is the wish of Kāmeśvara. It is the wish of Brahmā. It is the wish of Pratyeka­brahman. It is the wish of Indra. It is the wish of the gods. It is the wish of the lord of the demigods. It is the wish of all demigods. It is the wish of the servants of the demigods. It is the wish of all bhūtas:{{note:{index29,id:UT22084-072-012-59}}}{{note:{index30,id:UT22084-072-012-60}}}
+{{milestone:{label:1.3,id:UT22084-072-012-58}}}“ ‘The Buddha, who has compassion for the world, has spoken.{{note:{index29,id:UT22084-072-012-59}}} This is the wish of all buddhas. It is the wish of all pratyekabuddhas. It is the wish of all arhats. It is the wish of all those undergoing training. It is the wish of all śrāvakas. It is the wish of all who speak words of truth. It is the wish of the Dharma.{{note:{index30,id:UT22084-072-012-60}}} It is the wish of Kāmeśvara. It is the wish of Brahmā. It is the wish of Pratyeka­brahman. It is the wish of Indra. It is the wish of the gods. It is the wish of the lord of the demigods. It is the wish of all demigods. It is the wish of the servants of the demigods. It is the wish of all bhūtas:
 “ ‘Visarata visarata visarata visarata{{note:{index31,id:UT22084-072-012-62}}}
 {{milestone:{label:1.4,id:UT22084-072-012-63}}}“ ‘The Buddha, who has compassion for the world, has spoken.
 “ ‘Muñcata muñcata{{note:{index32,id:UT22084-072-012-65}}}
@@ -15,11 +15,11 @@ Thereupon the Blessed One, traveling through the country of Vṛji, arrived in V
 “ ‘Nirgacchata nirgacchata nirgacchata nirgacchata{{note:{index33,id:UT22084-072-012-68}}}
 {{milestone:{label:1.6,id:UT22084-072-012-69}}}“ ‘The Buddha, the Great God, the God of Gods, the Supreme God, has arrived. The gods including Indra, the gods including Brahmā, the gods including Īśāna, the gods including Prajāpati, and the Four Protectors of the World have come. Hundreds of thousands of gods, lords of the demigods, and hundreds of thousands of demigods have also come. Hundreds of thousands of bhūtas who have faith in the Blessed One  have also come for the sake of all living beings, and they have come to bring great harm to you; so:
 “ ‘Nirgacchata nirgacchata nirgacchata nirgacchata
-{{milestone:{label:1.7,id:UT22084-072-012-71}}}“ ‘Disperse quickly. Those of you who have hateful thoughts, may you be destroyed. Those who have loving thoughts, who do not wish to sin but wish to protect beings,  stay and take on physical form. The Buddha, who has compassion for the world, has spoken.{{page:{number:3,id:UT22084-072-012-233,folio:F.158.b}}}{{note:{index34,id:UT22084-072-012-72}}}
+{{milestone:{label:1.7,id:UT22084-072-012-71}}}“ ‘Disperse quickly. Those of you who have hateful thoughts, may you be destroyed. Those who have loving thoughts, who do not wish to sin but wish to protect beings, {{page:{number:3,id:UT22084-072-012-233,folio:F.158.b}}} stay and take on physical form.{{note:{index34,id:UT22084-072-012-72}}} The Buddha, who has compassion for the world, has spoken.
 “ ‘Sumu sumu | sumu sumu sumu | sumuru sumuru | sumuru sumuru | sumuru sumuru | sumuru sumuru | muru muru | muru muru | muru muru | muru muru | miri miri | miri miri | miri miri miri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murūrīti | riri riri riri | rīrī rīrī rīrīti | miri miri miriti | hisi miri miriti | mirisi sīsīmī | kaṅkarā karakata | kaṅkarā karakacā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā  kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkaro titi kuriśo | kaṅkara kaṅkariśi | ririri ririri | hiritaphu svā | ripu ripu | ripu ripu | ripu ripu | ripu ripu | nāthā nānā | thā thā | ripu ripu | nāthātha | nirgacchata nirgacchata | ripu ripu | nirgacchata palāyāta | ripū ripū pālāyata |{{note:{index35,id:UT22084-072-012-74}}}
 {{milestone:{label:1.8,id:UT22084-072-012-75}}}“ ‘The Buddha, who has compassion for the world, whose wish is to benefit all living beings, who abides in love, who is compassionate, who abides in joy, and who abides in equanimity, has arrived. 
-“ ‘Kṣipraṃ nirgacchata svāhā{{note:{index36,id:UT22084-072-012-77}}}
-{{milestone:{label:1.9,id:UT22084-072-012-78}}}“These mantras, which were proclaimed to all the gods and all the bhūtas through the Buddha’s supreme wisdom and truth, will accomplish their purpose. The following verses will accomplish their purpose:{{note:{index37,id:UT22084-072-012-79}}}
+“ ‘Kṣipraṃ nirgacchata{{note:{index36,id:UT22084-072-012-77}}} svāhā
+{{milestone:{label:1.9,id:UT22084-072-012-78}}}“These mantras, which were proclaimed to all the gods and all the bhūtas through the Buddha’s supreme wisdom and truth, will accomplish their purpose. The following verses{{note:{index37,id:UT22084-072-012-79}}} will accomplish their purpose:
 {{milestone:{label:1.10,id:UT22084-072-012-80}}}“ ‘He in whom all attachment and greed 
 Are conquered, all defilement gone, 
 His mind at peace without harmful intent—
@@ -46,7 +46,7 @@ Whose words are pure, whose very acts are purity—
 He will bring you well-being.
 {{milestone:{label:1.16,id:UT22084-072-012-86}}}“ ‘This great hero who, by taking birth, 
 With perfection attained his purpose
-And accomplished all his goals—{{note:{index38,id:UT22084-072-012-87}}}
+And accomplished all his goals{{note:{index38,id:UT22084-072-012-87}}}—
 He will bring you well-being.
 {{milestone:{label:1.17,id:UT22084-072-012-88}}}“ ‘He whose birth, when this whole earth 
 With all its forests shook and trembled,
@@ -60,9 +60,9 @@ He will bring you well-being.
 Pronounced the Truths of the Noble Ones
 And was extolled as a sage, the Muni—
 He will bring you well-being.
-{{milestone:{label:1.20,id:UT22084-072-012-91}}}“ ‘The alluring one who defeated {{note:{index39,id:UT22084-072-012-92}}}
+{{milestone:{label:1.20,id:UT22084-072-012-91}}}“ ‘The alluring one{{note:{index39,id:UT22084-072-012-92}}} who defeated 
 All the extremists with the Dharma
-And brought all assemblies under his influence—{{note:{index40,id:UT22084-072-012-93}}}
+And brought all assemblies{{note:{index40,id:UT22084-072-012-93}}} under his influence—
 He will bring you well-being.
 {{milestone:{label:1.21,id:UT22084-072-012-94}}}“ ‘May the Buddha bring you well-being; 
 May Śakra and the gods bestow well-being;
@@ -100,8 +100,8 @@ Act always lovingly for human beings
 And practice Dharma day and night.’ ”{{note:{index44,id:UT22084-072-012-105}}}
 {{milestone:{label:1.29,id:UT22084-072-012-106}}}To these instructions, the venerable Ānanda replied, “I will do so, O Honored One.” 
 {{milestone:{label:1.30,id:UT22084-072-012-107}}}He went to Vaiśālī as the Blessed One had instructed and, placing his foot on the threshold of the city gate, uttered these mantras and these verses:{{note:{index45,id:UT22084-072-012-108}}}
-“Visarata visarata visarata visarata{{page:{number:6,id:UT22084-072-012-241,folio:F.160.a}}}{{note:{index46,id:UT22084-072-012-110}}}
-{{milestone:{label:1.31,id:UT22084-072-012-111}}}“The Buddha, who has compassion for the world, has spoken. This is the wish of all buddhas. It is the wish of all pratyekabuddhas. It is the wish of all arhats. It is the wish of all those undergoing training. It is the wish of all śrāvakas. It is the wish of all who speak words of truth. It is the wish of all the Dharmas. It is the wish of Kāmeśvara. It is the wish of Brahmā. It is the wish of Pratyeka­brahman. It is the wish of Indra. It is the wish of the gods. It is the wish of the lord of the demigods. It is the wish of all demigods.  It is the wish of the servants of the demigods. It is the wish of all bhūtas.{{note:{index47,id:UT22084-072-012-112}}}{{note:{index48,id:UT22084-072-012-113}}}
+“Visarata visarata visarata visarata{{note:{index46,id:UT22084-072-012-110}}}{{page:{number:6,id:UT22084-072-012-241,folio:F.160.a}}}
+{{milestone:{label:1.31,id:UT22084-072-012-111}}}“The Buddha, who has compassion for the world, has spoken.{{note:{index47,id:UT22084-072-012-112}}} This is the wish of all buddhas. It is the wish of all pratyekabuddhas. It is the wish of all arhats. It is the wish of all those undergoing training. It is the wish of all śrāvakas. It is the wish of all who speak words of truth. It is the wish of all the Dharmas.{{note:{index48,id:UT22084-072-012-113}}} It is the wish of Kāmeśvara. It is the wish of Brahmā. It is the wish of Pratyeka­brahman. It is the wish of Indra. It is the wish of the gods. It is the wish of the lord of the demigods. It is the wish of all demigods.  It is the wish of the servants of the demigods. It is the wish of all bhūtas.
 “Visarata visarata visarata visarata
 {{milestone:{label:1.32,id:UT22084-072-012-115}}}“The Buddha, who has compassion for the world, has spoken.
 “Muñcata muñcata
@@ -109,8 +109,8 @@ And practice Dharma day and night.’ ”{{note:{index44,id:UT22084-072-012-105}
 “Nirgacchata nirgacchata nirgacchata nirgacchata
 {{milestone:{label:1.34,id:UT22084-072-012-119}}}“The Buddha, the Great God, the God of Gods, the Supreme God, has arrived. The gods including Indra, the gods including Brahmā, the gods including Īśāna,  the gods including Prajāpati, and the Four Protectors of the World have come. Hundreds of thousands of gods, lords of the demigods, and hundreds of thousands of demigods have also come. Hundreds of thousands of bhūtas who have faith in the Blessed One have also come for the sake of all living beings, and they have come to bring great harm to you; so:
 “Nirgacchata nirgacchata nirgacchata nirgacchata
-{{milestone:{label:1.35,id:UT22084-072-012-121}}}“Disperse quickly. Those of you who have hateful thoughts, may you be destroyed. Those who have loving thoughts, who do not wish to sin but wish to protect beings, stay and take on physical form. The Buddha, who has compassion for the world, has spoken.{{note:{index49,id:UT22084-072-012-122}}}
-“Sumu sumu | sumu sumu sumu | sumuru sumuru | sumuru sumuru | sumuru sumuru | sumuru sumuru | muru muru | muru muru | muru muru | muru muru | miri miri | miri miri | miri miri miri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murūrīti | riri riri riri | rīrī rīrī rīrīti | miri miri mirīti | hisi miri miriti | mirisi sīsīmī | kaṅkarā karakata | kaṅrakara karakaca | kaṅkara kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā  kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā |  kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkaro tīti kuriśo | kaṅkara kaṅkariśi | ririri ririri | tiritaphu svā | riphu riphu | riphu riphu | riphu riphu | riphu riphu | nāthā nānā | thā thā | ripū ripū | nāthāthā | nirgacchata nirgacchata | ripu ripu | nirgacchata palāyāta | ripū ripū palayātā |{{page:{number:7,id:UT22084-072-012-245,folio:F.160.b}}}{{note:{index50,id:UT22084-072-012-124}}}
+{{milestone:{label:1.35,id:UT22084-072-012-121}}}“Disperse quickly. Those of you who have hateful thoughts, may you be destroyed. Those who have loving thoughts, who do not wish to sin but wish to protect beings, stay and take on physical form.{{note:{index49,id:UT22084-072-012-122}}} The Buddha, who has compassion for the world, has spoken.
+“Sumu sumu | sumu sumu sumu | sumuru sumuru | sumuru sumuru | sumuru sumuru | sumuru sumuru | muru muru | muru muru | muru muru | muru muru | miri miri | miri miri | miri miri miri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murūrīti | riri riri riri | rīrī rīrī rīrīti | miri miri mirīti | hisi miri miriti | mirisi sīsīmī | kaṅkarā karakata | kaṅrakara karakaca | kaṅkara kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā  kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | {{page:{number:7,id:UT22084-072-012-245,folio:F.160.b}}} kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkaro tīti kuriśo | kaṅkara kaṅkariśi | ririri ririri | tiritaphu svā | riphu riphu | riphu riphu | riphu riphu | riphu riphu | nāthā nānā | thā thā | ripū ripū | nāthāthā | nirgacchata nirgacchata | ripu ripu | nirgacchata palāyāta | ripū ripū palayātā |{{note:{index50,id:UT22084-072-012-124}}}
 {{milestone:{label:1.36,id:UT22084-072-012-125}}}“The Buddha, who has compassion for the world, whose wish is to benefit all living beings,  who abides in love, who is compassionate, who abides in joy, and who abides in equanimity, has arrived. 
 “Kṣipraṃ nirgacchata svāhā
 {{milestone:{label:1.37,id:UT22084-072-012-127}}}“These mantras, which were proclaimed to all the gods and all the bhūtas through the Buddha’s supreme wisdom and truth, will accomplish their purpose. The following verses will accomplish their purpose:
@@ -140,7 +140,7 @@ Whose words are pure, whose very acts are purity—
 He will bring you well-being.
 {{milestone:{label:1.44,id:UT22084-072-012-134}}}“This great hero who, by taking birth, 
 With perfection attained his purpose
-And accomplished all his goals—{{note:{index51,id:UT22084-072-012-135}}}
+And accomplished all his goals{{note:{index51,id:UT22084-072-012-135}}}—
 He will bring you well-being. 
 {{milestone:{label:1.45,id:UT22084-072-012-136}}}“He whose birth, when this whole earth {{page:{number:8,id:UT22084-072-012-248,folio:F.161.a}}}
 With all its forests shook and trembled,
@@ -156,7 +156,7 @@ And was extolled as a sage, the Muni—
 He will bring you well-being.
 {{milestone:{label:1.48,id:UT22084-072-012-139}}}“The alluring one who defeated 
 All the extremists with the Dharma
-And brought all assemblies under his influence—{{note:{index52,id:UT22084-072-012-140}}}
+And brought all assemblies{{note:{index52,id:UT22084-072-012-140}}} under his influence—
 He will bring you well-being.
 {{milestone:{label:1.49,id:UT22084-072-012-141}}}“May the Buddha bring you well-being; 
 May Śakra and the gods bestow well-being;

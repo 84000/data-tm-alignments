@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-076-009,key:toh355,version:1.0.2,style:plain}}}
+{{translation:{key:toh355,version:1.0.2,style:plain}}}
 Teaching the Ripening of Virtuous and Nonvirtuous Actions
  Thus did I hear at one time. The Blessed One was teaching the Dharma while residing at Jeta’s Grove, Anāthapiṇḍada’s park near Śrāvastī, surrounded by countless bodhisattvas and many divine and human followers.
 It was then that, for the benefit of many beings, Nanda asked the Blessed One, “Blessed One, presently in this world, among beings sharing similar types of rebirths, some are beautiful while others are ugly; some are powerful while others are weak; some are rich while others are poor; some are afflicted while others are at ease; and some are mighty while others are wicked.

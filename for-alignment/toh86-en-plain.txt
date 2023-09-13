@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-044-006,key:toh86,version:1.34.11,style:plain}}}
+{{translation:{key:toh86,version:1.34.11,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Question of Maitreya on the Eight Qualities 
  Homage to all the buddhas and bodhisattvas!

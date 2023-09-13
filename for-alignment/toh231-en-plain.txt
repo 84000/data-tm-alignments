@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-064-001,key:toh231,version:1.30.22,style:plain}}}
+{{translation:{key:toh231,version:1.30.22,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Jewel Cloud
  Homage to all the buddhas and bodhisattvas!

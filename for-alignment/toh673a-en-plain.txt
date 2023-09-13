@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-091-071,key:toh673a,version:1.0.7,style:plain}}}
+{{translation:{key:toh673a,version:1.0.8,style:plain}}}
 The Essence of Aparimitāyus
 Oṁ vajra-āyuṣe hūṃ a.
 If someone continually repeats this essence of Ārya Aparimitāyus, or is empowered with water blessed by its mantra, their lifespan will be lengthened:

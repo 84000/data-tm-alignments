@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-091-074,key:toh676,version:1.0.12,style:plain}}}
+{{translation:{key:toh676,version:1.0.12,style:plain}}}
 The Noble Dhāraṇī
 Essence of Immeasurable Longevity and Wisdom
  Homage to all buddhas and bodhisattvas. 

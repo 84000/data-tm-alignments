@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-068-012,key:toh278,version:1.0.7,style:plain}}}
+{{translation:{key:toh278,version:1.0.7,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Eight Auspicious Ones
  Homage to all buddhas and bodhisattvas.

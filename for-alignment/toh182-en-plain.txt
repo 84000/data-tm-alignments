@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-061-002,key:toh182,version:1.18.21,style:plain}}}
+{{translation:{key:toh182,version:1.18.21,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Perfection of Generosity
 [How Bodhisattvas Exert Themselves in the Ten Virtuous Actions]

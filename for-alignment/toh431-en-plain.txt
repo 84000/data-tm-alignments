@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-080-015,key:toh431,version:2.28.16,style:plain}}}
+{{translation:{key:toh431,version:2.28.16,style:plain}}}
 The Tantra of Caṇḍa­mahā­roṣaṇa
 Introduction
 Chapter 1

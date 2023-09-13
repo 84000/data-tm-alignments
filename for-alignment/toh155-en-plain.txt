@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-058-002,key:toh155,version:2.15.21,style:plain}}}
+{{translation:{key:toh155,version:2.15.21,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Questions of the Nāga King Sāgara 
  Prostrations to all buddhas and bodhisattvas.

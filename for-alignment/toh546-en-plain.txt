@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-089-003,key:toh546,version:1.0.5,style:plain}}}
+{{translation:{key:toh546,version:1.0.5,style:plain}}}
 The Noble Dhāraṇī
 Mañjuśrī’s Sworn Oath
 Homage to the Three Jewels!

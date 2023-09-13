@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-066-008,key:toh250,version:1.0.2,style:plain}}}
+{{translation:{key:toh250,version:1.0.2,style:plain}}}
 The Sūtra on
 The Four Factors
  Homage to all the buddhas and bodhisattvas! 

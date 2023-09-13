@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-060-005,key:toh176,version:1.45.21,style:plain}}}
+{{translation:{key:toh176,version:1.45.21,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Teaching of Vimalakīrti
 Purification of the Buddhafield

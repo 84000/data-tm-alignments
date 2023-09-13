@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-056-002,key:toh134,version:2.1.6,style:plain}}}
+{{translation:{key:toh134,version:2.1.6,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Absorption That Encapsulates All Merit
 Chapter 1

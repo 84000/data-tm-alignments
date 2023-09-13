@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-090-035,key:toh591,version:1.0.6,style:plain}}}
+{{translation:{key:toh591,version:1.0.6,style:plain}}}
 The Noble Dhāraṇī
 The Supreme Accomplishment of Invincible Averting, Sitātapatrā Born from the Uṣṇīṣa of the Tathāgata
  Homage to all buddhas and bodhisattvas and to the noble śrāvakas and pratyekabuddhas! Homage to the blessed invincible Uṣṇīṣa Queen!

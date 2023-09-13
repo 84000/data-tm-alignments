@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-088-016,key:toh522,version:1.1.16,style:plain}}}
+{{translation:{key:toh522,version:1.1.16,style:plain}}}
 The Dhāraṇī of the Tathāgata Jñānolka that Purifies All Rebirths
  Homage to the Omniscient One.Homage to all the buddhas and bodhisattvas.Homage to the blessed one, the tathāgata Jñānolka.Homage to the tathāgata Suvarṇa­prabhākūṭa­nirbhāsa.Homage to the tathāgata Satyavādin.Homage to the tathāgata Bhīkṣmas­varagarjita­rājā.
 The four bodhisattvas—Samanta­bhadra, the youthful Mañjuśrī, Dhāraṇīś­vara­rāja, and Vajrapāṇi—were dwelling in the abode of the Sun and the Moon along with the tathāgatas. When the Sun and Moon reached the place where the tathāgatas and bodhisattvas were seated, they saw the tathāgatas upon lion thrones bedecked with jewels and the bodhisattvas seated within palaces arrayed with banners bearing the rose apple insignia. 

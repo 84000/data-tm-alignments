@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-013,key:toh313,version:1.0.10,style:plain}}}
+{{translation:{key:toh313,version:1.0.10,style:plain}}}
 The Noble Sūtra
 Auspicious Night
  Homage to all buddhas and bodhisattvas! 

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-044-004,key:toh84,version:1.0.10,style:plain}}}
+{{translation:{key:toh84,version:1.0.11,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Questions of the Girl Vimalaśraddhā
  Homage to all the buddhas and bodhisattvas!

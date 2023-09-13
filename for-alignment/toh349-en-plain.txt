@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-076-003,key:toh349,version:1.0.9,style:plain}}}
+{{translation:{key:toh349,version:1.0.9,style:plain}}}
 The Account of the Noble Deeds of Śrīsena
  Homage to the Three Jewels! 
 When they were at Śrāvastī, the Blessed One said to the monks, “Monks, I know the fruits of generosity. I also know how the fruits of generosity ripen. What if, like me, sentient beings too knew the fruits of generosity? What if, like me, they knew how the fruits of generosity ripen? Were this so and were someone to ask them for their last mouthful, the last remaining mouthful of their food, they would not eat it so long as they had not offered it or shared it. The growth of miserliness would not continue to completely entangle their minds. I know the fruits of generosity. I also know how the fruits of generosity ripen. But unlike me, sentient beings do not know the fruits of generosity. Unlike me, they do not know how the fruits of generosity ripen. This ignorance is why their minds grasp at everything, why they are not generous, and why they eat without generosity. The growth of miserliness continues to completely entangle their minds.” 

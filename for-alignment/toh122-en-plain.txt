@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-054-003,key:toh122,version:1.24.18,style:plain}}}
+{{translation:{key:toh122,version:1.24.18,style:plain}}}
 The Noble Mahāyāna Sūtra on
 Wisdom at the Hour of Death
  Homage to all buddhas and bodhisattvas! 

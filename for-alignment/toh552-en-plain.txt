@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-089-009,key:toh552,version:1.0.4,style:plain}}}
+{{translation:{key:toh552,version:1.0.4,style:plain}}}
 The Eight Maidens’ Praise of Mañjuśrī, Lord of Speech
 Possessor of youthful body, 
 Adorned by the lamp of wisdom 

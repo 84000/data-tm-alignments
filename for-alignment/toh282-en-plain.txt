@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-068-016,key:toh282,version:1.12.11,style:plain}}}
+{{translation:{key:toh282,version:1.12.11,style:plain}}}
 The Sūtra on the Threefold Training
  Homage to all buddhas and bodhisattvas.
 Thus have I heard at one time. As the Bhagavān was wandering in the land of Vṛji, he arrived at the village of Kuṭigrāmaka and settled to the north of that village in a grove of sāl trees, with a great saṅgha of bhikṣus. Thereupon the Bhagavān taught the following to the bhikṣus:

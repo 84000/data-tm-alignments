@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-073-001,key:toh340,version:1.3.31,style:plain}}}
+{{translation:{key:toh340,version:1.3.31,style:plain}}}
 The Hundred Deeds
 Prologue
  I prostrate to the All-Knowing One.

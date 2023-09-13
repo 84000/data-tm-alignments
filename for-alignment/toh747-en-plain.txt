@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-095-002,key:toh747,version:1.0.10,style:plain}}}
+{{translation:{key:toh747,version:1.0.10,style:plain}}}
 The Great Sovereign 
 Bhūtaḍāmara Tantra
 Chapter 1

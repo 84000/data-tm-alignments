@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-061-018,key:toh198,version:1.0.12,style:plain}}}
+{{translation:{key:toh198,version:1.0.12,style:plain}}}
 The Noble Great Vehicle Sūtra
 Maitreya’s Setting Out
  Homage to all buddhas and bodhisattvas!

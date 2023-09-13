@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-060-002,key:toh173,version:1.0.7,style:plain}}}
+{{translation:{key:toh173,version:1.0.7,style:plain}}}
 The Noble Mahāyāna Sūtra
 Questions on Selflessness
  Homage to all buddhas and bodhisattvas. 

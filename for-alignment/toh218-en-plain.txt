@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-062-018,key:toh218,version:2.15.12,style:plain}}}
+{{translation:{key:toh218,version:2.15.12,style:plain}}}
 The Noble Mahāyāna Sūtra
 Purification of Karmic Obscurations 
 Homage to all the buddhas and bodhisattvas! 

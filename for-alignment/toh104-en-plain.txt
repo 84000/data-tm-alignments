@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-048-004,key:toh104,version:1.0.6,style:plain}}}
+{{translation:{key:toh104,version:1.0.6,style:plain}}}
 The Noble Dharma Discourse
 Expounding the Qualities of the Thus-Gone Ones’ Buddhafields
  Homage to all buddhas and bodhisattvas.

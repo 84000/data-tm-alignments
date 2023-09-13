@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-066-007,key:toh249,version:1.6.1,style:plain}}}
+{{translation:{key:toh249,version:1.6.1,style:plain}}}
 The Noble Mahāyāna Sūtra Entitled
 Teaching the Four Factors
  Homage to all the buddhas and bodhisattvas!

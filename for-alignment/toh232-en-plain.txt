@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-064-002,key:toh232,version:1.1.12,style:plain}}}
+{{translation:{key:toh232,version:1.1.12,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Great Cloud
 Chapter 1

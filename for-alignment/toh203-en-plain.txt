@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-062-003,key:toh203,version:1.0.5,style:plain}}}
+{{translation:{key:toh203,version:1.0.5,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Seal of Dharma
  Homage to all buddhas and bodhisattvas.

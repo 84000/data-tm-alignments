@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-049-004,key:toh109,version:1.0.9,style:plain}}}
+{{translation:{key:toh109,version:1.0.9,style:plain}}}
 The Noble Mahāyāna Sūtra
 Gayāśīrṣa Hill
  Homage to all buddhas and bodhisattvas.

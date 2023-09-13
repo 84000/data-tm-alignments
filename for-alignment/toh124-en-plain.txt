@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-054-005,key:toh124,version:1.2.3,style:plain}}}
+{{translation:{key:toh124,version:1.2.3,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Jewel Mine
  Homage to all buddhas and bodhisattvas!

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-064-005,key:toh235,version:1.0.5,style:plain}}}
+{{translation:{key:toh235,version:1.0.5,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Great Cloud
  Homage to all buddhas and bodhisattvas.

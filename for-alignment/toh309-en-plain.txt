@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-009,key:toh309,version:1.22.14,style:plain}}}
+{{translation:{key:toh309,version:1.22.14,style:plain}}}
 The Sūtra on Impermanence (1)
 Homage to all buddhas and bodhisattvas!
 Thus did I hear at one time. The Bhagavān was dwelling in Anāthapiṇḍada’s park, in the Jeta Grove in Śrāvastī, along with a large monastic assembly. The Bhagavān addressed the monks as follows:

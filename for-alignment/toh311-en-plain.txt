@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-011,key:toh311,version:1.0.5,style:plain}}}
+{{translation:{key:toh311,version:1.0.5,style:plain}}}
 The Noble Sūtra
 Teaching the Eleven Thoughts
  Homage to the Three Jewels.

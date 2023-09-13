@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-042-002,key:toh61,version:1.2.22,style:plain}}}
+{{translation:{key:toh61,version:1.2.22,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Questions of Pūrṇa
 The Conduct of Bodhisattvas

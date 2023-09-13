@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-076-008,key:toh354,version:1.0.3,style:plain}}}
+{{translation:{key:toh354,version:1.0.3,style:plain}}}
 Teaching the Causes and Results of Good and Ill
  Homage to all buddhas and bodhisattvas.
 Thus did I hear at one time. The Blessed One was residing in Prince Jeta’s Grove, Anāthapiṇḍada’s Park. At that time, the Blessed One was teaching the Dharma surrounded by innumerable bodhisattvas and many divine and human followers, who were listening to the Dharma one-pointedly.

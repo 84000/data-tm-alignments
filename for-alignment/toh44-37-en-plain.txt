@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-036-008,key:toh44-37,version:1.1.8,style:plain}}}
+{{translation:{key:toh44-37,version:1.1.8,style:plain}}}
 The Chapter on the Scale of Life
 It was then that the bodhisattva King of Mind addressed those bodhisattvas: “O children of the Victorious One, the extent of an eon in this Sahā world, the buddhafield of the blessed Thus-Gone One Śākyamuni, is but a single day in Sukhāvatī, the buddhafield of the Thus-Gone One Amitāyus. 
 “O children of the Victorious One, the extent of an eon in Sukhāvatī is but a single day in the realm of Kaṣāyadhvajā, the buddhafield of the Thus-Gone One Vajrapramardin.

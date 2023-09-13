@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-051-002,key:toh114,version:1.8.21,style:plain}}}
+{{translation:{key:toh114,version:1.8.22,style:plain}}}
 The Noble Great Vehicle Sūtra
 The King of the Array of All Dharma Qualities
  Homage to all buddhas and bodhisattvas!

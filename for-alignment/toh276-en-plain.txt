@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-068-010,key:toh276,version:1.0.5,style:plain}}}
+{{translation:{key:toh276,version:1.0.5,style:plain}}}
 The Noble Great Vehicle Sūtra
 Not Forsaking the Buddha 
  Homage to all buddhas and bodhisattvas!

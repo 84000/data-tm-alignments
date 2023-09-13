@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-055-003,key:toh129,version:1.3.28,style:plain}}}
+{{translation:{key:toh129,version:1.3.28,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Absorption of the Miraculous Ascertainment of Peace
  Homage to all buddhas and bodhisattvas!

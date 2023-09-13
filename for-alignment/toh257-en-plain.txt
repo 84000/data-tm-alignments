@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-066-015,key:toh257,version:1.0.10,style:plain}}}
+{{translation:{key:toh257,version:1.0.10,style:plain}}}
 The Noble Very Extensive Sūtra
 The Quintessence of the Sun
 Protection of the Sacred Dharma

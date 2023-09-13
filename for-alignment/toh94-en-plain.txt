@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-045-001,key:toh94,version:1.1.16,style:plain}}}
+{{translation:{key:toh94,version:1.1.16,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Good Eon
 Chapter 1

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-094-005,key:toh728,version:1.0.11,style:plain}}}
+{{translation:{key:toh728,version:1.0.11,style:plain}}}
 The Hundred and Eight Names of the Goddess Tārā
  Homage to the great goddess Tārā, the completely victorious jewel, who, with her exquisite necklace, garments, and lower robes, is a canopy for the great worldly realm. 
 At that time, the goddess Tārā uttered this supreme dhāraṇī, which had never been seen or heard before:

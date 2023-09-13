@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-101-114,key:toh1059,version:1.0.2,style:plain}}}
+{{translation:{key:toh1059,version:1.0.2,style:plain}}}
 A Mantra for Incanting Medicines, Extracted from “Destroyer of the Great Trichiliocosm.”
  Homage to the Three Jewels!
 syād yathedam khaṭe khaṭe khaṭavikhaṭe cale vicale vilamde bale balavate candre caraṇe amṛtanirghoṣe 

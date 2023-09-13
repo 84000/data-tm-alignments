@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-062-017,key:toh217,version:1.0.7,style:plain}}}
+{{translation:{key:toh217,version:1.0.7,style:plain}}}
 The Noble Śrīgupta Sūtra
  Homage to all the buddhas and bodhisattvas.
 Thus did I hear at one time. The Blessed One was dwelling on Vulture Peak in Rājagṛha, together with a large assembly of twelve hundred and fifty monks. Those monks, as well as nuns, male and female lay devotees, kings, ministers, brahmins, householders, various non-Buddhist ascetics, brahmins, practitioners, and renunciants, as well as gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, and mahoragas, worshiped, venerated, and honored the Blessed One. Through their offerings, the Blessed One obtained divine and human garments, food, bedding, medicines, and many excellent provisions. Nevertheless, just as water does not adhere to a lotus, desires do not sully the Blessed One. 

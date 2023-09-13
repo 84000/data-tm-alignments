@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-088-022,key:toh528,version:1.0.10,style:plain}}}
+{{translation:{key:toh528,version:1.0.10,style:plain}}}
 The Noble King of Spells
 The Dhāraṇī of Agrapradīpa
  Homage to all buddhas and bodhisattvas. 

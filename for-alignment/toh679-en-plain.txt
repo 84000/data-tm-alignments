@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-091-077,key:toh679,version:1.1.12,style:plain}}}
+{{translation:{key:toh679,version:1.1.12,style:plain}}}
 The Noble Dhāraṇī
 Praising the Qualities of the Immeasurable One
  Homage to the Three Jewels.

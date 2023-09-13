@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-001-001,key:toh1-1,version:1.37.3,style:plain}}}
+{{translation:{key:toh1-1,version:1.37.3,style:plain}}}
 The Chapters on Monastic Discipline
 The Chapter on Going Forth
 Prologue

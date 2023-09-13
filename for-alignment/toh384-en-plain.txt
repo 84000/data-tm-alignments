@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-079-011,key:toh384,version:2.20.14,style:plain}}}
+{{translation:{key:toh384,version:2.20.14,style:plain}}}
 The Glorious King of Tantras That Resolves All Secrets
 Prologue
  I pay homage to Glorious Vajrasattva!

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-002,key:toh302,version:1.0.5,style:plain}}}
+{{translation:{key:toh302,version:1.0.5,style:plain}}}
 The Sūtra on What Mendicants Hold Most Dear
  Homage to the Omniscient One. 
 Thus did I hear at one time. The Blessed One was residing in the Blooming Lotus Monastery in the great city of Śrāvastī together with a retinue that consisted of a saṅgha of 12,500 mendicants. At that time, among the assembled retinue of the Blessed One, there was a noble one called Upāli, whose senses were disciplined, who was well learned, and who had profound wisdom. He was devoted to the Dharma and Vinaya excellently taught by the Blessed One, and he held them in the highest esteem. Upāli rose from his seat, draped his upper robe over one shoulder, and, kneeling on his right knee with palms joined at his heart, he smiled and supplicated the Blessed One with these words:

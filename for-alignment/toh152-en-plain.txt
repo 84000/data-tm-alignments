@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-058-001,key:toh152,version:1.5.20,style:plain}}}
+{{translation:{key:toh152,version:1.5.20,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Questions of Sāgaramati
 Chapter One: Refining the Precious Mind of Omniscience

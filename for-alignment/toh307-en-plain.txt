@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-007,key:toh307,version:1.0.15,style:plain}}}
+{{translation:{key:toh307,version:1.0.15,style:plain}}}
 The Sūtra on the Limits of Life
 {S74} Homage to the Three Jewels!
 Thus did I hear at one time.{S75} The Bhagavān was staying in Śrāvastī, in Prince Jeta’s grove, the cloistered garden donated by Anāthapiṇḍada. There the Bhagavān addressed the monks: “Monks, do you wish to learn about the lifespans of beings?” 

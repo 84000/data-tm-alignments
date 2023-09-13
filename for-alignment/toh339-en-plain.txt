@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-039,key:toh339,version:1.1.1,style:plain}}}
+{{translation:{key:toh339,version:1.1.1,style:plain}}}
 The Dharma Scripture “Transformation of Karma” in one fascicle
  Homage to all buddhas and bodhisattvas!
 Thus did I hear at one time: The Bhagavān was staying in Śrāvastī in Prince Jeta’s Grove, the park donated by Anāthapiṇḍada, together with a large assembly of twelve hundred fifty monks.

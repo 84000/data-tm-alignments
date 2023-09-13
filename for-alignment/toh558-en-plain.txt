@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-090-002,key:toh558,version:1.5.24,style:plain}}}
+{{translation:{key:toh558,version:1.5.24,style:plain}}}
 The Sūtra
 Destroyer of the Great Trichiliocosm
  I pay homage to all buddhas and bodhisattvas!

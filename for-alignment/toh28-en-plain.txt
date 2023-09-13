@@ -1,8 +1,8 @@
-{{translation:{id:UT22084-034-016,key:toh28,version:1.0.2,style:plain}}}
+{{translation:{key:toh28,version:1.1.2,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Samantabhadra Perfection of Wisdom
  Homage to all the buddhas and bodhisattvas!
-Thus did I hear at one time. The Blessed One was dwelling in the essence of Dharma in a solitary place in the country of Magadha,  accompanied by bodhisattvas who had gathered there from limitless, countless buddhafields in the ten directions and were as numerous as the minute particles of those buddhafields. All of them maintained the conduct of having mastered Samantabhadra’s aspiration. 
+Thus did I hear at one time. The Blessed One was dwelling in the country of Magadha in a solitary place, the essence of Dharma, accompanied by bodhisattvas who had gathered there from limitless, countless buddhafields in the ten directions and were as numerous as the minute particles of those buddhafields. All of them maintained the conduct of having mastered Samantabhadra’s aspiration. 
 Then the bodhisattva Samantabhadra entered the meditative stability called the display of the nonconceptuality of all phenomena. Through the power of that meditative stability, world systems as numerous as the minute particles of buddhafields were all shaken. The Blessed One then touched the bodhisattva Samantabhadra’s head with his hand, and through that touch all the buddhafields, too, were shaken. The gods praised him with a harmonious verse:
 “Light of the world, beyond compare among gods and humans,
 Your qualities perfect like an ocean,

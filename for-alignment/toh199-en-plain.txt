@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-061-019,key:toh199,version:1.0.8,style:plain}}}
+{{translation:{key:toh199,version:1.0.8,style:plain}}}
 The Noble Mahāyāna Sūtra
 Maitreya’s Birth in the Heaven of Joy
  Homage to all buddhas and bodhisattvas.

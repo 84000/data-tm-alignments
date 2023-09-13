@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-015,key:toh315,version:1.0.6,style:plain}}}
+{{translation:{key:toh315,version:1.0.6,style:plain}}}
 The Father and Mother Sūtra
  Homage to all buddhas and bodhisattvas!
 Thus did I hear at one time. The Blessed One was dwelling with a saṅgha of hearers in Śrāvastī, in the Jetavana, in the park of Anāthapiṇḍada. At that time, the Blessed One proclaimed:

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-062-016,key:toh216,version:1.0.0,style:plain}}}
+{{translation:{key:toh216,version:1.0.0,style:plain}}}
 The Noble Great Vehicle Sūtra
 Eliminating Ajātaśatru’s Remorse
  Homage to all buddhas and bodhisattvas.

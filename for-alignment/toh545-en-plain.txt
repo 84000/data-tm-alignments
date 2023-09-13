@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-089-002,key:toh545,version:1.0.8,style:plain}}}
+{{translation:{key:toh545,version:1.0.8,style:plain}}}
 The Noble Dhāraṇī
 Spoken by Mañjuśrī Himself
  Homage to the Three Jewels! Homage to noble Mañjuśrī!

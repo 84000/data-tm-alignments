@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-046-003,key:toh97,version:1.1.14,style:plain}}}
+{{translation:{key:toh97,version:1.1.14,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Chapter on Mañjuśrī’s Magical Display
  Homage to all buddhas and bodhisattvas!

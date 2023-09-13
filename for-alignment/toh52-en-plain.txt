@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-040-003,key:toh52,version:1.13.20,style:plain}}}
+{{translation:{key:toh52,version:1.13.20,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Teaching on the Indivisible Nature of the Realm of Phenomena
  Homage to all buddhas and bodhisattvas!

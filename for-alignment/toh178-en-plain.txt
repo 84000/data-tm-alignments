@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-060-007,key:toh178,version:1.1.18,style:plain}}}
+{{translation:{key:toh178,version:1.1.18,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Teaching on the Aids to Enlightenment
  Homage to all buddhas and bodhisattvas!

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-055-005,key:toh131,version:1.5.23,style:plain}}}
+{{translation:{key:toh131,version:1.5.23,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Absorption of the Thus-Gone One’s Wisdom Seal
  Homage to all buddhas and bodhisattvas!

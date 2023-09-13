@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-028,key:toh328,version:1.0.13,style:plain}}}
+{{translation:{key:toh328,version:1.0.13,style:plain}}}
 The Sūtra
 Nanda’s Going Forth
  Homage to the Omniscient One.

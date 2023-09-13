@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-090-007,key:toh563,version:1.4.13,style:plain}}}
+{{translation:{key:toh563,version:1.4.13,style:plain}}}
 The Sūtra
 Great Upholder of the Secret Mantra
  Homage to the Three Jewels! 

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-100-001,key:toh846,version:1.1.19,style:plain}}}
+{{translation:{key:toh846,version:1.1.19,style:plain}}}
 The Threefold Invocation Ritual
  I take refuge with sincere devotion and reverence
 In the highest guru, the unsurpassed Three Jewels, 

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-037,key:toh337,version:2.2.5,style:plain}}}
+{{translation:{key:toh337,version:2.2.5,style:plain}}}
 The Sūtra of the Wheel of Dharma
  Homage to the Omniscient One!
 Thus did I hear at one time. The Blessed One, the Buddha, was residing in the Deer Park at Ṛṣivadana by Vārāṇasī. At that time the Blessed One spoke to the group of five monks:

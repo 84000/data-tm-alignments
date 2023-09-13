@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-051-004,key:toh116,version:2.47.31,style:plain}}}
+{{translation:{key:toh116,version:2.47.32,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Basket’s Display
 Part One

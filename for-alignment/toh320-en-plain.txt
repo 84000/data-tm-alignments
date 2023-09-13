@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-020,key:toh320,version:1.0.5,style:plain}}}
+{{translation:{key:toh320,version:1.0.5,style:plain}}}
 The Noble Dharma Discourse
 Describing the Benefits of Producing Representations of the Thus-Gone One
  Homage to the Omniscient One. 

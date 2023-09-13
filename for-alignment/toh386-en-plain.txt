@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-079-013,key:toh386,version:1.0.7,style:plain}}}
+{{translation:{key:toh386,version:1.0.7,style:plain}}}
 The Glorious King of Tantras
 Equal to the Sky
 Homage to the Glorious Great Well-Gone One! 

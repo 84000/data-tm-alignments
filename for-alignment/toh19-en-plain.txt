@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-034-007,key:toh19,version:1.0.5,style:plain}}}
+{{translation:{key:toh19,version:1.0.5,style:plain}}}
 The Noble
 Perfection of Wisdom “Kauśika”
  Homage to all the buddhas and bodhisattvas.

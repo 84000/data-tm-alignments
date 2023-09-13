@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-062-002,key:toh202,version:1.0.8,style:plain}}}
+{{translation:{key:toh202,version:1.0.8,style:plain}}}
 The Noble Mahāyāna Sūtra
 Evaluating Whether Progress is Certain or Uncertain
  Homage to all buddhas and bodhisattvas.

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-061-013,key:toh193,version:2.20.19,style:plain}}}
+{{translation:{key:toh193,version:2.20.20,style:plain}}}
 The Noble
 Prophecy of Śrī Mahādevī
  Homage to all buddhas and bodhisattvas.

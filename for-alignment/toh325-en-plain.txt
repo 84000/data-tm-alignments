@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-025,key:toh325,version:1.1.9,style:plain}}}
+{{translation:{key:toh325,version:1.1.9,style:plain}}}
 The Verses of Nāga King Drum
  Homage to all buddhas and bodhisattvas!
 The Thus-Gone One has spoken 

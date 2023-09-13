@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-047-002,key:toh100,version:1.43.19,style:plain}}}
+{{translation:{key:toh100,version:1.43.19,style:plain}}}
 The Noble Mahāyāna Sūtra 
 The Ornament of the Light of Awareness That Enters the Domain of All Buddhas 
 Homage to the Buddha!

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-094-003,key:toh726,version:1.0.10,style:plain}}}
+{{translation:{key:toh726,version:1.0.10,style:plain}}}
 The Tantra on the Origin of All Rites of Tārā, Mother of All the Tathāgatas
 Introduction
 Chapter 1

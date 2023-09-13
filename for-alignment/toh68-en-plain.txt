@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-043-005,key:toh68,version:1.3.2,style:plain}}}
+{{translation:{key:toh68,version:1.3.2,style:plain}}}
 The Noble Mahāyāna Sūtra
 Determining the Vinaya: Upāli’s Questions
  Homage to all the buddhas and bodhisattvas!

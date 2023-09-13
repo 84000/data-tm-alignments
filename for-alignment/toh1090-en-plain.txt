@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-101-146,key:toh1090,version:1.1.7,style:plain}}}
+{{translation:{key:toh1090,version:1.1.7,style:plain}}}
 Praising the Lady Who Rules Disease
 Homage to Glorious Vajrapāṇi.
 O Devī, you wander in this world, naked, riding a donkey; 

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-094-002,key:toh725,version:1.1.11,style:plain}}}
+{{translation:{key:toh725,version:1.1.11,style:plain}}}
 The Noble Dhāraṇī
 The Mother of Avalokiteśvara
  Homage to all buddhas and bodhisattvas!

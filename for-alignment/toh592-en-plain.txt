@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-090-036,key:toh592,version:1.0.3,style:plain}}}
+{{translation:{key:toh592,version:1.0.3,style:plain}}}
 The Noble Dhāraṇī
 The Invincible Sitātapatrā Born from the Uṣṇīṣa of the Tathāgata
 “Homage to the Three Jewels! 

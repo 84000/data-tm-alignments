@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-059-005,key:toh162,version:1.0.8,style:plain}}}
+{{translation:{key:toh162,version:1.0.8,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Questions of Śrīvasu
  Homage to all buddhas and bodhisattvas. 

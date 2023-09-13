@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-047-001,key:toh99,version:1.26.22,style:plain}}}
+{{translation:{key:toh99,version:1.26.22,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Precious Discourse on the Blessed One’s Extensive Wisdom That Leads to Infinite Certainty
 The Thus-Gone One’s Qualities

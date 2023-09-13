@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-057-006,key:toh147,version:1.2.27,style:plain}}}
+{{translation:{key:toh147,version:1.2.27,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Teaching on the Great Compassion of the Tathāgata
 The Great Assembly Chapter “Array of Ornaments” 

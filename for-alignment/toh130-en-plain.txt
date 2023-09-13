@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-055-004,key:toh130,version:1.26.14,style:plain}}}
+{{translation:{key:toh130,version:1.26.14,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Illusory Absorption
  Homage to all buddhas and bodhisattvas!

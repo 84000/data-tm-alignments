@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-033,key:toh333,version:1.1.5,style:plain}}}
+{{translation:{key:toh333,version:1.1.5,style:plain}}}
 The Noble
 Sūtra of Vasiṣṭha
  Homage to all buddhas and bodhisattvas! 

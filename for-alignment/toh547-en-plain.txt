@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-089-004,key:toh547,version:1.0.5,style:plain}}}
+{{translation:{key:toh547,version:1.0.5,style:plain}}}
 The Dhāraṇī
 Mañjuśrī’s Promise
 namo mañjuśriye kumārabhūtāya bodhisattvāya mahāsattvāya mahākaruṇikāya || tadyathā | oṁ araje viraje | śuddhe viśuddhe | śodhani viśodhani | amale vimale | jaye vahini ru ru cale | hūṁ hūṁ hūṁ | phaṭ phaṭ phaṭ svāhā ||

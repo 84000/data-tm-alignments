@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-043-009,key:toh72,version:1.0.10,style:plain}}}
+{{translation:{key:toh72,version:1.0.10,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Questions of the Householder Vīradatta
  Homage to all the buddhas and bodhisattvas! 

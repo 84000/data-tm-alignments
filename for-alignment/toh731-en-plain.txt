@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-094-008,key:toh731,version:1.2.10,style:plain}}}
+{{translation:{key:toh731,version:1.2.10,style:plain}}}
 The Noble Sūtra
 Tārā Who Protects from the Eight Dangers
  Homage to the Three Jewels.

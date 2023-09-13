@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-076-001,key:toh347,version:1.0.9,style:plain}}}
+{{translation:{key:toh347,version:1.0.9,style:plain}}}
 The Account of the Noble Deeds of Puṇyabala
  Homage to the Buddha.
 Thus did I hear at one time. The Blessed One was staying in Śrāvastī at Prince Jeta’s Grove, Anāthapiṇḍada’s park. At that time, the Blessed One said to the monks, “Monks, when certain foolish men possess three traits at odds with the sacred Dharma, they do not practice generosity, do not engage in merit, and do not maintain discipline after taking it on. What are these three traits? They are attachment, miserliness, and carelessness.

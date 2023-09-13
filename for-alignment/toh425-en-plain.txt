@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-080-009,key:toh425,version:2.16.11,style:plain}}}
+{{translation:{key:toh425,version:2.16.11,style:plain}}}
 The King of Tantras, the Glorious Mahāmāyā 
 The First Instruction
 Chapter 1

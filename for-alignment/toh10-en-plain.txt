@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-029-001,key:toh10,version:1.0.17,style:plain}}}
+{{translation:{key:toh10,version:1.0.18,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Perfection of Wisdom in Eighteen Thousand Lines
 Chapter 1: Introduction
@@ -5266,8 +5266,8 @@ And do not touch nirvāṇa—they dwell in wisdom.
 They consider that all these dharmas are empty.
 Looking closely, they are not cowed and are not scared—
 Those bodhisattvas are close to awakening.
-But if without wisdom they make a practice of
-The form, perception, feeling, intention, and consciousness aggregates, 
+But if without wisdom they make a practice 
+Of the form, perception, feeling, intention, and consciousness aggregates, 
 And imagine the aggregates to be empty, they practice causal signs. 
 Their faith is not in what does not arise and does not stop.
 Not in form or feeling, not in perception or intention, 

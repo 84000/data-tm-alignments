@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-095-005,key:toh750,version:1.0.12,style:plain}}}
+{{translation:{key:toh750,version:1.0.12,style:plain}}}
 The Dhāraṇī
 Vajra Conqueror
  Homage to all buddhas and bodhisattvas!

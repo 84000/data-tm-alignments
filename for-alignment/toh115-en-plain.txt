@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-051-003,key:toh115,version:2.20.13,style:plain}}}
+{{translation:{key:toh115,version:2.20.13,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Display of the Pure Land of Sukhāvatī
 Homage to all the buddhas and bodhisattvas. 

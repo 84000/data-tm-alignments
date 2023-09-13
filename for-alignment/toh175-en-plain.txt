@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-060-004,key:toh175,version:1.0.18,style:plain}}}
+{{translation:{key:toh175,version:1.0.18,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Teaching of Akṣayamati
  Homage to all buddhas, bodhisatvas, disciples, and isolated buddhas!

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-043-004,key:toh67,version:1.0.4,style:plain}}}
+{{translation:{key:toh67,version:1.0.5,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Great Lion’s Roar of Maitreya
  Homage to all the buddhas and bodhisattvas.

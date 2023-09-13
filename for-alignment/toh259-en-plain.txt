@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-066-017,key:toh259,version:1.0.8,style:plain}}}
+{{translation:{key:toh259,version:1.0.8,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Basket without Words, The Illuminator’s Matrix
  Homage to all buddhas and bodhisattvas.

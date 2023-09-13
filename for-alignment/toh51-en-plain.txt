@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-040-002,key:toh51,version:1.0.8,style:plain}}}
+{{translation:{key:toh51,version:1.0.8,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Teaching of the Armor Array
  Homage to all buddhas and bodhisattvas!

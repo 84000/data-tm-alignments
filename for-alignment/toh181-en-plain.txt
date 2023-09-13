@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-061-001,key:toh181,version:1.1.10,style:plain}}}
+{{translation:{key:toh181,version:1.1.10,style:plain}}}
 The Noble Great Vehicle Sūtra
 Teaching the Five Perfections
 The Perfection of Generosity

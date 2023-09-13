@@ -1,4 +1,4 @@
-{{translation:{id:UT23703-113-010,key:toh3990,version:1.0.1,style:plain}}}
+{{translation:{key:toh3990,version:1.0.1,style:plain}}}
 An Explanation of The Noble Sūtra on the Four Factors
  Homage to the youthful Mañjuśrī!
 This sūtra explains that for as long as they live, bodhisattvas, great beings, should not abandon four factors even at the cost of their lives. For what purpose was it undertaken? It was undertaken for the purpose of giving an explanation to those who have embarked upon the Great Vehicle and might be confused regarding how unsurpassable awakening should be attained. It was also undertaken for the purpose of encouraging the heedless to take proper care, motivating those who are thoroughly discouraged, and delighting those who have set out on the Great Vehicle.

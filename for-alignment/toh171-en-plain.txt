@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-059-014,key:toh171,version:2.34.13,style:plain}}}
+{{translation:{key:toh171,version:2.34.13,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Questions of an Old Lady
 Homage to all buddhas and bodhisattvas.

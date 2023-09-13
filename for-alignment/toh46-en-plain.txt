@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-039-002,key:toh46,version:1.0.12,style:plain}}}
+{{translation:{key:toh46,version:1.0.12,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Chapter Teaching the Purification of Boundless Gateways
  Homage to all buddhas and bodhisattvas.

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-089-007,key:toh550,version:1.0.6,style:plain}}}
+{{translation:{key:toh550,version:1.0.6,style:plain}}}
 The Noble
 Procedure for Mañjuśrī's Single-Syllable Mantra
 tadyathā | oṁ kṣṇīṁ ||

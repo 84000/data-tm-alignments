@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-090-003,key:toh559,version:1.0.0,style:plain}}}
+{{translation:{key:toh559,version:1.0.0,style:plain}}}
 The Queen of Incantations
 The Great Peahen
  I pay homage to all past, future, and present buddhas, bodhisattvas, śrāvakas, and pratyekabuddhas! 

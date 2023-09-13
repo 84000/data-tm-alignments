@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-058-006,key:toh157,version:1.1.15,style:plain}}}
+{{translation:{key:toh157,version:1.1.15,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Questions of the Kinnara King Druma
  Homage to all buddhas and bodhisattvas!

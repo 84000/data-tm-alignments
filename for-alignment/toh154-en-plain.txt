@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-058-003,key:toh154,version:1.1.12,style:plain}}}
+{{translation:{key:toh154,version:1.1.12,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Questions of the Nāga King Sāgara
  Homage to all buddhas and bodhisattvas!

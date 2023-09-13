@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-036,key:toh336,version:1.1.4,style:plain}}}
+{{translation:{key:toh336,version:1.1.4,style:plain}}}
 The Rite for the Protocols Associated with Carrying the Ringing Staff
  One who wishes to take up the ringing staff  should kneel before an honorable one and say three times, “Honorable one, I request your attention. Today, I, named so-and-so, request you, honorable one, to be my teacher for carrying the ringing staff.”
 The honorable one then says, “Pay attention. Venerable one, after generating the mind aspiring for unsurpassed awakening, will you take up the ringing staff and utilize it properly?

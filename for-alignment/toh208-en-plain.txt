@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-062-008,key:toh208,version:1.0.5,style:plain}}}
+{{translation:{key:toh208,version:1.0.5,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Great Rumble
  Homage to all buddhas and bodhisattvas.

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-055-001,key:toh127,version:1.45.27,style:plain}}}
+{{translation:{key:toh127,version:1.45.28,style:plain}}}
 The Mahāyāna Sūtra
 The King of Samādhis, the Revealed Equality of the Nature of All Phenomena
 The Introduction

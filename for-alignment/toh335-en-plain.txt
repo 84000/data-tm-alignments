@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-035,key:toh335,version:1.2.5,style:plain}}}
+{{translation:{key:toh335,version:1.2.5,style:plain}}}
 The Noble Sūtra
 The Ringing Staff
  Homage to all buddhas and bodhisattvas!

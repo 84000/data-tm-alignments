@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-048-003,key:toh103,version:1.0.17,style:plain}}}
+{{translation:{key:toh103,version:1.0.17,style:plain}}}
 The Noble Account of Dharma
 The Teaching by the Child Inconceivable Radiance
  Homage to all buddhas and bodhisattvas!

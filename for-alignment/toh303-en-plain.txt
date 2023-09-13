@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-003,key:toh303,version:1.0.7,style:plain}}}
+{{translation:{key:toh303,version:1.0.7,style:plain}}}
 The Sūtra on Having Moral Discipline
  Homage to the Omniscient One!
 Thus did I hear at one time. The Blessed One was dwelling in Anāthapiṇḍada’s park, Prince Jeta’s Grove in Śrāvastī, together with a great saṅgha of 1,250 monks.

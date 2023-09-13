@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-005,key:toh305,version:1.0.0,style:plain}}}
+{{translation:{key:toh305,version:1.0.0,style:plain}}}
 The Sūtra “Declaring What Is Supreme”
  Homage to all buddhas and bodhisattvas.
 Thus did I hear at one time. The Bhagavān, together with a saṅgha of śrāvakas, was staying at Kalandakanivāsa in the Bamboo Grove at Rājagṛha, observing the pledge to stay in retreat during the rains. Then the Bhagavān spoke to the monks:

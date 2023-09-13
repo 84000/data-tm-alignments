@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-062-001,key:toh201,version:1.1.9,style:plain}}}
+{{translation:{key:toh201,version:1.1.9,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Seal of Engagement in Awakening the Power of Faith
  Homage to all buddhas and bodhisattvas!

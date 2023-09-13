@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-068-021,key:toh287,version:1.0.27,style:plain}}}
+{{translation:{key:toh287,version:1.0.27,style:plain}}}
 The Noble Application of Mindfulness of the Sacred Dharma
 Prologue
  Homage to all the buddhas, bodhisattvas, solitary buddhas, and noble hearers!

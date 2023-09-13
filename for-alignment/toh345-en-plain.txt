@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-075-003,key:toh345,version:1.0.13,style:plain}}}
+{{translation:{key:toh345,version:1.0.13,style:plain}}}
 The Sūtra
 The Magnificent Account About a Sow
 Homage to the Three Jewels!

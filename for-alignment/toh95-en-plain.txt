@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-046-001,key:toh95,version:4.48.18,style:plain}}}
+{{translation:{key:toh95,version:4.48.18,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Play in Full
 The Setting

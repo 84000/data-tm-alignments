@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-074-003,key:toh342,version:1.0.8,style:plain}}}
+{{translation:{key:toh342,version:1.0.8,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Questions of Dīrghanakha the Wandering Mendicant
  Homage to all buddhas and bodhisattvas!

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-062-010,key:toh210,version:1.18.12,style:plain}}}
+{{translation:{key:toh210,version:1.18.12,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Rice Seedling
  Homage to all buddhas and bodhisattvas!

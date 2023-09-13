@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-072-008,key:toh308,version:1.22.14,style:plain}}}
+{{translation:{key:toh308,version:1.22.14,style:plain}}}
 The Sūtra
 Questions Regarding Death and Transmigration
   Homage to all buddhas and bodhisattvas.

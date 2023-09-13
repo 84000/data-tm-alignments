@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-034-014,key:toh26,version:1.0.0,style:plain}}}
+{{translation:{key:toh26,version:1.0.1,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Sūryagarbha Perfection of Wisdom
  Homage to all buddhas and bodhisattvas!

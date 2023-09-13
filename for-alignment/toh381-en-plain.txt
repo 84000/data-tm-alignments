@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-079-008,key:toh381,version:1.12.3,style:plain}}}
+{{translation:{key:toh381,version:1.12.3,style:plain}}}
 The Foundation of All Tantras, the Great Sovereign Compendium
 Emergence from Sampuṭa
 Chapter 1

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-057-004,key:toh145,version:1.4.23,style:plain}}}
+{{translation:{key:toh145,version:1.4.23,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Dhāraṇī of the Jewel Torch
 Chapter 1

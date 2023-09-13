@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-063-006,key:toh225,version:1.0.9,style:plain}}}
+{{translation:{key:toh225,version:1.0.9,style:plain}}}
 The Noble Great Vehicle Sūtra
 Taking Refuge in the Three Jewels
  Homage to the Three Jewels!

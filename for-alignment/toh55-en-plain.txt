@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-040-006,key:toh55,version:1.0.8,style:plain}}}
+{{translation:{key:toh55,version:1.0.8,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Teaching on the Effulgence of Light
  Homage to all buddhas and bodhisattvas!

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-044-003,key:toh83,version:1.38.16,style:plain}}}
+{{translation:{key:toh83,version:1.38.16,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Questions of Bhadrapāla the Merchant
  Homage to all buddhas and bodhisattvas.

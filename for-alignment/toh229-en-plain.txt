@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-063-010,key:toh229,version:1.0.3,style:plain}}}
+{{translation:{key:toh229,version:1.0.3,style:plain}}}
 The Noble Great Vehicle Sūtra
 Discussions of Thus-Gone Ones
  Homage to all buddhas and bodhisattvas!

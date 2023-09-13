@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-088-038,key:toh543,version:1.21.24,style:plain}}}
+{{translation:{key:toh543,version:1.21.24,style:plain}}}
 The Root Manual of the Rites of Mañjuśrī
 Chapter 1
 Oṁ, homage to all the buddhas and bodhisattvas!

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-066-005,key:toh247,version:1.0.16,style:plain}}}
+{{translation:{key:toh247,version:1.0.16,style:plain}}}
 The Noble Great Vehicle Sūtra
 Distinguishing Phenomena and What Is Meaningful
  Homage to all buddhas and bodhisattvas!

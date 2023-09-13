@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-050-003,key:toh112,version:1.2.8,style:plain}}}
+{{translation:{key:toh112,version:1.2.9,style:plain}}}
 The Noble Mahāyāna Sūtra
 The White Lotus of Compassion
 Turning the Wheel of the Dharma 

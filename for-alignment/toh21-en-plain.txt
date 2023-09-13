@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-034-009,key:toh21,version:1.0.11,style:plain}}}
+{{translation:{key:toh21,version:1.0.11,style:plain}}}
 The Heart of the Perfection of Wisdom, the Blessed Mother
  Homage to the Perfection of Wisdom, the Blessed Mother!
 Thus did I hear at one time. The Blessed One was residing on Vulture Peak Mountain at Rājagṛha together with a great saṅgha of monks and a great saṅgha of bodhisattvas. 

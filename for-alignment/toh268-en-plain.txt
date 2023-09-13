@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-068-002,key:toh268,version:1.0.9,style:plain}}}
+{{translation:{key:toh268,version:1.0.9,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Sūtra of King of the Inconceivable
  Homage to all buddhas and bodhisattvas.

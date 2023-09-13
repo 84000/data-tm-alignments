@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-089-001,key:toh544,version:1.17.11,style:plain}}}
+{{translation:{key:toh544,version:1.17.11,style:plain}}}
 The Great Sovereign Tantra of Siddhaikavīra
 Chapter 1
 Oṁ, homage to Mañjughoṣa! 

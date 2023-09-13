@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-036-009,key:toh44-38,version:1.0.5,style:plain}}}
+{{translation:{key:toh44-38,version:1.0.5,style:plain}}}
 Chapter on the Dwellings of Bodhisattvas
  Then the bodhisattva King of Mind spoke again to those bodhisattvas, “O children of the Victorious One! In the east, there is a mountain called Appearance of a Sage, where bodhisattvas in the past have resided. In this dwelling place a bodhisattva called Vajraśrī teaches Dharma surrounded by a retinue of three hundred bodhisattvas. 
 “O children of the Victorious One! In the south, there is a mountain called Heap of Glory, where bodhisattvas in the past have resided.  In this dwelling place a bodhisattva called Dharmamati teaches Dharma surrounded by a retinue of five hundred bodhisattvas.

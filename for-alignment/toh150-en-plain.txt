@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-057-009,key:toh150,version:1.26.10,style:plain}}}
+{{translation:{key:toh150,version:1.26.10,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Inquiry of Avalokiteśvara on the Seven Qualities 
 Homage to the Bhagavān Mañjuśrīkumārabhūta!

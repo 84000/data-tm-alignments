@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-088-009,key:toh515,version:1.1.15,style:plain}}}
+{{translation:{key:toh515,version:1.1.15,style:plain}}}
 The Noble 
 Dhāraṇī of the Buddha’s Essence
  Homage to all buddhas and bodhisattvas. 

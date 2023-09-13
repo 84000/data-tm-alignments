@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-071-011,key:toh297,version:1.0.3,style:plain}}}
+{{translation:{key:toh297,version:1.0.3,style:plain}}}
 The Sūtra
 Multitude of Constituents
  Homage to Mañjuśrī Kumārabhūta. 

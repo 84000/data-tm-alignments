@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-088-001,key:toh507,version:1.0.10,style:plain}}}
+{{translation:{key:toh507,version:1.0.10,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Dhāraṇī “The Receptacle of Secret Relics, Quintessence of the Blessings of All the Thus-Gone Ones”
  Homage to all the buddhas and bodhisattvas!

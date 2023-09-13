@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-081-006,key:toh437,version:2.42.12,style:plain}}}
+{{translation:{key:toh437,version:2.42.12,style:plain}}}
 The Practice Manual of Noble Tārā Kurukullā
 Chapter 1
 Homage to noble Mañjuśrī, the youthful one.

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-090-042,key:toh598,version:1.4.8,style:plain}}}
+{{translation:{key:toh598,version:1.4.8,style:plain}}}
 Crown Victory of All Tathāgatas:
 A Ritual Manual for The Uṣṇīṣavijayā Dhāraṇī
  Homage to Uṣṇīṣavijayā.

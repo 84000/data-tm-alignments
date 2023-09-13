@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-090-005,key:toh561,version:1.0.7,style:plain}}}
+{{translation:{key:toh561,version:1.0.7,style:plain}}}
 The Noble Queen of Incantations
 The Great Amulet
  I pay homage to Mahāpratisarā, queen of incantations, and to all buddhas and bodhisattvas!

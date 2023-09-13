@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-059-009,key:toh166,version:1.0.3,style:plain}}}
+{{translation:{key:toh166,version:1.0.3,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Questions of Rāṣṭrapāla
  Homage to all buddhas and bodhisattvas. 

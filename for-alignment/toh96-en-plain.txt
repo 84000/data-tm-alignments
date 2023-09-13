@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-046-002,key:toh96,version:1.3.18,style:plain}}}
+{{translation:{key:toh96,version:1.3.18,style:plain}}}
 The Noble Mahāyāna Sūtra
 The Miraculous Play of Mañjuśrī
  Homage to all buddhas and bodhisatvas!

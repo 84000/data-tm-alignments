@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-001-006,key:toh1-6,version:1.0.17,style:plain}}}
+{{translation:{key:toh1-6,version:1.0.17,style:plain}}}
 The Chapters on Monastic Discipline
 The Chapter on Medicines
  General Summary of the Contents of the Chapter on Medicines

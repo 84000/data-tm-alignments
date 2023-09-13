@@ -1,4 +1,4 @@
-{{translation:{id:UT23703-093-001,key:toh3808,version:1.2.2,style:plain}}}
+{{translation:{key:toh3808,version:1.2.2,style:plain}}}
 The Long Explanation of the Noble Perfection of Wisdom in One Hundred Thousand, Twenty-Five Thousand, and Eighteen Thousand Lines
 Introduction
  We prostrate to Mañjuśrī Kumārabhūta.
@@ -598,7 +598,7 @@ up until
 teaches the practice without harming that brings beings to maturity. From
 “they should perfect… the ten tathāgata  powers,”
 and so on, up until
-“great equanimity”
+“great equanimity” 
 teaches the practice without stains that brings the buddhadharmas to maturity. 
 Practice of the perfections
 There, 

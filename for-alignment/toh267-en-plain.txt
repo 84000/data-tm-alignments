@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-068-001,key:toh267,version:1.35.13,style:plain}}}
+{{translation:{key:toh267,version:1.35.13,style:plain}}}
 Calling Witness with a Hundred Prostrations
 Devoted prostrations to every one of the myriad Three Jewels, and to the buddhas and bodhisattvas and their retinues, who appear and dwell in the infinite, endless worlds of existence of the ten directions and three times.
 Prostrations to all the buddhas of the ten directions;

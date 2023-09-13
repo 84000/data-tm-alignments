@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-077-002,key:toh361,version:1.2.20,style:plain}}}
+{{translation:{key:toh361,version:1.2.20,style:plain}}}
 Summary of Empowerment
  Homage to Glorious Kālacakra!
 Sucandra requested:

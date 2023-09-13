@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-061-005,key:toh185,version:1.0.17,style:plain}}}
+{{translation:{key:toh185,version:1.0.17,style:plain}}}
 The Noble Mahāyāna Sūtra
 Introduction to the Domain of the Inconceivable Qualities and Wisdom of the Tathāgatas
  Homage to all the buddhas and bodhisattvas.

@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-061-010,key:toh190,version:1.0.8,style:plain}}}
+{{translation:{key:toh190,version:1.0.8,style:plain}}}
 The Noble Great Vehicle Sūtra
 The Prophecy Concerning Strīvivarta
  Homage to all the buddhas and bodhisattvas.

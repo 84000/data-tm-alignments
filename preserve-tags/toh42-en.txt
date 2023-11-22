@@ -1,0 +1,24 @@
+{{translation:{id:UT22084-034-030,key:toh42,version:1.0.3,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Sūtra of the Moon (1)
+{{milestone:{label:1.1,id:UT22084-034-030-38}}}{{page:{number:1,id:UT22084-034-030-112,folio:F.282.b}}} Respectful homage to the noble Three Jewels!
+{{milestone:{label:1.2,id:UT22084-034-030-41}}}Thus did I hear at one time. The Blessed One was dwelling in Jeta Grove, Anāthapiṇḍada’s park in Śrāvastī.{{note:{index:20,id:UT22084-034-030-42}}} At that time the god Candramas was seized by Rāhu, lord of the asuras. Then the god Candramas, {{page:{number:2,id:UT22084-034-030-113,folio:F.283.a}}} recollecting and taking the Blessed One to heart,{{note:{index:21,id:UT22084-034-030-43}}} recited this verse:
+{{milestone:{label:1.3,id:UT22084-034-030-44}}}“I bow to the heroic Buddha.{{note:{index:22,id:UT22084-034-030-45}}}
+May you swiftly liberate all beings!{{note:{index:23,id:UT22084-034-030-46}}}
+As I have come into confinement
+I take refuge in you.”{{note:{index:24,id:UT22084-034-030-47}}}
+{{milestone:{label:1.4,id:UT22084-034-030-48}}}Then the Blessed One, for the sake of the god Candramas, addressed Rāhu, lord of the asuras, with this verse:
+{{milestone:{label:1.5,id:UT22084-034-030-49}}}“Since buddhas have compassion for the world,
+Candramas took refuge
+In the Worthy One, the Tathāgata;
+Therefore, Rāhu, set the moon free!”{{note:{index:25,id:UT22084-034-030-50}}}
+{{milestone:{label:1.6,id:UT22084-034-030-51}}}Thereupon Rāhu, lord of the asuras, set the god Candramas free and hurriedly{{note:{index:26,id:UT22084-034-030-52}}} approached Vemacitra,{{note:{index:27,id:UT22084-034-030-53}}} lord of the asuras. He then sat to one side, displeased,{{note:{index:28,id:UT22084-034-030-54}}} agitated, and with all his body hairs bristling. Vemacitra, lord of the asuras, now questioned Rāhu, lord of the asuras, in verse:
+{{milestone:{label:1.7,id:UT22084-034-030-55}}}“Why, Rāhu, did you release
+The moon in such a fright?
+You are a very miserable sight.
+Why did you approach in fear?”{{note:{index:29,id:UT22084-034-030-56}}}
+{{milestone:{label:1.8,id:UT22084-034-030-57}}}Rāhu replied:{{note:{index:30,id:UT22084-034-030-58}}}
+{{milestone:{label:1.9,id:UT22084-034-030-59}}}“Had I, hearing the Buddha’s verse,
+Not then released the moon
+My head would have split into seven pieces{{note:{index:31,id:UT22084-034-030-60}}}
+And my life would be without happiness.”
+{{milestone:{label:1.10,id:UT22084-034-030-61}}}This concludes “The Sūtra of the Moon.”{{note:{index:32,id:UT22084-034-030-62}}}

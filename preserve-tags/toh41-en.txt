@@ -1,0 +1,28 @@
+{{translation:{id:UT22084-034-029,key:toh41,version:1.0.3,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Sūtra of the Sun
+{{milestone:{label:1.1,id:UT22084-034-029-37}}}{{page:{number:1,id:UT22084-034-029-111,folio:F.282.a}}} Respectful homage to the noble Three Jewels!
+Thus did I hear at one time. The Blessed One was dwelling in the Jeta Grove, Anāthapiṇḍada’s park in Śrāvastī.{{note:{index:19,id:UT22084-034-029-40}}} At that time the god Sūrya was seized by Rāhu, lord of the asuras. Then {{page:{number:2,id:UT22084-034-029-112,folio:F.282.b}}} the god Sūrya, recollecting and taking the Blessed One to heart,{{note:{index:20,id:UT22084-034-029-41}}} recited this verse:
+{{milestone:{label:1.2,id:UT22084-034-029-42}}}“I bow to the heroic Buddha.{{note:{index:21,id:UT22084-034-029-43}}}
+May you swiftly liberate all beings!{{note:{index:22,id:UT22084-034-029-44}}}
+As I have come into confinement
+I take refuge in you.”{{note:{index:23,id:UT22084-034-029-45}}}
+{{milestone:{label:1.3,id:UT22084-034-029-46}}}Then the Blessed One, for the sake of the god Sūrya, addressed Rāhu, lord of the asuras, with these verses:
+{{milestone:{label:1.4,id:UT22084-034-029-47}}}“Since buddhas have compassion for the world, 
+Sūrya took refuge 
+In the Worthy One, the Tathāgata. 
+Therefore, Rāhu, set the sun free!{{note:{index:24,id:UT22084-034-029-48}}}
+{{milestone:{label:1.5,id:UT22084-034-029-49}}}“The sun, circle of mighty splendor,
+Illuminates darkness with light.
+Rāhu, do not conceal the sun in the sky!
+Set this sun free, Rāhu!”{{note:{index:25,id:UT22084-034-029-50}}}
+{{milestone:{label:1.6,id:UT22084-034-029-51}}}Thereupon Rāhu, lord of the asuras, set the god Sūrya free and hurriedly{{note:{index:26,id:UT22084-034-029-52}}} approached Vemacitra,{{note:{index:27,id:UT22084-034-029-53}}} lord of the asuras. He then sat to one side, displeased,{{note:{index:28,id:UT22084-034-029-54}}} agitated, and with all his body hairs bristling. Vemacitra, lord of the asuras, now questioned Rāhu, lord of the asuras, in verse:
+{{milestone:{label:1.7,id:UT22084-034-029-55}}}“Why, Rāhu, did you release
+The sun in such a fright? 
+You are a very miserable sight.
+Why did you approach in fear?”{{note:{index:29,id:UT22084-034-029-56}}}
+{{milestone:{label:1.8,id:UT22084-034-029-57}}}He replied:{{note:{index:30,id:UT22084-034-029-58}}}
+{{milestone:{label:1.9,id:UT22084-034-029-59}}}“Had I, hearing the Buddha’s verse, 
+Not then released the sun 
+My head would have split into seven pieces{{note:{index:31,id:UT22084-034-029-60}}}
+And my life would be without happiness.”
+{{milestone:{label:1.10,id:UT22084-034-029-61}}}This concludes “The Sūtra of the Sun.”{{note:{index:32,id:UT22084-034-029-62}}}

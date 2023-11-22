@@ -1,0 +1,8 @@
+{{translation:{id:UT22084-100-022,key:toh865,version:1.0.7,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}[Untitled Dhāraṇī of Buddhas and Bodhisattvas]
+{{milestone:{label:1.1,id:UT22084-100-022-19}}}{{page:{number:1,id:UT22084-100-022-44,folio:F.88.a}}} Homage to the Three Jewels.
+Homage to the thus-gone, worthy, completely perfect Buddha Vairocana, the King.{{note:{index:7,id:UT22084-100-022-22}}}
+Homage to the bodhisattva, the great being, the one with great compassion, noble Ākāśagarbha. 
+{{milestone:{label:1.2,id:UT22084-100-022-26}}}tadyathā vajramabu vajramabubuddhaje vajramabubuddhaje śūnyatāpraveśe vairocanagarbhe pañcendriya avabodhane svāhā 
+{{milestone:{label:1.3,id:UT22084-100-022-27}}}The rite is like this. If one recites this constantly, one will be able to abide within the perfection of wisdom. All māras, enemies, and vināyakas will be unable to cause harm. At the time of death, one will see noble Amitābha. One will likewise see all tathāgatas and all bodhisattvas. One will take rebirth in accordance with the aspirations that one makes. 
+This completes the dhāraṇī.

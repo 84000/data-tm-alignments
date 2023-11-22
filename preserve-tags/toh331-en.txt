@@ -1,0 +1,39 @@
+{{translation:{id:UT22084-072-031,key:toh331,version:1.0.3,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Sūtra of the Moon (2)
+{{milestone:{label:1.1,id:UT22084-072-031-27}}}{{page:{number:1,id:UT22084-072-031-107,folio:F.259.b}}} Homage to the Three Jewels!
+Thus did I hear at one time. The Blessed One was dwelling on the bank of Traveler’s Pond in the country of Campā.{{note:{index:13,id:UT22084-072-031-31}}} At that time, the entire moon was covered by Rāhu, lord of the asuras.{{note:{index:14,id:UT22084-072-031-32}}} Then the god who dwells on the disk of the moon, frightened, terrified, and dismayed,{{note:{index:15,id:UT22084-072-031-33}}} approached the Blessed One, bowed his head to the Blessed One’s feet, and sat to one side. He then appealed to him in verse:
+{{milestone:{label:1.2,id:UT22084-072-031-34}}}“I pay homage to you,
+Thoroughly liberated, heroic Buddha! 
+I am in distress. 
+Please grant me refuge!
+{{milestone:{label:1.3,id:UT22084-072-031-35}}}“Candramas took refuge 
+In the Worthy One in the world, the Well-Gone One. 
+Therefore, free the moon from Rāhu! 
+Buddhas have compassion for the world.”
+{{milestone:{label:1.4,id:UT22084-072-031-36}}}The Blessed One said:
+{{milestone:{label:1.5,id:UT22084-072-031-37}}}“Rāhu! The moon dispels darkness.
+Illuminating the sky,
+It is radiant, {{page:{number:2,id:UT22084-072-031-108,folio:F.260.a}}}
+Shining with white and pristine light.
+Instead of seizing it in the sky,
+Instantly release the lamp of beings!”{{note:{index:16,id:UT22084-072-031-38}}}
+{{milestone:{label:1.6,id:UT22084-072-031-39}}}Then Rāhu, in a hurry, 
+Covered in sweat, agitated, 
+And confused like a sick person,{{note:{index:17,id:UT22084-072-031-40}}}
+Released the moon.
+{{milestone:{label:1.7,id:UT22084-072-031-41}}}When the great son of Virocana{{note:{index:18,id:UT22084-072-031-42}}} saw that Rāhu, lord of the asuras, had very swiftly released the moon, he asked him in verse:
+{{milestone:{label:1.8,id:UT22084-072-031-43}}}“Why did you, Rāhu, 
+Covered in sweat, agitated, 
+And confused like a sick person,
+Hurriedly release the moon?” {{note:{index:19,id:UT22084-072-031-44}}}
+{{milestone:{label:1.9,id:UT22084-072-031-45}}}Rāhu replied:
+{{milestone:{label:1.10,id:UT22084-072-031-46}}}“As the Buddha uttered that verse, 
+If I had not released the moon, 
+My head would have split into seven pieces,{{note:{index:20,id:UT22084-072-031-47}}}
+And even while alive I would not find happiness.”
+{{milestone:{label:1.11,id:UT22084-072-031-48}}}The great son of Virocana exclaimed:
+{{milestone:{label:1.12,id:UT22084-072-031-49}}}“Oh wonder! Amazing is the emergence of buddhas,
+Who see peace!{{note:{index:21,id:UT22084-072-031-50}}}
+If they utter a verse,
+Rāhu will free the moon.”
+{{milestone:{label:1.13,id:UT22084-072-031-51}}}This concludes “The Sūtra of the Moon.”

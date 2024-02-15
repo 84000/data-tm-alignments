@@ -1,0 +1,9 @@
+{{translation:{id:UT22084-091-067,key:toh670,version:1.0.6,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Dhāraṇī of Devī Mahākālī
+{{milestone:{label:1.1,id:UT22084-091-067-65}}}{{page:{number:1,id:UT22084-091-067-128,folio:F.202.b}}} Homage to all buddhas and bodhisattvas.
+Thus did I hear at one time. The Blessed One was sitting at the base of the Bodhi tree shortly after becoming a perfect buddha. At that point Devī Mahākālī—Sovereign Goddess of the Desire Realm‍, Wife of the Demon, Yama’s Sister—circumambulated the Blessed One three times and sat to one side. 
+{{milestone:{label:1.2,id:UT22084-091-067-68}}}Devī Mahākālī then addressed the Blessed One, saying, “Honorable One, were I to offer this vidyā in homage at the Blessed One’s feet, would the Blessed One please accept my vidyā?”{{note:{index:6,id:UT22084-091-067-69}}}
+{{milestone:{label:1.3,id:UT22084-091-067-70}}}The Blessed One replied, “Devī Mahākālī—the Wife of the Demon and Yama’s Sister—will bind beings{{note:{index:7,id:UT22084-091-067-71}}} up through the Heaven of Controlling the Emanations of Others. She will bind beings down through the hell realms. She will bind beings out to the surrounding mountains. Her mantra should be recited as follows:
+{{milestone:{label:1.4,id:UT22084-091-067-73}}}tadyathā | oṃ ruru vitiṣṭha vadhotsi ruru roru vitiṣṭha vadhotsi svāhā |
+{{milestone:{label:1.5,id:UT22084-091-067-74}}}By pronouncing this vidyā, may all fevers, illnesses, plagues, and humoral disorders, as well as all illnesses such as leprosy, boils, skin rashes, and the like, be cured! Svāhā.”
+{{milestone:{label:1.6,id:UT22084-091-067-75}}}This concludes “The Dhāraṇī of Devī Mahākālī.”

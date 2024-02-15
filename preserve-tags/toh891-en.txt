@@ -1,0 +1,19 @@
+{{translation:{id:UT22084-100-047,key:toh891,version:1.1.3,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble
+Dhāraṇī of Āvaraṇaviṣkambhin
+{{milestone:{label:1.1,id:UT22084-100-047-15}}}{{page:{number:1,id:UT22084-100-047-45,folio:F.166.a}}} Homage to the Buddha.Homage to the Dharma.Homage to the Sangha.
+Beginning with these lines of homage, the dhāraṇī of noble Āvaraṇaviṣkambhin should be recited as follows. 
+{{milestone:{label:1.2,id:UT22084-100-047-21}}}If one recites this essence of the blessed, thus-gone, worthy, perfect Buddha Āvaraṇaviṣkambhin seven times, all evil deeds related to one’s body will be purified and at the time of death one will die happily.
+{{milestone:{label:1.3,id:UT22084-100-047-22}}}oṃ śvetavaravijaline svāhā
+{{milestone:{label:1.4,id:UT22084-100-047-23}}}If one recites this essence of the bodhisattva great being Āvaraṇaviṣkambhin seven times during the day and seven times at night, the continuum of the evil deeds that one has accumulated will be purified, {{page:{number:2,id:UT22084-100-047-46,folio:F.166.b}}} and at the time of death, one will not experience strong pain as the vital energies are interrupted. Instead, one will die happily. 
+{{milestone:{label:1.5,id:UT22084-100-047-24}}}oṃ sarva āvaraṇa­viskaṃbhine svāhā
+{{milestone:{label:1.6,id:UT22084-100-047-25}}}If someone makes proper offerings of clean food and the like to the buddhas and their offspring, then at the time of death that person will be free from illness and pain, and they will die happily. After death, they will be born among the gods in the Heaven of the Thirty-Three, in the Heaven Free from Conflict, or in the Heaven of Joy, where they will live happily. 
+{{milestone:{label:1.7,id:UT22084-100-047-26}}}Even if a monk or nun,
+Or a male or female householder, 
+Does not observe the calendar phases or astrology,
+Nor bathe and observe purity strictures,
+{{milestone:{label:1.8,id:UT22084-100-047-27}}}They will find success by maintaining this vidyā.
+Yet if someone has no interest in it,
+They will never be successful.
+Hence, one should be greatly committed to it. 
+{{milestone:{label:1.9,id:UT22084-100-047-28}}}This completes “The Noble Dhāraṇī of Āvaraṇaviṣkambhin.”

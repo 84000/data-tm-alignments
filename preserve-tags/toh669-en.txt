@@ -1,0 +1,10 @@
+{{translation:{id:UT22084-091-066,key:toh669,version:1.0.4,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble Mahākāla Dhāraṇī:
+A Cure for All Diseases and Illnesses
+{{milestone:{label:1.1,id:UT22084-091-066-59}}}{{page:{number:1,id:UT22084-091-066-114,folio:F.202.a}}} Homage to all buddhas and bodhisattvas.
+I will recite the dhāraṇī{{note:{index:2,id:UT22084-091-066-63}}} of Mahākāla, the great black being with sharp yellow fangs, the great fanged one who cures all diseases and illnesses. Wherever I direct my gaze, may I be free of disease and illness.{{note:{index:3,id:UT22084-091-066-64}}}
+{{milestone:{label:1.2,id:UT22084-091-066-65}}}tadyathā | hana hana rājadhūtena daha daha rājadhūtena paca paca rājadhūtena bahuśrave bahuparipāri bahupariśodhane imaṃ jāracaṇḍalaṃ hana hana
+{{milestone:{label:1.3,id:UT22084-091-066-66}}}oṃ suṃbha nisuṃbha śira muñca cakṣu muñca śrotra muñca ghrāṇa muñca jihvā muñca kaṇṭha muñca grīva muñca pṛṣtha muñca{{note:{index:4,id:UT22084-091-066-120}}} kaṭikā muñca kukṣa muñca ūru muñca jānu{{note:{index:5,id:UT22084-091-066-121}}} muñca hasta muñca pādau muñca aṅguli muñca aṅgapratyaṅga muñca{{note:{index:6,id:UT22084-091-066-122}}} apasara anyasmiñca gaccha{{note:{index:7,id:UT22084-091-066-125}}} jvara mukto ’si me{{note:{index:8,id:UT22084-091-066-68}}} svāhā 
+{{milestone:{label:1.4,id:UT22084-091-066-69}}}oṃ jvala mā aṅguli hūṁ sarvajvarānan {{note:{index:9,id:UT22084-091-066-123}}} phaṭ |
+{{milestone:{label:1.5,id:UT22084-091-066-70}}}This concludes “The Noble Mahākāla Dhāraṇī: A Cure for All Diseases and Illnesses.” 
+{{milestone:{label:c.1,id:UT22084-091-066-71}}}This text was translated, edited, and finalized by the Indian preceptor Prajñāvarman and the great editor-translator Bande Yeshé Dé.

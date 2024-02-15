@@ -1,0 +1,17 @@
+{{translation:{id:UT22084-091-062,key:toh665,version:1.0.4,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble Heart Mantra of Gaṇapati
+{{milestone:{label:1.1,id:UT22084-091-062-70}}}{{page:{number:1,id:UT22084-091-062-151,folio:F.192.b}}} Homage to all buddhas and bodhisattvas.
+Thus did I hear at one time. The Blessed One was dwelling at Rājagṛha on Vulture Peak Mountain with a great saṅgha of one thousand two hundred fifty monks as well as bodhisattvas who were all great beings. The Blessed One told venerable Ānanda, “Ānanda, when beings uphold the following heart mantra{{note:{index:10,id:UT22084-091-062-75}}} of Gaṇapati, Lord of the Gaṇas, all their endeavors will succeed.{{note:{index:11,id:UT22084-091-062-76}}} By upholding it, they will accomplish their goal and all their mantras will be effective. 
+{{milestone:{label:1.2,id:UT22084-091-062-77}}}tadyathā | namo ’stu te{{note:{index:12,id:UT22084-091-062-78}}} mahā­gaṇapataye svāhā |
+{{milestone:{label:1.3,id:UT22084-091-062-79}}}oṃ kaṭa kaṭa maṭa maṭa dara dara vidara vidara hana hana gṛhṇa gṛhṇa dhāva dhāva bhañja bhañja stambha stambha jambha jambha moha moha dehi dehi dāpaya dāpaya dhādhānyaṃ siddhiṃ me prayaccha | | {{page:{number:2,id:UT22084-091-062-154,folio:F.193.a}}}samayam anusmara mahārudravacanīye svāhā | 
+{{milestone:{label:1.4,id:UT22084-091-062-80}}}oṃ kuru kuru svāhā | 
+{{milestone:{label:1.5,id:UT22084-091-062-81}}}oṃ turu turu{{note:{index:13,id:UT22084-091-062-82}}}svāhā |
+{{milestone:{label:1.6,id:UT22084-091-062-83}}}oṃ muru muru svāhā | 
+{{milestone:{label:1.7,id:UT22084-091-062-84}}}oṃ pāpaśāntivasupuṣṭiṃ kuru svāhā | 
+{{milestone:{label:1.8,id:UT22084-091-062-85}}}amṛta{{note:{index:14,id:UT22084-091-062-86}}}bindukṣubhitacittamahāvidāraḥ samāgacchati mahābhaya mahābala mahāparākrama{{note:{index:15,id:UT22084-091-062-87}}}mahāhasti mahādakṣiṇāya{{note:{index:16,id:UT22084-091-062-88}}}pravedayāmi{{note:{index:17,id:UT22084-091-062-89}}}svāhā |
+{{milestone:{label:1.9,id:UT22084-091-062-90}}}tadyathā oṃ kuru kuru curu curu muru muru |
+{{milestone:{label:1.10,id:UT22084-091-062-91}}}oṃ gaḥ gaḥ gaḥ gaḥ gaḥ gaḥ gaḥ gaḥ |
+{{milestone:{label:1.11,id:UT22084-091-062-92}}}oṃ namo namaḥ svāhā |{{note:{index:18,id:UT22084-091-062-93}}}
+{{milestone:{label:1.12,id:UT22084-091-062-94}}}“Ānanda, if any sons of good family, daughters of good family, monks, nuns, male lay practitioners, or female lay practitioners, who write down this heart mantra of Gaṇapati, Lord of the Gaṇas, and perform the mantra practice, travel to another country to make offerings to the Three Jewels, or travel to a king’s court,{{note:{index:19,id:UT22084-091-062-95}}} they should read this Gaṇapati heart mantra while making offerings to the blessed buddhas with flowers and incense, and all their endeavors will succeed—let there be no doubt! If they recollect it when they are in the midst of all manner of fighting, arguing, strife, and regional conflict, it will all be pacified. If they recite it every morning when they get up, they will retain what they have learned. It will expel yakṣas, rākṣasas, and ḍākinīs, and these will no longer steal their vital energy.”
+{{milestone:{label:1.13,id:UT22084-091-062-96}}}When the Blessed One said this, the entire retinue and the world with its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said. 
+{{milestone:{label:1.14,id:UT22084-091-062-97}}}This concludes “The Noble Heart Mantra of Gaṇapati.” 

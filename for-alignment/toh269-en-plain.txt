@@ -1,4 +1,4 @@
-{{translation:{id:UT22084-068-003,key:toh269,version:1.0.4,style:plain}}}
+{{translation:{id:UT22084-068-003,key:toh269,version:1.0.5,style:plain}}}
 The Noble Mahāyāna Sūtra
 Dispelling the Darkness of the Ten Directions
 Homage to all buddhas and bodhisattvas.

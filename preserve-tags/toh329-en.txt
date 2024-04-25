@@ -1,0 +1,131 @@
+{{translation:{id:UT22084-072-029,key:toh329,version:1.0.3,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Devatā Sūtra
+{{milestone:{label:1.1,id:UT22084-072-029-83}}}{{page:{number:1,id:UT22084-072-029-215,folio:F.257.a}}} Homage to all buddhas and bodhisattvas.
+Thus did I hear at one time. The Blessed One was staying at Jetavana, Anāthapiṇḍada’s park {{page:{number:2,id:UT22084-072-029-216,folio:F.257.b}}} at Śrāvastī.{{note:{index:13,id:UT22084-072-029-87}}} One night, shortly before waking,{{note:{index:14,id:UT22084-072-029-88}}} a beautiful divine being came before the Blessed One, paid homage by bowing its head to the feet of the Blessed One, and sat down to one side. By the power of that divine being, the whole of Jetavana was suffused with a great light. 
+At that time, the divine being inquired with the following verses:{{note:{index:15,id:UT22084-072-029-90}}}
+{{milestone:{label:1.2,id:UT22084-072-029-91}}}“What is the sharpest weapon?{{note:{index:16,id:UT22084-072-029-92}}}
+What is the deadliest poison?{{note:{index:17,id:UT22084-072-029-93}}}
+What is the fiercest fire?
+What is the blackest darkness?”{{note:{index:18,id:UT22084-072-029-94}}}
+{{milestone:{label:1.3,id:UT22084-072-029-95}}}The Blessed One replied:
+{{milestone:{label:1.4,id:UT22084-072-029-96}}}“A harsh word is the sharpest weapon,
+Attachment the deadliest poison.
+Hatred is the fiercest fire,
+And ignorance the blackest darkness.”
+{{milestone:{label:1.5,id:UT22084-072-029-97}}}The divine being asked:
+{{milestone:{label:1.6,id:UT22084-072-029-98}}}“What does a person possess, 
+And what is left behind here?
+In this life, what is indestructible armor,
+And what is the sharpest weapon?”
+{{milestone:{label:1.7,id:UT22084-072-029-99}}}The Blessed One replied:
+{{milestone:{label:1.8,id:UT22084-072-029-100}}}“What you give away is what you possess,
+And what you keep at home is what you leave behind. 
+Patience is the indestructible armor,
+And in this life, wisdom is the sharpest weapon.”
+{{milestone:{label:1.9,id:UT22084-072-029-101}}}The divine being asked:
+{{milestone:{label:1.10,id:UT22084-072-029-102}}}“Who is it that is called ‘thief,’
+And what is the wealth of the holy?
+In this world of gods and humans,
+Who are called ‘the deceived’?”
+{{milestone:{label:1.11,id:UT22084-072-029-103}}}The Blessed One replied:
+{{milestone:{label:1.12,id:UT22084-072-029-104}}}“Conceptual thought is the skillful thief,
+And ethical discipline is the wealth of the holy.
+Those who fail in ethical discipline{{note:{index:19,id:UT22084-072-029-105}}}
+Are the deceived of this world.”
+{{milestone:{label:1.13,id:UT22084-072-029-106}}}The divine being asked:
+{{milestone:{label:1.14,id:UT22084-072-029-107}}}“What is it that is called ‘happiness,’
+And who are the mighty and holy? {{note:{index:20,id:UT22084-072-029-108}}}
+Who are forever adorned,
+And please tell, who are the scorned?”
+{{milestone:{label:1.15,id:UT22084-072-029-109}}}The Blessed One replied:
+{{milestone:{label:1.16,id:UT22084-072-029-110}}}“Those who desire little will know happiness,
+And those who are content are the mighty and holy. 
+Those with discipline are forever adorned,
+And those of weak discipline are the scorned.”
+{{milestone:{label:1.17,id:UT22084-072-029-111}}}The divine being asked: {{page:{number:3,id:UT22084-072-029-217,folio:F.258.a}}}
+{{milestone:{label:1.18,id:UT22084-072-029-112}}}“Who is the affectionate relative,
+And who is the enemy with hateful intent?
+What is unbearable suffering,
+And what, the supreme happiness?”
+{{milestone:{label:1.19,id:UT22084-072-029-113}}}The Blessed One replied:
+{{milestone:{label:1.20,id:UT22084-072-029-114}}}“Merit is the affectionate relative,
+And negative deeds are the enemy with hateful intent.
+The sufferings of hell are unbearable,{{note:{index:21,id:UT22084-072-029-115}}}
+And the absence of aggregates, the supreme happiness.”
+{{milestone:{label:1.21,id:UT22084-072-029-116}}}The divine being asked:
+{{milestone:{label:1.22,id:UT22084-072-029-117}}}“What is attractive but not beneficial,
+And what is beneficial but not attractive?
+What is a harmful disease,
+And who, the supreme physician?”
+{{milestone:{label:1.23,id:UT22084-072-029-118}}}The Blessed One replied:
+{{milestone:{label:1.24,id:UT22084-072-029-119}}}“Lust is attractive but not beneficial,
+And liberation is beneficial but not attractive.
+Attachment is a harmful disease,
+And the Buddha is the supreme physician.”
+{{milestone:{label:1.25,id:UT22084-072-029-120}}}The divine being asked:
+{{milestone:{label:1.26,id:UT22084-072-029-121}}}“By what is this world obscured,
+And by what is it dominated?
+By what are friends separated,
+And what prevents progress to higher realms?”
+{{milestone:{label:1.27,id:UT22084-072-029-122}}}The Blessed One replied:
+{{milestone:{label:1.28,id:UT22084-072-029-123}}}“This world is obscured by lack of understanding,
+And is dominated by delusion.
+Friends are separated by greed,
+And attachment prevents progress to higher realms.”
+{{milestone:{label:1.29,id:UT22084-072-029-124}}}The divine being asked: 
+{{milestone:{label:1.30,id:UT22084-072-029-125}}}“What increases friends?{{note:{index:22,id:UT22084-072-029-126}}}
+And what pacifies enemies?
+How will higher realms be attained,
+And how will liberation occur?”
+{{milestone:{label:1.31,id:UT22084-072-029-127}}}The Blessed One replied:
+{{milestone:{label:1.32,id:UT22084-072-029-128}}}“Through generosity,{{note:{index:23,id:UT22084-072-029-220}}} friends are increased;
+And through love, enemies are pacified.
+Through ethical discipline, higher realms are attained,
+And with understanding, liberation will occur.”
+{{milestone:{label:1.33,id:UT22084-072-029-129}}}The divine being asked: 
+{{milestone:{label:1.34,id:UT22084-072-029-130}}}“When kings and thieves
+Exert great effort,
+What is it that cannot be plundered
+From any man or woman?”
+{{milestone:{label:1.35,id:UT22084-072-029-131}}}The Blessed One replied:
+{{milestone:{label:1.36,id:UT22084-072-029-132}}}“Even if kings and thieves 
+Exert great effort, {{page:{number:4,id:UT22084-072-029-218,folio:F.258.b}}}
+Merit{{note:{index:24,id:UT22084-072-029-133}}} cannot be plundered 
+From any man or woman.”
+{{milestone:{label:1.37,id:UT22084-072-029-134}}}The divine being asked:
+{{milestone:{label:1.38,id:UT22084-072-029-135}}}“What fetters this world,{{note:{index:25,id:UT22084-072-029-136}}}
+And what releases this world?
+What, when abandoned,
+Leads to the attainment of that called nirvāṇa?”
+{{milestone:{label:1.39,id:UT22084-072-029-137}}}The Blessed One replied:
+{{milestone:{label:1.40,id:UT22084-072-029-138}}}“Desire fetters this world,
+And the absence of desire releases it.
+If craving is completely abandoned,
+That which is called nirvāṇa is attained.”
+{{milestone:{label:1.41,id:UT22084-072-029-139}}}The divine being asked:
+{{milestone:{label:1.42,id:UT22084-072-029-140}}}“What is not destroyed even by a strong wind,
+Nor burned by fire?
+Even if the entire ground is inundated,
+What is not spoiled by water?”
+{{milestone:{label:1.43,id:UT22084-072-029-141}}}The Blessed One replied:
+{{milestone:{label:1.44,id:UT22084-072-029-142}}}“Merit is not destroyed, even by strong wind,
+Nor burned by fire.
+Even if the entire ground is inundated,
+Merit is not spoiled by water.”
+{{milestone:{label:1.45,id:UT22084-072-029-143}}}The divine being asked:
+{{milestone:{label:1.46,id:UT22084-072-029-144}}}“Who, greatly deceived, 
+Goes from this world to the next?
+You indeed are the one 
+To dispel this doubt of mine.”
+{{milestone:{label:1.47,id:UT22084-072-029-145}}}The Blessed One replied:
+{{milestone:{label:1.48,id:UT22084-072-029-146}}}“Whoever possesses wealth, 
+But does not accumulate merit,
+They, being greatly deceived,
+Go from this world to the next.”
+{{milestone:{label:1.49,id:UT22084-072-029-147}}}The divine being said:{{note:{index:26,id:UT22084-072-029-148}}}
+{{milestone:{label:1.50,id:UT22084-072-029-149}}}“Aha! I have finally seen 
+A powerful brahmin who has transcended the world,
+Who is free from all fears,{{note:{index:27,id:UT22084-072-029-150}}}
+Who has passed completely beyond sorrow.”
+{{milestone:{label:1.51,id:UT22084-072-029-151}}}After the Blessed One had spoken thus, the divine being rejoiced. He paid homage by bowing its head at the feet of the Blessed One, rejoiced, and disappeared. 
+{{milestone:{label:1.52,id:UT22084-072-029-152}}}This completes “The Devatā Sūtra.”

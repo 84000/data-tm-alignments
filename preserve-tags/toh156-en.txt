@@ -1,0 +1,973 @@
+{{translation:{id:UT22084-058-005,key:toh156,version:1.0.3,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble Great Vehicle Sūtra
+The Questions of the Nāga King Anavatapta
+{{milestone:{label:1.1,id:UT22084-058-005-93}}}{{page:{number:1,id:UT22084-058-005-863,folio:F.206.a}}} Homage to all buddhas and bodhisattvas.
+Thus did I hear at one time. The Blessed One was staying at Vulture Peak Mountain near Rājagṛha with a great saṅgha of one thousand two hundred fifty monks and many bodhisattva great beings. At that time, while the Blessed One was teaching the Dharma to an audience of many hundreds of thousands, the nāga king Anavatapta, escorted by a retinue of six million eight hundred thousand nāga kings and eighty-four thousand nāga maidens playing instruments and singing songs, approached the Blessed One. 
+{{milestone:{label:1.2,id:UT22084-058-005-97}}}Through their great powers and miraculous abilities, those nāgas arrived bearing flowers, perfumes, incense, garlands, ointments, powders, garments, parasols, banners, and flags. When they came before the Blessed One, they bowed their heads at the Blessed One’s feet, circumambulated the Blessed One three times, and offered the Blessed One all the flowers, perfumes, incense, garlands, ointments, powders, garments, parasols, banners, flags, instruments, and drums that they had brought. Then, with respect and with reverence, the nāga king and his retinue of beings sat to one side. Once seated, the nāga king addressed the Blessed One with his palms joined together: “Were the Blessed One to grant me some time for instruction concerning my inquiries, there are some topics on which I would like to question the blessed, thus-gone, worthy, perfect Buddha.” {{page:{number:2,id:UT22084-058-005-864,folio:F.206.b}}}
+{{milestone:{label:1.3,id:UT22084-058-005-98}}}Although he already knew the answer, the Blessed One asked the nāga king Anavatapta, “Lord of nāgas, what is it that you would like to ask the Thus-Gone One for the sake of beings?”
+{{milestone:{label:1.4,id:UT22084-058-005-99}}}“Blessed One, I would like to question the Thus-Gone One on behalf of bodhisattvas, the supreme beings, the great beings, the holy ones who play like lions—on behalf, Blessed One, of the guides of the world who are untainted by worldly concerns; whose conduct and thoughts are pure; who bring genuine benefit to others; who act as spiritual friends to all beings without needing to be asked; who have the might of the ten powers; who defeat the arguments of those who attend misguided assemblies; who have overcome Māra and other opponents; who are undaunted; who have donned the armor of steadfast diligence; who are tireless of mind; who have accumulated immeasurable roots of virtue; whose appetite for discipline and learning cannot be satisfied; who treat all beings equally; who are devoid of the perception of difference; who are free from both extreme views; who are expert in understanding the processes of dependent origination; who engage with the profundity of the Buddha’s teachings that are deep and difficult to fathom; who are without the mental engagement of hearers and solitary buddhas; who have not forgotten the mind of omniscience;{{note:{index:12,id:UT22084-058-005-100}}} whose intention is as firm and unbreakable as a diamond; whose intelligence is as bright and unblemished as the moon; whose minds are like the expanse of space; who for countless eons have been indefatigable of mind; whose hearts are equal to earth, water, fire, and wind; who have eliminated malice, obstinacy, hatred, pride, arrogance, and conceit; who aspire to emptiness, {{page:{number:3,id:UT22084-058-005-865,folio:F.207.a}}} signlessness, and wishlessness; who have comprehended that phenomena are like illusions, dreams, hallucinations, echoes, mirages, and reflections of the moon in water; who hold the lineage of the Buddha, the Dharma, and the Saṅgha; who are as rare as udumbara flowers; who delight in turning the wheel of the Dharma; who have obtained supreme joy and serenity; who are single-pointed in concentration with unwavering focus; who are endowed with all supreme attributes. It is on behalf of such beings that I would like to question the Thus Gone One. 
+{{milestone:{label:1.5,id:UT22084-058-005-101}}}“Blessed One, it is for the sake of bodhisattva great beings whose noble qualities surpass even these, and for the sake of all beings, that I make these inquiries of the Thus Gone One. 
+{{milestone:{label:1.6,id:UT22084-058-005-102}}}“Blessed One, for bodhisattva great beings, please explain the play of phenomena, entering vajra-like qualities, and entering profound practice and the arrangement of dhāraṇī gateways. So as to train hearers, please explain entering the gateway of knowledge through sure engagement with the four truths of the noble ones. So as to train solitary buddhas, please explain entering the gateway of knowledge through engagement with teachings on dependence. So as to train those of the Great Vehicle, please explain entering the gateway of knowledge through engagement with all phenomena. 
+{{milestone:{label:1.7,id:UT22084-058-005-103}}}“Blessed, thus-gone, worthy, perfect Buddha, for the benefit of bodhisattvas, please tell us about the annihilation of the hordes of Māra, the destruction of all wrong views, the elimination of all afflictions, the knowledge of all beings’ actions, the engagement of correct understandings, the thorough explanation of all teachings, and the way beings are liberated in accordance with their inclinations. 
+{{milestone:{label:1.8,id:UT22084-058-005-104}}}“Blessed One, how are bodhisattvas endowed with the power of wisdom through conquering pride, arrogance, and conceit? {{page:{number:4,id:UT22084-058-005-866,folio:F.207.b}}} How are they endowed with the power of Dharma through reliance on the ripening of karma? How are they endowed with the power of generosity through not being miserly with material goods or with the gift of the Dharma? How are they ready to give up everything without expecting reward? How are they endowed with the power of discipline through behaving correctly in accordance with their aspirations and cutting off all entrances to the lower realms? How are they endowed with the power of patience through having the nature of being able to accept all the hostility of beings? How are they endowed with the power of diligence through having no regard for their own lives and limbs? How are they endowed with the power of concentration by abiding in tranquility and knowing how to emerge out of concentration? How are they endowed with the power of insight by being devoid of negative views and the darkness of ignorance and delusion? How are they endowed with the power of skillful means by ripening beings and seeking the armor by which they ripen them? How have they obtained the higher perceptions by reveling in the divine eye, the divine ear, the knowledge of the thoughts of others, the knowledge of previous births, and miraculous powers? How are they endowed with the power of eloquence by means of uninterrupted eloquence with inexhaustible words and syllables? How do they attain the power of retention that retains all that has been heard? How do they attain the absorption called the ocean seal and maintain unfaltering focus on the unique precious jewel of Dharma? How do they maintain the unfaltering mindfulness of the Buddha that stays focused on the pure view of the Buddha? How do they achieve the mindfulness of the Dharma that stays focused on the pure view of the Dharma? How do they achieve the mindfulness of the Saṅgha that stays focused on the saṅgha of those who have reached irreversibility? How do they achieve the mindfulness of discipline in which the mind of awakening does not falter? {{page:{number:5,id:UT22084-058-005-867,folio:F.208.a}}} How do they achieve the mindfulness of generosity that is not miserly with regard to material things and the gift of the Dharma? How do they maintain the unfaltering mindfulness of the gods that recollects those bodhisattvas in the Heaven of Joy who are bound by just one last birth?”
+{{milestone:{label:1.9,id:UT22084-058-005-105}}}Having asked these questions of the Blessed One, the nāga king Anavatapta spoke the following verses:
+{{milestone:{label:1.10,id:UT22084-058-005-106}}}“Self-arisen one who serves the needs of the world,
+What should our determination and our intention be like?
+What should our conduct and behavior be like?
+Please instruct the bodhisattvas.
+{{milestone:{label:1.11,id:UT22084-058-005-107}}}“Enjoining love, engaging compassion,
+Feeling joy, cultivating equanimity,
+Practicing the liberative absorptions—
+Please explain these to me and my family!
+{{milestone:{label:1.12,id:UT22084-058-005-108}}}“Cultivating the path of the correct exertions, the applications of mindfulness,
+The bases of miraculous power, the powers, and the strengths
+And understanding the truths and the branches of awakening—
+Please explain these topics to these fonts of good qualities!
+{{milestone:{label:1.13,id:UT22084-058-005-109}}}“Abundant generosity, self-control, and discipline,
+Patience, gentleness, and diligence,
+Realization through the attainment of insight—
+Please tell us how these come about!
+{{milestone:{label:1.14,id:UT22084-058-005-110}}}“The higher perceptions, awareness, and correct understandings,
+Mindfulness, alertness, and heedfulness,
+Skillful means and the realization of the proper way—
+Please explain these to the bodhisattvas!
+{{milestone:{label:1.15,id:UT22084-058-005-111}}}“Joy, supreme joy, rejoicing in qualities,
+The purity, lineage, and seven treasures of the noble ones, 
+And staying in solitude without afflictions—
+Please tell us how these come about!
+{{milestone:{label:1.16,id:UT22084-058-005-112}}}“How do we achieve excellent eloquence
+While maintaining perfect retention?
+How do we teach the Dharma without interruption
+While not forgetting what we have learned?
+{{milestone:{label:1.17,id:UT22084-058-005-113}}}“How do bodhisattvas master 
+Harmoniously combining tranquility and special insight,
+Profound insight and mental spaciousness,
+Limitless wisdom, and unequaled realization?
+{{milestone:{label:1.18,id:UT22084-058-005-114}}}“Overcoming the power of Māra, being difficult to subdue,
+Defeating enemies and opponents,
+Being immovable and lofty like Mount Sumeru, {{page:{number:6,id:UT22084-058-005-868,folio:F.208.b}}}
+Acting with a mind as pure as the moon,
+{{milestone:{label:1.19,id:UT22084-058-005-115}}}“Emptiness, signlessness, wishlessness, and liberation,
+Certainty that phenomena are like illusions or mirages,
+And conviction in the dream-like nature of compounded phenomena—
+Please explain these to me and my family!”
+{{milestone:{label:1.20,id:UT22084-058-005-116}}}The Blessed One replied to the nāga king Anavatapta, “Excellent, lord of nāgas! Excellent! That you have thought to ask the Thus-Gone One these questions is in keeping, lord of the nāgas, with your previous roots of virtue. You have not given up great compassion, you act as a spiritual friend to all beings without being asked, you are not disheartened in saṃsāra, and you perpetuate the lineage of the Buddha, the Dharma, and the Saṅgha—excellent! Therefore, lord of nāgas, listen carefully, and pay attention; I shall tell you how bodhisattvas attain these and other distinguished qualities.”
+{{milestone:{label:1.21,id:UT22084-058-005-117}}}“I will, Blessed One,” replied the nāga king Anavatapta, and he listened as the Blessed One had instructed.
+{{milestone:{label:1.22,id:UT22084-058-005-118}}}“Lord of nāgas,” said the Blessed One, “if bodhisattva great beings have just one quality, they will have all the qualities of a buddha with every supreme attribute. What is that single quality? It is the mind of omniscience that does not overlook any being. This mind of omniscience involves thirty-two aspects. What are the thirty-two aspects? It involves intention, it involves resolve, it involves great love, it involves great compassion, it involves tirelessness, it involves strength, it involves overcoming, it involves power, it involves discernment, it involves giving spiritual guidance, it involves Dharma practice, it involves virtuous behavior, it involves the means of attraction, it involves restraint, it involves skillful means, it involves nonfabrication, it involves following through on one’s words, {{page:{number:7,id:UT22084-058-005-869,folio:F.209.a}}} it involves not hoping for reward, it involves modesty, it involves humility, it involves joy, it involves faith, it involves diligence, it involves mindfulness, it involves absorption, it involves insight, it involves roots of virtue, it involves disinterest in the lower vehicles, it involves dedication to the vast, it involves concern for beings, and it involves perpetuating of the lineage of the Buddha, the Dharma, and the Saṅgha.{{note:{index:13,id:UT22084-058-005-119}}} Lord of nāgas, when the mind of omniscience embraces these thirty-two aspects, one will have all the qualities of a buddha endowed with every supreme attribute. 
+{{milestone:{label:1.23,id:UT22084-058-005-120}}}“Furthermore, lord of nāgas, the mind of omniscience relates to the wisdom of omniscience in terms of sixteen accumulations. What are the sixteen? They are the accumulations of discipline, of learning, and of insight; the accumulations of worshiping and serving the Thus-Gone One, of staying in solitude, and of teaching the Dharma just as one has heard it; the accumulations of the four abodes of Brahmā, of pleasing qualities, and of the path of the ten virtues; the accumulation of the ornaments of body, speech, and mind; the accumulation of ascetic practices and austerity; the accumulations of having few desires, of contentment, and of complete seclusion; the accumulation of dedication as formulated in the three sections;{{note:{index:14,id:UT22084-058-005-121}}} the accumulation of tranquility; the accumulation of special insight; {{page:{number:8,id:UT22084-058-005-870,folio:F.209.b}}} and the accumulation of all roots of virtue. Lord of nāgas, the mind of omniscience correlates to omniscient wisdom in terms of these sixteen accumulations. 
+{{milestone:{label:1.24,id:UT22084-058-005-122}}}“Furthermore, lord of nāgas, when the mind of omniscience avoids the twenty-two misguided and wrong paths that are to be renounced, omniscient wisdom will be attained. What are the twenty-two? They are avoidance of (1) the mindset of a hearer; (2) the mindset of a solitary buddha; (3) pride; (4) excessive pride; (5) duplicity; (6) attachment to worldly spells; (7) engagement with mistaken views; (8) being disheartened; (9) fear; (10) arrogance and combativeness; (11) desire, aversion, and delusion; (12) karmic obscuration; (13) confusion with regard to phenomena; (14) praising oneself and disparaging others; (15) teachers who withhold the Dharma; (16) forgetful perception; (17) unvirtuous companions; (18) hostility toward spiritual friends; (19) the discordant factors of the six perfections, namely miserliness, negative attitude, intolerance, laziness, distraction, and flawed insight;{{note:{index:15,id:UT22084-058-005-123}}} (20) nihilism and eternalism; (21) developing unskillful methods; and (22) all types of wrongdoing. Lord of nāgas, if the mind of omniscience is free of these twenty-two misguided and wrong paths and has renounced them, omniscient wisdom will be attained. 
+{{milestone:{label:1.25,id:UT22084-058-005-124}}}“Furthermore, lord of nāgas, when bodhisattvas who have developed the mind of omniscience are ennobled by twelve banners, {{page:{number:9,id:UT22084-058-005-871,folio:F.210.a}}} it will be very difficult for māras and their armies, indeed for any opponent, to vanquish them. What are the twelve? They are the ennobling banner of discipline; the ennobling banner of absorption; the ennobling banner of insight; the ennobling banner of liberating wisdom; the ennobling banner of great compassion; the ennobling banner of skillful means; the ennobling banner of emptiness, signlessness, and wishlessness; the ennobling banner of the lack of sentience, life force, and individuality in living beings; the ennobling banner of being free of extreme views and having understood dependent origination; the ennobling banner of being blessed by the Buddha through the complete purity of one’s own mind; the ennobling banner of omniscient wisdom that is free of assumptions, thoughts, concepts, and discursiveness; and the ennobling banner of not forgetting the mind of awakening. Lord of nāgas, when bodhisattvas who have developed the mind of omniscience are ennobled by these twelve banners, it is very difficult for māras and their armies, indeed for any opponent, to subdue them.
+{{milestone:{label:1.26,id:UT22084-058-005-125}}}“Furthermore, lord of nāgas, the mind of omniscience has two foundations. What are they? They are following through on one’s words and dedicating all roots of virtue toward perfect awakening. {{page:{number:10,id:UT22084-058-005-872,folio:F.210.b}}} Those are the two.
+{{milestone:{label:1.27,id:UT22084-058-005-126}}}“Furthermore, lord of nāgas, the mind of omniscience has two aspects that must not be lost. What are they? They are not being angry toward any being and being especially compassionate toward those with wrong views. Those are the two.
+{{milestone:{label:1.28,id:UT22084-058-005-127}}}“Furthermore, lord of nāgas, the mind of omniscience has two qualities to be combined. If these two are combined, the mind of omniscience will outshine all hearers and solitary buddhas. What are they? They are skillful means and insight. Those are the two.
+{{milestone:{label:1.29,id:UT22084-058-005-128}}}“Furthermore, lord of nāgas, the mind of omniscience relies on two things. What are they? They are not regretting what has already been done and not trusting that which is transient. Those are the two.
+{{milestone:{label:1.30,id:UT22084-058-005-129}}}“Furthermore, lord of nāgas, the mind of omniscience has two characters.{{note:{index:16,id:UT22084-058-005-130}}} What are they? They are being without attachment to the vehicle of hearers and the vehicle of solitary buddhas and seeing the benefits of the Great Vehicle. Those are the two.
+{{milestone:{label:1.31,id:UT22084-058-005-131}}}“Furthermore, lord of nāgas, there are two factors that interrupt the mind of omniscience. What are they? They are being deceitful and being dishonest. Those are the two interruptions.
+{{milestone:{label:1.32,id:UT22084-058-005-132}}}“Furthermore, lord of nāgas, there are two factors that restore the mind of omniscience. What are they? They are mindfulness and not being deceitful. Those are the two restorers.
+{{milestone:{label:1.33,id:UT22084-058-005-133}}}“Furthermore, lord of nāgas, there are three factors that create obscurations to the mind of omniscience. What are the three? They are negative behavior of the body, negative behavior of speech, and negative behavior of mind. Those are the three.
+{{milestone:{label:1.34,id:UT22084-058-005-134}}}“Furthermore, lord of nāgas, there are three factors that eliminate obscurations to the mind of omniscience. What are the three? They are positive behavior of the body, positive behavior of speech, and positive behavior of mind. {{page:{number:11,id:UT22084-058-005-873,folio:F.211.a}}} Those are the three factors that eliminate obscurations.
+{{milestone:{label:1.35,id:UT22084-058-005-135}}}“Lord of nāgas, there are four further factors that obscure the mind of omniscience. What are the four? They are rejecting the sacred Dharma, lacking devotion toward teachers, bearing hostility toward bodhisattvas, and not comprehending the deeds of Māra. Those are the four obscurations.
+{{milestone:{label:1.36,id:UT22084-058-005-136}}}“Lord of nāgas, there are four further factors that eliminate obscurations to the mind of omniscience. What are the four? They are maintaining the sacred Dharma, having proper devotion for teachers, cherishing bodhisattvas as if they were the Teacher, and comprehending the deeds of Māra. Those are the four factors that eliminate obscurations.
+{{milestone:{label:1.37,id:UT22084-058-005-137}}}“Furthermore, lord of nāgas, there are five priceless qualities of the mind of omniscience. What are the five? They are having generosity without expecting any reward, discipline that does not dwell on future rebirths, great compassion that does not abandon any being, sacrificing life and limb without discriminating between those who are kind and those who are unkind, and teaching the Dharma without seeking gain, veneration, or praise. Lord of nāgas, those are the five priceless qualities attained through the mind of omniscience.
+{{milestone:{label:1.38,id:UT22084-058-005-138}}}“Furthermore, lord of nāgas, there are five resolutions of the mind of omniscience. What are the five? They are to follow a spiritual friend, to not be disheartened in saṃsāra, to not be conceited with regard to wisdom, to forsake untimely gains, and to not be timid with regard to the limitless wisdom of the buddhas. Lord of nāgas, those are the five resolutions of the mind of omniscience.
+{{milestone:{label:1.39,id:UT22084-058-005-139}}}“Furthermore, lord of nāgas, the mind of omniscience has five noble aspects that hearers and solitary buddhas lack. What are the five? They are the noble wisdom of liberation from the vehicle of the hearers, the noble wisdom of liberation from the vehicle of the solitary buddhas, {{page:{number:12,id:UT22084-058-005-874,folio:F.211.b}}} the noble understanding of the selflessness of all phenomena, the noble understanding of the thoughts of all beings, and the noble understanding of how to halt the perpetuation of habitual tendencies. Those are the five noble aspects.
+{{milestone:{label:1.40,id:UT22084-058-005-140}}}“Furthermore, lord of nāgas, the mind of omniscience has five supreme joys. What are the five? They are the supreme joy of passing beyond the lower realms, the supreme joy of approaching omniscience, the supreme joy of perfecting the wisdom vision of the buddhas, the supreme joy of being without regret by diligently observing discipline, and the supreme joy experienced through benefiting beings. Those are the five supreme joys.
+{{milestone:{label:1.41,id:UT22084-058-005-141}}}“Furthermore, lord of nāgas, the mind of omniscience has five powers. What are the five? They are the power of wisdom through overcoming pride, the power of insight through being inseparable from learning, the power of love through the absence of anger, the power of patience through perfecting the marks,{{note:{index:17,id:UT22084-058-005-142}}} and the power of fearlessness through being without fear and anxiety in the presence of others. Those are the five powers.
+{{milestone:{label:1.42,id:UT22084-058-005-143}}}“Furthermore, lord of nāgas, the mind of omniscience has five modes of reasoning that do not fall into irrationality. What are the five? They are reasoning with confidence in the ripening of karma, reasoning that does not err in its understanding of dependent origination, reasoning that discerns what is timely and what is untimely, reasoning that engages accurately, and reasoning that validates all virtuous qualities. Those are the five reasonings.
+{{milestone:{label:1.43,id:UT22084-058-005-144}}}“Furthermore, lord of nāgas, the tree of the mind of omniscience has five appearances, five seeds, {{page:{number:13,id:UT22084-058-005-875,folio:F.212.a}}} five roots, five trunks, five branches, five leaves, five flowers, and five fruits. What are the five appearances? They are the appearance of being free of afflictions, the appearance of being sure in one’s own mind, the appearance of insight, the appearance of the five eyes, and the appearance of omniscient wisdom. Those are the five appearances.
+{{milestone:{label:1.44,id:UT22084-058-005-145}}}“What are the five seeds? They are intention, resolve, concern for beings, devotion, and dedication to the vast. Those are the five seeds.
+{{milestone:{label:1.45,id:UT22084-058-005-146}}}“What are the five roots? They are great love, great compassion, never being satisfied by one’s roots of virtue and dedicating one’s roots of virtue, courageously confessing one’s faults, and having no interest in other vehicles. Those are the five roots.
+{{milestone:{label:1.46,id:UT22084-058-005-147}}}“What are the five trunks? They are skillful means, the perfection of insight, bringing beings to maturity, maintaining the sacred Dharma, and impartiality free from attachment and aversion. Those are the five trunks.
+{{milestone:{label:1.47,id:UT22084-058-005-148}}}“What are the five branches? They are generosity, discipline, patience, diligence, and concentration. Those are the five branches.
+{{milestone:{label:1.48,id:UT22084-058-005-149}}}“What are the five leaves? They are discipline, learning, renouncing one’s home, living in seclusion, and finding contentment in the noble lineage. Those are the five leaves.
+{{milestone:{label:1.49,id:UT22084-058-005-150}}}“What are the five flowers? They are the excellent major marks that come with the accumulation of merit, the excellent minor marks that come with the accumulation of various acts of generosity, the excellent branches of awakening that come through ascertaining the mind, excellent eloquence that comes through explaining aspects of the Dharma, and excellent flawless memory that comes through achieving the power of retention. Those are the five flowers. {{page:{number:14,id:UT22084-058-005-876,folio:F.212.b}}}
+{{milestone:{label:1.50,id:UT22084-058-005-151}}}“What are the five fruits? They are attaining the fruit of training, the fruit of passing beyond training, the fruit of a solitary buddha, the fruit of the bodhisattva level of irreversibility, and the fruit of omniscient wisdom. Those are the five fruits.
+{{milestone:{label:1.51,id:UT22084-058-005-152}}}“Lord of nāgas, these are the appearances, seeds, roots, trunks, branches, leaves, flowers, and fruits of the tree of the mind of omniscience. Therefore, lord of nāgas, a bodhisattva who aspires to having such a tree of the mind omniscience must not forget the mind of omniscience. Lord of nāgas, I have not seen any excellent qualities lacking in those who have the mind of omniscience. Lord of nāgas, someone who possesses the seed of a tree also possesses its roots, trunks, branches, leaves, flowers, and fruits. In the same way, lord of nāgas, someone who possesses the mind of omniscience also possesses the factors of awakening. Therefore, lord of nāgas, this teaching, which is a Dharma gateway on the qualities of bodhisattvas, should be remembered. Retain it, recite it, and explain it widely to those around you! This is how you should train.”
+{{milestone:{label:1.52,id:UT22084-058-005-153}}}When the Blessed One delivered this teaching on the source of the wisdom of omniscience, seventy-two thousand nāgas from among those assembled there developed the intention to reach unsurpassed and perfect awakening. Young nāgas, female nāgas, and nāga kings reached acceptance in keeping with the roots of virtue {{page:{number:15,id:UT22084-058-005-877,folio:F.213.a}}} that they had produced, and five hundred of the assembled bodhisattvas reached acceptance of the unborn nature of phenomena. Those nāga boys, nāga girls, and nāga kings ascended into the sky and disappeared, leaving in their wake a great cloud of benzoin resin that showered a rain of heavenly uragasāra sandalwood powder as an offering to the Blessed One. The land and everything in it was covered and enveloped by a lattice of pearls, and it was as if the entire surface of the sky were covered with necklaces and half-moon ornaments.
+{{milestone:{label:1.53,id:UT22084-058-005-154}}}Then the nāga king Anavatapta said to the Blessed One, “Blessed One, the way the Thus-Gone One has explained the mind of awakening and the mind of omniscience—its qualities, aspects, and practices—is wonderful! Blessed One, please explain the pure path of bodhisattvas, known as the domain of the bodhisattvas, by which bodhisattvas who enter the pure path will reach the ultimate and will, throughout the intervening period, be neither discouraged nor satisfied until they perfect the ten powers, the four types of fearlessness, and all the qualities of a buddha! Thus-Gone One, please explain it.” 
+{{milestone:{label:1.54,id:UT22084-058-005-155}}}“Lord of nāgas,” the Blessed One replied to the nāga king Anavatapta, “the pure path of bodhisattvas is eightfold. What are the eight parts? They are the path of the perfections, the path of the means of attraction, the path of the higher perceptions, the path of the immeasurable attitudes, the eightfold path, the path of impartiality toward all beings, the path of the three gateways to liberation, {{page:{number:16,id:UT22084-058-005-878,folio:F.213.b}}} and the path of reaching acceptance of the unborn nature of phenomena. Lord of nāgas, these are the eight. 
+{{milestone:{label:1.55,id:UT22084-058-005-156}}}“The path of the perfections consists in complete dedication toward omniscience. Why? Because generosity that is not dedicated toward omniscience cannot be considered as the perfection of generosity. It is the same with discipline, patience, diligence, concentration, and insight. Insight that is not dedicated toward omniscience cannot be considered as the perfection of insight. Dedication toward omniscience is thus known as the path of the perfections.
+{{milestone:{label:1.56,id:UT22084-058-005-157}}}“The path of the means of attraction consists in inspiring devotion toward the Dharma in others. Why? Lord of nāgas, those beings who have been attracted by bodhisattvas through the four means of attraction will understand the Dharma teachings. So, inducing devotion toward the Dharma in others is known as the path of the means of attraction. 
+{{milestone:{label:1.57,id:UT22084-058-005-158}}}“The path of the higher perceptions consists in seeing with the divine eye all the buddha fields, the death, transference, and rebirth of beings, and the blessed buddhas along with their saṅghas of hearers. Once these are seen, what should be taken up is taken up, and what should be cast aside is cast aside. It consists in hearing with the divine ear the words of the blessed buddhas and, having heard those words, remembering them and not squandering them. It consists in knowing clearly the mental processes of other beings and other individuals and teaching the Dharma accordingly to each. It consists in remembering one’s past births and not squandering the roots of virtue acquired through previous actions. It consists in manifesting miraculous powers to travel to limitless buddha fields {{page:{number:17,id:UT22084-058-005-879,folio:F.214.a}}} and using miraculous powers to tame those beings who must be tamed. Thus it is known as the path of the higher perceptions. 
+{{milestone:{label:1.58,id:UT22084-058-005-159}}}“The path of the immeasurable attitudes consists in understanding the mindset of the brahmās of good aspect{{note:{index:18,id:UT22084-058-005-160}}} and the other gods of the form realm. These are said to be the attitude of love, the attitude of great compassion, the attitude of joy, and the attitude of equanimity. One is to be guided by such a training. Thus it is known as the path of the immeasurable attitudes.
+{{milestone:{label:1.59,id:UT22084-058-005-161}}}“The eightfold path can be followed by all—it can be followed by those on the vehicle of the hearers, those on the vehicle of the solitary buddhas, and those on the Great Vehicle. It can be followed by everyone, and thus it is known as the eightfold path. 
+{{milestone:{label:1.60,id:UT22084-058-005-162}}}“The path of impartiality toward all beings consists in refraining from discrimination such as ‘I will do it for this one but not for that one,’ ‘I will explain for this person but not for that one,’ or ‘This person is worthy of my generosity, but that one is not.’ Instead, it takes the route of impartiality toward all beings, and thus it is known as the path of impartiality toward all beings.
+{{milestone:{label:1.61,id:UT22084-058-005-163}}}“The path of the three gateways to liberation refers to emptiness, in which all reference points are abandoned; signlessness, in which all thoughts, concepts, discursiveness, signs, and ideas are abandoned; and wishlessness, in which reliance on the three realms is abandoned. Thus it is known as the path of the three gateways to liberation.
+{{milestone:{label:1.62,id:UT22084-058-005-164}}}“The path of the attainment of acceptance of the unborn nature of phenomena refers to the bodhisattvas’ attainment of prophecy. Knowing that bodhisattvas have reached acceptance of the unborn nature of phenomena, the blessed buddhas prophesy their unsurpassed and perfect awakening. Thus it is known as the path of reaching the acceptance of the unborn nature of phenomena. {{page:{number:18,id:UT22084-058-005-880,folio:F.214.b}}}
+{{milestone:{label:1.63,id:UT22084-058-005-165}}}“Lord of nāgas, these eight pure paths of bodhisattvas are combined in a single path to be traversed alone. Without companions, alone, and unassisted, bodhisattvas will reach that which must be reached—the seat of awakening—through their instantaneous insight. Why are thus-gone ones referred to as such? Because they have reached the thusness of all phenomena. That is why they are called thus-gone ones. Lord of nāgas, this teaching on the eightfold pure path of bodhisattvas is taught for a variety of beings who practice in different ways. But when taught from the perspective of the absence of reference points, all are subsumed in a single teaching.
+{{milestone:{label:1.64,id:UT22084-058-005-166}}}“What is meant by the purity of this path? Since there is no dust on this path, it is spotless. Since this path is undisturbed, it is devoid of aggression. Since this path is illuminated by insight, it is devoid of confusion. Since this path is pure by nature, it is devoid of any kind of affliction. Since this path is emancipated from the four misconceptions, it is unborn. Since this path is seen as unreal in essence, it lacks an essential nature. Since this path takes into account the desire, form, and formless realms, it is undefiled. Since this path is without distinct reference points, it is peaceful. Since this path neither goes to nor comes from anywhere, it is without coming and going. Since this path does not dwell on any affliction, it is well settled. On this path, māras do not tread. This path is not for non-Buddhists. On this path there is no opportunity for those with the pride of conceit. This path is not embarked upon by those who do not have perseverance. This path is very long and tiring for those who hold on to reference points. {{page:{number:19,id:UT22084-058-005-881,folio:F.215.a}}} This path is forsaken by wrongdoers. This path is relied upon by holy beings. This path is followed by those who engage in yogic practices. This path is pleasant to travel upon for those who exert themselves in the right way. This path consists of resting naturally for those who are properly settled in the right view. This path is wide open for those who are diligent and without obscurations. This path is without obstruction for those who enter and follow it correctly. This path is untainted by the afflictions of desire, aversion, and delusion. This path is pure, since it is utterly devoid of affliction. That is why it is known as the pure path. 
+{{milestone:{label:1.65,id:UT22084-058-005-167}}}“Lord of nāgas, all those who have entered, who are entering, and who will enter this pure path come to understand that since the realm of phenomena is pure, the realm of the self is pure; and since the realm of the self is pure, the realm of phenomena is pure. They realize that since the realm of phenomena is pure, all the realms of beings are pure; and since all the realms of beings are pure, the eye element is pure—so they realize that all the sensory elements up to the element of the mental faculty are also pure. And since the element of the mental faculty is pure, they realize that the desire, form, and formless realms are pure; and since the desire, form, and formless realms are pure, they realize that the element of space is pure; and since the element of space is pure, they realize that all phenomena are pure. In this way, with this purity of pure space, all phenomena are equal. Therefore, the purity of space, {{page:{number:20,id:UT22084-058-005-882,folio:F.215.b}}} the purity of all phenomena, and the purity of the self are inseparable—they cannot be divided. This path is pure in terms of this indivisible purity. That is why it is known as the pure path. On it there is no sensation; it is the path of no sensation—all sensations cease. On it there is not even the sensation of nirvāṇa. So it is known as devoid of sensation. This path, since it is free of mind, mental faculty, and consciousness, is devoid of all mental projection toward phenomena. That is why it known as the pure path.”
+{{milestone:{label:1.66,id:UT22084-058-005-168}}}When the Blessed One delivered this teaching on the good qualities of cultivating this pure path, twelve thousand beings who had purified themselves reached acceptance.
+{{milestone:{label:1.67,id:UT22084-058-005-169}}}The nāga king Anavatapta then asked the Blessed One, “Blessed One, how should bodhisattvas cultivate the path of the noble ones?”
+{{milestone:{label:1.68,id:UT22084-058-005-170}}}The Blessed One replied, “Lord of nāgas, bodhisattvas who wish to cultivate the pure path of the noble ones should become expert in pure conduct; their body should be pure, and their speech and mind should be pure. 
+{{milestone:{label:1.69,id:UT22084-058-005-171}}}“What is the pure body? It is the realization that because one’s own body is empty, the bodies of all beings are empty; the realization that since one’s own body is void, the bodies of all beings are void; the realization that since one’s own body is inert matter, the bodies of all beings are inert matter; the realization that since one’s own body is inanimate, the bodies of all beings are inanimate; the realization that since one’s own body is like a hallucination, the bodies of all beings are like hallucinations; the realization that since one’s own body is pure, the bodies of all beings are also pure. This is known as the purity of the body. {{page:{number:21,id:UT22084-058-005-883,folio:F.216.a}}}
+{{milestone:{label:1.70,id:UT22084-058-005-172}}}“Furthermore, lord of nāgas, bodhisattvas understand that the pure body does not actually perform physical actions. They realize that such performance is formation, that formation is the same as nonformation, and that nonformation is the same as formation. This is the true understanding of the body, the full understanding of the body’s true nature. What is the body’s true nature? Throughout the entire extent of the past, its true nature has been unborn; throughout the entire extent of the future, its true nature will not transmigrate; and in the present, its true nature is like a hallucination—this is the true nature of the body.
+{{milestone:{label:1.71,id:UT22084-058-005-173}}}“Furthermore, the true nature of the body is the true nature of gathered causes and conditions. Because those causes and conditions are unintended, it is empty, inanimate, and devoid of any essence. Lord of nāgas, these are a bodhisattva’s understandings of the true nature of the body, which is the pure body. 
+{{milestone:{label:1.72,id:UT22084-058-005-174}}}“Furthermore, the purity of the body is the understanding that just as the body of the Thus-Gone One is undefiled and does not belong to the three realms, one’s own body is undefiled and does not belong to the three realms. Even when such an undefiled body is born in the world, it does not lose its undefiled limit of reality. Even when the undefiled body takes on and manifests a physical form, this naturally inherent true nature of the body is not lost. The understanding that since the body of the Thus-Gone One is pure, one’s own body is also pure, and that since one’s own body is pure, the bodies of all beings are also pure—this is the purity of the body. 
+{{milestone:{label:1.73,id:UT22084-058-005-175}}}“What is the purity of speech? All speech, both the speech of noble ones and the speech of those who are not noble ones, is pure. {{page:{number:22,id:UT22084-058-005-884,folio:F.216.b}}} However, childish ordinary beings become afflicted in all kinds of ways, when they make imputations. They desire that which is experienced as pleasant, and they are averse to that which is experienced as unpleasant. But ultimately all speech is free from desire, free from aversion, and free from delusion. Since even the words desire, aversion, and ignorance are unborn, all speech should be considered pure. Speech is unreal, and that which is unreal is not afflicted by the afflictions of desire, aversion, and delusion. Speech is beyond grasping—it cannot be grasped by the eye up to cannot be grasped by the mind. Speech is like the wind—it does not arise without a combination of elements that are then transformed by air. Speech is like an echo. Speech—both that of the noble ones and those who are not noble ones—is to be found neither inside nor outside, nor anywhere else. Investigations and analyses of its source and location reveal it to be unfindable, groundless, and unknowable. Therefore, lord of nāgas, whatever speech of the Thus-Gone One arises, as well as the speech of other beings, is all nonexistent, unreal, false, and deceptive conditioned phenomena.”
+{{milestone:{label:1.74,id:UT22084-058-005-176}}}“Blessed One, does the Thus-Gone One not speak truthfully?”
+{{milestone:{label:1.75,id:UT22084-058-005-177}}}“Indeed, lord of nāgas, a thus-gone one does speak truthfully. Why? Because a thus-gone one understands that all compounded phenomena are unarisen, and he teaches in accordance with that understanding. In this sense, a thus-gone one speaks truthfully.
+{{milestone:{label:1.76,id:UT22084-058-005-178}}}“Lord of nāgas, all beings analyze the speech of the Thus-Gone One literally. {{page:{number:23,id:UT22084-058-005-885,folio:F.217.a}}} That is why, even though the wheel of Dharma has been turned, they still do not understand the essence of the Dharma. That is why their analysis of the words does not lead to the full exhaustion of the suffering it makes.{{note:{index:19,id:UT22084-058-005-179}}} Lord of nāgas, childish ordinary beings can fixate on any words in this way. All the conventional expressions of speech arise untainted by afflictions. Even the word affliction has neither been nor will be afflicted by afflictions. Whether speech is analyzed as being pure, it does not affect its intrinsically pure true nature.{{note:{index:20,id:UT22084-058-005-180}}} Lord of nāgas, that is known as the purity of speech.
+{{milestone:{label:1.77,id:UT22084-058-005-181}}}“What is the purity of mind? The nature of the mind cannot be afflicted. Why? The mind is by nature luminosity, yet it is subject to sudden affliction, and by proximity to affliction it becomes further afflicted. Bodhisattvas give no opportunity for those temporary afflictions to arise. They understand that naturally pure mental acts that gather{{note:{index:21,id:UT22084-058-005-182}}} roots of virtue are mind’s very nature. They understand that mental acts that radiate love to all beings are the same as the mind. They understand that mental acts that dedicate all roots of virtue toward awakening are the same as awakening. In this way, although those of pure mind may coexist with those who engage in lustful behavior, they are not in any way polluted by the stains of desire. Likewise, though they may coexist with those who behave with aversion, delusion, or all afflictions in equal measure, they are not polluted by those stains. In the same way, even when those with pure minds are born in the desire realm, {{page:{number:24,id:UT22084-058-005-886,folio:F.217.b}}} they cannot be outshone by the peaceful brahmās of the form realm. Rather, it is the bodhisattvas who outshine the gods. Likewise, even when those with pure minds are born into the form realm and coexist with beings of the desire realm, they do not become disheartened. Nor do they despise those beings who assert a self. In the same way, if those with a pure mind rest evenly in all the absorptions and attainments, they will not be reborn through the power of those concentrations and absorptions.
+{{milestone:{label:1.78,id:UT22084-058-005-183}}}“Why? Because, lord of nāgas, bodhisattvas reach accomplishment through their skillful expertise in ascertaining the mind. Likewise, lord of nāgas, bodhisattvas who cultivate this path of purity are expert in pure conduct. Lord of nāgas, the path is not cultivated by meditating on entities, nor by destroying them. The path is not cultivated by asserting entities, nor by denying them. The path is not cultivated through the existence of entities, nor through the nonexistence of entities. The path is not cultivated by the arising of entities, nor by the cessation of entities. The path is not cultivated by grasping entities, nor by rejecting entities. The path is not cultivated by meditating on a self, the lack of a self, a being, a life force, a soul, a person, an individual, humanity, or a human being. The path is not cultivated by meditating on the aggregates as impermanence, by meditating on the aggregates as suffering, by meditating on the aggregates as being without self, by meditating on the aggregates as peace, or by meditating on the aggregates as free from desire. Nor is the path cultivated by meditating on the aggregates as being like illusions, {{page:{number:25,id:UT22084-058-005-887,folio:F.218.a}}} by meditating on the aggregates as being like dreams, by meditating on the aggregates as being like hallucinations, or by meditating on the aggregates as being like echoes. Nor is the path cultivated by meditating on the aggregates as emptiness, by meditating on the aggregates as being beyond signs, or by meditating on the aggregates as being beyond wishes.
+{{milestone:{label:1.79,id:UT22084-058-005-184}}}“Why? Because that which is empty is neither an entity nor a nonentity. That which is beyond signs and beyond wishes is neither an entity nor a nonentity. This is known as the cultivation of the path. This path is not cultivated by meditating on the aggregates, on the elements, or on the sense sources. It not cultivated by meditating on being free of attachment to ignorance, up to not cultivated by meditating on being free of attachment to old age and death. Similarly, it is not cultivated by meditating on the mundane or the supramundane, on the compounded or the uncompounded, on the defiled or the undefiled, or on the flawed or the flawless. Lord of nāgas, not imputing any phenomena as entities or as nonentities is known as the cultivation of the path. Meditating on all phenomena as nonabiding, without accepting them and without rejecting them, is known as the cultivation of the path.”
+{{milestone:{label:1.80,id:UT22084-058-005-185}}}As this discourse on teaching the qualities of cultivating the pure path was being given by the Blessed One, ninety-two thousand beings from among those assembled purified the Dharma eye so that phenomena became spotless and immaculate; twelve thousand beings reached concordant acceptance; and seven thousand beings reached acceptance of the unborn nature of phenomena. 
+{{milestone:{label:1.81,id:UT22084-058-005-186}}}Then the whole assembly exclaimed in unison, “Blessed One, those noble sons and daughters {{page:{number:26,id:UT22084-058-005-888,folio:F.218.b}}} who have listened to this teaching on cultivating the pure path and, having heard it, have comprehended it and remembered it without fear will attain the unsurpassed, perfect awakening of the Thus-Gone One! They will turn the wheel of Dharma that the Thus-Gone One turns! They will protect the rare jewel of the Thus-Gone One’s sacred Dharma! They will sit on the lion throne and roar like lions, just as the thus-gone, worthy, unsurpassed, perfect Buddha does now! They will conquer the legions of Māra! They will eliminate all adversaries! They will raise the flag of the Dharma! They will make the lamp of the Dharma blaze! They will blow the conch of the Dharma! They will beat the drum of the Dharma! They will bring down a rain of Dharma!”
+{{milestone:{label:1.82,id:UT22084-058-005-187}}}Then the Blessed One rejoiced in the well-spoken words of the nāgas and the fourfold assembly and spoke these verses to the nāga king Anavatapta:
+{{milestone:{label:1.83,id:UT22084-058-005-188}}}“Those who conceive of entities
+Cannot cultivate this path.
+On this path, therefore,
+There is no notion of entities.
+{{milestone:{label:1.84,id:UT22084-058-005-189}}}“This path is pure like the sky—
+It cannot be cultivated
+While apprehending
+Either entities or nonentities.
+{{milestone:{label:1.85,id:UT22084-058-005-190}}}“Those who do not apprehend this path
+In terms of entities or nonentities,
+Those who are free from such concepts,
+Are those who cultivate the supreme path.
+{{milestone:{label:1.86,id:UT22084-058-005-191}}}“This path is not cultivated 
+In terms of self or the absence of self.
+This path of nonduality
+Brings unsurpassed happiness. 
+{{milestone:{label:1.87,id:UT22084-058-005-192}}}“The same applies to life force,
+Soul, and individuality;
+On this path, there is no individual,
+There is no life force, and nothing is established. {{page:{number:27,id:UT22084-058-005-889,folio:F.219.a}}}
+{{milestone:{label:1.88,id:UT22084-058-005-193}}}“Those who cultivate the path
+While fixating on emptiness
+Are far from the noble path—
+They are not cultivating this path.
+{{milestone:{label:1.89,id:UT22084-058-005-194}}}“In emptiness there is no path,
+Nor any cultivation of the path.
+Its single characteristic is that
+It is beyond extremes—empty of emptiness.
+{{milestone:{label:1.90,id:UT22084-058-005-195}}}“The characteristic of arising is not the path,
+Nor is the absence of such a characteristic,
+And that which is unborn is unceasing.
+That is said to be the cultivation of the path.
+{{milestone:{label:1.91,id:UT22084-058-005-196}}}“The five aggregates are like illusions;
+How could those who entertain notions
+And hold on to the concept of entities
+Cultivate the path?
+{{milestone:{label:1.92,id:UT22084-058-005-197}}}“This path transcends the world;
+Since the aggregates are unreal
+And subject to destruction,
+They cannot be cultivated.
+{{milestone:{label:1.93,id:UT22084-058-005-198}}}“The nature of the aggregates
+Is taught to be thusness,
+And that thusness
+Cannot transform into something else. 
+{{milestone:{label:1.94,id:UT22084-058-005-199}}}“Thusness is not the cultivation of a path;
+In it, existence and nonexistence are the same.
+One should know thusness in that way—
+That is the cultivation of the path.
+{{milestone:{label:1.95,id:UT22084-058-005-200}}}“All phenomena are thusness.
+I have awakened in that way.
+On the path one meditates
+In order to realize just that.
+{{milestone:{label:1.96,id:UT22084-058-005-201}}}“When those who do not know the path,
+And are not particularly engaged,
+Seek the Buddha’s teachings,
+They will be hindered by obstacles.
+{{milestone:{label:1.97,id:UT22084-058-005-202}}}“While remaining in thusness,
+I will explain 
+How I have cultivated the path
+And how I came to touch it.
+{{milestone:{label:1.98,id:UT22084-058-005-203}}}“For reaching the emancipation of the Lower Vehicle,
+This path is sufficient.
+For reaching the emancipation of the Great Vehicle,
+This path is supreme.
+{{milestone:{label:1.99,id:UT22084-058-005-204}}}“Some attain the path
+And, having attained it, do not cease;
+For those who have attained the path,
+To cultivate the path is to meditate.
+{{milestone:{label:1.100,id:UT22084-058-005-205}}}“It is the path of neither sameness nor non-sameness,
+Of resting in naturalness and knowing integrity,
+Of abandoning all bad ways,
+And reaching awakening as a result.
+{{milestone:{label:1.101,id:UT22084-058-005-206}}}“King of nāgas, {{page:{number:28,id:UT22084-058-005-890,folio:F.219.b}}}
+Just as you remain in your abode
+Without moving from it
+And yet fill the ocean,
+{{milestone:{label:1.102,id:UT22084-058-005-207}}}“So do great beings
+Who have meditated to cultivate the path
+Fill an ocean of wisdom
+Without stirring from the realm of phenomena.
+{{milestone:{label:1.103,id:UT22084-058-005-208}}}“King of nāgas,
+Just as you saturate all these lands
+With the flow of rivers
+Yet the water does not remain,
+{{milestone:{label:1.104,id:UT22084-058-005-209}}}“So do great beings
+Who have meditated to cultivate this
+Satiate beings with the Dharma
+Yet not remain among them.
+{{milestone:{label:1.105,id:UT22084-058-005-210}}}“King of nāgas, 
+Just as you are unharmed by opponents,
+Those who have attained the path of the heroes
+Are unharmed by afflictions.
+{{milestone:{label:1.106,id:UT22084-058-005-211}}}“If those who hold views
+And fall into wrong paths
+Stay on this path,
+They will pass beyond suffering.
+{{milestone:{label:1.107,id:UT22084-058-005-212}}}“Those who abide on this path
+With the great renown of bodhisattvas
+Will tame the evil Māra 
+And non-Buddhist opponents.
+{{milestone:{label:1.108,id:UT22084-058-005-213}}}“The moment this path is attained,
+They become unshakable.
+Outshining worldly phenomena,
+They come forth like lotuses.
+{{milestone:{label:1.109,id:UT22084-058-005-214}}}“Having settled evenly on this path
+With the unabating intention to reach awakening,
+They lead thousands of other beings 
+To the state of awakening.
+{{milestone:{label:1.110,id:UT22084-058-005-215}}}“Those who stay on this path
+Achieve the five higher perceptions
+And teach the Dharma to beings
+While manifesting all kinds of miraculous powers.
+{{milestone:{label:1.111,id:UT22084-058-005-216}}}“With completely pure
+Body, speech, and mind,
+They lead inconceivable realms of beings
+Onto the path of the noble ones.
+{{milestone:{label:1.112,id:UT22084-058-005-217}}}“Those who have realized
+Acceptance without reference points,
+Who have reached the realization of the thus-gone, 
+Reveal the Dharma to beings.
+{{milestone:{label:1.113,id:UT22084-058-005-218}}}“The way of the world
+Is the way of the thus-gone. {{page:{number:29,id:UT22084-058-005-891,folio:F.220.a}}}
+Those who comprehend this
+Will not be reborn.{{note:{index:22,id:UT22084-058-005-219}}}
+{{milestone:{label:1.114,id:UT22084-058-005-220}}}“The way of all beings
+Certainly leads to rebirth.
+Those who train in the qualities of the Buddha
+Manifest in an illusory manner.
+{{milestone:{label:1.115,id:UT22084-058-005-221}}}“All the guides proclaim
+The praises and qualities
+Of the way this path is cultivated
+And of those who cultivate it.
+{{milestone:{label:1.116,id:UT22084-058-005-222}}}“The extent of those qualities
+Can hardly be conceived;
+Those who cultivate this path
+Abide in the absence of entities.
+{{milestone:{label:1.117,id:UT22084-058-005-223}}}“Those immersed in this path, 
+The path of the unborn and unarisen,
+Cannot be fathomed by Māra
+Or by those who hold to reference points. 
+{{milestone:{label:1.118,id:UT22084-058-005-224}}}“With devotion and mindfulness,
+With intelligence, understanding, and retention,
+And with eloquence, their discipline,
+Learning, and generosity flourish.
+{{milestone:{label:1.119,id:UT22084-058-005-225}}}“Those who cultivate this path,
+Who have purified 
+Body, speech, and mind,
+Are utterly pure and flawless.
+{{milestone:{label:1.120,id:UT22084-058-005-226}}}“Those who cultivate this path,
+Who, attaining the understanding of the noble ones,
+Are experts in the profound way,
+Have no confusion about unimpeded wisdom.
+{{milestone:{label:1.121,id:UT22084-058-005-227}}}“By attaining this path,
+They honor 
+All the perfect buddhas 
+Of the past, future, and present.
+{{milestone:{label:1.122,id:UT22084-058-005-228}}}“Those who delight in this discourse
+Are extremely fortunate;
+They will behold the thus-gone ones
+And hear the sacred Dharma from them.”
+{{milestone:{label:1.123,id:UT22084-058-005-229}}}When the Blessed One had given the teaching, the nāga king Anavatapta was satisfied, pleased, delighted, and joyous. Full of joy and happiness, he said, “Will the Blessed One please accept my invitation to the Thus-Gone One, and to his assembly of monks and his clairvoyant bodhisattva great beings, to stay at my home, Lake Anavatapta, for three months? {{page:{number:30,id:UT22084-058-005-892,folio:F.220.b}}} I wish to serve the Blessed One to the best of my ability. Why? Because, Blessed One, I cannot repay the Thus-Gone One for the Dharma I have heard from him, yet I pray that through my offerings to the Thus-Gone One I may never be separated from this Dharma teaching in the future. Blessed One, please accept this invitation out of kindness for me!”
+The Blessed One declined.
+{{milestone:{label:1.124,id:UT22084-058-005-231}}}“For just two months?”
+The Blessed One again declined.
+{{milestone:{label:1.125,id:UT22084-058-005-233}}}“For just half a month?”
+At that point, out of kindness, the Blessed One signaled his acceptance by remaining silent. The nāga king Anavatapta understood by his silence that the Blessed One had agreed. He was satisfied, pleased, delighted, and joyous. Full of joy and happiness, he bowed to the feet of the Blessed One along with his relatives and retinue. As he left the Blessed One and returned to his homeland, clouds gathered in the sky, thunder cracked all around, and a torrent of rain fell in Jambudvīpa. 
+{{milestone:{label:1.126,id:UT22084-058-005-235}}}When he arrived at his home, the nāga king Anavatapta summoned his eldest son, Sudatta, and gave instructions to his five hundred sons who were followers the Great Vehicle—Sudatta, Susthita, Peaceful, Peaceful Faculties, Vikurvāṇa, Great Splendor, Boundless Splendor, Possessor of Boundlessness, Possessor of Boundless Qualities, Colorful, Supreme Splendor, Inexhaustible Wealth, Patient One, and others. 
+{{milestone:{label:1.127,id:UT22084-058-005-236}}}“Listen, my sons. I have invited the Thus-Gone One, along with his assembly of monks and his clairvoyant bodhisattva great beings, to stay here for half a month. Out of kindness for me, the Blessed One has accepted. {{page:{number:31,id:UT22084-058-005-893,folio:F.221.a}}} You must therefore stop meeting to indulge in games, frivolities, and displays of physical prowess. You must abandon your lustful frolics and your attachment to forms, sounds, smells, tastes, and tactile objects. Instead, you must aspire to worship the Thus-Gone One, and you must serve the Blessed One with constant mindfulness, alertness, and heedfulness. Why? Because the Blessed One is heedful, and so are those in his entourage; he is omniscient, and so are those in his entourage; he is at peace, and so are those in his entourage; and he is disciplined, and so are those in his entourage. Therefore, for half a month you must not enter your wives’ quarters; you must neither have nor entertain lustful thoughts; you must neither have nor entertain malicious thoughts; and you must neither have nor entertain harmful thoughts. Gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, humans, and nonhumans will also come to listen to the Blessed One teach the Dharma. You must behave and comport yourselves in such a way as not to disrespect them, just as you would not disrespect me. If you worship the Blessed One in this way, his entourage will be delighted.”
+{{milestone:{label:1.128,id:UT22084-058-005-237}}}Having instructed his family members in this way, the nāga king Anavatapta, so as to worship to the Blessed One, conjured a variety of shining vajras ornamented with blue beryl and Jambu River gold and spread across an area seven hundred leagues wide between the king of snow mountains and the great lake Anavatapta. In the same area, he conjured eighty-four thousand precious trees each adorned with all kinds of precious gems and replete with all kinds of flowers and fruits. {{page:{number:32,id:UT22084-058-005-894,folio:F.221.b}}} On each of those eighty-four thousand precious trees, replete with all kinds of precious leaves, he conjured a thousand pink pearl necklaces. In the surrounding area, he conjured mansions lavishly decorated with all sorts of precious things, with thousands of raised parasols, banners, and flags. And in those mansions were eighty-four thousand lion thrones draped with millions of divine fabrics, their golden bases studded with all kinds of precious gems. And in every mansion were thousands upon thousands of nāga maidens, each bearing flowers, incense, perfumes, garlands, ointments, powders, fabrics, parasols, banners, and flags. The sky above the mansions was covered with jeweled canopies, from which hung eight thousand multicolored fabrics, parasols, banners, and flags, each flag threaded with strings of small jeweled bells that rang with sweet and pleasing notes when stirred by the wind. Finally, he prepared delicacies rich with a hundred flavors. The day after the nāga king Anavatapta had finished making these arrangements, he gathered his relatives and retinue together and, with palms pressed together, offered the following verses to invite and exhort the Blessed One:
+{{milestone:{label:1.129,id:UT22084-058-005-238}}}“Source of wisdom, treasury of wisdom,
+Wise one with infinite wisdom, to you I pray.
+While free of attachment to your great wisdom,
+You master the supreme power of that wisdom—please come to us!
+{{milestone:{label:1.130,id:UT22084-058-005-239}}}“Great sage, you know the mental activities
+Of all the manifold creatures in the ten directions.
+Best of beings, may I invite you.
+Great sage, may I exhort you to come now! {{page:{number:33,id:UT22084-058-005-895,folio:F.222.a}}}
+{{milestone:{label:1.131,id:UT22084-058-005-240}}}“With few desires, content, easily satisfied, and easily fulfilled,
+Supremely wise, and free from affliction,
+You who never speak without meaning, you who know the proper conduct—
+Blessed One devoid of aggregates, it is time for you to come!
+{{milestone:{label:1.132,id:UT22084-058-005-241}}}“Renowned by all, your qualities and wisdom are sublime.
+Without being asked, you always act as a kind and compassionate spiritual friend.
+Great sage, you are immaculate and perfectly pure like the sky.
+Great guide, the food is prepared; it is time for you to come!
+{{milestone:{label:1.133,id:UT22084-058-005-242}}}“Fearless and possessing the strength of the ten powers,
+You have perfected the eighteen unique qualities of a buddha. 
+The crown of your head cannot be seen, and your compassion is lofty.
+Protector, please come to us with your assembly!
+{{milestone:{label:1.134,id:UT22084-058-005-243}}}“Your form is arrayed with the supreme physical marks,
+Your body is beautifully adorned with the minor marks,
+You teach the beneficial Dharma and bring supreme joy to beings.
+Blessed One, great sage, it is time for you to come!
+{{milestone:{label:1.135,id:UT22084-058-005-244}}}“Your voice is delightful and sweet
+Like the voice of Brahmā and the songs of kalaviṅka birds.
+Its supreme melodies tame lions and bring satisfaction to the world.{{note:{index:23,id:UT22084-058-005-245}}}
+Please make us happy, gaze upon us, and come to this place!
+{{milestone:{label:1.136,id:UT22084-058-005-246}}}“No one in this buddha field understands
+The mind of the Thus-Gone One.
+Blessed One who knows the mental activity of all beings,
+Who always acts at the right time, it is time for you to come!
+{{milestone:{label:1.137,id:UT22084-058-005-247}}}“There are many gods, humans, and nāgas who are thirsty here.
+Holder of the ten powers who subdues opposing armies,
+Great sage who destroys wrong paths through supreme compassion, 
+Mindful, understanding, and intelligent, please apply your intelligence and understanding here!
+{{milestone:{label:1.138,id:UT22084-058-005-248}}}“Pleased by the glorious one who subdues wicked assemblies and metes out punishment,
+You bring benefit and happiness to beings; you are filled with a hundred qualities.
+The compassion you generate will tame hundreds of nāgas.
+Peerless being, supreme human, please come to this place!
+{{milestone:{label:1.139,id:UT22084-058-005-249}}}“Compassionate and altruistic, you delight in benefiting beings.
+With perceptiveness about how others behave, {{page:{number:34,id:UT22084-058-005-896,folio:F.222.b}}}
+Your speech is informed by the ten powers you have mastered.
+You are mindful, understanding, and intelligent; please apply your intelligence and understanding here!”
+{{milestone:{label:1.140,id:UT22084-058-005-250}}}Aware of the invitation of the nāga king Anavatapta, the Blessed One said to his monks, “Monks, in keeping with the invitation of the nāga king Anavatapta, we will stay in his kingdom for half a month, so appoint a caretaker for the monastery and take up your Dharma robes and alms bowls!” 
+{{milestone:{label:1.141,id:UT22084-058-005-251}}}Surrounded and escorted by seventy-two thousand bodhisattvas and two thousand hearers with great powers and miraculous abilities, the Blessed One miraculously left Vulture Peak Mountain. As he flew through the sky, light streamed from the Blessed One’s body and illuminated this entire great trichiliocosm. By that light, the gods of the desire realm and the form realms could see the Blessed One surrounded by his great retinue, traveling through the sky toward the great lake Anavatapta, and they thought, “With such a retinue, the Blessed One is surely going to teach the Dharma there, where he will stay for half a month.” 
+{{milestone:{label:1.142,id:UT22084-058-005-252}}}And so, hundreds of thousands of gods followed the Blessed One. All who wished to see the Blessed One, to hear the Dharma, and to see the residence and the arrangements prepared by the nāga king Anavatapta also followed along. As they set out after the Blessed One, some gods brought down rains of divine flowers. As they set out after the Blessed One, some gods brought down rains of uragasāra sandalwood powder. As they set out after the Blessed One, some gods played instruments, sang songs, and proclaimed his praises. {{page:{number:35,id:UT22084-058-005-897,folio:F.223.a}}} As they set out after the Blessed One, some gods raised silk streamers, parasols, banners, and flags and caused rain to fall. The gods of the pure abodes followed the Blessed One with their peaceful bodies radiating magnificent, colorful, divine light that outshone even the sun, the moon, the planets, and the stars. Śakra, Brahmā, and the protectors of the world also followed the Blessed One with their respective arrays.
+{{milestone:{label:1.143,id:UT22084-058-005-253}}}Surrounded by diverse groups of gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, bodhisattvas, and great hearers, the Blessed One came to rest on the southern slope of the king of snow mountains. There he said to Venerable Mahāmaudgalyāyana, “Maudgalyāyana, go and ask the nāga king Anavatapta if it is time for the Thus-Gone One to arrive.” 
+{{milestone:{label:1.144,id:UT22084-058-005-254}}}At that moment, Venerable Mahāmaudgalyāyana rose into the sky to the height of seven palm trees. Transforming his body into that of a garuḍa, the king of birds, he surveyed the realm of the nāga king Anavatapta. The nāgas and female nāgas who lived in Lake Anavatapta were terrified, and with their hairs standing on end, they fled in all directions exclaiming, “Where have all those roaming garuḍas come from?” 
+{{milestone:{label:1.145,id:UT22084-058-005-255}}}Raising his right hand, the nāga king Anavatapta calmed them. He comforted and reassured those nāgas and female nāgas, saying, “Do not be afraid! Do not be afraid! These are manifestations of Venerable Maudgalyāyana!” {{page:{number:36,id:UT22084-058-005-898,folio:F.223.b}}}
+{{milestone:{label:1.146,id:UT22084-058-005-256}}}After Venerable Mahāmaudgalyāyana had presented his message, he left. Then the nāga king Anavatapta, along with his sons, wives, relatives, and retinue, went to where the Blessed One was, bearing all kinds of flowers, powders, incense, ointments, fabrics, parasols, banners, flags, instruments, and drums, and on arrival he offered them as gifts to the Blessed One in the appropriate manner. 
+{{milestone:{label:1.147,id:UT22084-058-005-257}}}Then the Blessed One, surrounded by many gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, bodhisattvas, and great hearers, proceeded to the abode of the nāga king Anavatapta. There he sat down cross-legged upon the lion throne that had been set out and arranged for him, while all the members of his entourage also took their respective seats. Once he saw that the Blessed One was seated, the nāga king Anavatapta, with his own hands, served him food and drinks—many fine dishes beyond the realm of human experience, full of heavenly tastes and endowed with a hundred different flavors. Only when he saw that he had finished eating, had put away his alms bowl, and had washed his hands did he request the Blessed One to teach the Dharma.
+{{milestone:{label:1.148,id:UT22084-058-005-258}}}And so, that afternoon, after the Blessed One had risen from his rest, he sat down to teach the Dharma. At that time, the entire area, for a thousand leagues all around and up into the sky, was filled with gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, humans, and nonhumans. {{page:{number:37,id:UT22084-058-005-899,folio:F.224.a}}} The nāga king Anavatapta then said to the Blessed One, “Thus-Gone One, please teach us the Dharma so that the beings gathered here who have not yet generated the mind intent on awakening may generate it; so that those who have already generated the mind of awakening may reach irreversibility; so that those who fear saṃsāra and who follow neither the path of training nor the path of no more training may follow the path of training and the path of no more training; so that those who are inclined toward saṃsāra may become averse to it; so that this congregation of nāgas and yakṣas may become free from inferior rebirths and instead reach exalted rebirths; so that bodhisattvas who are inclined toward the profound may develop pure minds and thoughts; and so that I may uphold the sacred Dharma, both while the Thus-Gone One is living and after he has passed into parinirvāṇa!”
+{{milestone:{label:1.149,id:UT22084-058-005-259}}}The Blessed One said to the nāga king Anavatapta, “Lord of nāgas, listen carefully and pay attention. I shall tell you.”
+{{milestone:{label:1.150,id:UT22084-058-005-260}}}“Yes, Blessed One, I will,” he replied, and the nāga king Anavatapta listened as the Blessed One had instructed.
+{{milestone:{label:1.151,id:UT22084-058-005-261}}}The Blessed One continued, “Lord of nāgas, when bodhisattvas have a single quality, they enthrall the entire world with its gods. What is that quality? It is heedfulness that holds fast to the profound Dharma. What is this heedfulness that holds fast to the profound Dharma? Lord of nāgas, it is when bodhisattva great beings engage with dependent origination and, by being without the two extreme views and asserting neither existence nor nonexistence, see that all phenomena depend on conditions.{{note:{index:24,id:UT22084-058-005-262}}} Understanding that no phenomena can be considered as arising without causes, {{page:{number:38,id:UT22084-058-005-900,folio:F.224.b}}} they think, ‘That which depends on causes also depends on conditions, and that which depends on conditions is unborn. That which is unborn is empty. That which is empty is beyond signs. That which is beyond signs is beyond wishes. That which is beyond wishes is peaceful. That which is peaceful is at peace. That which is at peace does not stir. That which does not stir is inert by nature. That which is inert by nature depends on conditions. That which depends on conditions is without self and without ‘mine.’ That which is without self is inexpressible in accordance with the absence of apprehending.
+{{milestone:{label:1.152,id:UT22084-058-005-263}}}“Lord of nāgas, those bodhisattva great beings rely on four reliances. What are the four? They rely on meaning rather than words; they rely on wisdom rather than consciousness; they rely on the definitive meaning rather than the provisional meaning; and they rely on the true nature rather than individuals. These are the four reliances on which they rely. 
+{{milestone:{label:1.153,id:UT22084-058-005-264}}}“What is this ‘meaning’? What is this ‘wisdom’? What is this ‘definitive meaning’? What is this ‘true nature’? Meaning refers to emptiness, which does not elaborate views. The absence of signs is the meaning; it does not elaborate conceptual thinking. The absence of wishes is the meaning; it does not elaborate the three realms. This is what is referred to as meaning.
+{{milestone:{label:1.154,id:UT22084-058-005-265}}}“Furthermore, lord of nāgas, ‘meaning’ is the absence of distinction between phenomena and non-phenomena. It means that phenomena, usually presented in terms of categories, cannot be expressed by words and sounds and are baseless and without individuality—beings and persons are merely conventional designations. This is what is referred to as meaning.
+{{milestone:{label:1.155,id:UT22084-058-005-266}}}“Furthermore, meaning refers to concern for the Dharma but not for attainment. {{page:{number:39,id:UT22084-058-005-901,folio:F.225.a}}} How do bodhisattvas concern themselves with the Dharma but not with attainment? They do not concern themselves with the eye and its forms, with the ear and its sounds, with the nose and its smells, with the tongue and its tastes, with the body and its tactile objects, or with the mind and its mental phenomena. They do not concern themselves with fixation on form or with fixation on feeling, perception, formation, or consciousness. They do not concern themselves with fixation on the desire realm, the form realm, or the formless realm. They do not concern themselves with fixation on a self, nor with fixation on a being, a life force, a soul, a person, or an individual. They do not concern themselves with fixation on the form body of the Thus-Gone One. They do not concern themselves with fixation on the words of the Dharma. They do not concern themselves with fixation on the Saṅgha. They do not concern themselves with fixation on generosity, nor with fixation on discipline, patience, diligence, concentration, or insight. They do not concern themselves with fixation on any phenomena whatsoever. That is how bodhisattvas concern themselves with the Dharma. The fact that such things cannot be expressed by the word meaning is what is referred to as the meaning.
+{{milestone:{label:1.156,id:UT22084-058-005-267}}}“What is ‘wisdom’?{{note:{index:25,id:UT22084-058-005-268}}} It is the knowledge that suffering is unborn, the knowledge that the origin of everything is beyond imputation, the knowledge that cessation is complete exhaustion, and the knowledge that the path is beyond coming and going. It is the knowledge that the aggregates are like illusions, the knowledge that the elements are indivisible from the realm of phenomena, and the knowledge that the sense sources are like an empty village. {{page:{number:40,id:UT22084-058-005-902,folio:F.225.b}}} It is the knowledge that discerns phenomena. It is knowing which beings have supreme faculties and which do not. It is knowing that in mindfulness there can be no forgetfulness. It is knowing that in the applications of mindfulness there is no recollection or mental engagement. It is clearly discerning virtue and nonvirtue in the correct exertions. It is knowing the bases of miraculous power in terms of the lightness of body and mind. It is knowing the stages of the strengths. It is knowing that the powers are indomitable. It is knowing that in the branches of awakening all phenomena are understood. It is knowing that the path is unconditioned. It is knowing that tranquility is peace. It is knowing that special insight is the thorough discernment of phenomena. It is knowing that there is no birth in all of the past, that there is no passing away in all of the future, and that there is no abiding between the two. It is knowing that the body is like a reflection, that words are like echoes, and that the mind is like an illusion. This is what is referred to as wisdom.
+{{milestone:{label:1.157,id:UT22084-058-005-269}}}“What are the discourses of ‘definitive meaning’? They are the teachings on dependent origination. They teach the absence of self, from the cessation of ignorance up to the cessation of old age and death. They teach the lack of a being, a life force, a soul, and a person. As it says in the discourses, ‘If, like a raft, even the Dharma is to be discarded, one need not speak of non-Dharma.’{{note:{index:26,id:UT22084-058-005-270}}} Without reference points, they teach the three gateways to liberation, the sameness of the three times, and the three trainings. They regard all composite things as being beyond going, and they do not posit an immutable reality. They teach that the transcendent strengths and powers and the insight of the bodhisattvas transcend conception {{page:{number:41,id:UT22084-058-005-903,folio:F.226.a}}} and mental engagement. This is what is referred to as the discourses of definitive meaning.
+{{milestone:{label:1.158,id:UT22084-058-005-271}}}“What is ‘the true nature’? Whether a thus-gone one has appeared or has not appeared, the true nature is still there. The realm of phenomena, the abiding nature of phenomena, the immutable nature of phenomena, and the limit of reality are known as the true nature. Thusness, unmistaken thusness, the thusness that is not other, nonduality itself, reality itself, just that, the limit of reality that is not the extent of the past, and the extent of the past that is not the limit of reality—these are known as the true nature. The Great Vehicle based on the six perfections is known as the true nature. The vehicle of the solitary buddhas based on dependent origination is known as the true nature. The vehicle of the hearers based on dedication to following the words is known as the true nature. Even great wealth due to generosity is known as the true nature. Even rebirth in the higher realms due to discipline, great insight due to learning, and inseparability due to meditation are known as the true nature. 
+{{milestone:{label:1.159,id:UT22084-058-005-272}}}“Furthermore, lord of nāgas, that which arises from improper mental engagement is saṃsāra, while that which arises from proper mental engagement is the true nature. Those with powers of affliction are the foolish, and those with powers of insight are the wise. This is what is known as the true nature; that which is known as the true nature applies to the realm of all phenomena. 
+{{milestone:{label:1.160,id:UT22084-058-005-273}}}“So, lord of nāgas, those who rely on dependent origination rely on the four reliances. Those who rely on the four reliances do not rely on nihilism or eternalism. Therefore, it is said, ‘Whoever sees dependent origination sees the Dharma. Whoever sees the Dharma sees the Thus-Gone One.’{{note:{index:27,id:UT22084-058-005-274}}}{{page:{number:42,id:UT22084-058-005-904,folio:F.226.b}}}
+{{milestone:{label:1.161,id:UT22084-058-005-275}}}“Lord of nāgas, that which is known as dependent origination is not originated, and that which is not originated is not born. The unborn is the Dharma. The Dharma is free of attachment. To be free of attachment is to be thus-gone. Yet, that which is known as dependent origination arises from conditions; this is the inexpressible true nature. Since it is the true nature of perfect awakening, it is thus-gone. Lord of nāgas, that which is known as dependent origination consists in seeing phenomena with the eye of insight, and that experience of phenomena is thus-gone. Lord of nāgas, bodhisattvas who are devoted to the true nature are known as the heedful. 
+{{milestone:{label:1.162,id:UT22084-058-005-276}}}“Lord of nāgas, heedful bodhisattvas do not stray into affliction. They have faith in the noble ones; they do not forsake those who are not noble; they protect the lineage of the noble ones; they protect the sacred Dharma; they do not forget their extensive learning; they do not discard the aggregate of discipline; they delight in the aggregate of absorption; they do not waver from the aggregate of insight; they are firmly established in the aggregate of liberation; and they are settled in the aggregate of the of liberating wisdom vision.{{note:{index:28,id:UT22084-058-005-277}}}
+{{milestone:{label:1.163,id:UT22084-058-005-278}}}“Lord of nāgas, heedful bodhisattvas are devoted to the immeasurable dharmas of the Buddha. They seek the immeasurable wisdom of a buddha, they engage in the immeasurable eloquence of a buddha, they enter the immeasurable correct understandings of a buddha, they emulate the immeasurable emanations of a buddha, they follow the immeasurable thoughts of beings, they travel to countless buddha fields, they see countless thus-gone ones, they hear countless teachings, {{page:{number:43,id:UT22084-058-005-905,folio:F.227.a}}} they pursue countless realizations, they ripen beings in countless realms, and their conduct is immeasurable. 
+{{milestone:{label:1.164,id:UT22084-058-005-279}}}“Heedful bodhisattvas depend on themselves and not on others. Why? Because, lord of nāgas, heedful bodhisattvas have ascertained their own minds. The mind is ascertained with three mental ascertainments. What are these three? They are ascertainment of mind with regard to affliction, ascertainment of mind with regard to objects, and ascertainment of mind with regard to perpetuation. These are three ascertainments. 
+{{milestone:{label:1.165,id:UT22084-058-005-280}}}“There are three further mental ascertainments. What are they? They are one-pointedness in tranquility, skill in special insight, and perseverance in the Dharma. 
+{{milestone:{label:1.166,id:UT22084-058-005-281}}}“There are three further mental ascertainments. What are they? They are the peaceful mind, the controlled mind, and the pleasant mind. 
+{{milestone:{label:1.167,id:UT22084-058-005-282}}}“There are three further mental ascertainments. What are they? They are honesty, sincerity, and nonacquisitiveness.{{note:{index:29,id:UT22084-058-005-283}}}
+{{milestone:{label:1.168,id:UT22084-058-005-284}}}“There are three further mental ascertainments. What are they? They are truthfulness, flexibility, and friendliness. 
+{{milestone:{label:1.169,id:UT22084-058-005-285}}}“There are three further. What are they? They are ascertainment with regard to emptiness, ascertainment with regard to signlessness, and ascertainment with regard to wishlessness. Those are three mental ascertainments.
+{{milestone:{label:1.170,id:UT22084-058-005-286}}}“There are three further. They are ascertainment with regard to all compounded phenomena being impermanent, ascertainment with regard to all compounded phenomena being suffering, ascertainment with regard to all phenomena being without self, and ascertainment with regard to nirvāṇa being peace. {{page:{number:44,id:UT22084-058-005-906,folio:F.227.b}}} Those are three mental ascertainments.{{note:{index:30,id:UT22084-058-005-287}}}
+{{milestone:{label:1.171,id:UT22084-058-005-288}}}“Lord of nāgas, the supreme ascertainment for a bodhisattva consists in understanding the sameness of the entire realm of phenomena. It consists in, with great love, being impartial toward all beings; with great compassion, not overlooking anyone; with great joy, not being disheartened in saṃsāra; with great equanimity, being free of attachment and hostility; by abandoning all possessions, having no expectation of reward; by maintaining all the good qualities of discipline, training, and purity, neither praising oneself nor criticizing others; having patience for the wrongs committed by all beings; having stable perseverance; being committed to liberating beings; having no concern for life or limb in the pursuit of roots of virtue; having mastery over one’s mind through accomplishing the wisdom, absorptions, and attainments of the buddhas through which one is not reborn; not straying from the absence of fabrication through having mastered insight, the higher perceptions, and wisdom; engaging appropriately with all beings through skillful means; and guarding wisdom and liberation of all kinds—the wisdom of hearers and solitary buddhas as well as the wisdom of the buddhas that comes from immersion in the Great Vehicle; enduring suffering for the sake of maintaining the sacred Dharma; not being attached to any accomplishment or veneration gained from properly teaching the Dharma; not tiring of accumulating merit so as to perfect the marks; guarding insight {{page:{number:45,id:UT22084-058-005-907,folio:F.228.a}}} by not tiring of learning; guarding learning by relying on virtuous spiritual friends; guarding virtuous qualities by behaving respectfully; overcoming pride so as to truly attain the status of a master; having excellent intention so as to eliminate pride; being without guile due to guarding one’s noble intention; acting in accordance with one’s words due to being without guile; not being deceitful so as to act in that way; abiding in truthfulness by abandoning all faults of speech and never lying; being authentic and being born out of authenticity; and being truthful and being born out of truth. Those are certainties of mind. Lord of nāgas, bodhisattvas with certainties of mind like these are known as the heedful.
+{{milestone:{label:1.172,id:UT22084-058-005-289}}}“Lord of nāgas, heedful bodhisattvas are beyond the reach of Māra. Why? Because, lord of nāgas, bodhisattvas conduct themselves with qualities that are unlimited. What are limited qualities? Desire, aversion, and delusion are limited. Since bodhisattvas have passed beyond them, they are said to be unlimited. Views that take an object are limited. Bodhisattvas who abide in emptiness are beyond the reach of Māra. All the signifiers of thought, conceptualization, and imputation are limited. Bodhisattvas who abide in signlessness are beyond the reach of Māra. The three realms are limited. Bodhisattvas who abide in wishlessness are beyond the reach of Māra. The vehicles of the hearers and solitary buddhas are limited. Bodhisattvas who abide in the Great Vehicle are beyond the reach of Māra. {{page:{number:46,id:UT22084-058-005-908,folio:F.228.b}}}
+{{milestone:{label:1.173,id:UT22084-058-005-290}}}“Lord of nāgas, for bodhisattvas there are two deeds of Māra. What are the two? They are lacking respect for masters and having the pride of conceit that asserts a self. Those two are deeds of Māra that bodhisattvas must reject. 
+{{milestone:{label:1.174,id:UT22084-058-005-291}}}“There are two further deeds of Māra. What are the two? They are rejecting the bodhisattva collection—the path of the perfections—and instead adhering to the secret words of the Lokāyatas and all the scriptures of the vehicles of the hearers and solitary buddhas. Those two are deeds of Māra that bodhisattvas must reject. 
+{{milestone:{label:1.175,id:UT22084-058-005-292}}}“There are two further. What are the two? They are insight devoid of skillful means and skillful means devoid of insight. Insight devoid of skillful means means realizing that phenomena are uncompounded but having no concern for beings. Skillful means devoid of insight means possessing the four means of attraction but falling into views that fixate on reference points. Those two are deeds of Māra that bodhisattvas must reject. 
+{{milestone:{label:1.176,id:UT22084-058-005-293}}}“There are two further deeds of Māra. What are the two? They are seeking concentration without much learning and praising oneself for being learned. Those two are deeds of Māra that bodhisattvas must reject. 
+{{milestone:{label:1.177,id:UT22084-058-005-294}}}“There are two further deeds of Māra. What are the two? They are taking rebirth while being devoid of roots of virtue and having accumulated roots of virtue but being attracted to the lower vehicles. Those two are deeds of Māra that bodhisattvas must reject. 
+{{milestone:{label:1.178,id:UT22084-058-005-295}}}“There are two further deeds of Māra. What are the two? They are not guarding the sacred Dharma {{page:{number:47,id:UT22084-058-005-909,folio:F.229.a}}} and not bringing beings to maturity. Those two are deeds of Māra that bodhisattvas must reject. 
+{{milestone:{label:1.179,id:UT22084-058-005-296}}}“There are two further deeds of Māra. What are the two? They are not using respectful language toward bodhisattvas and not praising Dharma teachers. Bodhisattvas must reject those two.
+{{milestone:{label:1.180,id:UT22084-058-005-297}}}“There are two further deeds of Māra. What are the two? They are rejecting opportunities to acquire roots of virtue and readily adopting nonvirtuous attitudes. Bodhisattvas must reject those two.
+{{milestone:{label:1.181,id:UT22084-058-005-298}}}“There are two further deeds of Māra. What are the two? They are entertaining lustful, malicious, and harmful thoughts when living in seclusion and being concerned with accomplishment and veneration when living within a congregation of monks. Bodhisattvas must reject those two.
+{{milestone:{label:1.182,id:UT22084-058-005-299}}}“There are two further deeds of Māra. What are the two? They are teaching unworthy students and ignoring worthy students. Bodhisattvas must reject those two.
+{{milestone:{label:1.183,id:UT22084-058-005-300}}}“There are two further deeds of Māra. What are the two? They are not comprehending these deeds of Māra and being distracted from the mind of omniscience. Those two are deeds of Māra that bodhisattvas must reject. 
+{{milestone:{label:1.184,id:UT22084-058-005-301}}}“Lord of nāgas, for a bodhisattva who lives as a heedful one, deeds of Māra such as these will not arise. 
+{{milestone:{label:1.185,id:UT22084-058-005-302}}}“Lord of nāgas, heedful bodhisattvas develop sixteen powers. What are the sixteen? They are as follows: They develop the power of memory; they develop the power of intelligence; {{page:{number:48,id:UT22084-058-005-910,folio:F.229.b}}} they develop the power of realization; they develop the power of modesty; they develop the power of conviction; they develop the power of merit; they develop the power of retention; they develop the power of eloquence; they develop the power of form; they develop the power of wealth; they develop the power of the body; they develop the power of the mind; they develop the power of magical transformation; they develop the power of teaching the Dharma; they develop the power of subjugating Māra; and they develop the power of perseverance.
+{{milestone:{label:1.186,id:UT22084-058-005-303}}}“What is the developed power of memory? It is the memory that can recall and retain the words of any buddha. The developed power of intelligence is the intelligence of a bodhisattva that has been bestowed by a buddha and that cannot be shaken by any being. The developed power of realization means understanding all the meanings of an oral teaching. The developed power of modesty means being endowed with all virtuous qualities, having rejected all nonvirtuous qualities. The developed power of conviction means maintaining exalted behavior even in the face of hardship. The developed power of merit means being unassailable by the billionfold hordes of Māra. The developed power of retention means the ability to remember all the words of the Buddha upon hearing them, to not forget them, and to teach them to others. The developed power of eloquence is the ability to explain the teachings of definitive meaning for a hundred thousand eons without any obstacles, interruptions, or impediments. {{page:{number:49,id:UT22084-058-005-911,folio:F.230.a}}} The developed power of form eclipses beings like Śakra and Brahmā when they approach such bodhisattvas. The developed power of wealth means having an inexhaustible wealth of jewels and riches at one’s disposal. The developed power of the body means being impervious to harm from any opponent. The developed power of the mind means knowing the mental activity of all beings. The developed power of magical transformation means teaching the Dharma to beings who are to be tamed by means of miraculous powers by displaying all kinds of magical transformations and miraculous displays. The developed power of teaching the Dharma means giving different kinds of teachings so as to bring an end to suffering for those who understand the Dharma teachings of the bodhisattvas, thereby allowing them to reach emancipation. The developed power of subjugating Māra is an unequaled power because it does not reject any action undertaken for the sake of the qualities of the Buddha. The developed power of perseverance means following through on one’s words. Those are the sixteen developed powers that are attained.
+{{milestone:{label:1.187,id:UT22084-058-005-304}}}“Lord of nāgas, bodhisattvas who wish to attain those sixteen developed powers must remain constantly heedful. By analogy, lord of nāgas, just as all rivers flow into the great ocean, so do all buddha qualities gather in heedfulness; just as all seeds sprout in the earth, so do all virtuous qualities grow from heedfulness. By analogy, just as a universal monarch is adored by all beings, lord of nāgas, a heedful bodhisattva is adored by the whole world with its gods.” {{page:{number:50,id:UT22084-058-005-912,folio:F.230.b}}}
+{{milestone:{label:1.188,id:UT22084-058-005-305}}}At that moment, the Blessed One spoke these verses:
+{{milestone:{label:1.189,id:UT22084-058-005-306}}}“A wise bodhisattva
+Who wishes to attain the awakening of a buddha
+Must abandon heedless conduct
+And strive constantly for heedfulness.
+{{milestone:{label:1.190,id:UT22084-058-005-307}}}“The wise, those with conviction concerning dependent phenomena,
+Do not rest in extreme views;
+They know there are no phenomena without causes and conditions,
+That phenomena arise with causes and conditions.
+{{milestone:{label:1.191,id:UT22084-058-005-308}}}“That which arises from conditions is unborn—
+It has no intrinsic essence of arising.
+That which depends on conditions is taught to be empty.
+One who understands emptiness is heedful.
+{{milestone:{label:1.192,id:UT22084-058-005-309}}}“That which derives from any condition is beyond signs,
+Beyond wishes,{{note:{index:31,id:UT22084-058-005-310}}} and peaceful. 
+Inanimate matter like grass and trees
+Are not under the influence of māras.
+{{milestone:{label:1.193,id:UT22084-058-005-311}}}“For those who know this dependence upon conditions,
+The notions ‘I’ and ‘mine’ do not arise.
+Those who know there is no self and no ownership
+Are the heedful.
+{{milestone:{label:1.194,id:UT22084-058-005-312}}}“Without mastery, without acquisitiveness,
+Without grasping or needing liberation, neither bound nor free,
+Those who always know phenomena as naturally luminous
+Are the heedful.
+{{milestone:{label:1.195,id:UT22084-058-005-313}}}“Relying on the meaning without cherishing the words,
+And firmly settled in the domain of wisdom, free from the realm of consciousness,
+Their understanding accords with the discourses of definitive meaning,
+And they rely on the Dharma, not on the individual.
+{{milestone:{label:1.196,id:UT22084-058-005-314}}}“The main point of this teaching of the Buddha is emptiness,
+And likewise signlessness and wishlessness
+And not being stuck on the three realms, concepts, and views.
+The meaning of the discourse is heedfulness.
+{{milestone:{label:1.197,id:UT22084-058-005-315}}}“Because phenomena cannot be expressed by words or sounds,
+They cannot be divided into phenomena and non-phenomena—
+They are beyond establishment.
+The meaning of the absence of individuality is heedfulness.
+{{milestone:{label:1.198,id:UT22084-058-005-316}}}“Seeking the Dharma is not seeking the afflictions.
+It is not seeking the eye and forms, nor the ear and sounds. {{page:{number:51,id:UT22084-058-005-913,folio:F.231.a}}}
+It is not seeking the nose and smells, nor the tongue and tastes.
+It is not seeking the body and tactile forms, nor consciousness and its objects.
+{{milestone:{label:1.199,id:UT22084-058-005-317}}}“It is not seeking the arising or abiding of form,
+Nor is it seeking feeling, perception, 
+Formation, or the states of consciousness.
+That which is called seeking the Dharma is like that.
+{{milestone:{label:1.200,id:UT22084-058-005-318}}}“It is not seeking the abodes of the three realms,
+Not seeking oneself or beings or deluded views.
+It is never pursuing the physical body,
+Nor any of the sense consciousnesses.
+{{milestone:{label:1.201,id:UT22084-058-005-319}}}“It is not seeking the Saṅgha or even seeking the Dharma.
+It is not seeking generosity
+Or discipline, diligence, or concentration.
+It is especially not seeking insight.
+{{milestone:{label:1.202,id:UT22084-058-005-320}}}“The Victor said that those who seek no phenomena
+Are those who always seek the Dharma.
+In this teaching of the Buddha,
+Those who never seek anything are the heedful.
+{{milestone:{label:1.203,id:UT22084-058-005-321}}}“Knowing the unborn is the wisdom of a buddha.
+That which is unborn has no origin,
+And that which has no origin is at peace and does not exist.
+Those who understand in that way cultivate the path.
+{{milestone:{label:1.204,id:UT22084-058-005-322}}}“They know the five aggregates to be like illusions,
+They know phenomena to be the same as the realm of phenomena,
+And they know the senses are like an empty village.
+Those who understand in that way are the heedful.
+{{milestone:{label:1.205,id:UT22084-058-005-323}}}“They know both the indivisibility and the distinctness of phenomena,
+They know the faculties of beings,
+And they know that the applications of mindfulness are beyond mindfulness.
+Those endowed with this power of wisdom are the heedful.
+{{milestone:{label:1.206,id:UT22084-058-005-324}}}“They know both aspects of correct exertions,
+They know the mind’s power of magical transformation
+And that the powers cannot be subdued,
+And they know the stages of the strengths.
+{{milestone:{label:1.207,id:UT22084-058-005-325}}}“Those wise ones have mastered the branches of awakening and the concentrations.
+They realize the uncompounded nature of phenomena,
+They know how to settle their minds through the practice of tranquility,
+And they know how to discern phenomena through the practice of special insight. {{page:{number:52,id:UT22084-058-005-914,folio:F.231.b}}}
+{{milestone:{label:1.208,id:UT22084-058-005-326}}}“Phenomena have not originated in the past,
+They will never pass away in the future,
+And they do not abide between the two.
+Those who know in that way are the heedful.
+{{milestone:{label:1.209,id:UT22084-058-005-327}}}“The body, like a reflection, has no essence.
+The speech, like an echo, is empty.
+The mind, like an illusion, is like the wind.
+Those who understand in this way are the heedful.
+{{milestone:{label:1.210,id:UT22084-058-005-328}}}“Those who know the definitive meaning—
+The way of the definitive discourses and dependent origination,
+From the cessation of ignorance to the cessation of birth and death—
+They are the heedful.
+{{milestone:{label:1.211,id:UT22084-058-005-329}}}“It has been taught, that the gateways to liberation, the three times,
+The three trainings, the absence of reference points, 
+The absence of a self, a being, a life force, and an individual,
+And right and wrong, are all like a raft.
+{{milestone:{label:1.212,id:UT22084-058-005-330}}}“Without conceptualizing in any way the unborn, 
+Or attainment, the immutable, origination,
+The transcendent strengths, or the cultivation of insight,
+Those who understand in this way are the heedful.
+{{milestone:{label:1.213,id:UT22084-058-005-331}}}“Whether a buddha has appeared or has passed into nirvāṇa,
+The realm of phenomena always remains.
+The wise constantly perceive the true meaning.
+Those who know the true nature are the heedful.
+{{milestone:{label:1.214,id:UT22084-058-005-332}}}“The entire extent of the past is the limit of reality,
+The extent of which is the entire range of phenomena,
+And the extent of space is ever the extent of beings.{{note:{index:32,id:UT22084-058-005-333}}}
+Those who know the true nature are the heedful.
+{{milestone:{label:1.215,id:UT22084-058-005-334}}}“Though they know there is no ripening of karma in the true nature,
+They do not discard virtue and nonvirtue—
+For unless one abides in the perfections,
+One will not see with wisdom the vehicles of the Buddha.
+{{milestone:{label:1.216,id:UT22084-058-005-335}}}“Staying in isolation is the vehicle of pride,{{note:{index:33,id:UT22084-058-005-336}}}
+Hearers follow the words of liberation,
+Through generosity one attains wealth,
+Through discipline one attains higher rebirths.
+{{milestone:{label:1.217,id:UT22084-058-005-337}}}“By learning that, one attains insight that is familiar with thusness.
+All compounded phenomena arise from improper mental engagement, {{page:{number:53,id:UT22084-058-005-915,folio:F.232.a}}}
+And passing beyond suffering from the proper manner.
+To recognize this reality is heedfulness.
+{{milestone:{label:1.218,id:UT22084-058-005-338}}}“Immature beings are always beset by afflictions,
+While the wise teach the Dharma with wisdom.
+The realm of phenomena is never obscured—
+It pervades all phenomena equally.
+{{milestone:{label:1.219,id:UT22084-058-005-339}}}“The four qualities 
+Of those who understand dependent origination
+Are knowing the meaning, the wisdom, the true nature as thusness,
+And the definitive meaning—this is heedfulness.
+{{milestone:{label:1.220,id:UT22084-058-005-340}}}“Those who understand that all phenomena are dependent
+See the Dharma and the Well-Gone One.
+The sameness of the true nature and dependent origination
+Is the attainment of the true nature, perpetually free of desire.
+{{milestone:{label:1.221,id:UT22084-058-005-341}}}“Attainment comes by dwelling on dependent origination.
+Phenomena are beyond words and sounds.
+Those who understand this
+Are therefore called buddha or thus-gone one.
+{{milestone:{label:1.222,id:UT22084-058-005-342}}}“With the eye of insight, they see dependence;
+To see that there is nothing to be seen is to see the Dharma.
+One who sees dependence with the eye of insight
+Is said to be one who sees the Buddha.
+{{milestone:{label:1.223,id:UT22084-058-005-343}}}“As a result, they never indulge the afflictions.
+They have constant faith in the noble ones,
+They do not discard phenomena that disintegrate,{{note:{index:34,id:UT22084-058-005-344}}}
+And they protect the lineage of the noble ones.
+{{milestone:{label:1.224,id:UT22084-058-005-345}}}“Those wise ones do not forget what they have learned.
+They resolutely protect the teachings of the Buddha,
+They do not abandon the discipline of the noble ones,
+And they never regress from their states of absorption.
+{{milestone:{label:1.225,id:UT22084-058-005-346}}}“Those wise ones do not waver from the aggregate of insight.
+They are firmly established in the aggregate of liberation
+And settled in the liberating wisdom vision—
+They are the heedful.
+{{milestone:{label:1.226,id:UT22084-058-005-347}}}“They understand the boundless qualities of the Buddha,
+They seek the Sage’s limitless wisdom,
+They master the awakened eloquence of the Buddha,
+They have correct understandings, and they know the thoughts of beings. {{page:{number:54,id:UT22084-058-005-916,folio:F.232.b}}}
+{{milestone:{label:1.227,id:UT22084-058-005-348}}}“They know the countless thoughts of beings,
+They travel to countless buddha fields in an instant,
+They see countless thus-gone ones,
+And they remember the teachings they have heard from them.
+{{milestone:{label:1.228,id:UT22084-058-005-349}}}“They understand the meaning of the teachings they have heard,
+They bring countless beings to maturity,
+And they know their countless activities.
+Those mindful beings are the heedful.
+{{milestone:{label:1.229,id:UT22084-058-005-350}}}“Those who are independent and heedful
+Ascertain their own minds and develop qualities. 
+The mind ascertained is without affliction
+And never corrupted by objects.
+{{milestone:{label:1.230,id:UT22084-058-005-351}}}“Understanding birth, abiding, and disintegration,
+The mind is removed from all grasping.
+Skilled in special insight and the practice of tranquility,
+Their accomplishments will not diminish.
+{{milestone:{label:1.231,id:UT22084-058-005-352}}}“Being utterly peaceful, controlled, flexible,
+Always honest, sincere, and straightforward,
+And without hypocrisy, pliant and gentle—
+These are the benefits of ascertaining the mind.
+{{milestone:{label:1.232,id:UT22084-058-005-353}}}“Those who know emptiness, signlessness, wishlessness, isolation,
+The suffering of saṃsāra, and impermanence,
+Those who ascertain the perpetual selflessness of phenomena
+And ascertain nirvāṇa—those ones are heedful.
+{{milestone:{label:1.233,id:UT22084-058-005-354}}}“They constantly maintain the mind of omniscience,
+And they love all beings equally.
+With compassion they do not overlook anyone,
+And with joy they do not grow weary in saṃsāra.
+{{milestone:{label:1.234,id:UT22084-058-005-355}}}“With great equanimity that has abandoned all faults,
+They are ready to sacrifice everything, free of attachment and desire.
+They perform all ascetic practices without distraction,
+And with patience they take no offense at any action or inaction.
+{{milestone:{label:1.235,id:UT22084-058-005-356}}}“They do not tire of liberating beings,
+They pursue peace with constant effort,
+They have no concern for life or limb,
+And they concentrate sequentially in the absorptions.
+{{milestone:{label:1.236,id:UT22084-058-005-357}}}“With the power of absorption, they know the unborn.
+With insight, they know the uncompounded.
+With skillful means, they do not fall into the uncompounded.
+Learned beings are in harmony with all. {{page:{number:55,id:UT22084-058-005-917,folio:F.233.a}}}
+{{milestone:{label:1.237,id:UT22084-058-005-358}}}“Though the discourses on truth were spoken to hearers,
+They do not reach the mastery of complete liberation.
+For being compassionate and loving toward all beings
+Is part of true omniscience.
+{{milestone:{label:1.238,id:UT22084-058-005-359}}}“In this teaching of the Buddha,
+Those who possess beneficial qualities are the heedful.
+They abide in the true nature,
+And their domain is beyond the reach of Māra.
+{{milestone:{label:1.239,id:UT22084-058-005-360}}}“The heedful are without limitation,
+While the signs of affliction are limited.
+To be beyond signs is to be free of affliction.
+Their domain is beyond the reach of Māra.
+{{milestone:{label:1.240,id:UT22084-058-005-361}}}“I have described those with fickle minds and arrogant thoughts 
+As doing the work of Māra.
+Those who are free of all reference points
+Are impervious to Māra.
+{{milestone:{label:1.241,id:UT22084-058-005-362}}}“The heedful have unfailing mindfulness.
+The heedful have unfailing intellect.
+The heedful are realized and have conviction.
+They are modest and humble.
+{{milestone:{label:1.242,id:UT22084-058-005-363}}}“Therefore, those who have heard about the merit,
+The insight, and the heedfulness of the thus-gone ones
+And who abide in Dharma and the true nature
+Will become like all the buddhas.
+{{milestone:{label:1.243,id:UT22084-058-005-364}}}“Those who wish to make offerings 
+To all the bodhisattvas and buddhas in the ten directions
+Will, when they hear this teaching on heedfulness,
+Make constant effort their main concern.
+{{milestone:{label:1.244,id:UT22084-058-005-365}}}“Those who have learned this heedfulness
+Develop great joy and faith.
+They will forever be heedful ones
+And will become self-arisen buddhas.”
+{{milestone:{label:1.245,id:UT22084-058-005-366}}}When the Blessed One gave this teaching, the teaching on heedfulness, forty-two thousand beings developed the intention to attain unsurpassed, perfect awakening; {{page:{number:56,id:UT22084-058-005-918,folio:F.233.b}}} twelve thousand beings reached acceptance of the unborn nature of phenomena; eight thousand beings reached concordant acceptance; thirty-two thousand beings purified the Dharma eye that sees phenomena as spotless and immaculate; and eight hundred monks gained understanding of all things, each of them distinct, without exception. This world system, the great trichiliocosm, shook in six ways, and a great light illuminated the entire world. The king of mountains and the great lake Anavatapta were covered knee-deep in flowers that had never before been heard of or seen. Then, through the Buddha’s power and the faith of the nāga king Anavatapta, as an act of worship to this Dharma teaching, all of Lake Anavatapta was filled with hundreds of thousands of sweet-smelling, precious lotus flowers the size of cartwheels that displayed hundreds of thousands of different colors. 
+{{milestone:{label:1.246,id:UT22084-058-005-367}}}Then, five hundred nāga princes who were followers of the Great Vehicle offered precious parasols as an act of worship to the Blessed One and said, “Blessed One, the Buddha has appeared for our sake. For what purpose? So that when we hear this Dharma that contradicts all worldly conventions, Blessed One, we are not scared, afraid, or terrified, and so that those who have listened to the Dharma will not need to search for further fulfillment in the future. Blessed One, please tell us. How is it that a buddha arises for bodhisattvas? How does one turn the wheel of Dharma? How does one maintain the sacred Dharma?”
+{{milestone:{label:1.247,id:UT22084-058-005-368}}}The Blessed One said, “Friends, listen carefully and retain it. I shall explain.” {{page:{number:57,id:UT22084-058-005-919,folio:F.234.a}}}
+{{milestone:{label:1.248,id:UT22084-058-005-369}}}“Very good, Blessed One,” they replied, and the nāga princes listened as the Blessed One had instructed.
+{{milestone:{label:1.249,id:UT22084-058-005-370}}}The Blessed One continued, “Friends, for a bodhisattva, the arising of faith is the arising of a buddha. What is meant by faith? There is worldly faith, and there is faith that goes beyond the world. What is worldly faith? Those with worldly faith pursue virtuous qualities with confidence in the ripening of karma and that that the law of karma is not contradicted. Because they live with faith, attending to and acting respectfully toward the noble ones, they are without anxiety, and they listen to the Dharma with respect. They clear away obscurations. They cultivate the branches of awakening. They actively seek the Dharma. They give away and distribute{{note:{index:35,id:UT22084-058-005-371}}} wealth. They bring discipline to those with bad habits. They connect them to what is right. They instill faith in those who criticize the Dharma and are hostile to it. They are not deterred from the mind of omniscience. They have unshakable faith in the Buddha. They have unfailing faith in the Dharma. They have genuine faith in the Saṅgha. They have abandoned pride beyond pride and are impartial. They have developed wisdom that is not attached to objects. They do not commit negative deeds, even at the cost of their own life and limb. They follow through on their words. They have transcended the domain of Māra. In accordance with the noble ones’ prescriptions, they avoid misdeeds of body, speech, and mind. Having contentment, their lifestyles are pure. With understanding and genuine engagement, they pursue the roots of the aggregate of insight. They embody the seven treasures. Before the powers, they develop the strengths. They perceive wrong views as misdeeds. They are correctly aligned with the right view. {{page:{number:58,id:UT22084-058-005-920,folio:F.234.b}}} They maintain the teachings properly. They are content and easily satisfied. They approach and serve the Dharma with their minds free of reference points. They do not become disheartened in saṃsāra. They see the advantages and benefits of nirvāṇa. They strive in their pursuit of the sacred Dharma. They commit to living as renunciants under the Thus-Gone One’s teachings. They never tire of observing the holy life. They are truly generous when it comes to supporting others. They are grateful and appreciative. They have no expectation of reward. They do not think about their own accomplishments. They are not jealous about others’ accomplishments. They are patient and gentle. They see the error in misdeeds. They do not talk about the failings of others. They guard the gates of their senses. They forego and renounce bedding. They are committed to the solitary life and are always drawn toward seclusion. They are not attached to luxurious things. They never take part in conflict. They reject pride beyond pride. They focus on their own faults while tolerating the faults of others. They exert themselves in the accumulation of discipline. They practice the accumulation of concentration. And they diligently gather the accumulation of the path. Friends, this is what is meant by worldly faith. Friends, the arising of worldly faith is known as the arising of a buddha. 
+{{milestone:{label:1.250,id:UT22084-058-005-372}}}“What is faith that goes beyond the world? Faith that goes beyond the world is confidence in the emptiness of all phenomena—those with such faith are free from all wrong views. It is confidence that all phenomena are beyond signs and beyond wishes. It is confidence that all phenomena are unfabricated, {{page:{number:59,id:UT22084-058-005-921,folio:F.235.a}}} beyond coming and going. It is confidence that all phenomena are free from body, speech, and mind and free from attachment. It is confidence that all phenomena are without a self, a being, a life force, a person, and attachment, and that all phenomena abide in thusness. It is confidence that all countless phenomena are unreal and insubstantial, like an empty fist that tricks a child. It is confidence that all phenomena are essenceless through the extent of the past, are essenceless through the extent of the future, and do not abide through the limit of reality. It is confidence that all phenomena are like the expanse of the sky, are subsumed in the realm of phenomena, transcend the three times, and are undefiled. It is confidence that all phenomena are pure and luminous by nature, since they are free from ignorance, free from the views that cling to sense pleasures, and devoid of afflictions. It is confidence that no phenomena derive from temporary afflictions, that, since the activity of all mental constructs has ceased, they are neutral, that they are free of desire and anger, and that they are beyond adoption. It is confidence that all phenomena are beyond mental imputation and beyond rejection. It is trust that no phenomena abide as entities or as nonentities, and that it is impossible for them to be nothing whatsoever. It is confidence that all phenomena are like space—devoid of all entities and groundless. It is confidence that all phenomena are hollow like plantain trees—beyond raising up or putting down. It is confidence that, since all phenomena are uncompounded, they are equal to nirvāṇa {{page:{number:60,id:UT22084-058-005-922,folio:F.235.b}}} and intrinsically at peace. Friends, this is what is meant by transcendent faith. Friends, the arising of transcendent faith is known as the arising of a buddha. 
+{{milestone:{label:1.251,id:UT22084-058-005-373}}}“Friends, the arising of a buddha refers to the nonarising of all phenomena. Friends, the nonarising of all phenomena is a designation for sameness. Why? Because the arising of form is not the arising of a buddha, but the arising of a buddha is also not characterized by the nonarising of form. The arising of feeling, perception, formation, and consciousness is not the arising of a buddha, nor is the arising of a buddha characterized by the nonarising of consciousness and so forth. The arising of the aggregates, elements, and sense sources is not the arising of a buddha, nor is the arising of a buddha characterized by the nonarising of the aggregates, elements, and sense sources. The arising of knowledge and ignorance is not the arising of a buddha, nor is the arising of a buddha characterized by the nonarising of knowledge and ignorance. The arising of the links of dependent origination up to old age and death is not the arising of a buddha, nor is the arising of a buddha characterized by the nonarising of the links of dependent origination up to old age and death. The arising of birth and the arising of nonbirth are not the arising of a buddha, nor is the arising of a buddha characterized by birth and nonbirth. The arising of the applications of mindfulness is not the arising of a buddha, nor is the arising of a buddha characterized by the absence of mindfulness and mental engagement. In short, the arising of the thirty-seven factors of awakening, up to the path, is not the arising of a buddha, nor is the arising of a buddha {{page:{number:61,id:UT22084-058-005-923,folio:F.236.a}}} characterized by the arising or nonarising of the path. The arising of insight is not the arising of a buddha, nor is the arising of a buddha characterized by the absence of the arising of insight.”
+{{milestone:{label:1.252,id:UT22084-058-005-374}}}When Blessed One gave this teaching on the arising of a buddha, the five hundred young nāgas reached concordant acceptance. Then the Blessed One spoke these verses:
+{{milestone:{label:1.253,id:UT22084-058-005-375}}}“The arising of faith is the arising of a victor—
+It is characterized by the absence of arising.
+Where there is no faith,
+No buddha will arise.
+{{milestone:{label:1.254,id:UT22084-058-005-376}}}“It is said that faith precedes
+And generates positive qualities.
+For the faithful there are no contradictions 
+In the fruition of actions and the law of karma.
+{{milestone:{label:1.255,id:UT22084-058-005-377}}}“Those with faith attend to the noble ones,
+And they serve them with respect.
+Their minds are free from anxiety,
+And they generate trust in others.
+{{milestone:{label:1.256,id:UT22084-058-005-378}}}“Those with faith listen to the Dharma with respect.
+They clear away their obscurations,
+Cultivate the branches of awakening,
+And properly follow the path.
+{{milestone:{label:1.257,id:UT22084-058-005-379}}}“Those with faith pursue the wealth of the Dharma.
+They are extolled for their generosity,
+And they inspire faith in both those who are disciplined
+And those with bad habits.
+{{milestone:{label:1.258,id:UT22084-058-005-380}}}“They are not deterred from the mind of awakening.
+They inspire critics and those who are hostile,
+They instill faith in the Buddha and the Dharma, 
+And in the Saṅgha too.
+{{milestone:{label:1.259,id:UT22084-058-005-381}}}“They renounce pride beyond pride.
+They are not self-vaunting.
+Like dogs, they have no attachment to country.
+These are the defining characteristics of faith.
+{{milestone:{label:1.260,id:UT22084-058-005-382}}}“Those with faith know themselves.
+They do not commit negative deeds.
+They speak the truth,
+And they follow through on their words.
+{{milestone:{label:1.261,id:UT22084-058-005-383}}}“Those with faith are beyond attachment.
+Those with faith have spotless minds.
+Those with faith are, in body, speech, and mind,
+In harmony with the noble ones.
+{{milestone:{label:1.262,id:UT22084-058-005-384}}}“Those with faith have pure livelihoods. {{page:{number:62,id:UT22084-058-005-924,folio:F.236.b}}}
+They constantly pursue wisdom.
+They strive to learn
+The roots of the aggregate of insight.
+{{milestone:{label:1.263,id:UT22084-058-005-385}}}“They accumulate the powers,
+The strengths, and the seven treasures. 
+They reject wrong views
+And seek the authentic view.
+{{milestone:{label:1.264,id:UT22084-058-005-386}}}“Those with faith properly maintain
+The teachings of the masters.
+They are easily satisfied and contented.
+They seek without suffering.
+{{milestone:{label:1.265,id:UT22084-058-005-387}}}“With the mind free from reference points,
+They serve and inquire into the Dharma.
+They are always dissatisfied by saṃsāra,
+And they rejoice in the qualities of nirvāṇa.
+{{milestone:{label:1.266,id:UT22084-058-005-388}}}“They readily renounce their homes for the teachings,
+Yet they are without attachment to the holy life.
+Those with faith seek 
+The accumulations leading to liberation.
+{{milestone:{label:1.267,id:UT22084-058-005-389}}}“They support many beings, and their benevolence,
+Gratitude, and kindness are infinite;
+Those with faith do not expect
+Reward for their actions. 
+{{milestone:{label:1.268,id:UT22084-058-005-390}}}“They are neither arrogant about their own achievements
+Nor envious of the achievements of others.
+They are perfectly patient and gentle,
+Honest, flexible, and without guile.
+{{milestone:{label:1.269,id:UT22084-058-005-391}}}“Although they see them, those with faith 
+Do not talk about the shortcomings of others.
+Their senses and their minds are at peace,
+And they yearn to live in solitude.
+{{milestone:{label:1.270,id:UT22084-058-005-392}}}“With a mind drawn to seclusion,
+They strive for true joy.
+They never take part in disputes and conflicts,
+And they clearly see their own faults.
+{{milestone:{label:1.271,id:UT22084-058-005-393}}}“They pursue discipline and restraint,
+They cultivate the absorptions and the path,
+And they are always diligent and faithful.
+These are defining characteristics of those with faith.
+{{milestone:{label:1.272,id:UT22084-058-005-394}}}“All those who have transcended the world,
+And those who follow them with faith,
+Will not ruin the profound Dharma
+Spoken by the buddhas.
+{{milestone:{label:1.273,id:UT22084-058-005-395}}}“Those with faith have trust in emptiness.
+They are free from views.
+They have no doubts or concerns
+About the signlessness of all phenomena.
+{{milestone:{label:1.274,id:UT22084-058-005-396}}}“They have renounced all wishes,
+And they understand coming and going. {{page:{number:63,id:UT22084-058-005-925,folio:F.237.a}}}
+They do not get involved with phenomena,
+Nor do they do give themselves up to physical or mental idleness.
+{{milestone:{label:1.275,id:UT22084-058-005-397}}}“They clear away the view of a self or a being,
+And they have trust in the Dharma of nonattachment.
+The faithful abide in thusness,
+And they understand how to follow the path.
+{{milestone:{label:1.276,id:UT22084-058-005-398}}}“Confident that the limit of reality is without end
+And that all phenomena
+Are the same as the extent of space,
+They settle evenly in the expanse of wisdom.
+{{milestone:{label:1.277,id:UT22084-058-005-399}}}“Since all phenomena are undefiled
+And transcend the three times,
+The faithful do not cling
+To existence, karma, ignorance, or views. 
+{{milestone:{label:1.278,id:UT22084-058-005-400}}}“Since they know that all phenomena are luminous,
+Free from affliction, and naturally pure,
+Their minds are not susceptible
+To sudden affliction.
+{{milestone:{label:1.279,id:UT22084-058-005-401}}}“They disregard all phenomena
+And are unmoved by them.
+They are equanimous and imperturbable,
+And they do not cling to faults.
+{{milestone:{label:1.280,id:UT22084-058-005-402}}}“They have confidence that all phenomena are unreal—
+Beyond taking and letting go,
+Beyond grasping and liberation—
+Like an empty fist that tricks a child.
+{{milestone:{label:1.281,id:UT22084-058-005-403}}}“Hollow, unsupported, 
+And without a core like a plantain tree,
+Inherently deceptive,
+Nonabiding, and insubstantial,
+{{milestone:{label:1.282,id:UT22084-058-005-404}}}“All phenomena are nothing whatsoever.
+They know that in reality they do not exist in the slightest.
+All phenomena, being equal to and similar to space,
+Are uncompounded.
+{{milestone:{label:1.283,id:UT22084-058-005-405}}}“They have faith that all phenomena
+Are like nirvāṇa and naturally at peace.
+They faithfully have confidence in that,
+Just as with a stone tossed into the sky.{{note:{index:36,id:UT22084-058-005-406}}}
+{{milestone:{label:1.284,id:UT22084-058-005-407}}}“Buddhas will arise
+For bodhisattvas 
+Who have such faith—
+So, too, for those with reverence.
+{{milestone:{label:1.285,id:UT22084-058-005-408}}}“The arising of form
+Is not taught to be the arising of the buddhas,
+Nor its cessation or rising up, 
+Its coming or going.
+{{milestone:{label:1.286,id:UT22084-058-005-409}}}“The arising of a buddha is asserted to be
+The absence of the arising, 
+Cessation, abiding, {{page:{number:64,id:UT22084-058-005-926,folio:F.237.b}}}
+Coming, and going of form.
+{{milestone:{label:1.287,id:UT22084-058-005-410}}}“I have taught that,
+For wise bodhisattvas,
+The arising of a buddha is characterized 
+By the birthlessness of the five aggregates.
+{{milestone:{label:1.288,id:UT22084-058-005-411}}}“As it is settled in groundlessness,
+I have taught that the arising of a buddha
+Is characterized by the birthlessness
+Of the elements, sense sources, and aggregates.
+{{milestone:{label:1.289,id:UT22084-058-005-412}}}“When awareness arises,
+Saṃsāra declines.
+By teaching this circumstance,
+Buddhahood is uncovered.
+{{milestone:{label:1.290,id:UT22084-058-005-413}}}“Those who fixate on concepts
+Of nonarising, arising, and noncessation
+And who entertain the notion of entities
+Are unable to serve me.
+{{milestone:{label:1.291,id:UT22084-058-005-414}}}“It is not taught that a buddha arises
+Through the arising of mindfulness.
+The absence of mindfulness and mental engagement
+Is taught to be buddhahood. 
+{{milestone:{label:1.292,id:UT22084-058-005-415}}}“The same applies
+To all the factors of awakening.
+The absence of their arising is asserted to be
+The arising of a buddha.
+{{milestone:{label:1.293,id:UT22084-058-005-416}}}“This is how I arose as a buddha.
+Those who have understood that
+Will have faith in my teachings
+And will be free from attachment.
+{{milestone:{label:1.294,id:UT22084-058-005-417}}}“Friends, how does a bodhisattva turn the wheel of Dharma? Friends, turning of the wheel of Dharma consists in comprehending, enjoying, being devoted to, having faith in, retaining, maintaining, adopting, unfailingly recollecting, and properly understanding a teaching such as this, as well as explaining it, teaching it, and thoroughly teaching it to others with unfailing great compassion and the mind of omniscience, in obtaining it and not forgetting it even in times of distress, and in regularly, without being attached to veneration, requesting it, remembering it, adhering to it, and accepting it. {{page:{number:65,id:UT22084-058-005-927,folio:F.238.a}}} This is what is known as turning the wheel of Dharma. 
+{{milestone:{label:1.295,id:UT22084-058-005-418}}}“Friends, I will now speak a little about how the Thus-Gone One has turned the wheel of Dharma. The Thus-Gone One has not turned the wheel of Dharma in order to teach what is and what is not the Dharma. He has not turned the wheel of Dharma in order to deconstruct what is the Dharma and what is not the Dharma. The Thus-Gone One has not turned the wheel of Dharma in order to teach that the dharma of ordinary beings is inferior and that the Dharma of the noble ones is vast. Friends, the Thus-Gone One has turned the wheel of Dharma in order to show that both the dharma of ordinary beings and the Dharma of the noble ones are by nature unborn. Since this wheel of Dharma has been turned thoroughly and completely and without interruption, it is the wheel that turns unceasingly. Since the wheel of Dharma is turned in accordance with the law of dependent origination, it is the wheel of the unborn. Since it is not turned with duality—it is not turned to teach about the sensory perceptions, from the eye and forms up to the mind and mental phenomena—it is the wheel of nonduality. Since the wheel is not turned while focusing on past, present, or future phenomena, it is the wheel of the absence of reference points. Since the wheel is turned without adhering to the view of a self, a being, a life force, a soul, or a person, it is the wheel of emptiness. Since the wheel is not turned while fixating on signs or entertaining mental constructs, it is the wheel of signlessness. Since the wheel is not turned for the sake of the attainments of the desire realm, the form realm, or the formless realm, {{page:{number:66,id:UT22084-058-005-928,folio:F.238.b}}} it is the wheel of wishlessness. The wheel is not turned to differentiate between levels of teaching, to say, ‘These teachings are for ordinary beings,’ ‘These teachings are for those who are training,’ ‘These teachings are for those who are no longer training,’ and ‘These teachings are for the buddhas,’ it is the wheel of the absence of differentiation. Since this wheel does not engage with conventional designations of phenomena, it is the wheel of nonabiding.
+{{milestone:{label:1.296,id:UT22084-058-005-419}}}“Friends, that which is known as the wheel of Dharma is the wheel of ultimate truth, turned by the undivided truth. Because of the equality of the three times, it is the wheel of things just as they are. Since it transcends the view of entities, it is the wheel of entitylessness. Since it is mixed with neither the body nor the mind and is free of mental faculty and consciousness, it is the wheel of disengagement. Since it is separate from the five forms of life, it is the wheel of the absence of foundation. Since the great elements are essentially insubstantial, it is the wheel of reality. Since it connects with reality and not with deception, it is the wheel of sameness. Since its words are inexhaustible, it is the wheel of inexhaustibility. Since the realm of phenomena encompasses all phenomena, it is the wheel of the realm of phenomena. Since it has been turning since beginningless time, it is the wheel of the limit of reality. Since it is naturally devoid of essence, it is the wheel of thusness. Since it severs the flow of mental activity, it is the wheel of the absence of formation. Since it leads to the attainment of the noble realm, it is the wheel of the unconditioned. Since it reveals everything inside, it is the wheel of emptiness. Since it does not engage with anything outside, it is the wheel of signlessness. Since it is untainted by both the external and the internal, it is the wheel of wishlessness. Since it is beyond expression, it is the wheel of the ineffable. 
+{{milestone:{label:1.297,id:UT22084-058-005-420}}}“Friends, whether or not a thus-gone one turns the wheel of Dharma based on the capacities of beings, {{page:{number:67,id:UT22084-058-005-929,folio:F.239.a}}} this ineffable true nature is not lost. Friends, this is known as a bodhisattva’s turning of the wheel of Dharma.”
+{{milestone:{label:1.298,id:UT22084-058-005-421}}}When the Blessed One gave this teaching on turning the wheel of Dharma, gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, and mahoragas let out cries of surprise and joy, exclaiming, “This wheel of Dharma turned by the Thus-Gone One is an act of perfect insight, a task difficult to perform. Blessed One, by turning this wheel of space, the wheel of Dharma has been turned. Those who seek it seek sameness, and their generation of the mind of awakening, Blessed One, is to be celebrated. Those who generate the mind of awakening upon hearing this turning of the wheel of Dharma will themselves turn this wheel of Dharma in the same way.” And so, upon hearing this teaching, ten thousand beings from among the assembly developed the intention to reach unsurpassed and perfect awakening. 
+{{milestone:{label:1.299,id:UT22084-058-005-422}}}“Friends, how does a bodhisattva maintain the sacred Dharma? Friends, maintaining the sacred Dharma encompasses all phenomena. This encompassing of all phenomena is what is referred to as maintaining the sacred Dharma.
+{{milestone:{label:1.300,id:UT22084-058-005-423}}}“Furthermore, friends, to maintain the sacred Dharma encompasses the eighty-four thousand activities of a thus-gone one and the eighty-four thousand collections of Dharma teachings that explain the eighty-four thousand aspects of the Dharma. This is known as maintaining the sacred Dharma. 
+{{milestone:{label:1.301,id:UT22084-058-005-424}}}“Friends, just as a thus-gone one awakens to perfect buddhahood, so do they turn the wheel of Dharma, and so do they pass into parinirvāṇa. {{page:{number:68,id:UT22084-058-005-930,folio:F.239.b}}} Thusness is like that. In thusness all phenomena are without birth and without cessation. Regarding that which does not arise and does not cease, there is no clinging, no conflict, no dispute, and no teaching, nor even any expression. Regarding the inexpressible there is nothing at all, including the sacred Dharma. Therefore, it is beyond inclusion. The absence of maintaining is known as the sacred Dharma.”
+{{milestone:{label:1.302,id:UT22084-058-005-425}}}Then Aśoka, a son of the nāga king Anavatapta, said to the Blessed One, “Blessed One, I am inspired to speak about maintaining the sacred Dharma.”
+“Go ahead, Aśoka, Speak,” replied the Blessed One.
+{{milestone:{label:1.303,id:UT22084-058-005-427}}}“Blessed One, it is like the analogy of precious jewels in the vast ocean—they are not owned, held, or possessed, nor are they guarded by anyone. Yet, Blessed One, merchants and traders ply the vast ocean in search of those precious jewels without regard for life or limb, and until they return to Jambudvīpa, they guard them closely, not losing their way as they traverse the ocean. They guard them carefully when coming and going across the ocean, and as a result those precious jewels eventually reach Jambudvīpa and provide a livelihood for many beings. 
+{{milestone:{label:1.304,id:UT22084-058-005-428}}}“Blessed One, the Dharma of the Thus-Gone One, who has awakened to perfect buddhahood, is likewise beyond attainment; it is impossible for anyone in the whole world with its gods to hold it. Yet, Blessed One, bodhisattva great beings who don the armor in order to awaken to perfect buddhahood—thusness—closely guard the jewel of Dharma. {{page:{number:69,id:UT22084-058-005-931,folio:F.240.a}}} If those holy beings truly possess it, they will reach emancipation within this Great Vehicle. And if they reach emancipation, they will turn the wheel of Dharma, and the sacred Dharma will flourish. Therefore, Blessed One, those Dharma preachers who have genuinely entered the Great Vehicle and really maintain it, guard it, protect it, keep it secret, worship it, and adopt the conduct of the masters are those who genuinely make offerings and maintain the sacred Dharma.”
+{{milestone:{label:1.305,id:UT22084-058-005-429}}}The Blessed One gave his approval to Aśoka, the son of the nāga king Anavatapta, saying, “Excellent, Aśoka, excellent! Those Dharma preachers who have genuinely entered the Great Vehicle and really maintain it and guard it are indeed those who maintain the sacred Dharma. By maintaining their Dharma preaching, they maintain the sacred Dharma. 
+{{milestone:{label:1.306,id:UT22084-058-005-430}}}“Moreover, Aśoka, there are ten ways of maintaining the sacred Dharma. What are the ten? They are being without arrogance, being without excessive pride, being straightforward, striving for the Dharma, aspiring to the Dharma, seeking the Dharma, understanding phenomena in detail, teaching the Dharma, persevering in the Dharma, and being liberated by observing one’s Dharma practice and being devoted to it. Those are ten ways of maintaining the Dharma.
+{{milestone:{label:1.307,id:UT22084-058-005-431}}}“There are ten further ways of maintaining the Dharma. What are the ten? Aśoka, when noble sons and noble daughters listen with devotion to Dharma preachers, they bow in their direction; they are delighted to see them; they are pleased when they arrive; they prepare cushions, food, and clothing for them; {{page:{number:70,id:UT22084-058-005-932,folio:F.240.b}}} they protect them; they serve them with respect; they listen to their explanations; they teach what they hear from them to others; they refute the criticisms directed at them; and they praise them. Aśoka, those are ten ways of maintaining the Dharma. 
+{{milestone:{label:1.308,id:UT22084-058-005-432}}}“Furthermore Aśoka, there are four types of generosity through which the sacred Dharma will be maintained. What are the four? They are giving birch bark, ink, bamboo, and volumes of scriptures; giving clothing, food, bedding, medicine, and tools to those who preach the Dharma; giving straightforward praise to those who teach the Dharma when one hears their teachings; and giving the gift of the Dharma. These are the four Dharma gifts by which the sacred Dharma will be maintained. 
+{{milestone:{label:1.309,id:UT22084-058-005-433}}}“Aśoka, there are four types of diligence through which the sacred Dharma will be maintained. What are the four? They are diligence in teaching the Dharma; diligence in pursuing the Dharma at all times; diligence in serving Dharma preachers; and diligence in defeating, in accordance with the teachings, those who have rejected the sacred Dharma. With these four types of diligence, Aśoka, the sacred Dharma will be maintained.”
+{{milestone:{label:1.310,id:UT22084-058-005-434}}}Satisfied by the Blessed One’s answers to their questions, the five hundred young nāgas were pleased and rejoiced, and they worshiped the Blessed One. For the sake of all the activities, each of them, along with their relatives and retinues, offered him their own bodies and said, “From today until your parinirvāṇa, Blessed One, we will always serve you, and we will be delighted to guard and conceal this holy Dharma in its entirety. And, Blessed One, after the Thus-Gone One has passed into parinirvāṇa, {{page:{number:71,id:UT22084-058-005-933,folio:F.241.a}}} we will continue to worship your exalted body, undivided and whole, and will seek the seven precious materials so as to make a shrine for it.”
+{{milestone:{label:1.311,id:UT22084-058-005-435}}}Then Venerable Mahākāśyapa said to the young nāgas, “If out of great compassion for all beings the Thus-Gone One manifests relics the size of mustard seeds, then you noble sons saying, ‘We will worship the Thus-Gone One’s exalted body, undivided and whole,’ amounts to wanting to obstruct virtuous qualities for most beings.”
+{{milestone:{label:1.312,id:UT22084-058-005-436}}}The five hundred young nāgas replied to Venerable Mahākāśyapa, “Revered Kāśyapa, do not say such things! Your insight does not compare to the insight and wisdom of the Thus-Gone One! The Thus-Gone One is omniscient and all seeing. He is endowed with the power of wisdom that manifests blessings and miraculous power. If he so wishes, he could project his body, undivided and whole, into each of the many realms of gods, nāgas, and yakṣas in this great trichiliocosm, and all those beings would know that they were worshiping the Thus-Gone One and no one else. Revered Mahākāśyapa, when the Thus-Gone One passes into parinirvāṇa, the minds of all those beings, through their devotion, will be blessed with bodily relics. Revered Mahākāśyapa, just one such bodily relic the size of a mere mustard seed in the Highest Heaven could illuminate the whole of Jambudvīpa. Such is the miraculous power of the Buddha.”
+{{milestone:{label:1.313,id:UT22084-058-005-437}}}Venerable Subhūti then said to those sons of the nāga king, “Noble sons, do thus-gone ones {{page:{number:72,id:UT22084-058-005-934,folio:F.241.b}}} pass into parinirvāṇa?”
+“Revered Subhūti, all who are born will pass into parinirvāṇa.”
+{{milestone:{label:1.314,id:UT22084-058-005-439}}}“Noble sons, do you consider the Thus-Gone One as having been born?”
+“He was born in the way that thusness arises.”
+{{milestone:{label:1.315,id:UT22084-058-005-441}}}“If he was born in the way that thusness arises, then there is also no arising of any phenomenon.”
+“Revered Subhūti, the arising of thusness is the arising of buddhahood.”
+{{milestone:{label:1.316,id:UT22084-058-005-443}}}“If the arising of buddhahood is like this, what is parinirvāṇa like?”
+“Revered Subhūti, just as there is no birth, there is no cessation. This is how the wheel of Dharma is turned. This is what parinirvāṇa is like.”
+{{milestone:{label:1.317,id:UT22084-058-005-445}}}At this point in the discussion, the Blessed One spread a jeweled net over all the precious and fragrant lotus flowers of Lake Anavatapta, each the size of a cart wheel and with a hundred thousand petals. At their center, a single exquisite and magnificent precious lotus burst forth. 
+{{milestone:{label:1.318,id:UT22084-058-005-446}}}When he saw this array of lotuses, Venerable Ānanda asked, “Blessed One, whose arrival is augured by these signs?”
+The Blessed One responded, “Ānanda, wait a moment and you will see.”
+{{milestone:{label:1.319,id:UT22084-058-005-448}}}Soon after the Blessed One said these words, sixty thousand bodhisattvas appeared from below, arriving from the world system called Ratnavyūhā, the buddha field of the Blessed Ratnaketu, and sat cross-legged on the precious lotuses. Mañjuśrīkumārabhūta, who also appeared, was seated on the central lotus. 
+{{milestone:{label:1.320,id:UT22084-058-005-449}}}All those assembled there {{page:{number:73,id:UT22084-058-005-935,folio:F.242.a}}} joined their palms together in awe and prostrated to the bodhisattvas. Mañjuśrīkumārabhūta then rose up into the sky, and the gods Śakra and Brahmā and other gods greeted him from above by holding a jeweled parasol over him. 
+{{milestone:{label:1.321,id:UT22084-058-005-450}}}Joining Mañjuśrīkumārabhūta, the remaining bodhisattvas also rose into the sky, to a height of seven palm trees. As an offering to the Blessed One, they caused to rain down from the sky flowers such as had never been seen or heard of before, and from those flowers came a voice: “The blessed, thus-gone, worthy, perfect Buddha Ratnaketu inquires after the health of the Blessed One—‘Does the Blessed One have any small pains or discomforts? Is he enjoying vitality, strength, and well-being?’ Mañjuśrīkumārabhūta has arrived with eighty thousand bodhisattvas to listen to the teaching on the Dharma gateway of the pure path of the nāga king Anavatapta. Rejoice in this Dharma discourse of the Blessed One!”
+{{milestone:{label:1.322,id:UT22084-058-005-451}}}Mañjuśrīkumārabhūta and the bodhisattvas then descended from the sky, prostrated at the feet of the Blessed One, and took their seats on the precious lotuses. 
+{{milestone:{label:1.323,id:UT22084-058-005-452}}}Although he already knew the answer, the Blessed One then inquired of Mañjuśrīkumārabhūta, “Mañjuśrī, for what reason have you come here with these bodhisattvas?”
+{{milestone:{label:1.324,id:UT22084-058-005-453}}}Mañjuśrī replied, “While staying in the Ratnavyūhā world system, the buddha field of the blessed, Thus-Gone Ratnaketu, we heard that the Blessed One was teaching the Dharma in this place. {{page:{number:74,id:UT22084-058-005-936,folio:F.242.b}}} We came here because we wished to behold the Blessed One and listen to this Dharma discourse.”
+{{milestone:{label:1.325,id:UT22084-058-005-454}}}Venerable Mahākāśyapa then asked the Blessed One, “Blessed One, how far from here is the Ratnavyūhā world system, the buddha field of the blessed, Thus-Gone Ratnaketu, such that these holy beings have arrived here so quickly?”
+{{milestone:{label:1.326,id:UT22084-058-005-455}}}Mañjuśrī replied, “Revered Mahākāśyapa, if you, a master of miraculous powers, were to travel to that world system, your lifespan would end and you would pass into parinirvāṇa before reaching that buddha field. That is how far the world system is from here.”
+{{milestone:{label:1.327,id:UT22084-058-005-456}}}The Blessed One said, “Kāśyapa, these bodhisattva great beings have arrived from the Ratnavyūhā world system, having crossed as many buddha fields as there are grains of sand in sixty Ganges Rivers.”
+{{milestone:{label:1.328,id:UT22084-058-005-457}}}The elder then asked, “Blessed One, how long did it take them to arrive here?”
+Mañjuśrī replied, “Elder, it took them the same amount of time it takes for a mind to be liberated from defilements with no further appropriation.”
+“Then the speed with which these holy beings have arrived here is amazing!” exclaimed the elder.
+{{milestone:{label:1.329,id:UT22084-058-005-460}}}Mañjuśrī asked, “How long did it take for the elder Mahākāśyapa’s mind to be liberated?”
+“It took just an instant.”
+{{milestone:{label:1.330,id:UT22084-058-005-462}}}“Elder, is your mind liberated?” asked Mañjuśrī.
+“Yes, Mañjuśrī, it is liberated.”
+{{milestone:{label:1.331,id:UT22084-058-005-464}}}“What was binding your mind?” asked Mañjuśrī. “What was it liberated from?”
+“Mañjuśrī,” replied the elder, “if my mind was bound, it would not be liberated, {{page:{number:75,id:UT22084-058-005-937,folio:F.243.a}}} and there would be no liberating wisdom vision.”
+{{milestone:{label:1.332,id:UT22084-058-005-466}}}“If Revered Mahākāśyapa’s mind is not bound, what is its liberation?”
+“Understanding the absence of bondage is liberation.”
+{{milestone:{label:1.333,id:UT22084-058-005-468}}}“What is that mind through which Revered Mahākāśyapa understands? What is that mind that is understood? Is it a past mind? A future mind? A present mind? The past is gone, the future is yet to come, and the present does not abide anywhere, so what is that mind that understands? What is that which is understood?”
+“Mañjuśrī, it is cessation; it is devoid of anything that can be regarded as a mind.”
+{{milestone:{label:1.334,id:UT22084-058-005-470}}}“Revered Kāśyapa, can mental cessation be understood?”
+“No, mental cessation cannot be understood.”
+{{milestone:{label:1.335,id:UT22084-058-005-472}}}Mañjuśrī replied, “The mind in which all has ceased is a downfall, because in it nothing is understood.”
+“Mañjuśrī, please speak on this. I am unable to reply to you.”
+{{milestone:{label:1.336,id:UT22084-058-005-474}}}“What do you think, Revered Mahākāśyapa,” asked Mañjuśrī, “does an echo have eloquence?”
+“No. And why is that? Because an echo is dependently arisen.”
+{{milestone:{label:1.337,id:UT22084-058-005-476}}}“Revered Mahākāśyapa, are all phenomena not like echoes?”
+“Yes, Mañjuśrī, they are.”
+{{milestone:{label:1.338,id:UT22084-058-005-478}}}“What do you think, Revered Mahākāśyapa, can an echo’s eloquence be interrupted?”
+“It is interrupted when no words are uttered.”
+{{milestone:{label:1.339,id:UT22084-058-005-480}}}“That is right, Revered Mahākāśyapa. A bodhisattva’s eloquence is interrupted when no questions are asked. Revered Mahākāśyapa, if I were questioned for an eon, my eloquence would continue for that whole eon.” {{page:{number:76,id:UT22084-058-005-938,folio:F.243.b}}}
+{{milestone:{label:1.340,id:UT22084-058-005-481}}}Venerable Mahākāśyapa then said to the Blessed One, “Blessed One, please exhort Mañjuśrīkumārabhūta to teach in such a way that this assembly will derive meaning, benefit, and well-being for a long time, such that the true nature of phenomena may be directly perceived.”
+{{milestone:{label:1.341,id:UT22084-058-005-482}}}Then the bodhisattva great being Prajñākūṭa, who was seated in that assembly of bodhisattvas, said to Mañjuśrīkumārabhūta, “Mañjuśrī, what is the elder Mahākāśyapa thinking? Why does he teach in an inferior way? Why is he called an elder?”
+Mañjuśrī replied, “He is a hearer, and as such he has not overcome fear.”
+{{milestone:{label:1.342,id:UT22084-058-005-484}}}Prajñākūṭa then asked, “Has he not entered the Great Vehicle?”
+“No, noble son, he will be liberated through the vehicle of the hearers.”
+{{milestone:{label:1.343,id:UT22084-058-005-486}}}“Mañjuśrī, what is the ‘vehicle of the hearers’ like?”
+“Noble son, the blessed, Thus-Gone Śākyamuni teaches the Dharma from the perspective of three vehicles. What are those three? They are the vehicle of the hearers, the vehicle of the solitary buddhas, and the Great Vehicle. There are thus three vehicles. Why? Because there are beings who are inclined toward the inferior.”
+{{milestone:{label:1.344,id:UT22084-058-005-488}}}“Mañjuśrī, if emptiness is boundless, signlessness is boundless, and wishlessness is boundless, then why fabricate limited notions?”
+{{milestone:{label:1.345,id:UT22084-058-005-489}}}“Noble son, the Thus-gone One is expert in skillful means. Therefore, even though emptiness, signlessness, and wishlessness are boundless, he inspires interest in some beings by means of limited notions.”
+{{milestone:{label:1.346,id:UT22084-058-005-490}}}“Mañjuśrī, lest I come into further contact with beings inclined toward inferior paths, I shall leave.” {{page:{number:77,id:UT22084-058-005-939,folio:F.244.a}}}
+{{milestone:{label:1.347,id:UT22084-058-005-491}}}Mañjuśrī replied, “Noble son, stay for a moment to hear the eloquence of the nāga king Anavatapta, who will speak about the boundlessness of the true nature of phenomena.”
+{{milestone:{label:1.348,id:UT22084-058-005-492}}}Then Venerable Mahākāśyapa asked the bodhisattva Prajñākūṭa, “Noble son, how does the Thus-Gone Ratnaketu teach the Dharma?”
+{{milestone:{label:1.349,id:UT22084-058-005-493}}}“He teaches with tales of the buddhas and bodhisattvas, and he teaches about the single taste, origination from the boundless Dharma, irreversibility, becoming a buddha, not being inclined toward any other teachings, and omniscient wisdom. Beings who have not overcome fear are not born there, so the Dharma teachings of that blessed one are like that.”
+{{milestone:{label:1.350,id:UT22084-058-005-494}}}Then, the nāga king Anavatapta addressed Mañjuśrīkumārabhūta: “Mañjuśrī, as for the thus-gone one that you came here wishing to behold—is it form that is beheld as a thus-gone one?”
+“No, it is not.”
+{{milestone:{label:1.351,id:UT22084-058-005-496}}}“Is it feeling, perception, formation, or consciousness that is beheld as a thus-gone one?”
+“No, it is not.”
+{{milestone:{label:1.352,id:UT22084-058-005-498}}}“Is it the impermanence of form that is beheld as a thus-gone one?”
+“No, it is not.”
+{{milestone:{label:1.353,id:UT22084-058-005-500}}}“Is it the impermanence of feeling, perception, formation, and consciousness that is beheld as a thus-gone one?”
+“No, it is not.”
+{{milestone:{label:1.354,id:UT22084-058-005-502}}}“Is it the suffering of form, its selflessness, peacefulness, emptiness, signlessness, wishlessness, and absence of formation that is beheld as a thus-gone one?”
+“No, it is not.”
+{{milestone:{label:1.355,id:UT22084-058-005-504}}}“Is it the suffering of feeling, perception, formation, and consciousness and {{page:{number:78,id:UT22084-058-005-940,folio:F.244.b}}} their selflessness, peacefulness, emptiness, signlessness, wishlessness, and absence of formation that are beheld as a thus-gone one?”
+“No, it is not.”
+{{milestone:{label:1.356,id:UT22084-058-005-506}}}“Are the defining characteristics of form beheld as a thus-gone one? Are the defining characteristics of the other aggregates up to consciousness beheld as a thus-gone one?”
+“No, they are not.”
+{{milestone:{label:1.357,id:UT22084-058-005-508}}}“Is it the physical eye that beholds a thus-gone one?”
+“No, it is not.”
+{{milestone:{label:1.358,id:UT22084-058-005-510}}}“Is it the divine eye that beholds a thus-gone one?”
+“No, it is not.”
+{{milestone:{label:1.359,id:UT22084-058-005-512}}}“Is it the eye of insight that beholds a thus-gone one?”
+“No, it is not.”
+{{milestone:{label:1.360,id:UT22084-058-005-514}}}“Mañjuśrī, how does one behold a thus-gone one?”
+“Lord of nāgas, a thus-gone one is beheld just as he is.”
+{{milestone:{label:1.361,id:UT22084-058-005-516}}}“Mañjuśrī, what is a thus-gone one like?”
+“Lord of nāgas, a thus-gone one is equal to the unequaled, peerless, and incomparable. Unequaled means unrivaled. Equal to the unequaled means he is unmatched. He is peerless because he is not defined by the characteristics of form. He is incomparable because he is beyond marks and signs. Lord of nāgas, this is how a thus-gone one is, and this is how he should be seen. However, he cannot be seen with the physical eye, the divine eye, or the eye of insight. Why? Because the physical eye sees light, and a thus-gone one is neither light nor darkness and therefore cannot be seen with the physical eye. Because the divine eye has the defining characteristic of formation, and a thus-gone one is utterly beyond formation and therefore cannot be seen with the divine eye. Because the eye of insight has the defining characteristic of understanding origination, {{page:{number:79,id:UT22084-058-005-941,folio:F.245.a}}} and a thus-gone one is utterly beyond origination and therefore cannot be seen with the eye of insight either.”
+{{milestone:{label:1.362,id:UT22084-058-005-518}}}“Mañjuśrī, what is the pure vision of a thus-gone one like?”
+“Lord of nāgas, because the eye consciousness and the mind itself do not arise, and because the consciousness of form and consciousness itself do not cease, the vision of a thus-gone one is pure.”{{note:{index:37,id:UT22084-058-005-520}}}
+{{milestone:{label:1.363,id:UT22084-058-005-521}}}Amazed, the bodhisattva great beings who had arrived from the buddha field of the Thus-Gone Ratnaketu exclaimed, “Those holy beings who have heard these questions of the lord of nāgas, have faith in them, retain them without fear or terror, and teach them will truly see the Thus-Gone One. Even for us, it has not been without benefit to come here and hear about that way. It should be known that in the villages, towns, cities, districts, countries, and royal palaces where this Dharma teaching is practiced, the Thus-Gone One will not pass into parinirvāṇa, and the sacred Dharma will not disappear. This Dharma teaching overcomes the armies of Māra and vanquishes all the sites of non-Buddhists!”
+{{milestone:{label:1.364,id:UT22084-058-005-522}}}The nāga king Anavatapta then said to Mañjuśrīkumārabhūta, “Mañjuśrī, it is said that bodhisattvas who practice nonconduct have no difficulty reaching awakening. Mañjuśrī, how do bodhisattvas engage in nonconduct?”
+{{milestone:{label:1.365,id:UT22084-058-005-523}}}Mañjuśrī replied, “Lord of nāgas, the emptiness of the conduct of those who engage in perfect generosity{{note:{index:38,id:UT22084-058-005-524}}}{{page:{number:80,id:UT22084-058-005-942,folio:F.245.b}}} is the emptiness of the conduct of miserly beings. That sameness of conduct is known as engaging in nonconduct. The same applies to discipline, patience, diligence, and concentration. The emptiness of the conduct of those with insight is the emptiness of the conduct of those with confused insight. That sameness of conduct is known as engaging in nonconduct. Furthermore, lord of nāgas, the emptiness of the conduct of those who indulge in desire is the emptiness of the conduct of those who are free of desire. That sameness of conduct is known as engaging in nonconduct. The same applies to those who indulge in aversion and delusion. The emptiness of the conduct of those who indulge in all the afflictions in similar proportions is the emptiness of the conduct of those who have no afflictions. That sameness of conduct is known as engaging in nonconduct.
+{{milestone:{label:1.366,id:UT22084-058-005-525}}}“Furthermore, lord of nāgas, the emptiness of the conduct related to the eighty-four thousand activities of the thus-gone ones and the eighty-four thousand collections of Dharma teachings is the emptiness of the liberated conduct of the noble ones. That sameness of conduct is known as engaging in nonconduct.
+{{milestone:{label:1.367,id:UT22084-058-005-526}}}“Furthermore, lord of nāgas, when bodhisattvas engage in conduct, they engage in that conduct through nonconduct. When they engage in conduct, they do not consider it to be real, they do not cling to it, they have no concepts about it, and they do not think about it. That is why this is known as engaging in nonconduct.”
+{{milestone:{label:1.368,id:UT22084-058-005-527}}}“Mañjuśrī, why is it said that bodhisattvas engage in nonconduct?”
+“Lord of nāgas, from the first time they develop the intention to reach awakening until they reach the seat of awakening, bodhisattvas who are committed to virtuous conduct, unborn conduct, insubstantial conduct, {{page:{number:81,id:UT22084-058-005-943,folio:F.246.a}}} conduct devoid of apprehension, groundless conduct, conduct devoid of afflictions, conduct devoid of essential nature, conduct beyond origination, conduct beyond movement, baseless conduct, authentic conduct, and ritual conduct{{note:{index:39,id:UT22084-058-005-529}}} are those who engage in the conduct of nonconduct. When bodhisattvas engage in unborn conduct, they are liberated, through their commitment to insight, into the absence of characteristics and the concordant absence of movement. Then, without passing beyond the extent of nonduality, they directly realize the limit of reality without perceiving a limit. This is how bodhisattvas reach acceptance of the unborn nature of phenomena.”
+{{milestone:{label:1.369,id:UT22084-058-005-530}}}The nāga king Anavatapta then said to Mañjuśrīkumārabhūta, “Mañjuśrī, what is it like to reach acceptance of the unborn nature of phenomena?”
+{{milestone:{label:1.370,id:UT22084-058-005-531}}}“Reaching acceptance of the unborn nature of form is known as reaching acceptance of the unborn nature. Likewise, reaching acceptance of the unborn nature of feeling, of perception, of formation, and of consciousness is known as reaching acceptance of the unborn nature. Reaching acceptance of the unborn nature of all phenomena is known as reaching acceptance of the unborn nature. 
+{{milestone:{label:1.371,id:UT22084-058-005-532}}}“Furthermore, lord of nāgas, bodhisattvas who reach acceptance of the unborn nature of phenomena fully achieve patience, which is known as the all-pervasive. In obtaining it, bodhisattvas correctly observe all beings as the attainment of patience itself. And they correctly observe the all-pervasive as the unborn nature itself. They correctly observe that all beings are without an essential nature. They correctly observe that all beings are unborn. They correctly observe it as being the characteristic of all beings. {{page:{number:82,id:UT22084-058-005-944,folio:F.246.b}}} And, correctly, they do not observe even the tiniest particle that is other than sameness. 
+{{milestone:{label:1.372,id:UT22084-058-005-533}}}“That patience is momentary.{{note:{index:40,id:UT22084-058-005-534}}} How is it momentary? From the eye, form, and eye consciousness up through the mind, mental phenomena, and mental consciousness, just as the eye and so forth are momentary, so, too, is acceptance of all of the past momentary, and so are acceptance of all of the future and of the present momentary. Just as acceptance of the three times is momentary, so, too, are all beings are momentary. How are they momentary? The afflictions of desire, aversion, and delusion are momentary. Just as all beings are momentary, so, too, are the afflictions that arise from mistaken views momentary. In this way, a bodhisattva who has wisdom, who has reached acceptance of the unborn, correctly sees all beings as liberated. Why? That bodhisattva thinks, ‘Just as my own afflictions are momentary and unreal, the afflictions of all beings are momentary and unreal. Liberation is beyond the roots of those afflictions and beyond their power. If they are not liberated, then no one would pass beyond suffering. Therefore, they are liberated and abide in the essential nature of liberation.’ This is how bodhisattvas with wisdom do not become disheartened while bringing beings to maturity. Why? Because they correctly see that since all phenomena are unbound, they are intrinsically liberated. They think, ‘These beings are completely, naturally unafflicted. {{page:{number:83,id:UT22084-058-005-945,folio:F.247.a}}} If they were not intrinsically liberated, they would be afflicted by imputed afflictions. These beings are completely, naturally unafflicted. If they were not{{note:{index:41,id:UT22084-058-005-535}}} intrinsically liberated, they would be afflicted by inauthentic concepts. These beings are completely, naturally unafflicted. If they were not{{note:{index:42,id:UT22084-058-005-536}}} intrinsically liberated, they would be afflicted by perception, the mind, and conceptual activity.’
+{{milestone:{label:1.373,id:UT22084-058-005-537}}}“Lord of nāgas, bodhisattvas who have reached acceptance of the unborn nature of phenomena reach{{note:{index:43,id:UT22084-058-005-538}}} the domain of the buddhas. They do not abide in the domains of ordinary beings, nor of those who are in training, of those who are no longer training, or of solitary buddhas. They have abandoned all domains. They are not driven by attachment toward any domain. They are not driven by aversion toward any domain. They are not confused by delusion concerning any domain, nor have they reached being without attachment to any domain—they abide in the extent of being free of attachment, yet in order to bring beings to maturity, they do not reject any domains, and they experience their domains without affliction. They roam within the domains of Māra, yet they do not discard the characteristic of the essential nature of the buddhas’ domain. They do not disturb the domain of the realm of phenomena, yet they abide in the domain of the realm of beings. They understand that all phenomena are devoid of an object and are beyond domains, yet they engage in the realm of activity. Through their insight, they understand that there are neither actions nor any fruition of actions, yet they engage in formation in the realm of formation. They do not enter the realm of nonformation, nor are they indifferent.{{note:{index:44,id:UT22084-058-005-539}}} They create virtue and correctly see that all phenomena are unborn, {{page:{number:84,id:UT22084-058-005-946,folio:F.247.b}}} but they do not enter the flawless state of the noble ones.”
+{{milestone:{label:1.374,id:UT22084-058-005-540}}}Then the nāga king Anavatapta asked Mañjuśrīkumārabhūta, “Mañjuśrī, when you say that bodhisattvas do not enter the flawless state of the noble ones, what is the entrance into flawlessness for bodhisattvas?”
+{{milestone:{label:1.375,id:UT22084-058-005-541}}}“Lord of nāgas, bodhisattvas at the stage of irreversibility enter flawlessness. Lord of nāgas, bodhisattvas understand that the entirety of mental activity is devoid of ‘mine,’ yet they still endeavor for the sake of beings who cling to ‘I’ and ‘mine.’ ”
+{{milestone:{label:1.376,id:UT22084-058-005-542}}}“Mañjuśrī, what is the compassion that bodhisattvas who are free from clinging to ‘I’ and ‘mine’ generate for beings who are still bound by such clinging?”
+{{milestone:{label:1.377,id:UT22084-058-005-543}}}“Bodhisattvas who abide in the five aggregates as imputations, who understand clinging to ‘I’ and clinging to ‘mine,’ and who are not taken in by the aggregates and elements and sense sources nevertheless accept their existence for the sake of those beings who live through the aggregates, elements and sense sources. They correctly see that arising as the unborn nature of all compounded phenomena, and they correctly see all that is born and unborn as born and unborn.{{note:{index:45,id:UT22084-058-005-544}}}
+{{milestone:{label:1.378,id:UT22084-058-005-545}}}“Lord of nāgas, bodhisattvas enter flawlessness through insight, but since they also manifest skillful means, they appear to all those who wander in saṃsāra. Lord of nāgas, emptiness is the entrance to the flawlessness of bodhisattvas, but since they also manifest skillful means, they generate great compassion for those beings who adhere to mistaken views. Signlessness is the entrance into the flawless state of the bodhisattvas, but since they also manifest skillful means, they generate great compassion for those who indulge in conceptual thinking. {{page:{number:85,id:UT22084-058-005-947,folio:F.248.a}}} Wishlessness is the entrance into the flawlessness of bodhisattvas, but since they also manifest skillful means, they generate great compassion for those who form wishes. 
+{{milestone:{label:1.379,id:UT22084-058-005-546}}}“Lord of nāgas, bodhisattvas understand that phenomena are without self and that beings are impermanent, devoid of life force, and devoid of personhood, yet they do not forget the intent to reach awakening. They understand that phenomena are uncompounded, yet they still accumulate the roots of virtue that mature as the thirty-two major marks of a great being. They are utterly calm and at peace, yet they do not abandon their previous commitment to conquer ignorance—the lack of calm and peace—and latent tendencies and to settle their mind, mental faculty, and consciousness evenly in the mind of omniscience. They have conquered all forms of pride and are expert in discerning the faculties of all beings. They proclaim the qualities of the noble ones yet diligently remain in the midst of ignoble phenomena. They have no mental constructs, yet they engage with mental constructs. They are utterly at peace, yet they support those who are not at peace. They are constantly unwavering and immovable, yet they still accomplish the ornaments of the buddha fields. Lord of nāgas, this flawlessness of bodhisattvas transcends the world but does not turn away from it. Lord of nāgas, this noble absorption of being endowed with insight and skillful means in this way is the entrance into the flawlessness of bodhisattvas. 
+{{milestone:{label:1.380,id:UT22084-058-005-547}}}“For example, lord of nāgas, when it comes to the entrance into the flawlessness of hearers, the quality of not falling into errors is known as entering the stream. Similarly, lord of nāgas, when it comes to the entrance into the flawlessness of bodhisattvas, {{page:{number:86,id:UT22084-058-005-948,folio:F.248.b}}} the quality of not falling into errors is known as irreversibility. Lord of nāgas, the entrance into the flawlessness of hearers is not transcendent, although it leads with certainty to the attainment of fruition. The entrance into the flawlessness of bodhisattvas is transcendent. Rather than leading to the hearers’ attainment of fruition, it brings one closer to ultimate fruition—the seat of awakening. Therefore, the flawlessness of hearers is limited, while the flawlessness of bodhisattvas is unlimited.
+{{milestone:{label:1.381,id:UT22084-058-005-548}}}“Lord of nāgas, imagine two persons who have fallen into a deep crevasse. One of them is strong, diligent, courageous, skilled, well prepared, and clever. After he has fallen there, he manages to pull himself out of that crevasse through his own great effort, while the other person, who is weaker and unskilled, remains stuck at the bottom. Similarly, lord of nāgas, bodhisattvas, through the power of their insight, see and realize that all phenomena are empty, signless, wishless, and unfabricated, and having perfected skillful means through their great compassion toward all beings, they abide in the mind of omniscience, while those who follow the vehicle of the hearers achieve their result by means of the intellectual analysis of phenomena. Lord of nāgas, in that analogy, the deep crevasse represents uncompounded phenomena, the diligent person represents a bodhisattva, and the person who is unable to climb out of that crevasse into which he has fallen represents a follower of the vehicle of hearers. Lord of nāgas, those who hear about this flawlessness will certainly proceed to unsurpassed, perfect awakening {{page:{number:87,id:UT22084-058-005-949,folio:F.249.a}}} and will approach the flawlessness of bodhisattvas.”
+{{milestone:{label:1.382,id:UT22084-058-005-549}}}Then the nāga prince Vikurvāṇa said to the Blessed One, “Blessed One, with a disinterested mind, I will develop the mind of awakening, to ensure that this Dharma teaching remains for a long time, and to maintain the sacred Dharma. I go for refuge in the Buddha, the Dharma, and the Saṅgha. Due to the wisdom of the Buddha, I have now properly understood the nature of awakening through the nature of the mind, and the nature of all phenomena through the nature of awakening. I will now explain this. Blessed One, those who do not listen to this teaching on the Dharma gateway of the pure path have fallen under the sway of Māra. Why? Because, Blessed One, bodhisattvas who are skilled in this Dharma teaching are skilled in all paths that lead to emancipation.”
+{{milestone:{label:1.383,id:UT22084-058-005-550}}}Then Venerable Subhūti asked the nāga prince Vikurvāṇa, “Noble son, when you spoke of awakening to perfect buddhahood by realizing the nature of the mind, what did you mean by the nature of the mind?”
+“The nature of the mind is the nature of Revered Subhūti.”
+{{milestone:{label:1.384,id:UT22084-058-005-552}}}“What is the nature of Subhūti?”
+“It is the nature of desire, aversion, and delusion.”
+{{milestone:{label:1.385,id:UT22084-058-005-554}}}“What is the nature of desire, aversion, and delusion?”
+“It is the nature of concepts and thoughts. Why? What do you think, Subhūti? Without thoughts, would desire, aversion, and delusion arise?”
+“No.”
+{{milestone:{label:1.386,id:UT22084-058-005-557}}}“That which is beyond concepts and thoughts does not arise, and that which does not arise is of that nature. {{page:{number:88,id:UT22084-058-005-950,folio:F.249.b}}} This is the nature of desire, aversion, and delusion. Revered Subhūti, you asked what it is that we call the nature of the mind. Luminosity is the nature of the mind, and the luminosity of the mind is beyond desire, aversion, and delusion.”
+{{milestone:{label:1.387,id:UT22084-058-005-558}}}“Noble son, when afflictions arise, where do they arise from?”
+“Revered Subhūti, afflictions arise based on wrong views, but the nature of the mind is never afflicted in any way. Revered Subhūti, if the nature of the mind were inherently afflicted, it could never be purified. Therefore the nature of the mind is not afflicted, since as it is said, ‘when afflictions are thoroughly understood, they will be purified.’ ”
+{{milestone:{label:1.388,id:UT22084-058-005-560}}}Subhūti then asked, “Noble son, how are afflictions thoroughly understood?”
+“Revered Subhūti, to thoroughly understand the afflictions is to correctly comprehend that things arise based on conditions and that when conditions are not there, they do not arise.”
+{{milestone:{label:1.389,id:UT22084-058-005-562}}}“Noble son, how is a bodhisattva to be properly diligent?”
+“Revered Subhūti, when a bodhisattva rests without engaging with anything they are properly diligent. Furthermore, Revered Subhūti, whenever a bodhisattva great being gives teachings on the liberation of the hearers and solitary buddhas without falling into that liberation themselves, this is also the proper engagement of a bodhisattva. Furthermore, Revered Subhūti, whenever a bodhisattva great being comprehends that because their own afflictions are void the afflictions of all beings are also void, this is also the proper engagement of a bodhisattva. Furthermore, {{page:{number:89,id:UT22084-058-005-951,folio:F.250.a}}} when the engagement of a bodhisattva is seen as disengagement, and when disengagement is seen as engagement, this is also the proper engagement of a bodhisattva.”
+{{milestone:{label:1.390,id:UT22084-058-005-564}}}Venerable Subhūti then asked the nāga prince Vikurvāṇa, “Noble son, how is a bodhisattva’s engagement seen as disengagement, and disengagement as engagement?”
+{{milestone:{label:1.391,id:UT22084-058-005-565}}}“Revered Subhūti, from the perspective of the nonduality of the realm of phenomena, the sensory elements—from the eye and form to the mind and mental phenomena—are viewed with disengagement. But since those who are disengaged do not take rebirth in the three realms, a bodhisattva taking rebirth through skillful means is referred to as engagement. Revered Subhūti, bodhisattvas exerting themselves in this way is what is meant by being properly diligent.”
+{{milestone:{label:1.392,id:UT22084-058-005-566}}}The Blessed One gave his approval to the nāga prince, saying, “Holy being, the teaching on the proper engagement of bodhisattvas that you just gave through the power of the Buddha is excellent, excellent! Consider it certain that bodhisattvas who are properly diligent in the Great Vehicle in this way will reach omniscience itself.”
+{{milestone:{label:1.393,id:UT22084-058-005-567}}}Then the nāga prince Vikurvāṇa asked the Blessed One, “Blessed One, how does a bodhisattva great being take refuge in the Buddha, the Dharma, and the Saṅgha without regard for material things?”
+{{milestone:{label:1.394,id:UT22084-058-005-568}}}“Noble son, bodhisattvas understand that all phenomena are devoid of a self, a being, a life force, and a person, and they correctly see that the Thus-Gone One is not his form, marks, or qualities. This is how they take refuge in the Buddha without regard for material things. {{page:{number:90,id:UT22084-058-005-952,folio:F.250.b}}}
+{{milestone:{label:1.395,id:UT22084-058-005-569}}}“The true nature of a thus-gone one is the realm of phenomena, and the realm of phenomena is said to cover all there is. Seeing that all phenomena are the realm of phenomena, bodhisattvas take refuge in the Dharma without regard for material things. 
+{{milestone:{label:1.396,id:UT22084-058-005-570}}}“By meditating on the unconditioned nature of the realm of phenomena and teaching the unconditioned to followers of the hearer vehicle, they make no distinction between the conditioned and the unconditioned. In this way they take refuge in the Saṅgha without regard for material things.”
+{{milestone:{label:1.397,id:UT22084-058-005-571}}}When this teaching was given, the nāga king’s son Vikurvāṇa reached concordant acceptance of phenomena. Then, together with his retinue of wives, sons, and relatives, the nāga king Anavatapta took refuge in the Buddha, the Dharma, and the Saṅgha with all his goods. He offered his kingdom to the Blessed One and his assembly of monks, saying, “Blessed One, this is my prayer: In my kingdom, there are four great rivers, which flow into the four great oceans. Blessed One, through this act, may all beings—those with two legs, four legs, and many legs, and all the other animals and birds who feed in the great oceans and rivers, reach unsurpassed, perfect awakening. Through this act, may all those who aspire to reach awakening be liberated!”
+{{milestone:{label:1.398,id:UT22084-058-005-572}}}At that moment, the Blessed One smiled, and as is the case when blessed buddhas smile, multicolored light rays shined forth from the Blessed One’s mouth {{page:{number:91,id:UT22084-058-005-953,folio:F.251.a}}} and illuminated countless world systems. Those light rays then returned, and they vanished into the crown of the Thus-Gone One’s head. 
+{{milestone:{label:1.399,id:UT22084-058-005-573}}}Venerable Ānanda then offered these verses to the Blessed One:
+{{milestone:{label:1.400,id:UT22084-058-005-574}}}“Peerless one, your form is a delight to behold.
+Supreme being, Blessed One, foremost among men,
+Though you transcend the world, you are the lamp that illuminates it.
+Sage, please tell us the reason for your radiant smile.
+{{milestone:{label:1.401,id:UT22084-058-005-575}}}“Endowed with hundreds of merits and even more,
+Distinguished by your wisdom, you clarify the meaning of that wisdom.
+The power of your Dharma is unmatched, and you grant us Dharma discourses.
+Blessed One, why do you smile?
+{{milestone:{label:1.402,id:UT22084-058-005-576}}}“You see the truth, and you always delight in truth.
+Your senses are at peace, you abide in tranquility, and you have reached perfection.
+Utterly calm, you delight in peaceful abiding.
+Please explain to us the perfect qualities of your smile.
+{{milestone:{label:1.403,id:UT22084-058-005-577}}}“With your voice as sweet as the voice of Brahmā,
+Sweet as the chirping of excellent birds or the sound of music,
+With all aspects of tunefulness and melody,
+Sage, please tell us the reason for your smile.
+{{milestone:{label:1.404,id:UT22084-058-005-578}}}“Sage, you are the source of insight, and your insight is liberated.
+Constantly settled in equipoise with a mind devoid of confusion,
+You are omniscient, expert in the ways of beings.
+Peerless One, please tell us the reason for your smile.
+{{milestone:{label:1.405,id:UT22084-058-005-579}}}“Your wisdom unswerving, your power complete,
+You display countless miraculous powers.
+You possess the ten powers, and your mastery is perfect.
+Well-Gone One, why do you smile?
+{{milestone:{label:1.406,id:UT22084-058-005-580}}}“Your body radiates glorious light
+That outshines the light of others.
+Nothing shines like the light of the Victor—
+Neither the sun nor the moon, neither fire nor precious gems.
+{{milestone:{label:1.407,id:UT22084-058-005-581}}}“Meritorious one, you are free of doubt.
+Perfect bodhisattva, you illuminate all directions. {{page:{number:92,id:UT22084-058-005-954,folio:F.251.b}}}
+Blessed One, why do you smile?
+Peerless one, please instruct us through your wisdom!”
+{{milestone:{label:1.408,id:UT22084-058-005-582}}}Then the Blessed One said to Venerable Ānanda, “Ānanda, did you see the array of offerings that the nāga king Anavatapta presented to the Thus-Gone One?”
+“Yes, Blessed One, I did.”
+{{milestone:{label:1.409,id:UT22084-058-005-584}}}The Blessed One continued, “In order to attain awakening, the nāga king Anavatapta has formerly practiced the holy life in the presence of nine hundred ninety million buddhas. When the Thus-Gone Dīpaṃkara prophesied to me, ‘In the future, you will be the thus-gone, worthy, perfect buddha named Śākyamuni,’ this nāga king was a merchant’s son named Viśuddhamati. When he heard my prophecy, he made this prayer: ‘In the future, may I, too, receive a prophecy like the one this boy Sumati has received.’ 
+{{milestone:{label:1.410,id:UT22084-058-005-585}}}“Ānanda, just as the nāga king Anavatapta makes offerings to me now, so, too, will he offer his kingdom and its adornments to all the thus-gone ones of the Fortunate Eon. Understanding his pure motivation, all the thus-gone ones will teach him this Dharma teaching on the pure path, and the thus-gone ones Krakucchanda, Kanakamuni, and Kāśyapa have also taught this teaching on the Dharma gateway of the pure path while residing in this place. The lord of nāgas Anavatapta will make offerings to all the thus-gone ones of the Fortunate Eon. He will listen to the Dharma from them, and henceforth he will please countless thus-gone ones, {{page:{number:93,id:UT22084-058-005-955,folio:F.252.a}}} practice the holy life, and maintain the sacred Dharma. After seven thousand five hundred incalculable eons, he will become the thus-gone, worthy, perfect buddha named Anavatapta. Ānanda, when the Thus-Gone Anavatapta attains awakening, beings will no longer be afflicted by desire, aversion, or delusion, nor will they be tormented by opponents, and all beings will be secure and live out their full lifespans. Ānanda, the lifespan of the Thus-Gone Anavatapta will be eight hundred million years.
+{{milestone:{label:1.411,id:UT22084-058-005-586}}}“Ānanda, the buddha field of the Thus-Gone Anavatapta will be made from beryl, and its land will be covered with lotuses made of gold from the Jambū River. There, the luxuries, pleasures, foods, and drinks of gods and humans will be available by merely thinking of them. All humans living there will fly through the sky by the power of the five higher perceptions. The luxuries and pleasures of those humans will be like those of the gods in the Heaven of Joy. Those beings will not engage in sexual acts; instead, they will all enjoy and aspire to the joy of the Dharma, and their afflictions will be pacified. 
+{{milestone:{label:1.412,id:UT22084-058-005-587}}}“That thus-gone one will tirelessly teach the Dharma. Just as I now teach the Dharma using all kinds of miraculous displays, he, too, will have no difficulty teaching the Dharma. He will tame beings by merely speaking the Dharma. Why? Because the same Dharma discourse taught here will be taught to both the gods and the humans in that buddha field. In that buddha field, there will be no distinction between day and night. {{page:{number:94,id:UT22084-058-005-956,folio:F.252.b}}} Why? Because, Ānanda, that entire buddha field will be illuminated by light radiating from the body of the Thus-Gone Anavatapta. Those beings will then think, ‘The Thus-Gone One is going to give a Dharma discourse,’ and, inspired by that light, they will come down from the sky to listen to the Dharma. Once they have gathered, the Thus-Gone One will rise up in the sky to a height of seven palm trees. There, he will sit on a lion throne and teach them the Dharma. While sitting there, he will be visible throughout the entire buddha field, like the disk of the full moon.
+{{milestone:{label:1.413,id:UT22084-058-005-588}}}“Then those beings endowed with ripened roots of virtue will think, ‘Just as the Blessed One’s lion throne is groundless, so, too, are all phenomena—their essential nature is groundless space.’ With that thought, those beings will become realized and reach acceptance. That thus-gone one will teach the Dharma discourse called Entering the Vajra Gateway. Just as a vajra destroys everything it falls upon, the Dharma teaching of this thus-gone one will destroy all latent and deeply ingrained tendencies. 
+{{milestone:{label:1.414,id:UT22084-058-005-589}}}“Ānanda, when the Thus-Gone Anavatapta is about to pass into parinirvāṇa, he will prophesy, ‘After I pass away, the bodhisattva Lofty Aspiration will become the Thus-Gone Samantaprabhāsa, and his buddha field will just like this.’ After uttering this prophecy about the bodhisattva Lofty Aspiration, he will pass into parinirvāṇa.” {{page:{number:95,id:UT22084-058-005-957,folio:F.253.a}}}
+{{milestone:{label:1.415,id:UT22084-058-005-590}}}The son of the nāga king Anavatapta named Attainment of Perpetual Faith then offered a parasol adorned with precious gems to the Thus-Gone One and said, “Blessed One, at that time, who will be that bodhisattva named Lofty Aspiration?”
+{{milestone:{label:1.416,id:UT22084-058-005-591}}}Knowing the superior motivation of the nāga prince Attainment of Perpetual Faith, the Blessed One said to Venerable Ānanda, “Ānanda, at that time, this son of the nāga king Attainment of Perpetual Faith will be that bodhisattva named Lofty Aspiration. Do not consider him as any other. After the Blessed Anavatapta, he will appear in the world as the thus-gone, worthy, perfect buddha named Samantaprabhāsa.”
+{{milestone:{label:1.417,id:UT22084-058-005-592}}}After the Blessed One had answered these questions, and when it was understood that this Dharma teaching on the pure path was complete, the bodhisattva great beings, in addition to Śakra, Brahmā, the protectors of the world, and the gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, and mahoragas who had assembled from the ten directions, were satisfied, pleased, delighted, and overjoyed. Full of joy and happiness, they rose from their seats cheerfully, made offerings to the Blessed One in the appropriate manner, and returned to their respective buddha fields and residences. 
+{{milestone:{label:1.418,id:UT22084-058-005-593}}}Then the nāga king Anavatapta, accompanied by his sons, wives, relatives, and retinue, manifested himself as the nāga king Guardian God and conjured a celestial palace for the Blessed One adorned with all the most exquisite features. He requested the Blessed One to reside there {{page:{number:96,id:UT22084-058-005-958,folio:F.253.b}}} along with his assembly of bodhisattvas and his assembly of hearers, and he emerged from his home to serve him. He then escorted the Blessed One, along with the bodhisattvas and his saṅgha of hearers, back to Vulture Peak Mountain, and after the Blessed One had given him leave, he returned home. 
+{{milestone:{label:1.419,id:UT22084-058-005-594}}}The Blessed One then said to Venerable Ānanda, “Ānanda, you must remember this Dharma teaching.”
+“I will remember it!”
+{{milestone:{label:1.420,id:UT22084-058-005-596}}}“Ānanda,” the Blessed One continued, “teach this Dharma discourse on the pure path continuously to the fourfold assembly. In that way you will maintain the sacred Dharma.”
+{{milestone:{label:1.421,id:UT22084-058-005-597}}}When the brahmins and householders of Rājagṛha heard that the Blessed One had returned to Vulture Peak Mountain from the realm of the nāga king Anavatapta, they were filled with faith, and they all went together to where the Blessed One was staying. When they arrived, the blessed Buddha taught them the Dharma, starting with this Dharma teaching on the pure path. Ten thousand beings from that assembly gave rise to the mind of awakening, and five thousand beings developed the Dharma eye regarding phenomena.
+{{milestone:{label:1.422,id:UT22084-058-005-598}}}When the Blessed One had finished speaking, Venerable Ānanda, the great hearers, and the world with its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said. 
+{{milestone:{label:1.423,id:UT22084-058-005-599}}}This concludes the noble Great Vehicle sūtra “The Questions of the Nāga King Anavatapta.”
+{{milestone:{label:c.1,id:UT22084-058-005-600}}}Edited and finalized by the Indian preceptors Jinamitra and Dānaśīla and Venerable Yeshé Dé, the scribe Gönlingma, and others.

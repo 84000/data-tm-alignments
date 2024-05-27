@@ -1,6 +1,6 @@
-{{translation:{key:toh361,version:1.2.20,style:plain}}}
+{{translation:{id:UT22084-077-002,key:toh361,version:1.2.21,style:plain}}}
 Summary of Empowerment
- Homage to Glorious Kālacakra!
+Homage to Glorious Kālacakra!
 Sucandra requested:
 The sevenfold and threefold empowerment,
 And also the unsurpassable one, O Teacher—
@@ -90,7 +90,7 @@ Because he realizes the [blissful] state without vibration. {21}
 The universal ancestor should be known
 As the creator of all protectors.
 Being in a state without duality or movement,
-He is called Vajrasattva, the Great Being, and Bodhisattva,  {22}
+He is called Vajrasattva, the Great Being, and Bodhisattva, {22}
 The Commitment Being,
 Fourfold Vajrayoga,
 And finally, here, Kālacakra—
@@ -138,7 +138,7 @@ Why does she not see a hare’s horn? {33}
 She sees neither with other/superior eyes,
 Nor with her own eyes.
 What is being seen has not arisen—
-It is like the child of a virgin.  {34}
+It is like the child of a virgin. {34}
 Once the reflection is seen,
 One must immediately perform breath control,
 Because body, speech, and mind
@@ -390,7 +390,7 @@ Of that which exists, there is no existence. {96}
 Of that which moves, there is no movement;
 And of that which does not move, there is no nonmovement.
 The rise and fall of all phenomena,
-Which lack their own nature, are thus an illusion.  {97}
+Which lack their own nature, are thus an illusion. {97}
 Elements neither come into nor pass out of existence
 By means of their own nature.
 This manifold world lacks its own nature
@@ -434,7 +434,7 @@ Based on the full moon, without duality. {107}
 Its waxing starts from the crown of the head
 And becomes full in the vajra jewel.
 Due to lack of passion, these lunar phases are lost. Because of this loss,
-[The solar blood] starts from the vajra, becoming full [at the crown of the head].  {108}
+[The solar blood] starts from the vajra, becoming full [at the crown of the head]. {108}
 For corporeal beings, waxing happens again at the crown of the head,
 And fullness in the [vajra] jewel.
 Due to lack of passion, these lunar phases are lost,
@@ -534,7 +534,7 @@ Is not eliminated, {132}
 So, too, the stains of mind
 Are eliminated through its union with emptiness,
 And its wisdom—which remains stainless—
-Is not eliminated.  {133}
+Is not eliminated. {133}
 Just as iron that has been penetrated by the elixir
 Does not revert to the nature of iron,
 So, too, the mind that has been penetrated by bliss

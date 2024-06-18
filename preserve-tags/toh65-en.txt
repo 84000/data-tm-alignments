@@ -1,0 +1,413 @@
+{{translation:{id:UT22084-043-002,key:toh65,version:1.0.4,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble Mahāyāna Sūtra
+The Prophecy for Bhadra the Illusionist
+{{milestone:{label:1.1,id:UT22084-043-002-90}}}{{page:{number:1,id:UT22084-043-002-537,folio:F.17.b}}} Homage to all buddhas and bodhisattvas!
+Thus did I hear at one time. The Blessed One was dwelling at Vulture Peak Mountain near Rājagṛha together with a saṅgha of 1,250 monks and five thousand renowned bodhisattva mahāsattvas—renowned for having attained the superknowledges, the retentions, the miraculous power of magical display, and acceptance that phenomena are unborn—such as the bodhisattva mahāsattva Siṃha, the bodhisattva mahāsattva Siṃhamati, {{page:{number:2,id:UT22084-043-002-538,folio:F.18.a}}} the bodhisattva mahāsattva Fine Sandalwood, the bodhisattva mahāsattva Sārathi, the bodhisattva mahāsattva Mahāsārathi, the bodhisattva mahāsattva Prabhāśrī, the bodhisattva mahāsattva Radiant, the bodhisattva mahāsattva Endowed with Brilliant Light and Having a Melodious Voice, the bodhisattva mahāsattva Prabhāvyūha, the bodhisattva mahāsattva Clear Mind, the bodhisattva mahāsattva Essence of Beings, the bodhisattva mahāsattva Disciplined Charioteer of Beings, all the bodhisattva mahāsattvas of the Fortunate Eon, such as Maitreya, and other bodhisattvas such as Mañjuśrīkumārabhūta and so forth. 
+{{milestone:{label:1.2,id:UT22084-043-002-94}}}Śakra, ruler of the gods, was also there with them. Brahmā, the lord of this world Endurance, was there, too, as were the Four Great Kings. Many gods, nāgas, yakṣas, asuras, garuḍas, gandharvas, kinnaras, and mahoragas also surrounded them.
+{{milestone:{label:1.3,id:UT22084-043-002-95}}}While the Blessed One was residing near the great city of Rājagṛha, kings, chief ministers, brahmins, householders, and people of the villages and countryside all paid respect, venerated, served, and made offerings to him. The Blessed One received robes, food, bedding, seats, and medicines to cure the sick. Extensive verses of praise further elevated the Blessed One’s fame and reputation.
+{{milestone:{label:1.4,id:UT22084-043-002-96}}}Thus the tathāgata, arhat, complete and perfect Buddha accomplished in knowledge and conduct, the Sugata, the knower of the world, {{page:{number:3,id:UT22084-043-002-539,folio:F.18.b}}} the unsurpassed guide who tames beings, the teacher of gods and humans, the Blessed Buddha—the all-knowing and all-seeing one—knew all and saw all and was endowed with the ten strengths of a tathāgata, the four fearlessnesses of a tathāgata, and the four correct discernments. He was endowed with the eighteen unique qualities of the buddhas, great loving-kindness, and great compassion. He was endowed with the unfailing buddha eye and the five eyes, and he had also gained miraculous powers: the miraculous power of foretelling, the miraculous power of instruction, and the miraculous power of magical display.{{note:{index:11,id:UT22084-043-002-97}}}
+{{milestone:{label:1.5,id:UT22084-043-002-98}}}If he wished, he could suspend this trichiliocosm—including its cities, towns, lands, beings, and Mount Merus, encompassing everything up to the edges of the oceans and including the abodes of the gods, the horizons and depths, and the grasses, trees, and mountains—on the tip of a hair in space for an eon or even longer than an eon.
+{{milestone:{label:1.6,id:UT22084-043-002-99}}}At that time, an illusionist named Bhadra lived in the city of Rājagṛha. He was highly versed in the treatises and secret mantra, a master of knowledge and craft, highly accomplished, successful, and famous. He was known as the greatest of all the illusionists and disciples of illusionists in Magadha, and by dint of his fame, he enthralled, bewildered, and deceived all the throngs of people in Magadha and converted them to his spectacular ways, except for those who had seen the truth, had faith, and followed the Dharma—the lay devotees, men and women. Through his illusions, he became powerful in the craft of bewilderment and acquired tremendous profits, respect, and verses of praise. {{page:{number:4,id:UT22084-043-002-540,folio:F.19.a}}}
+{{milestone:{label:1.7,id:UT22084-043-002-100}}}Bhadra the illusionist heard that the fame, renown, and verses of the Blessed One were superior and that he was known as the tathāgata, arhat, complete and perfect Buddha accomplished in knowledge and conduct, the Sugata, the knower of the world, the unsurpassed guide who tames beings, the teacher of gods and humans, the Blessed Buddha, the all-knowing and all-seeing one who knows all and sees all, who is endowed with the ten strengths of a tathāgata, the four fearlessnesses of a tathāgata, and the four correct discernments and who is endowed with the eighteen unique qualities of the buddhas, with great loving-kindness and great compassion, and with the unfailing buddha eye and the five eyes, and as one who has gained miraculous powers: the miraculous power of foretelling, the miraculous power of instruction, and the miraculous power of magical display. If he wished, he could suspend this trichiliocosm—including its cities, towns, lands, beings, and Mount Merus, encompassing everything up to the edges of the oceans and including the abodes of the gods, the horizons and depths, and the grasses, trees, and mountains—on the tip of a hair in space for an eon or for even longer than an eon. 
+{{milestone:{label:1.8,id:UT22084-043-002-101}}}When he heard this, he thought, “I have enthralled all the people of the land of Magadha, bewildered them, deceived them, and converted them to my spectacular ways. All the brahmins and great householders delight in my name. The tathāgata, the arhat, the complete and perfect Buddha is the only one I have yet to put to the test. Since I have not yet bewildered and deceived him, I must go immediately to the tathāgata, the arhat, the complete and perfect Buddha.{{note:{index:12,id:UT22084-043-002-102}}}{{page:{number:5,id:UT22084-043-002-541,folio:F.19.b}}} When I get there, I will put him to the test. If they see that I am able to bewilder and deceive him, all of Magadha will follow me alone, and I will be bolstered with even greater profits and respect.” 
+{{milestone:{label:1.9,id:UT22084-043-002-103}}}Then Bhadra the illusionist, impelled by his previous roots of virtue and by the power of the Buddha, left the city of Rājagṛha and went to where the Blessed One was at Vulture Peak Mountain. Upon arrival, Bhadra the illusionist saw the Tathāgata, shining with light brighter than a trillion suns, with a face more immaculate than a trillion moons, with a body well proportioned like the king of banyan trees,{{note:{index:13,id:UT22084-043-002-104}}} with an ūrṇā as clearly apparent as the sparkling of a stainless jewel,{{note:{index:14,id:UT22084-043-002-105}}} with lotus eyes as lustrous as a blue utpala in bloom,{{note:{index:15,id:UT22084-043-002-106}}} and with an uṣṇīṣa whose top could not be seen even by Brahmā,{{note:{index:16,id:UT22084-043-002-107}}} teaching the Dharma amid his retinue in a melodious voice endowed with the sixty qualities.{{note:{index:17,id:UT22084-043-002-108}}} Seeing this, seeing such a bodily form and hearing such awakened speech, Bhadra’s mind was calmed. Nonetheless, he thought, “I must test him at once, to find out for sure whether he is all-knowing and all-seeing or not.” 
+{{milestone:{label:1.10,id:UT22084-043-002-109}}}Then Bhadra the illusionist, bowing to the feet of the Blessed One and thinking to test him, said, “Please come tomorrow for the midday meal.” At the same time, he was also thinking, “Does he know my intentions or not? If he does know, then he will not come. But if he does not know, he will come.”{{note:{index:18,id:UT22084-043-002-110}}}
+{{milestone:{label:1.11,id:UT22084-043-002-111}}}Knowing this, the Blessed One, for the sake of taming Bhadra the illusionist, and for the sake of taming the masses of the city of Rājagṛha, gave his assent to Bhadra the illusionist by remaining silent along with his saṅgha of monks. 
+{{milestone:{label:1.12,id:UT22084-043-002-112}}}Bhadra the illusionist thought, “Since my intention is to harm him {{page:{number:6,id:UT22084-043-002-542,folio:F.20.a}}} and yet he has agreed, he must be neither all-knowing nor all-seeing.” Then Bhadra the illusionist bowed to the feet of the Blessed One and departed from his presence.
+{{milestone:{label:1.13,id:UT22084-043-002-113}}}Then Venerable Mahāmaudgalyāyana said to the Blessed One, “The illusionist Bhadra is going to harm this saṅgha of monks using his basket of illusions.” {{note:{index:19,id:UT22084-043-002-114}}}
+{{milestone:{label:1.14,id:UT22084-043-002-115}}}The Blessed One replied, “Maudgalyāyana, do not worry! I have been engaging in correct conduct since long ago, and being a tathāgata, I know the proper time.{{note:{index:20,id:UT22084-043-002-116}}} Not even the whole world with its gods can harm a tathāgata. 
+{{milestone:{label:1.15,id:UT22084-043-002-117}}}“Indeed, Maudgalyāyana, desire is what causes harm, anger is what causes harm, and ignorance is what causes harm. Since these, along with any latent tendencies, have been completely exhausted and forsaken by a tathāgata, who realizes that phenomena are primordially unborn,{{note:{index:21,id:UT22084-043-002-118}}} even the whole world with its gods cannot harm a tathāgata.
+{{milestone:{label:1.16,id:UT22084-043-002-119}}}“Furthermore Maudgalyāyana, since the power of illusion of Bhadra the illusionist is limited, it is impure, while the power of illusion of a tathāgata is pure, since he is completely and manifestly awakened to all phenomena being like illusions.{{note:{index:22,id:UT22084-043-002-120}}}
+{{milestone:{label:1.17,id:UT22084-043-002-121}}}“Maudgalyāyana, even if all those multitudes designated as belonging to the realm of beings were to possess powers of illusion like that of Bhadra the illusionist, this would not even come close to a hundredth of a tathāgata’s power of illusion; nor would it even come close to a thousandth, nor a trillionth. Nor would any such calculation, fraction, enumeration, or simile come close.
+{{milestone:{label:1.18,id:UT22084-043-002-122}}}“Maudgalyāyana, what do you think? Is Bhadra the illusionist {{page:{number:7,id:UT22084-043-002-543,folio:F.20.b}}} able to display this great trichiliocosm in its entirety, fully adorned with all its features?”
+“No, he is not,” replied Maudgalyāyana.
+{{milestone:{label:1.19,id:UT22084-043-002-124}}}The Blessed One continued, “If a tathāgata so wishes, he can display all the world systems as numerous as the grains of sand in the Ganges, fully adorned, on the mere tip of a hair. But even this would not show the full extent of a tathāgata’s power of illusion. Maudgalyāyana, in the ten directions there are the following maṇḍalas of wind:{{note:{index:23,id:UT22084-043-002-125}}} the wind called scattering;{{note:{index:24,id:UT22084-043-002-126}}} the wind called cutting asunder, which cuts the trichiliocosm asunder and, having cut it asunder, destroys it; the wind called dispersing and scattering, which moves about in the middle of the world; the wind called all-settling, which moves about at the summit of existence; the wind called destroying, which utterly destroys even Mount Meru, the king of mountains, let alone ordinary mountains; the wind called blazing, which arises during the conflagration of an eon and whose flames blaze all the way up to the Brahmā realms; the wind called consummating, which pacifies the fire at the eon’s conflagration; the wind called delighting, which completely covers the trichiliocosm with a lattice of clouds; the wind called sprinkling with water, which causes rain to descend during the conflagration of an eon; and the wind called completely drying, which completely dries that which has been destroyed by water. 
+{{milestone:{label:1.20,id:UT22084-043-002-127}}}“Maudgalyāyana, beginning with these maṇḍalas of wind, I could teach the Dharma for an eon or even longer than an eon, for there is no end to the Dharma taught by a tathāgata, beginning from the explanation of these maṇḍalas of wind.
+{{milestone:{label:1.21,id:UT22084-043-002-128}}}“Maudgalyāyana, {{page:{number:8,id:UT22084-043-002-544,folio:F.21.a}}} what do you think? Would the illusionist Bhadra be able to remain in those maṇḍalas of wind?”
+“No, he would not,” replied Maudgalyāyana.
+{{milestone:{label:1.22,id:UT22084-043-002-130}}}The Blessed One continued, “Maudgalyāyana, I would be able to abide inside all those maṇḍalas of wind, all the while performing the four normal activities. If the Tathāgata so wishes, he could make all those winds enter a single mustard seed, and still the mustard seed would not be destroyed. Indeed, he could let all the activities of all those winds be displayed inside the mustard seed, and yet they would neither collide with one another nor decrease.
+“Maudgalyāyana, there is nothing like the nature of my power of illusion. Indeed, it is limitless.”
+{{milestone:{label:1.23,id:UT22084-043-002-132}}}Venerable Mahāmaudgalyāyana and the entire assembly were amazed. They bowed their heads to the feet of the Blessed One and said together with one voice, “Blessed One, we are indeed fortunate! As the teacher possesses such superior magical power, such renown for being superior in might, and such superior power, we are indeed fortunate! Blessed One, those who hear of this miraculous display of the Tathāgata will be inspired. And being inspired, they will develop the mind intent on complete and perfect awakening, so they, too, will obtain excellent fortune!”
+{{milestone:{label:1.24,id:UT22084-043-002-134}}}Then Bhadra the illusionist went to the great city of Rājagṛha, and that very night, in the sector of the great city of Rājagṛha where all the city’s refuse and unclean things were discarded, he conjured up a great reception courtyard adorned with silken streamers, parasols, victory banners, and raised silk flags. He conjured the ground so that it was as even as the palm of a hand, strewn with flowers, fragrant with excellent incense, and adorned with a canopy above. {{page:{number:9,id:UT22084-043-002-545,folio:F.21.b}}}
+{{milestone:{label:1.25,id:UT22084-043-002-135}}}Within that courtyard, he also conjured eight thousand{{note:{index:25,id:UT22084-043-002-136}}} exquisite trees replete with flowers and fruits. In front of all the exquisite trees he conjured lion thrones covered with many kinds of cotton cloth and adorned with all kinds of precious silk flags. He conjured four exquisite trees replete with flowers and fruits to both the left and right of each lion throne. He conjured fine dishes endowed with a hundred flavors for the Blessed One and the saṅgha of monks to enjoy. He also conjured five hundred attendants, all dressed in white and bedecked with all kinds of accoutrements.
+{{milestone:{label:1.26,id:UT22084-043-002-137}}}As soon as Bhadra the illusionist had conjured up this banquet, the Four Great Kings, emanating as large bodies, came instantaneously to the illusionist Bhadra’s courtyard array and said to him, “Bhadra, you have invited the Tathāgata for tomorrow’s midday meal, and you have conjured such a courtyard for the Tathāgata to enjoy. You have done very well!
+{{milestone:{label:1.27,id:UT22084-043-002-138}}}“Bhadra, please grant us permission to also make offerings to the Tathāgata, by displaying a second modest courtyard like this for the Blessed One to enjoy, to accompany yours!”
+{{milestone:{label:1.28,id:UT22084-043-002-139}}}Bhadra the illusionist was utterly amazed and granted permission to the Four Great Kings, who then conjured a similar courtyard array for the Blessed One to enjoy. 
+{{milestone:{label:1.29,id:UT22084-043-002-140}}}Then Śakra, ruler of the gods, arrived together with thirty thousand gods at Bhadra’s courtyard array and said to him, “Bhadra, you have invited the Tathāgata for tomorrow’s midday meal, and {{page:{number:10,id:UT22084-043-002-546,folio:F.22.a}}} you have conjured such a courtyard array for the Tathāgata to enjoy. You have done well! Bhadra, please grant us permission to also make offerings to the Tathāgata, by displaying a second modest courtyard like this for the Blessed One to enjoy, to accompany yours!”
+{{milestone:{label:1.30,id:UT22084-043-002-141}}}Bhadra the illusionist, utterly amazed, granted permission to Śakra, ruler of the gods, whereupon Śakra, ruler of the gods, conjured an especially magnificent courtyard for the Blessed One to enjoy—larger even than the Vaijayanta Palace, the residence of the gods of the Heaven of the Thirty-Three with the Pārijāta tree of paradise—a courtyard that eclipsed those of Bhadra the illusionist and the Four Great Kings.
+{{milestone:{label:1.31,id:UT22084-043-002-142}}}Then Bhadra the illusionist thought, “If even gods such as these gather with such enthusiasm to make offerings and serve the Blessed One, he must be no ordinary being. It would not be appropriate to harm such an exalted being! Without a doubt, I must dispel my creation!”
+{{milestone:{label:1.32,id:UT22084-043-002-143}}}Then Bhadra the illusionist attempted to dispel his conjurations and make them disappear. Invoking the power of all his secret mantras and vidyā mantras, he tried{{note:{index:26,id:UT22084-043-002-144}}} to get rid of them and make them disappear, but the fine dishes, the attendants, the courtyard, and the lion thrones all remained, appearing just as they had before. He was not able to dispel them, even with all his secret mantras and vidyā mantras. Completely amazed, he thought, “Up until now I could create illusions at will and make them vanish at will, but now I am unable to dispel this array made for the Tathāgata.” {{page:{number:11,id:UT22084-043-002-547,folio:F.22.b}}}
+{{milestone:{label:1.33,id:UT22084-043-002-145}}}Then Śakra, ruler of the gods, knowing fully what Bhadra the illusionist was thinking, said to him, “Bhadra, just as you are unable to dispel what you have created for the Tathāgata, so it is, Bhadra, for those who are able to generate even a few thoughts of the Tathāgata—their thoughts do not go away but remain a causal factor right up until their final nirvāṇa.”
+{{milestone:{label:1.34,id:UT22084-043-002-146}}}Bhadra the illusionist was utterly delighted, and rejoicing, he became thoroughly overjoyed and blissful. So, that night passed with him urging the Blessed One to come for the midday meal, beseeching him, “Blessed One, when the midday meal in the middle of the day has arrived, please do kindly come for the midday meal!”{{note:{index:27,id:UT22084-043-002-147}}}
+{{milestone:{label:1.35,id:UT22084-043-002-149}}}Early the next morning, the Blessed One donned his lower and upper robes, took up his offering bowl, gathered the saṅgha of monks, and, leading the saṅgha of monks, went to the great city of Rājagṛha, to the site of Bhadra the illusionist’s great courtyard. He then manifested a magical display such that Bhadra the illusionist was convinced that “the Tathāgata is seated at the array I have conjured,” the Four Great Kings were convinced that “the Tathāgata is seated at the array we have conjured,” and Śakra, ruler of the gods, was convinced that “the Tathāgata is seated at the array I have conjured.”
+{{milestone:{label:1.36,id:UT22084-043-002-150}}}In the great city of Rājagṛha, word spread to others—non-Buddhists, carakas, parivrājakas, brahmins, and householders. Amazed, they rushed to the courtyard thinking, “Today the renunciant Gautama will be put to the test!” {{page:{number:12,id:UT22084-043-002-548,folio:F.23.a}}}
+{{milestone:{label:1.37,id:UT22084-043-002-151}}}The faithful living in the great city of Rājagṛha—monks and nuns, laymen and laywomen—likewise rushed to the gathered assembly thinking, “Today we will listen to the Tathāgata’s words,{{note:{index:28,id:UT22084-043-002-152}}} and we will also see a great miraculous display.”
+{{milestone:{label:1.38,id:UT22084-043-002-153}}}Then Bhadra the illusionist, truly overcoming his pride, haughtiness, and arrogance, bowed his head to the feet of the Blessed One and said, “Blessed One, I confess my wrongdoing—I invited the Tathāgata to come here with severely harmful intent. But then, Blessed One, I thought that it would be wrong to deceive such an exalted being by conjuring fine dishes, servants, lion thrones, and this courtyard. Realizing that this should not be done, I tried to dispel them but was unable to do so. Even by invoking the full force of all my secret mantras and vidyā mantras, I could not make them go away. It was no use, and all these fine dishes, servants, lion thrones, and courtyard arrangements remained just as they were.”
+{{milestone:{label:1.39,id:UT22084-043-002-154}}}The Blessed One then said to Bhadra the illusionist, “Bhadra, the amenities and enjoyments of all beings are also like this, illusory conjurations of karma.{{note:{index:29,id:UT22084-043-002-155}}} Bhadra, this saṅgha of monks is also like this, an illusory conjuration of the Dharma. Bhadra, I, too, am also like this, an illusory conjuration of wisdom. Bhadra, this entire trichiliocosm is also like this, the illusory conjuration of various manifest formations. Indeed Bhadra, all phenomena are like this, the illusory conjurations of masses of conditions.
+{{milestone:{label:1.40,id:UT22084-043-002-156}}}“Nevertheless, Bhadra, {{page:{number:13,id:UT22084-043-002-549,folio:F.23.b}}} when you know the time is right, you may offer these dishes and drinks, delectables and nectars,{{note:{index:30,id:UT22084-043-002-157}}} however they have been conjured.”
+{{milestone:{label:1.41,id:UT22084-043-002-158}}}Then the servants conjured by Bhadra and the Four Great Kings and Śakra, ruler of the gods, along with his retinue, satisfied the Blessed One and the saṅgha of monks with the conjured dishes and drinks, delectables, and nectars.
+Then the elder Mahākāśyapa spoke the following verse:
+{{milestone:{label:1.42,id:UT22084-043-002-160}}}“As is the gift,
+So is the recipient.
+Arriving at the true nature of both as just so, 
+May the offering be perfectly purified.”{{note:{index:31,id:UT22084-043-002-161}}}
+{{milestone:{label:1.42,id:UT22084-043-002-160}}}Mahāmaudgalyāyana said:
+{{milestone:{label:1.43,id:UT22084-043-002-163}}}“As for the seating arrangements
+And those who are seated,{{note:{index:32,id:UT22084-043-002-164}}}
+There is no distinction to be found; they are the same.
+Thus the virtue of this offering is unsurpassed.”
+{{milestone:{label:1.43,id:UT22084-043-002-163}}}Śāriputra said:
+{{milestone:{label:1.44,id:UT22084-043-002-166}}}“As the mind of the one who serves,
+So is the mind of the one who receives.
+With this way of giving,
+May the offering be swiftly purified!”
+{{milestone:{label:1.44,id:UT22084-043-002-166}}}Subhūti said:
+{{milestone:{label:1.45,id:UT22084-043-002-168}}}“The gift was given without a giver
+And received without a receiver.
+Thus, whosoever has come here
+Purifies the offering.”
+{{milestone:{label:1.45,id:UT22084-043-002-168}}}Ānanda said: 
+{{milestone:{label:1.46,id:UT22084-043-002-170}}}“These gifts, as endless as the sky,
+Are enjoyed by inconceivably numerous beings.
+But it is their liberation of mind and body
+That is the greatest pure offering in all the worlds.”
+{{milestone:{label:1.46,id:UT22084-043-002-170}}}The bodhisattva Pinnacle of Light said:
+{{milestone:{label:1.47,id:UT22084-043-002-172}}}“Like the array conjured up
+By Bhadra the illusionist,
+So are all material things,
+But the foolish do not realize this.”
+{{milestone:{label:1.47,id:UT22084-043-002-172}}}The bodhisattva Prabhāvyūha said: 
+{{milestone:{label:1.48,id:UT22084-043-002-174}}}“Like these seats and trees,
+So are all manifold phenomena conjured,
+Like mind’s illusion—empty.
+There is not the slightest difference.”
+{{milestone:{label:1.48,id:UT22084-043-002-174}}}The bodhisattva Siṃha said: 
+{{milestone:{label:1.49,id:UT22084-043-002-176}}}“So long as the lion’s roar is not heard,
+The jackals howl in the forest.
+But hearing the lion’s roar,
+They flee in the ten directions.
+{{milestone:{label:1.50,id:UT22084-043-002-177}}}“Similarly, so long as Bhadra the illusionist {{page:{number:14,id:UT22084-043-002-550,folio:F.24.a}}}
+Did not see the Tathāgata,
+He proclaimed among the non-Buddhists,
+‘I am superior to the Victorious One!’
+{{milestone:{label:1.51,id:UT22084-043-002-178}}}“Bhadra, the Tathāgata’s illusion
+Shows what illusion really is.
+Should this illusion be taught to its full extent,
+Even Māra could not fathom its depths.”{{note:{index:33,id:UT22084-043-002-179}}}
+{{milestone:{label:1.51,id:UT22084-043-002-178}}}The bodhisattva Siṃhamati said:
+{{milestone:{label:1.52,id:UT22084-043-002-181}}}“These fine dishes are conjurations,
+As are these attendants offering service;
+Even the ones enjoying it are conjurations.
+Thus the virtue of this gift is unsurpassed.”
+{{milestone:{label:1.52,id:UT22084-043-002-181}}}The bodhisattva Maitreya said:
+{{milestone:{label:1.53,id:UT22084-043-002-183}}}“A flame fed with ghee and sesame oil
+Flares and swells ever more fiercely.
+Just so, by means of Bhadra’s power of illusion,
+The Buddha’s power of illusion is definitively taught.”
+{{milestone:{label:1.53,id:UT22084-043-002-183}}}Mañjuśrīkumārabhūta said:
+{{milestone:{label:1.54,id:UT22084-043-002-185}}}“Just as what was here before,
+Like what he created, does not exist,
+All phenomena, from the very beginning,
+Have always been the same.”
+{{milestone:{label:1.55,id:UT22084-043-002-186}}}Then the Blessed One, using his powers to thoroughly tame Bhadra the illusionist, conjured a householder, who came into the courtyard and asked Bhadra the illusionist, “Bhadra, what are you doing?”
+“I am offering the midday meal to the renunciant Gautama,” Bhadra replied.
+“Forget it, Bhadra! Do not say that! The Tathāgata, with his saṅgha of monks, is receiving the midday meal at King Ajātaśatru’s court.”
+Then, through the power of the Buddha, Bhadra the illusionist saw the Tathāgata, with the saṅgha of monks, receiving the midday meal at King Ajātaśatru’s court.
+{{milestone:{label:1.56,id:UT22084-043-002-190}}}The Blessed One then conjured a second householder, who came into the courtyard and asked Bhadra the illusionist, “Bhadra, what are you doing?”
+“I am offering the midday meal to the renunciant Gautama,” Bhadra replied.
+“Forget it! Do not say that! The Tathāgata, with his saṅgha of monks, is on the parivrājaka street collecting alms.” {{page:{number:15,id:UT22084-043-002-551,folio:F.24.b}}}
+Then, through the power of the Buddha, Bhadra the illusionist saw the Tathāgata, with the saṅgha of monks, collecting alms on the parivrājaka street.
+{{milestone:{label:1.57,id:UT22084-043-002-194}}}The Blessed One then conjured another householder, who came into the courtyard and asked Bhadra the illusionist, “Bhadra, what are you doing?” 
+“I am offering the midday meal to the renunciant Gautama,” Bhadra replied.
+“Bhadra, forget it! Do not say that! The Tathāgata is in the physician’s grove teaching the Dharma to the fourfold retinue.”
+Then, through the power of the Buddha, Bhadra the illusionist saw the Tathāgata in the physician’s grove teaching the Dharma to the fourfold retinue. 
+{{milestone:{label:1.58,id:UT22084-043-002-198}}}Śakra, ruler of the gods, then approached Bhadra the illusionist and asked, “Bhadra, what are you doing?” 
+“I am offering the midday meal to the renunciant Gautama,” Bhadra replied.
+“Bhadra, forget it! Do not say that! The Tathāgata is in the Heaven of the Thirty-Three, in front of the Pārijāta tree, teaching the Dharma to the gods of the Thirty-Three.”
+Then Bhadra also saw the Tathāgata in the Heaven of the Thirty-Three, teaching the Dharma in front of the Pārijāta tree.
+{{milestone:{label:1.59,id:UT22084-043-002-202}}}Then on all the leaves and all the flowers on every tree that Bhadra the illusionist had conjured, Bhadra the illusionist saw the Tathāgata, adorned with the marks of a great being and encircled by the saṅgha of monks. On each of the lion thrones that he had conjured and on the lion thrones that the Four Great Kings had conjured, he saw the Tathāgata, adorned with the marks of a great being and encircled by the saṅgha of monks. Everywhere in the great city of Rājagṛha, in every building, house, and palace, on every path and road, {{page:{number:16,id:UT22084-043-002-552,folio:F.25.a}}} he saw the Tathāgata, adorned with the marks of a great being. 
+{{milestone:{label:1.60,id:UT22084-043-002-203}}}And in front of every tathāgata, arhat, complete and perfect Buddha, Bhadra the illusionist saw himself bowing and confessing his faults, and wherever else Bhadra the illusionist looked, in every corner of his field of vision, he saw nothing but the Tathāgata. He was utterly delighted and, rejoicing, became overjoyed and blissful. 
+{{milestone:{label:1.61,id:UT22084-043-002-204}}}Through that very feeling of joy and bliss, he attained the samādhi called recollecting the Buddha.{{note:{index:34,id:UT22084-043-002-205}}} As soon as he emerged from that samādhi, he joined his palms together and, seated before the Blessed One, spoke these verses:
+{{milestone:{label:1.62,id:UT22084-043-002-206}}}“I have been won over by the Tathāgata’s magical display,
+By which, if he wished, he could create 
+A hundred thousand buddha emanations,
+Or as many as the grains of sand in the Ganges.
+{{milestone:{label:1.63,id:UT22084-043-002-207}}}“I once thought that I was unequaled in Jambudvīpa
+In the level of my skill in illusions, 
+But today, seeing this magical display of the Victorious One,
+My power does not approach a fraction of it. 
+{{milestone:{label:1.64,id:UT22084-043-002-208}}}“Looking with my eye of flesh,
+Everywhere I see the form of the Victorious One adorned with the marks.
+I beseech the king of Dharma—
+Please tell me, which is the real Victorious One?
+{{milestone:{label:1.65,id:UT22084-043-002-209}}}“By offering to which will the offering be best?
+Which will lead to the greater result?
+Holding to which will accord with awakening?
+Please tell me with your all-seeing vision!
+{{milestone:{label:1.66,id:UT22084-043-002-210}}}“Today I confess my wrongdoing
+Of putting the guardian of the world to the test.
+Those who do not show humility before the supreme being—
+Such beings forsake the bliss of the Victorious One. 
+{{milestone:{label:1.67,id:UT22084-043-002-211}}}“O gods, Śakra, Brahmā,
+And all who are assembled here, please listen to me!
+In order to completely liberate all beings,
+I engender the mind of awakening. {{page:{number:17,id:UT22084-043-002-553,folio:F.25.b}}}
+{{milestone:{label:1.68,id:UT22084-043-002-212}}}“Treating all beings as my guests,
+I will satisfy them with blissful nectar.
+I will awaken those beings obstructed by sleep
+With the perfected power of insight.
+{{milestone:{label:1.69,id:UT22084-043-002-213}}}“Who, upon seeing such a magical display 
+And witnessing the Sugata’s delightful words and wisdom
+And his supreme conduct of nonattachment,{{note:{index:35,id:UT22084-043-002-214}}}
+Would not engender in mind the pure cause for awakening? 
+{{milestone:{label:1.70,id:UT22084-043-002-215}}}“Please explain to me the path to awakening
+As practiced by those who know the mind of awakening.
+What is the practice of bodhisattvas
+To which that of śrāvakas cannot be compared?
+{{milestone:{label:1.71,id:UT22084-043-002-216}}}“What are the good qualities of practicing its rites?{{note:{index:36,id:UT22084-043-002-217}}}
+What are the devotions of those who wish to hear the teachings?
+What is the conduct of these graceful{{note:{index:37,id:UT22084-043-002-218}}} bodhisattvas?
+Tell me, to still my doubts!
+{{milestone:{label:1.72,id:UT22084-043-002-219}}}“How do they accustom themselves to seeking learning?
+How do they first fix this learning in their hearts
+Then teach it lucidly to others?
+How may all creatures come to have faith in the Dharma?
+{{milestone:{label:1.73,id:UT22084-043-002-220}}}“How do they become disinterested in profit
+And remain unattached to worldly concerns?
+How do they become and remain grateful and helpful
+And inseparable from beings? 
+{{milestone:{label:1.74,id:UT22084-043-002-221}}}“On what friends do they rely, and how do they rely on them?
+How do they shun bad companions?
+How do they meet with the buddhas?
+And having seen them, how do they make offerings? 
+{{milestone:{label:1.75,id:UT22084-043-002-222}}}“How do they respect the pure trainings,
+And how do they commit to their trainings? 
+How does their discipline become perfectly pure,
+And how do they obtain perfectly pure samādhi?
+{{milestone:{label:1.76,id:UT22084-043-002-223}}}“How do they adhere to what is proper
+And reject what is improper?
+How do they maintain a resolute will
+And avoid being caught by the demonic fetters of affliction? 
+{{milestone:{label:1.77,id:UT22084-043-002-224}}}“How do the faithful apply their minds to the ultimate
+Yet not abandon beings in their thoughts? 
+How do they bring beings to maturity
+While being heroic and without desiring exorbitant wealth?
+{{milestone:{label:1.78,id:UT22084-043-002-225}}}“How do they engage in conduct for the sake of beings,{{note:{index:38,id:UT22084-043-002-226}}}{{page:{number:18,id:UT22084-043-002-554,folio:F.26.a}}}
+Abiding in skillful means and loving compassion?
+How do they perfect the superknowledges?
+How do recollection and intellect become pure? 
+{{milestone:{label:1.79,id:UT22084-043-002-227}}}“Those with correct discernment, retention, and tolerance
+Who never turn away from their aspirations and pure conduct,
+Who are wise to the profound and skilled in the ultimate truth—
+How do they accomplish all their aspirations?
+{{milestone:{label:1.80,id:UT22084-043-002-228}}}“How are they in accord
+With awakening and the sublime perfections, 
+Never turning back from bodhisattva conduct
+Always oriented toward omniscience and awakening?
+{{milestone:{label:1.81,id:UT22084-043-002-229}}}“O omniscient one, who perfectly knows the truth, O ocean of insight,
+Source of wisdom, please teach this to me!
+Blessed One, please teach me these benefits,
+And I will earnestly practice from the bottom of my heart!”
+{{milestone:{label:1.82,id:UT22084-043-002-230}}}The Blessed One responded to Bhadra the illusionist with these verses:
+{{milestone:{label:1.83,id:UT22084-043-002-231}}}“One who recognizes all phenomena as conjurations
+Can conjure ten billion buddhas;
+Those conjurations may go to millions of buddhafields
+And free millions of beings. 
+{{milestone:{label:1.84,id:UT22084-043-002-232}}}“Just as you, Bhadra, display from formlessness
+An infinite variety of forms
+That are unborn, unceasing, 
+And without coming, going, and abiding,
+{{milestone:{label:1.85,id:UT22084-043-002-233}}}“In the same way, Bhadra, the foremost among beings, the Victorious One,
+Conjures his own aggregates along with his assembled saṅgha,
+Which are unborn and unceasing;{{note:{index:39,id:UT22084-043-002-234}}}
+Such is the magical display of the inconceivable buddhas.
+{{milestone:{label:1.86,id:UT22084-043-002-235}}}“In the same way that a person deceived by an illusion
+Sees elephants, chariots, calvary, and infantry{{note:{index:40,id:UT22084-043-002-236}}}
+Although these are not constituted and have no substance,
+They are seen by the mistaken mind. 
+{{milestone:{label:1.87,id:UT22084-043-002-237}}}“Similarly, buddhas are without form, color, and shape,
+And they exhibit neither activity nor behavior.
+The view of the transitory collection does not arise,
+And there is no notion of a buddha as a ‘buddha.’ 
+{{milestone:{label:1.88,id:UT22084-043-002-238}}}“Buddhas cannot be discerned by their physical form or marks,
+Their ages or lineages, or by their voices.
+Their mind cannot be explained, {{page:{number:19,id:UT22084-043-002-555,folio:F.26.b}}}
+Nor their consciousness ascertained by intellect.
+{{milestone:{label:1.89,id:UT22084-043-002-239}}}“Blessed buddhas, who are the true nature itself,
+Are empty of the three times; their marks are unborn.
+Eternally liberated from the illusory,
+Their phenomenality{{note:{index:41,id:UT22084-043-002-240}}} cannot be distinguished or calculated. 
+{{milestone:{label:1.90,id:UT22084-043-002-241}}}“Whatever buddhas arise, their true nature has no arising. 
+Their aggregates do not exist, and their constituents do not arise;
+Their phenomenality abides without fluctuating and without depending{{note:{index:42,id:UT22084-043-002-242}}} on anything. 
+They do not even abide as figments of the five eyes. 
+{{milestone:{label:1.91,id:UT22084-043-002-243}}}“If someone thinks, ‘I have seen the Buddha,’
+They have never really seen the Buddha.
+Seeing the unseen guide
+Is like seeing a bird’s trail in the sky. 
+{{milestone:{label:1.92,id:UT22084-043-002-244}}}“Bhadra, the buddhas you saw just now—
+Know that they are all one and the same.
+I and the others are all the same,
+Like the sameness one sees when gazing at the sky.
+{{milestone:{label:1.93,id:UT22084-043-002-245}}}“Their samādhi and insight{{note:{index:43,id:UT22084-043-002-246}}} are undifferentiated, 
+Their liberation is undifferentiated,
+And their vision of liberating wisdom, their strengths,
+And all the qualities of the victorious ones are undifferentiated. 
+{{milestone:{label:1.94,id:UT22084-043-002-247}}}“From the position of emptiness, they abide undifferentiated.
+All of them abide in the true nature without attachment.
+They are all liberated from the illusory
+And appear without origin. 
+{{milestone:{label:1.95,id:UT22084-043-002-248}}}“Bhadra, if you make an offering to one of the victorious ones,
+That offering will have been made to all the buddhas of the ten directions.
+There has never been any difference 
+Between their true expanse and my own.
+{{milestone:{label:1.96,id:UT22084-043-002-249}}}“All of them purify gifts by accepting them;
+Offering to any of them yields the greatest result.
+They have all found the same pure true nature;
+In this way there is no distinction between buddhas. 
+{{milestone:{label:1.97,id:UT22084-043-002-250}}}“Since I will tell you who is the real Victorious One,
+Examine and contemplate{{note:{index:44,id:UT22084-043-002-251}}} the way of Dharma
+With a single-pointed mind and closely applied mindfulness.
+Listen to me well, with a precisely focused mind! 
+{{milestone:{label:1.98,id:UT22084-043-002-252}}}“Bhadra, all of them are unproduced and unreal;
+Only the mistaken see them as real.
+If the essence of things were truly real,
+Then all such things would not pass away.
+{{milestone:{label:1.99,id:UT22084-043-002-253}}}“Therefore, they are wholly unborn and unreal, {{page:{number:20,id:UT22084-043-002-556,folio:F.27.a}}}
+And being unborn, they neither abide nor pass away.
+So, though when unexamined they seem to be entities, 
+When one looks thoroughly there is no abiding. 
+{{milestone:{label:1.100,id:UT22084-043-002-254}}}“Just as you, Bhadra, see the victorious ones,
+And just as you see these conjurations in all directions,
+So should you regard the five aggregates,
+The vast aggregates on which the foolish{{note:{index:45,id:UT22084-043-002-255}}} rely. 
+{{milestone:{label:1.101,id:UT22084-043-002-256}}}“All phenomena are without intrinsic nature,
+And beings are without the marks of a buddha.
+Those who desire marks where there are none
+Are a long way from buddhahood. 
+{{milestone:{label:1.102,id:UT22084-043-002-257}}}“Phenomena are nonexistent and arise due to conceptuality.
+Know also that they are insubstantial and dependent. 
+They are without doing and beyond a doer.
+By giving names, emptiness is taught. 
+{{milestone:{label:1.103,id:UT22084-043-002-258}}}“Those who know there are no causes or effectuating conditions
+Also know that phenomena are free of attachment. 
+If they know that phenomena are free of desire and attachment, 
+They see the Buddha with the eye of complete purity.” 
+{{milestone:{label:1.104,id:UT22084-043-002-259}}}When that teaching in verse had been given, Bhadra the illusionist attained the lesser acceptance that accords with certainty{{note:{index:46,id:UT22084-043-002-260}}} in the Dharma; five thousand beings engendered the mind of unsurpassed complete and perfect awakening, which until then had never occurred to them; and two hundred bodhisattvas obtained acceptance that phenomena are unborn. Then the Blessed One partook of the conjured food, and in order to fully purify Bhadra’s gift, he spoke this verse:
+{{milestone:{label:1.105,id:UT22084-043-002-261}}}“Just as no discursive distinction is made between the giver, 
+The receiver, and what is given,
+May this equal act of generosity 
+Be fully perfected for Bhadra!”
+{{milestone:{label:1.106,id:UT22084-043-002-262}}}Then Venerable Ānanda said to the Blessed One, “Blessed One, please grant your blessing that this courtyard, just as it is ornamented now, remains without disappearing or fading away for seven days.” The Blessed One then gave his blessing that the courtyard would remain, just as it was, {{page:{number:21,id:UT22084-043-002-557,folio:F.27.b}}} and not disappear or vanish for a full seven days. Then the Blessed One rose from his seat and departed along with the saṅgha of monks. 
+{{milestone:{label:1.107,id:UT22084-043-002-263}}}Later, when the Blessed One had arisen from his meditative composure and was seated in order to teach the Dharma, monks, bodhisattvas, gods, nāgas, yakṣas, and gandharvas approached the Blessed One to hear the Dharma. Bhadra the illusionist also came before the Blessed One, bowed to his feet, and respectfully circumambulated him three times. With proper honors he sat down to one side with his palms together. Thus seated to one side, Bhadra the illusionist said to the Blessed One, “Blessed One, please explain the path of the bodhisattvas, such that anyone who enters the path of bodhisattvas proceeds to the seat of awakening.”
+{{milestone:{label:1.108,id:UT22084-043-002-264}}}The Blessed One replied to Bhadra the illusionist, “Bhadra, listen well and keep this in mind. I will explain.”
+Bhadra the illusionist replied, “Very well!” and listened as the Blessed One explained.
+{{milestone:{label:1.109,id:UT22084-043-002-266}}}“Bhadra, these four constitute the path of the bodhisattvas, such that anyone who enters the path of bodhisattvas will proceed to the seat of awakening. What are the four? Not abandoning the mind of omniscience, not forsaking beings, being insatiable in seeking out all roots of virtue, and endeavoring to be diligent in protecting the holy Dharma. Bhadra, these four {{page:{number:22,id:UT22084-043-002-558,folio:F.28.a}}} constitute the path of bodhisattvas, such that anyone who enters the path of bodhisattvas will proceed to the seat of awakening.
+{{milestone:{label:1.110,id:UT22084-043-002-267}}}“Bhadra, these four constitute the completely pure conduct of bodhisattvas. What are the four? Purity of the three vows, purity of intention,{{note:{index:47,id:UT22084-043-002-268}}} purity of knowledge, and purity of birth. These are the four.
+{{milestone:{label:1.111,id:UT22084-043-002-269}}}“Bhadra, these four constitute the bodhisattva qualities that śrāvakas and pratyekabuddhas cannot fathom. What are the four? Emerging from concentration,{{note:{index:48,id:UT22084-043-002-270}}} mental discernment, great compassion for beings, and inspired speech in diverse languages. These are the four.
+{{milestone:{label:1.112,id:UT22084-043-002-271}}}“Bhadra, these four constitute the superior conduct of bodhisattvas. What are the four? Staying in remote places, not taking delight in distraction, being kind to beings when staying in such places, and knowing that all conditioned factors neither come from nor go anywhere. These are the four.
+{{milestone:{label:1.113,id:UT22084-043-002-272}}}“Bhadra, when bodhisattvas have these four qualities, they may be considered objects of great praise and respect. What are the four? Bodhisattvas not being concerned with their own bodies or lives, always being joyful in spirit, abandoning pride and haughtiness, and accomplishing what they have said they will do. These are the four.
+{{milestone:{label:1.114,id:UT22084-043-002-273}}}“Bhadra, when bodhisattvas have these four qualities, their conduct is perfect. What are the four? Knowing the proper time and knowing the right measure, solitude, and authenticity. These are the four.
+{{milestone:{label:1.115,id:UT22084-043-002-274}}}“Bhadra, when bodhisattvas have these four qualities, they are without doubt. What are the four? Overcoming regret wherever it arises,{{note:{index:49,id:UT22084-043-002-275}}} venerating those with great erudition and insight, {{page:{number:23,id:UT22084-043-002-559,folio:F.28.b}}} thinking about the meaning of what has been learned, and not talking about the faults of others—being kind in discussions and not emphasizing faults. These are the four.
+{{milestone:{label:1.116,id:UT22084-043-002-276}}}“Bhadra, when bodhisattvas are seen to have these four beneficial qualities, they are sought after for their learning. What are the four? Developing insight in oneself and others, removing doubts that come from all directions, grasping the holy Dharma, and never tiring of praising the buddhas. These are the four.
+{{milestone:{label:1.117,id:UT22084-043-002-277}}}“Bhadra, these four are the essences of the bodhisattvas’ vast learning. What are the four? Being learned, they know the Dharma in detail; this is an essence. Being learned, they refrain from what should not be done; this is an essence. Being learned, they teach others; this is an essence. And being learned, they focus on the ultimate liberation and awakening of blessed buddhas; this is an essence. These are the four.
+{{milestone:{label:1.118,id:UT22084-043-002-278}}}“Bhadra, these four are the benefits for bodhisattvas who teach the Dharma. What are the four? Enjoying a meal after working; receiving robes, alms, bedding, seats, and medicines to cure the sick; weakening the power of opponents; and being attended upon and protected by gods who favor the Dharma, so that they are invulnerable to Māra. Bhadra, these four are the benefits for the bodhisattvas who teach the Dharma. 
+{{milestone:{label:1.119,id:UT22084-043-002-279}}}“If bodhisattvas have these four qualities, when they teach the Dharma to others their words will be worth hearing. What are the four? Having few desires, a sense of contentment, and a good and gentle nature and accomplishing their own spiritual practice. {{page:{number:24,id:UT22084-043-002-560,folio:F.29.a}}} These are the four.
+{{milestone:{label:1.120,id:UT22084-043-002-280}}}“Bhadra, when bodhisattvas have these four qualities, they teach the Dharma while avoiding profiting from their knowledge and without concern for material things. What are the four? Dispelling{{note:{index:50,id:UT22084-043-002-281}}} the fear of saṃsāra, taking no interest in worldly goods or distractions, looking out for others, and abiding by the noble lineage. These are the four.
+{{milestone:{label:1.121,id:UT22084-043-002-282}}}“Bhadra, when bodhisattvas have these four qualities, they are grateful and thankful for what they receive and are of benefit in return. What are the four? Encouraging others toward awakening, not allowing former deeds to go to waste, treating others with the kindness one gives oneself, and aspiring to the skill of a holy being. These are the four.
+{{milestone:{label:1.122,id:UT22084-043-002-283}}}“Bhadra, when bodhisattvas have these four qualities, they will be inseparable friends to beings. What are the four? Putting on the armor of the strength of acceptance, having no hope for the slightest benefit in return, not forsaking great compassion, and not giving up on those who have entered erroneous ways. Bodhisattvas with these four qualities will be inseparable friends to beings.
+{{milestone:{label:1.123,id:UT22084-043-002-284}}}“Bhadra, these four are the friends upon whom bodhisattvas should rely. What are the four? Perfect application, perfect intention, perfect conduct, and doing that which reveals this awakening to others. These are the four.
+{{milestone:{label:1.124,id:UT22084-043-002-285}}}“Bhadra, these four should be known as nonvirtuous companions for bodhisattvas. What are the four? Teachers of the Lesser Vehicle; those who divert those inclined toward the mind of awakening; those who, when relied upon, cause nonvirtuous qualities to increase; and those who cause virtuous qualities to decrease. {{page:{number:25,id:UT22084-043-002-561,folio:F.29.b}}} These are the four.
+{{milestone:{label:1.125,id:UT22084-043-002-286}}}“Bhadra, when bodhisattvas have these four qualities, they will meet with blessed buddhas. What are the four? Single-pointed mindfulness, proclaiming again and again the praises of the blessed buddhas, completely pure discipline, and making aspirations with superior motivation. These are the four.
+{{milestone:{label:1.126,id:UT22084-043-002-287}}}“Bhadra, when bodhisattvas see{{note:{index:51,id:UT22084-043-002-288}}} these four benefits, they will take delight in acts of offering to the tathāgatas. What are the four? That offerings are made to the supreme object of offering; that when they are seen making offerings, other beings make offerings in the same way; that when offerings to the tathāgatas are made in the right way, the mind of awakening becomes stable; and that when a great being with the thirty-two marks is seen directly, roots of virtue are accumulated. Bhadra, when bodhisattvas see these four benefits, they will delight in making offerings to the tathāgatas.
+{{milestone:{label:1.127,id:UT22084-043-002-289}}}“Likewise, Bhadra, when bodhisattvas see these four objectives, they will be diligent in their training. What are the four? Passing beyond bad rebirths, achieving happy rebirths, respecting the tathāgatas, and completely fulfilling aspirations. These are the four.
+{{milestone:{label:1.128,id:UT22084-043-002-290}}}“Bhadra, these four are the trainings of bodhisattvas. What are the four? Never relinquishing the mind of awakening, being equanimous toward all beings, fully pursuing the perfections, and not being afraid to listen{{note:{index:52,id:UT22084-043-002-291}}} to the immeasurable Buddhadharma. Bhadra, these four are the trainings of bodhisattvas.
+{{milestone:{label:1.129,id:UT22084-043-002-292}}}“Bhadra, these four are the perfectly pure trainings of bodhisattvas. What are the four? Not doing what should not be done, {{page:{number:26,id:UT22084-043-002-562,folio:F.30.a}}} having faith in emptiness, not abandoning the awakening of the buddhas, and completely vanquishing views along with their latent tendencies. Bhadra, those four are the completely pure trainings of bodhisattvas.
+{{milestone:{label:1.130,id:UT22084-043-002-293}}}“Bhadra, these four are the four aspects of the samādhi of bodhisattvas. What are the four? Being without distraction, remaining in solitude, having an untroubled mind, and relying{{note:{index:53,id:UT22084-043-002-294}}} on the roots of virtue. Bhadra, these four are the aspects of the samādhi of bodhisattvas.
+{{milestone:{label:1.131,id:UT22084-043-002-295}}}“Bhadra, these four are the proper modes of engagement of bodhisattvas. What are the four? Actualizing the mind of awakening once the roots of virtues have been produced, being without obscuration when entering complete absorption, being familiar with the gateways to liberation, and not entering into fixity.{{note:{index:54,id:UT22084-043-002-296}}} Bhadra, these four are the proper modes of engagement of bodhisattvas.
+{{milestone:{label:1.132,id:UT22084-043-002-297}}}“Bhadra, these four are the improper mindsets of bodhisattvas that should be rejected. What are the four? Being afraid of the horrors of saṃsāra, being uninterested in yogic activities, being uninterested in the intended meaning of the teachings, and not accumulating roots of virtue. Bhadra, these four are the improper mindsets that should be rejected.
+{{milestone:{label:1.133,id:UT22084-043-002-298}}}“Bhadra, these four are the resolutions of bodhisattvas. What are the four? The first resolution is the thought, ‘Even for the sake of a single being, I will cycle in saṃsāra until the end of the final eon.’ The second resolution is the thought, ‘I will teach the Dharma in order to know the thoughts of all beings, pacify their afflictions, and know the superior and inferior faculties.’ The third resolution is the thought, {{page:{number:27,id:UT22084-043-002-563,folio:F.30.b}}} ‘May I, having relinquished all nonvirtuous qualities and become endowed with all virtuous qualities, reach the seat of awakening and, having defeated the hordes of Māra, fully awaken to unsurpassed, complete and perfect buddhahood.’ The fourth resolution is the thought, ‘Having understood the entire trichiliocosm in a single moment,{{note:{index:55,id:UT22084-043-002-299}}} may I teach the Dharma.’ Bhadra, these four are the resolutions of bodhisattvas.
+{{milestone:{label:1.134,id:UT22084-043-002-300}}}“Bhadra, these four qualities of bodhisattvas subdue Māra. What are the four? Discerning every phenomenon as being like an illusion, having proper engagement, not conceptualizing phenomena, and not abiding in any characteristics. Bhadra, these four are the qualities of bodhisattvas that subdue Māra.
+{{milestone:{label:1.135,id:UT22084-043-002-301}}}“Bhadra, these four are the truths to be contemplated for bodhisattvas. What are the four? There are no persons; phenomena arise in dependence; no phenomenon whatsoever arises without a cause; and phenomena that arise in dependence are unborn and insubstantial, and on account of awakening they are inexhaustible. Bhadra, these four are the truths to be contemplated by bodhisattvas.
+{{milestone:{label:1.136,id:UT22084-043-002-302}}}“Bhadra, when bodhisattvas have four qualities, they do not abandon beings. What are the four? Not abandoning previous aspirations, enduring weariness, not concerning themselves with their own body and life, and employing the means of attracting disciples. These are the four.
+{{milestone:{label:1.137,id:UT22084-043-002-303}}}“Bhadra, these four are the bodhisattvas’ four ripening acts. What are the four? Giving material goods, giving Dharma teachings for the sake of ripening others, regularly giving reminders by encouraging others, and, {{page:{number:28,id:UT22084-043-002-564,folio:F.31.a}}} by giving up their own happiness, revealing the roots of virtue in others and causing them to ripen. Bhadra, these four are the bodhisattvas’ four ripening acts. 
+{{milestone:{label:1.138,id:UT22084-043-002-304}}}“Bhadra, when bodhisattvas have four qualities, they are not afraid to gather disciples who have not yet been gathered. What are the four? Being inclined to even the slightest root of virtue; taking delight in always and unceasingly benefiting others; being perfectly generous, restrained, and gentle; and disregarding all profit, veneration, and praise. These are the four.
+{{milestone:{label:1.139,id:UT22084-043-002-305}}}“Bhadra, when bodhisattvas have four qualities, they engage in proper conduct.{{note:{index:56,id:UT22084-043-002-306}}} What are the four? The attainment of the superknowledges, the attainment of wisdom, engaging in the immeasurable great samādhi, and being fully liberated without contamination by meditating on emptiness supreme in all aspects. These are the four.
+{{milestone:{label:1.140,id:UT22084-043-002-307}}}“Bhadra, when bodhisattvas have four qualities, they will know that they are skillful in means. What are the four? Knowing that all thoughts lead to the mind of awakening—even afflicted thoughts are sufficient, not to mention virtuous thoughts; viewing all beings as the very vessels of Dharma; holding the view, by understanding essencelessness, that all phenomena are definitely erroneous; and meditating with a perception that does not fixate on any meditative absorptions when seeking liberation. When bodhisattvas have these four qualities, they will know they are skilled in means. 
+{{milestone:{label:1.141,id:UT22084-043-002-308}}}“Bhadra, these four are bodhisattvas’ meditations on loving-kindness. What are the four? Meditating on loving-kindness thinking ‘May I protect all beings,’ meditating on loving-kindness thinking ‘May I liberate all beings,’ {{page:{number:29,id:UT22084-043-002-565,folio:F.31.b}}} meditating on loving-kindness thinking ‘May I inspire all beings,’ and meditating on loving-kindness thinking ‘May I lead all beings completely beyond suffering.’ Bhadra, these are the bodhisattvas’ meditations on loving-kindness.
+{{milestone:{label:1.142,id:UT22084-043-002-309}}}“Bhadra, these four are the compassions of bodhisattvas. What are the four? The compassion of putting those born in lower realms onto the path to higher realms, the compassion of joining those with bad karma to virtuous qualities, the compassion of leading those inclined toward the Lesser Vehicle to correctly practice the Greater Vehicle, and, fourth, the compassion of thinking ‘May I lead all beings completely beyond suffering!’ These are the four.
+{{milestone:{label:1.143,id:UT22084-043-002-310}}}“Bhadra, when bodhisattvas have four qualities, they will obtain the superknowledges. What are the four? Lightness of body and mind, discerning the illusory nature, cultivating a mind of respect and service toward all beings, and, with calm abiding having become single pointed, being without distraction.
+{{milestone:{label:1.144,id:UT22084-043-002-311}}}“Bhadra, when bodhisattvas have four qualities, they will obtain the correct discernments. What are the four? Relying on the meaning and not on the words, relying on the Dharma and not on persons, knowing all phenomena to be without identity and to be language and words that are inexhaustible, and teaching without attachment or obstruction.{{note:{index:57,id:UT22084-043-002-312}}} These are the four.
+{{milestone:{label:1.145,id:UT22084-043-002-313}}}“Bhadra, when bodhisattvas have four qualities, they obtain retention. What are the four? Not being satisfied even though they have learned a great deal, honoring and respecting those of great learning in accordance with the Dharma, always striving to teach the Dharma to others, and engaging with the teachings in accordance with the Tathāgata’s intentions in order to definitively determine the meaning of all its words and letters.
+{{milestone:{label:1.146,id:UT22084-043-002-314}}}“Bhadra, {{page:{number:30,id:UT22084-043-002-566,folio:F.32.a}}} when bodhisattvas have four qualities, they will obtain acceptance. What are the four? Faith, irreversibility, accumulation, and indefatigability. These are the four.
+{{milestone:{label:1.147,id:UT22084-043-002-315}}}“Bhadra, when bodhisattvas have four qualities, they will acquire inspired speech. What are the four? Not contradicting the explanations of other proponents of the Dharma, listening to the teachings of other proponents of Dharma with respect and commendation, being without conceit despite one’s learning, and not deprecating those of lesser learning. These are the four.
+{{milestone:{label:1.148,id:UT22084-043-002-316}}}“Bhadra, these four are the bodhisattvas’ transformations. What are the four? The transformation of desire, anger, and ignorance, the transformation from a śrāvaka, the transformation from a pratyekabuddha, and the transformation of perceptions into Dharmic roots of virtue. These are the four.
+{{milestone:{label:1.149,id:UT22084-043-002-317}}}“Bhadra, these four qualities are bodhisattvas’ engagement with profound meaning. What are the four? Understanding dependent arising, understanding the intent of the teachings, understanding the nature of identity, and likewise understanding that, from the perspective of emptiness, all these phenomena have the same meaning. These four are bodhisattvas’ engagement with profound meaning.
+{{milestone:{label:1.150,id:UT22084-043-002-318}}}“Bhadra, when bodhisattvas have four qualities, they will realize their aspirations. What are the four? Observing perfect discipline and training, purifying karmic obscurations, being without deceit, and mastering their minds to generate roots of virtue. With these four, the aspirations of bodhisattvas will be realized.
+{{milestone:{label:1.151,id:UT22084-043-002-319}}}“Bhadra, when bodhisattvas have four qualities, they will be exalted and will gain the quality of irreversibility through all the perfections. What are the four? By being skilled in means, {{page:{number:31,id:UT22084-043-002-567,folio:F.32.b}}} subsuming all the perfections within a single perfection; by being skilled in means, knowing all beings by realizing the nature of a single being; by being skilled in means, knowing the purity of other phenomena by realizing the purity of a single phenomenon; and, since all is the true nature, being devoted to all buddhas through a single buddha. Bhadra, when bodhisattvas have these four qualities, they will be exalted and will gain the quality of irreversibility through all the perfections.” 
+{{milestone:{label:1.152,id:UT22084-043-002-320}}}When the Blessed one had explained these sets of four accomplishments, Bhadra the illusionist attained the acceptance that phenomena are unborn. He was utterly delighted and, rejoicing, became overjoyed and blissful. He was so extremely happy that he rose into the sky to the height of seven palm trees. 
+{{milestone:{label:1.153,id:UT22084-043-002-321}}}Then, the Blessed One smiled. And from his smile radiated countless incalculable rays of light that, after suffusing all the buddhafields with light, returned once again and descended into the crown of the Blessed One’s head.
+{{milestone:{label:1.154,id:UT22084-043-002-322}}}Venerable Ānanda then rose from his seat. Folding his Dharma robe over one shoulder, he placed his right knee on the ground, bowed in the direction of the Blessed One with his palms pressed together, and said, “As the honorable Blessed Tathāgata does not smile without a reason or condition, what was the reason for your smile? What was the condition?” Then he spoke these verses:
+{{milestone:{label:1.155,id:UT22084-043-002-323}}}“O source of wisdom renowned for your measureless splendor and insight,
+Renowned in the three worlds as having perfected the qualities,
+Self-arisen Victor, why have you shown us this smile?
+May the lord among humans please answer me that. {{page:{number:32,id:UT22084-043-002-568,folio:F.33.a}}}
+{{milestone:{label:1.156,id:UT22084-043-002-324}}}“However many migrating beings there are in all directions,
+You know the mental activities of them all— 
+Those of low and high, and finally of middling capacity.
+For what purpose did you show me that smile?
+{{milestone:{label:1.157,id:UT22084-043-002-325}}}“The voices of the gods and those who likewise blaze with fire,{{note:{index:58,id:UT22084-043-002-326}}}
+The voices of kinnaras, humans, Śakra, asuras,
+Garuḍas, uragas, and Brahmā, and all other sounds—
+How can they compare to even a portion of the Buddha’s immaculate voice?
+{{milestone:{label:1.158,id:UT22084-043-002-327}}}“The shining of the brilliant sun, the glittering of jewels,
+The light of Śakra and Brahmā—whatever light there is to be found—
+Compared to the Buddha’s suffusing radiance,
+Those lights do not shine at all. 
+{{milestone:{label:1.159,id:UT22084-043-002-328}}}“In this buddhafield you obtained the profound Dharma. 
+Knowing emptiness, selflessness, and that for beings no individual person exists,
+You have fully abandoned the two extremes of existence and nonexistence,
+And you know well that the three times are like the moon’s reflection on water.
+{{milestone:{label:1.160,id:UT22084-043-002-329}}}“Who here and now has a mind inclined toward the supreme vehicle?
+Who belongs to the Buddha’s lineage and the lineage of the Dharma?
+Who propagates the flourishing of the Three Jewels?
+Please explain well the reason for your smile! 
+{{milestone:{label:1.161,id:UT22084-043-002-330}}}“If the meaning of the Victorious One’s teaching is intended for śrāvakas,
+Then the rays of light from the Sugata’s smile descend back into his knees; 
+If taught for the Pratyekabuddha Vehicle, they descend into his shoulders;
+And if taught for the Buddha Vehicle, they descend into the crown of his head.
+{{milestone:{label:1.162,id:UT22084-043-002-331}}}“Since the hundred thousand rays of light emitted by you
+Descended into the crown of the Well-Gone One,
+There is no doubt, O beneficent god of gods, O benefactor,
+That this is a prophecy for the Buddha Vehicle.”
+{{milestone:{label:1.163,id:UT22084-043-002-332}}}Then the Blessed One asked Venerable Ānanda, “Ānanda, do you see Bhadra, this son of noble family?” 
+“Blessed One, I see him,” replied Ānanda.
+{{milestone:{label:1.164,id:UT22084-043-002-334}}}“Ānanda, ninety-two thousand eons from now in the eon Excellent Manifestation, {{page:{number:33,id:UT22084-043-002-569,folio:F.33.b}}} in the world system Great Array, Bhadra, this son of noble family, will appear in the world as a tathāgata, arhat, complete and perfect buddha named Vikurvāṇarāja.
+{{milestone:{label:1.165,id:UT22084-043-002-335}}}“Ānanda, the tathāgata, arhat, complete and perfect Buddha Vikurvāṇarāja’s world system called Great Array will be rich, vast, happy, abundant with good harvests, pleasant, and filled with many people and beings. It will be flat and even like the palm of the hand, soft to the touch like kācilindika cloth, adorned with flowering trees, resounding with the music of various instruments, and made fragrant with various kinds of incense; it will continually, without cease, be filled with raised parasols, victory banners, and flags. 
+{{milestone:{label:1.166,id:UT22084-043-002-336}}}“Ānanda, just as the gods of the Heaven of the Thirty-Three enjoy food and drinks merely by thinking of them, so will the people there enjoy and savor such enjoyments.
+“Ānanda, at that time, the world system Great Array will constantly manifest all this array, and thus it will be called the world system Great Array.
+“Ānanda, all beings born in that buddhafield will be inclined toward greatness, and they will enter properly into the Great Vehicle (Mahāyāna) and nothing else. 
+“Ānanda, the Tathāgata Vikurvāṇarāja will live for ten thousand years, and after his final nirvāṇa, his holy Dharma will remain for ten million years. 
+{{milestone:{label:1.167,id:UT22084-043-002-340}}}“Ānanda, at that time when the Tathāgata Vikurvāṇarāja is about to pass into his final nirvāṇa, he will give the bodhisattva Resounding Voice a prophecy: ‘After me, the tathāgata, arhat, complete and perfect buddha known as All-Pervasive Lord will appear in the world.’ Having given the prophecy to bodhisattva {{page:{number:34,id:UT22084-043-002-570,folio:F.34.a}}} Resounding Voice, he will pass into final nirvāṇa.”
+{{milestone:{label:1.168,id:UT22084-043-002-341}}}Then Bhadra the son of noble family descended from the air and, bowing his head to the feet of the Blessed One, said these words to him: “Blessed One, henceforth I take refuge in the many trillions of tathāgata, arhat, complete and perfect buddhas and in the Dharma and the Saṅgha of monks. And I will proclaim the suchness of the Tathāgata just as the Tathāgata teaches it by means of the suchness of the Tathāgata, which does not deviate from suchness, the suchness that is indivisible, the suchness free of any imperfection, the nonconceptual suchness, the unborn suchness, the uncompounded suchness.”{{note:{index:59,id:UT22084-043-002-342}}}
+{{milestone:{label:1.169,id:UT22084-043-002-343}}}Then Venerable Ānanda asked Bhadra the son of noble family, “Bhadra, have you already attained the true nature of a tathāgata? How else would you speak of suchness as the Tathāgata does?”
+{{milestone:{label:1.170,id:UT22084-043-002-344}}}“Ānanda,” Bhadra replied, “all phenomena have attained the true nature of the Tathāgata. Why? Because, Ānanda, the Tathāgata has realized suchness as indivisibility. I, too, am included in that which is indivisible with suchness, and just as I am included, so, too, are all beings included, and just as all beings are included, so, too, are all phenomena included. Thus, honorable Ānanda, the true nature of the Tathāgata is not something that can be divided in two.
+{{milestone:{label:1.171,id:UT22084-043-002-345}}}“Honorable Ānanda, nonduality is itself not something to be cognized or comprehended. Why? Because the knowledge of knowing notions is the wisdom of a buddha.”{{note:{index:60,id:UT22084-043-002-346}}}
+{{milestone:{label:1.172,id:UT22084-043-002-347}}}Then Venerable Ānanda said to the Blessed One, {{page:{number:35,id:UT22084-043-002-571,folio:F.34.b}}} “Blessed One, Bhadra the son of noble family bewilders the entire world with its gods. While previously he bewildered it with the nature of illusions, now he bewilders it with insight and wisdom. Why is this so? Because his inspired speech on insight and wisdom is like this.”
+{{milestone:{label:1.173,id:UT22084-043-002-348}}}Then the Blessed One asked Bhadra the illusionist, “Bhadra, is it true that you bewilder this entire world with its gods?”
+“Indeed, just as the Blessed One bewilders, so do I bewilder. How so? Although there is no self, the Blessed One teaches the Dharma using the conventional term beings. Although there are no living beings or persons, he teaches the Dharma using the term person. Therefore, he is a great bewilderer. The Tathāgata rests at the seat of awakening, seeing no phenomenon whatsoever—no transference at death, no transmigration, and no birth—yet he teaches the Dharma of transference at death, transmigration, and birth. In this way, the Blessed One appears in any place, for the world with its gods, as the Tathāgata proclaiming the truth.” 
+{{milestone:{label:1.174,id:UT22084-043-002-350}}}Then the Blessed One gave his approval to Bhadra the illusionist, saying, “Well done, son of noble family, well done, well done! It is just as you have said. Although there is no self, I teach the Dharma using the conventional term beings. Although there are no living beings or persons, I teach the Dharma using the term person. Therefore, this is a great bewilderment. The Tathāgata rests at the seat of awakening, seeing no phenomenon whatsoever—no transference at death, no transmigration, and no birth—yet {{page:{number:36,id:UT22084-043-002-572,folio:F.35.a}}} he teaches the Dharma of transference at death, transmigration, and birth. In this sense, there is no such thing as final nirvāṇa, nor is there any Dharma taught in order to attain final nirvāṇa.”{{note:{index:61,id:UT22084-043-002-351}}}
+Then Bhadra the son of noble family requested the Blessed One that he might go forth.
+The Blessed One instructed the bodhisattva Maitreya, “Maitreya, send forth Bhadra the son of noble family.” 
+{{milestone:{label:1.175,id:UT22084-043-002-354}}}Then Maitreya sent forth and fully ordained Bhadra the son of noble family, and when he had completed the ordination, he{{note:{index:62,id:UT22084-043-002-355}}} said to the Blessed One, “Blessed One, bodhisattvas do not go forth by means of outward appearances, signs, and procedures. Why, Blessed One? Because bodhisattvas are not attached to any of these outer attributes, yet they remain in the three realms in order to mature beings. This is the going forth of bodhisattvas.” 
+{{milestone:{label:1.176,id:UT22084-043-002-356}}}And at that time, when this teaching had been explained, five thousand beings generated the mind intent on complete and perfect awakening. The minds of two hundred monks were freed from defilements without further appropriation.
+{{milestone:{label:1.177,id:UT22084-043-002-357}}}Then Venerable Ānanda asked the Blessed One, “Blessed One, what is the name of this Dharma discourse? By what name should it be remembered?”
+The Blessed One said, “Remember it as The Prophecy for Bhadra the Illusionist, or remember it as The Complete Emergence of Awakening in Stages. 
+{{milestone:{label:1.178,id:UT22084-043-002-359}}}“Ānanda, bodhisattvas who wish to look upon the Tathāgata and enact buddha activity for the sake of beings should remember this Dharma discourse. They should bear it in mind, recite it aloud, and teach it to others. Why? Because, Ānanda, those who remember it, bear it in mind, {{page:{number:37,id:UT22084-043-002-573,folio:F.35.b}}} recite it aloud, and teach it to others will see the Tathāgata, and thus will they enact buddha activity for the sake of beings.
+{{milestone:{label:1.179,id:UT22084-043-002-360}}}“Therefore, Ānanda, for the happiness of many beings, out of heartfelt love for the world, and for the welfare, benefit, and happiness of gods and humans, remember this Dharma discourse! Bear it in mind, recite it, and master it perfectly. 
+{{milestone:{label:1.180,id:UT22084-043-002-361}}}“Ānanda, the Dharma through which awakening completely emerges is that of the Mahāyāna, and it is from the Mahāyāna that this Dharma is taught. Therefore, this Dharma discourse is called The Complete Emergence of Awakening.
+{{milestone:{label:1.181,id:UT22084-043-002-362}}}“Ānanda, you should take interest in this. You should understand it. The Tathāgata will be in the bodies of those who compile this Dharma discourse into a book and keep it on their bodies, not to mention those who have learned it and then established themselves in suchness.” 
+{{milestone:{label:1.182,id:UT22084-043-002-363}}}Then Bhadra the son of noble family said to the Blessed One, “The Blessed One’s Dharma discourse should also be called Instigating the Roots of Previous Virtue. Why? Because, Blessed One, after hearing this Dharma discourse, all the roots of virtue that I had accumulated previously have become manifest.”
+{{milestone:{label:1.183,id:UT22084-043-002-364}}}After the Blessed One had given this teaching, Bhadra the son of noble family, Venerable Ānanda, that whole assembly, and the world with its gods, humans, asuras, and gandharvas praised the words of the Blessed One.
+{{milestone:{label:1.184,id:UT22084-043-002-365}}}Among the hundred thousand chapters of the Dharma discourse of The Noble Great Heap of Jewels, this completes the twenty-first chapter called “The Prophecy for Bhadra the Illusionist.” {{page:{number:38,id:UT22084-043-002-574,folio:F.36.a}}}
+{{milestone:{label:c.1,id:UT22084-043-002-366}}}Translated, edited, and finalized by the Indian preceptors Jinamitra and Prajñāvarman along with the chief editor-translator Bandé Yeshé Dé.

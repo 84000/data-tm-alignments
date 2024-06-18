@@ -1,0 +1,1250 @@
+{{translation:{id:UT22084-056-004,key:toh136,version:1.0.3,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble Mahāyāna Sūtra
+The Four Boys’ Absorption
+{{milestone:{label:1.1,id:UT22084-056-004-90}}}{{page:{number:1,id:UT22084-056-004-879,folio:F.144.b}}} Homage to all buddhas and bodhisattvas.
+Thus did I hear at one time. At the time of his parinirvāṇa, the Blessed One was resting between a pair of śāla trees in the Yamakaśāla Grove near Kuśinagara, in the country of the Mallas. At this time, Venerable Ānanda went to see the Blessed One. When he came into his presence, he joined his palms together and then stood there looking at the Blessed One with his eyes wide open. The Blessed One asked Venerable Ānanda, “Son of Gautama, why are you looking at the Thus-Gone One with your eyes wide open?” 
+{{milestone:{label:1.2,id:UT22084-056-004-94}}}Venerable Ānanda replied, “Blessed One, I had a terrifying dream last night, a premonition of the Thus-Gone One’s parinirvāṇa, so terrifying that it made the hairs of my body stand on end. Blessed One, ever since this dream I have been worried that the Blessed One may soon pass into parinirvāṇa, and because of this I have been miserable, unhappy, and pained by sorrow.”
+{{milestone:{label:1.3,id:UT22084-056-004-95}}}The Blessed One said, “Son of Gautama, what was this terrifying dream of yours, portending the Thus-Gone One’s parinirvāṇa?” 
+The Blessed One also asked this to Venerable Ānanda in verse: {{page:{number:2,id:UT22084-056-004-880,folio:F.145.a}}}
+{{milestone:{label:1.4,id:UT22084-056-004-97}}}“Answer this question, 
+Here in this grove of śāla trees:
+What was this dream of yours, 
+With its premonition about the world protector?”
+{{milestone:{label:1.4,id:UT22084-056-004-97}}}Venerable Ānanda replied to the Blessed One in verse:
+{{milestone:{label:1.5,id:UT22084-056-004-99}}}“This was my dream last night—
+It was terrifying, it scared me, 
+It made my hairs stand on end.
+Best of men, please listen.
+{{milestone:{label:1.6,id:UT22084-056-004-100}}}“In this world grew a tree
+Constantly bearing flowers and fruit,
+A tree to gladden the heart, 
+Replete with all excellent qualities,
+{{milestone:{label:1.7,id:UT22084-056-004-101}}}“An excellent tree 
+Casting its cooling shade on the world,
+Delighting beings,
+Dispelling their illnesses and sorrows.
+{{milestone:{label:1.8,id:UT22084-056-004-102}}}“Wondrous, infinite in qualities, 
+Reaching as high as the summit of existence—
+To behold it purifies the eye; 
+To hear of it purifies the ear.
+{{milestone:{label:1.9,id:UT22084-056-004-103}}}“From it came a voice, pure and sure, 
+Delighting{{note:{index:12,id:UT22084-056-004-104}}} all beings, 
+Soft and meaningful,
+Noble and virtuous.
+{{milestone:{label:1.10,id:UT22084-056-004-105}}}“From it shone rays of light 
+As numerous as the sands of the river Gaṅgā.
+So that as many realms
+Were illuminated{{note:{index:13,id:UT22084-056-004-106}}} by this great tree.
+{{milestone:{label:1.11,id:UT22084-056-004-107}}}“Those humans in the worlds of the ten directions,
+Endless, boundless in number,
+Who were touched by this light
+Benefited beings. 
+{{milestone:{label:1.12,id:UT22084-056-004-108}}}“Scent from this tree 
+Spread throughout the worlds of the ten directions, 
+And those who sensed it 
+Were not reborn in lower realms.
+{{milestone:{label:1.13,id:UT22084-056-004-109}}}“They were not reborn in the hells, 
+Nor as brutish animals,
+Nor among pretas and asuras.
+They had only favorable rebirths.
+{{milestone:{label:1.14,id:UT22084-056-004-110}}}“Then this great tree 
+That brought delight to all beings
+Broke in pieces in the Malla country
+And fell amidst a grove of śāla trees.
+{{milestone:{label:1.15,id:UT22084-056-004-111}}}“When they saw the great tree break,
+Thousands of creatures,
+Unimaginable, limitless in number, 
+Wept and lamented. 
+{{milestone:{label:1.16,id:UT22084-056-004-112}}}“No longer would its sound be heard; 
+Its scent had stopped spreading. {{page:{number:3,id:UT22084-056-004-881,folio:F.145.b}}}
+Without any warning of illness, 
+I, too, immediately collapsed. 
+{{milestone:{label:1.17,id:UT22084-056-004-113}}}“Seer, please explain to me 
+This dream I had last night,
+So terrifying 
+That it made my hairs stand on end.” 
+{{milestone:{label:1.18,id:UT22084-056-004-114}}}At that moment, the gods of the pure abodes; Brahmā, lord of the Sahā world; Māra’s son Sārthavāha; Śakra, lord of the gods; and the Four Great Kings all saw, in their respective realms, signs portending the parinirvāṇa of the Blessed One. Each escorted by retinues of more than eighty billion gods, they went to where the Blessed One was. When they arrived, they bowed their heads to the feet of the Blessed One, and in unison they cried out in despair—moaning, sobbing, and lamenting—and spoke these verses to Venerable Ānanda:
+{{milestone:{label:1.19,id:UT22084-056-004-115}}}“Ah! What intense, unbearable suffering!
+In this delightful grove of śāla trees, on this very day, 
+Our protector will pass into nirvāṇa.
+Ānanda, do you not know—
+{{milestone:{label:1.20,id:UT22084-056-004-116}}}“The lamp for those who live in the dark,
+Our refuge and our last resort,
+Without grasping at peace,
+Will pass into nirvāṇa today.” 
+{{milestone:{label:1.20,id:UT22084-056-004-116}}}The Blessed One then spoke these verses to Venerable Ānanda and all the assembled gods:
+{{milestone:{label:1.21,id:UT22084-056-004-118}}}“It is just as you have seen:
+Today, in this grove of śāla trees, 
+I shall pass into nirvāṇa.
+Do not suffer. Be steady.
+{{milestone:{label:1.22,id:UT22084-056-004-119}}}“That marvelous, mighty tree,
+Once lustrous beyond imagination,
+Radiant and fragrant,
+Has broken amidst this grove of śāla trees.
+{{milestone:{label:1.23,id:UT22084-056-004-120}}}“The teacher, like that tree,
+Will today, in this grove of śāla trees,
+Pass without grasping into nirvāṇa,
+Like fire extinguished by water.
+{{milestone:{label:1.24,id:UT22084-056-004-121}}}“Upatiṣya and Kolita,
+Perfect in knowledge and in miraculous power—{{note:{index:14,id:UT22084-056-004-122}}}
+These{{note:{index:15,id:UT22084-056-004-123}}} great men will also pass beyond.
+Ānanda, do you not know—
+{{milestone:{label:1.25,id:UT22084-056-004-124}}}“All composite things are impermanent; {{page:{number:4,id:UT22084-056-004-882,folio:F.146.a}}}
+By nature they form and disintegrate.
+The teacher has thoroughly understood this
+And explained it to his monks.
+{{milestone:{label:1.26,id:UT22084-056-004-125}}}“Ānanda, come closer!
+Go and tell my disciples—
+The great elder Aniruddha, 
+Who has perfected divine sight,
+{{milestone:{label:1.27,id:UT22084-056-004-126}}}“The great elder Kātyāyana,
+The great elders Pūrṇa and Subhūti,
+The great Kauṣṭhila,
+Gavāmpati, Nandika, 
+{{milestone:{label:1.28,id:UT22084-056-004-127}}}“Śroṇa, and Amogharāja,
+Wearer of tattered robes,{{note:{index:16,id:UT22084-056-004-128}}}
+Nanda and Rāhula,
+And my other disciples,
+{{milestone:{label:1.29,id:UT22084-056-004-129}}}“The elders still in training, those beyond training,
+And all other ordinary people—
+That I shall pass into nirvāṇa.
+Quickly, call everyone!
+{{milestone:{label:1.30,id:UT22084-056-004-130}}}“Those in training and ordinary people
+Who are upset by what has not been experienced before 
+Should not be pierced with pain and suffering
+After I have passed into nirvāṇa.
+{{milestone:{label:1.31,id:UT22084-056-004-131}}}“Do not grieve. Composite things
+Are impermanent and dream-like.
+This true nature of phenomena
+Should bring them relief.” 
+{{milestone:{label:1.31,id:UT22084-056-004-131}}}Thus he spoke, and Venerable Ānanda again addressed the Blessed One in verse:
+{{milestone:{label:1.32,id:UT22084-056-004-133}}}“Protector! Awakened One!
+When I heard you will pass into nirvāṇa,
+I fainted and hurt myself.
+I am utterly crestfallen—{{note:{index:17,id:UT22084-056-004-134}}}
+{{milestone:{label:1.33,id:UT22084-056-004-135}}}“Both my body and mind are distressed,
+My mind is not composed,
+I am unsettled by attachment.
+Seer, what will become of me?
+{{milestone:{label:1.34,id:UT22084-056-004-136}}}“You are my refuge and last resort.
+You are the guide for this world.
+How can I tell the elders
+That today you are here but soon will be gone?
+{{milestone:{label:1.35,id:UT22084-056-004-137}}}“How can such sorrow be told
+By one bearing such sorrow and pain?
+How can the elders listen to this, 
+Our great fear?{{note:{index:18,id:UT22084-056-004-138}}}
+{{milestone:{label:1.36,id:UT22084-056-004-139}}}“When those in training and ordinary monks
+Are pierced by grief, completely run through,
+How can they survive?
+Best of men, please stay for an eon!
+{{milestone:{label:1.37,id:UT22084-056-004-140}}}“How can I go, best of men, 
+Among the four communities
+And announce that the teacher will pass away? {{page:{number:5,id:UT22084-056-004-883,folio:F.146.b}}}
+Great sage, please remain for an eon!
+{{milestone:{label:1.38,id:UT22084-056-004-141}}}“The great lamp of this world
+Is quickly fading, 
+And all the worlds will soon
+Fall into darkness.
+{{milestone:{label:1.39,id:UT22084-056-004-142}}}“Best of men, please, do not send me, 
+So crestfallen, to speak to the monks!
+I beg you, entrust this to someone else
+Who is not so crestfallen!”
+{{milestone:{label:1.40,id:UT22084-056-004-143}}}The Blessed One replied, “Son of Gautama, all composite things are impermanent, so do not be upset, let them go!” 
+The Blessed One then spoke these verses for the sake of Venerable Ānanda:
+{{milestone:{label:1.41,id:UT22084-056-004-145}}}“Hearing that the Buddha will pass away today,
+Millions upon millions of gods
+Have left their palaces,
+Grieving and lamenting.
+{{milestone:{label:1.42,id:UT22084-056-004-146}}}“After I have passed, 
+Do not let monks be upset at not having seen me—
+This is the service I request.
+Go, and summon all the monks!”
+{{milestone:{label:1.43,id:UT22084-056-004-147}}}At that time, Venerable Aniruddha was at the summit of Sumeru teaching the Dharma to the gods of the Heaven of the Thirty-Three. Venerable Aniruddha, who possessed pure divine sight that far surpassed that of a human, could see that the gods, renowned as the mightiest of the mighty, were disappearing from their palaces. He could hear, too, the gods’ powerful cries of lament, and he watched as his own audience thinned. Venerable Aniruddha focused his mind, and with his divine sight he looked closely at the world. The gods and their entourages were in a state of anxiety, giving up on their sense pleasures and departing somewhere in great haste. Venerable Aniruddha saw those who had reached farther and farther away from the summit of the king of mountains—some who were one hundred leagues distant, some two hundred leagues, some three hundred leagues, some four hundred leagues, and some five hundred leagues away—and some who had fallen into the ocean, though such beings could not be harmed nor injured, let alone killed. {{page:{number:6,id:UT22084-056-004-884,folio:F.147.a}}}
+{{milestone:{label:1.44,id:UT22084-056-004-148}}}Like those at the summit of Sumeru, all those beings living on Sumeru, the king of mountains—gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, and mahoragas—were struck with grief when they heard of the Blessed One’s parinirvāṇa. “Blessed Śākyamuni,” they cried, “king among lords of the Śākyas, who reached perfection countless millions of eons ago, whose roots of virtue are utterly pure, will today, in the country of the Mallas, before a pair of śāla trees, pass without grasping, into parinirvāṇa. Today, the eye of this world with its gods, shall close!” they cried, and they journeyed toward Kuśinagara, traveling with such haste that the peaks of Sumeru, the king of mountains, shook and trembled; traveling with such haste that Sumeru, the king of mountains, along with its oceans, quaked and roiled so violently that those at the summit of Sumeru, the king of mountains, fell into the ocean. 
+{{milestone:{label:1.45,id:UT22084-056-004-149}}}Then Venerable Aniruddha, still seated at the summit of Sumeru, let out a great cry and spoke these verses:{{note:{index:19,id:UT22084-056-004-150}}}
+{{milestone:{label:1.46,id:UT22084-056-004-151}}}“The leader of worlds,
+Who bestows joy on those worlds,
+Who is worthy of beings’ offerings,
+The sage, will pass into nirvāṇa today.
+{{milestone:{label:1.47,id:UT22084-056-004-152}}}“The source of wisdom, conqueror of darkness and gloom,
+Father and mother to all living creatures,
+Our refuge and our last resort,
+The sage, will pass into nirvāṇa today.
+{{milestone:{label:1.48,id:UT22084-056-004-153}}}“The remover of pain, free from wrongdoing and affliction,
+The sublime sustainer, the great physician
+Who removes the thorns of nonvirtuous behavior,
+The sage, will pass into nirvāṇa today.
+{{milestone:{label:1.49,id:UT22084-056-004-154}}}“Seeing beings overpowered by attachment and aversion,
+Crushed by ignorance, caught up in old age and death,
+Stuck, and following mistaken paths,
+He developed compassion for the world and taught the Dharma.
+{{milestone:{label:1.50,id:UT22084-056-004-155}}}“He to whom appeared the hordes of Māra, fierce in form,
+In various guises and brandishing adamantine weapons,{{note:{index:20,id:UT22084-056-004-156}}}
+Some flaunting many frightful features, {{page:{number:7,id:UT22084-056-004-885,folio:F.147.b}}}
+Others wielding rocks and boulders—
+{{milestone:{label:1.51,id:UT22084-056-004-157}}}“Though beholding such diverse terrifying forms,
+He remained unmoved, unperturbed. 
+The protector of the world, who defeated those hordes of Māra,
+Will pass today into nirvāṇa, in the grove of śāla trees.
+{{milestone:{label:1.52,id:UT22084-056-004-158}}}“He who by merely extending his right arm
+Can make this summit of Sumeru and its celestial cities tremble,
+The guide and seer who has mastered all phenomena, 
+Will pass today into nirvāṇa, in the grove of śāla trees.
+{{milestone:{label:1.53,id:UT22084-056-004-159}}}“He whose words resound boundlessly in the ten directions,
+Who has crossed to the far shore of knowledge,
+The teacher, the heart of every being,
+Will pass today into nirvāṇa, in the grove of śāla trees.
+{{milestone:{label:1.54,id:UT22084-056-004-160}}}“He who strikes fear in mighty hordes
+Has discovered the unshakeable, the absence of sorrow, the uncompounded.
+The sage, setting the wheel in motion for the benefit of living beings,
+Clearly set forth the four truths.
+{{milestone:{label:1.55,id:UT22084-056-004-161}}}“He whose miraculous powers are inconceivable,
+Who can lay out many realms on the tip of a hair,
+Whose body is beyond any notion of physical form,
+The protector, will pass into nirvāṇa today.
+{{milestone:{label:1.56,id:UT22084-056-004-162}}}“The teacher has gone to the Malla kingdom.
+He has taken up residence in a nearby grove
+And immersed himself in the calm of concentration.{{note:{index:21,id:UT22084-056-004-163}}}
+He will pass into nirvāṇa, like a fire going out when the wood has been used up.”
+{{milestone:{label:1.57,id:UT22084-056-004-164}}}At the very moment Venerable Aniruddha finished speaking these verses, through the Buddha’s power, all the monks and nuns and male and female lay devotees in the world, the four communities who revered the Blessed One—except for Mahākāśyapa and his entourage, and 224 monks{{note:{index:22,id:UT22084-056-004-165}}}—exclaimed, “This is our last chance to see the Blessed One!” and departed for that grove of śāla trees in the country of the Mallas.
+{{milestone:{label:1.58,id:UT22084-056-004-166}}}Also at the very moment Venerable Aniruddha finished speaking these verses, all beings throughout this great trichiliocosm, the prescient gods and goddesses; the nāgas, elderly nāgas, and nāginīs; the yakṣas, the yakṣīs, and their young; {{page:{number:8,id:UT22084-056-004-886,folio:F.148.a}}} the piśācas, old piśācas, and young piśācas, male and female; beings as numerous as the stars—asuras, garuḍas, kinnaras, mahoragas, humans, and nonhumans—all with their eyes filled with tears, in grief, sobbed and lamented, crying out over and over again. Suffering and distraught, pierced by grief, they threw their arms in the air and sobbed. 
+{{milestone:{label:1.59,id:UT22084-056-004-167}}}Some wrung their hands as they wept. Some bumped their heads together, gazing into each other’s faces as they wept. Some, mouths agape, emitted wretched roars of anguish and, losing their senses, their faces pale, their arms and legs flailing, wept. Some just gazed at one another as they wept. Some banged their heads. Some struck their heads with both hands, hurting themselves physically. Some rolled their eyes and heaved with sobs, howling and crying out in pain, their knees shaking, as if the palms of their hands had been scorched. “Alas, Buddha! Alas, Buddha!” they cried, woeful and destitute, tears streaming down their faces. Rubbing their eyes with the palms of their hands and clawing at their faces, they howled in anguish. Stricken by grief, they cried out in pain.
+{{milestone:{label:1.60,id:UT22084-056-004-168}}}Many millions of other beings let out great cries as they read aloud while choked with tears. Some, with their palms pressed together, moaned as they read aloud in tears. Some, scorched by the fire of grief, held their heads in their right hands as they moaned. Others, physically ravaged, likewise held their heads in their left hands as they groaned. Some beat their arms, their faces pallid,{{note:{index:23,id:UT22084-056-004-169}}} drained of color, and miserable with grief as they cried out. {{page:{number:9,id:UT22084-056-004-887,folio:F.148.b}}}
+{{milestone:{label:1.61,id:UT22084-056-004-170}}}Then the gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, and their entourages, grieving and lamenting, proceeded to where the Blessed one was and, entering the presence of the Blessed One, threw themselves on the ground like trees being felled. Some bowed to the Blessed One’s two feet. Some let out great roars of anguish. Some rolled on the ground while crying out in pain. Some, on entering the presence of the Blessed One, threw their arms in the air and exclaimed, “Alas, Buddha! Alas, Buddha! Alas, protector! Alas, compassionate one, who loves and protects all beings! Alas, refuge and last resort of the three realms, who watches over all beings! Alas, supporter of the unsupported! This world will be barren, all beings will be blind! The rare and precious Buddha will be no more!”
+{{milestone:{label:1.62,id:UT22084-056-004-171}}}Joining hands, they lovingly grieved together as if mourning the death of their mother. They grieved as if mourning the death of their father, the death of their brother, or the death of their son, crying out over and over, “Alas, protector! Alas, virtuous friend, your speech is so gentle to hear, with the strength of a lion, of an elephant, of the greatest bull! Alas, nectar-like teacher!”
+{{milestone:{label:1.63,id:UT22084-056-004-172}}}Some leapt into the air, struck themselves, and, falling back to the ground, rolled back and forth on the ground, crying out pitifully from the core of their beings. 
+{{milestone:{label:1.64,id:UT22084-056-004-173}}}Venerable Ānanda then fainted and crashed to the ground like a felled tree. Regaining consciousness, he placed both his hands on the ground in front of the Blessed One and, gazing into his face, spoke these verses:
+{{milestone:{label:1.65,id:UT22084-056-004-174}}}“To see beings in such misery,
+Weeping and lamenting, {{page:{number:10,id:UT22084-056-004-888,folio:F.149.a}}}
+Pierced through with grief,
+Is to relive my dream again.
+{{milestone:{label:1.66,id:UT22084-056-004-175}}}“Like travelers{{note:{index:24,id:UT22084-056-004-176}}} assailed by robbers
+In some remote and empty place,
+When they see in front of them
+A great heap of fire,{{note:{index:25,id:UT22084-056-004-177}}}
+{{milestone:{label:1.67,id:UT22084-056-004-178}}}“They look everywhere for an escape.
+Overcome with fear, 
+They run in all directions
+But find no refuge and no assistance.
+{{milestone:{label:1.68,id:UT22084-056-004-179}}}“The pain I see in so many beings,
+On hearing of the Buddha’s passing, is like that—
+The suffering of beings without refuge,
+Pierced through with grief.
+{{milestone:{label:1.69,id:UT22084-056-004-180}}}“How can we look upon the Buddha
+As just any important person who has passed?
+Let others pass away,
+But, Blessed One, please stay for an eon!
+{{milestone:{label:1.70,id:UT22084-056-004-181}}}“How can we look upon the perfect Buddha,
+Passing into nirvāṇa in the Malla kingdom,
+Like a once blazing fire
+That goes out once its fuel is used up?
+{{milestone:{label:1.71,id:UT22084-056-004-182}}}“From today, Awakened One, I shall never see you again 
+At the Bamboo Grove.
+Nor, guide, shall I ever see you again
+Teaching the Dharma at Jetavana Grove.
+{{milestone:{label:1.72,id:UT22084-056-004-183}}}“How can I enter Vaiśālī,
+The great city of the Licchavis, 
+And tell those Licchavis 
+‘The best of men has passed’?
+{{milestone:{label:1.73,id:UT22084-056-004-184}}}“How, in Kapilavastu,
+The great city of the Śākyas,
+Can I, in my misery, announce 
+‘The greatest of persons has passed’?
+{{milestone:{label:1.74,id:UT22084-056-004-185}}}“How, in Magadha,
+In Ajātaśatru’s great city,
+Can I utter the words,
+‘The great sage is in perfect peace’?
+{{milestone:{label:1.75,id:UT22084-056-004-186}}}“When many thousands of beings
+Shed tears again and again,
+How can I respond,
+‘The lion of the Śākyas has passed’?
+{{milestone:{label:1.76,id:UT22084-056-004-187}}}“When the lion of the Śākyas has passed,
+Best of men, how will I console
+All the monks, the nuns, 
+And the householders?
+{{milestone:{label:1.77,id:UT22084-056-004-188}}}“Supreme being, what am I to say
+When elders ask me,
+‘Ānanda! Where has His Eminence,
+The object of our offerings, the perfect Buddha, gone?’ 
+{{milestone:{label:1.78,id:UT22084-056-004-189}}}“Sage, what if gods and nāgas ask me,
+‘Has he entered a deep concentration,
+Or has he gone for a walk?’ {{page:{number:11,id:UT22084-056-004-889,folio:F.149.b}}}
+How will I muster the courage to tell them?
+{{milestone:{label:1.79,id:UT22084-056-004-190}}}“For whom have I, again and again,
+Arranged the lion couch?
+Hero, from this moment onward,
+For whom will I arrange the lion throne?
+{{milestone:{label:1.80,id:UT22084-056-004-191}}}“Who, like a lion,
+Will fearlessly profess the Dharma to the assemblies?
+From whom will I hear the Dharma
+Of the profound state, so hard to comprehend?
+{{milestone:{label:1.81,id:UT22084-056-004-192}}}“Greatest of persons, if you pass on,
+At whose feet will I offer water?
+Whose clothes and Dharma robes will I bring?
+Whose alms bowl will I bear?
+{{milestone:{label:1.82,id:UT22084-056-004-193}}}“Best of men, in the midst of the saṅgha, 
+Who will praise me, saying,
+‘Ānanda! Ocean of learning!’?
+Henceforth, who will be there for me?
+{{milestone:{label:1.83,id:UT22084-056-004-194}}}“Wise one, infinite in eloquence,
+Whose gentle speech brings delight
+And the greatest happiness,
+To whom will I really listen?
+{{milestone:{label:1.84,id:UT22084-056-004-195}}}“After all the crying and lamenting
+Of all the victor’s heirs who uphold the teachings,
+It was I who fainted and fell to the ground
+At the feet of the great sage.”
+{{milestone:{label:1.85,id:UT22084-056-004-196}}}The Blessed One then said to Venerable Ānanda, “Ānanda, son of Gautama, have I not taught you from the very beginning that everything dear and pleasing is in no way permanent? Son of Gautama, all composite things are deceptive, like dreams, illusions, mirages, or drops of dew. All composite things are impermanent, son of Gautama, so do not grieve over what happens. Do not cry and wail. Son of Gautama, in the final hours of this night,{{note:{index:26,id:UT22084-056-004-197}}} the Thus-Gone One will pass into final and complete nirvāṇa, and with this parinirvāṇa that defeats all imputations, this parinirvāṇa that equals the unequaled, he will pass completely beyond suffering.{{note:{index:27,id:UT22084-056-004-198}}} So, Son of Gautama, go and set out the Thus-Gone One’s lion couch between a pair of śāla trees, with its head to the east so that he shall face north, with his back to the south while lying on his right side.” {{page:{number:12,id:UT22084-056-004-890,folio:F.150.a}}}
+{{milestone:{label:1.86,id:UT22084-056-004-199}}}Then Venerable Ānanda, crying and weeping, choked with sobs, with tears streaming down his face, set out the Blessed One’s lion couch between a pair of śāla trees. And when he had finished preparing the Blessed One’s lion couch, he spoke these verses:
+{{milestone:{label:1.87,id:UT22084-056-004-200}}}“Great sage, this is the last time
+I set out your lion couch.
+Eminence, in the future,
+Your lion couch will not be set up again.
+{{milestone:{label:1.88,id:UT22084-056-004-201}}}“Best of men, protector of the world, 
+Once you have passed into nirvāṇa,
+How will I be able to look into the midst
+Of this empty beautiful grove of śāla trees?
+{{milestone:{label:1.89,id:UT22084-056-004-202}}}“The gods who have lived naturally so long 
+In this grove of śāla trees—
+When they no longer see their guide,
+How will they stay?
+{{milestone:{label:1.90,id:UT22084-056-004-203}}}“Alas! Composite things are impermanent,
+Like illusions and dreams.
+So, too, is the teacher, the hero—
+He will pass away right here.”
+{{milestone:{label:1.90,id:UT22084-056-004-203}}}Then Venerable Aniruddha spoke to Venerable Ānanda in verse:
+{{milestone:{label:1.91,id:UT22084-056-004-205}}}“The Buddha has already taught
+That all composite things are impermanent.
+There is no point lamenting
+What is not under anyone’s control.
+{{milestone:{label:1.92,id:UT22084-056-004-206}}}“Wailing again and again,
+Even sobbing, 
+Will not make this truth easier to accept.
+So, learned one, do not suffer!”
+{{milestone:{label:1.92,id:UT22084-056-004-206}}}Venerable Ānanda replied to Venerable Aniruddha in verse:
+{{milestone:{label:1.93,id:UT22084-056-004-208}}}“The best of men will pass into nirvāṇa. 
+Since you are also suffering,
+Aniruddha, how can you say this
+So boldly?”
+{{milestone:{label:1.93,id:UT22084-056-004-208}}}Aniruddha replied:
+{{milestone:{label:1.94,id:UT22084-056-004-210}}}“When I see beings suffering and destitute,
+Tormented by grief,
+My eyes, too, well up with tears— 
+The tears come in waves.
+{{milestone:{label:1.95,id:UT22084-056-004-211}}}“When, with my divine sight,
+I see so many beings weeping, {{page:{number:13,id:UT22084-056-004-891,folio:F.150.b}}}
+I, too, weep uncontrollably
+On their behalf.
+{{milestone:{label:1.96,id:UT22084-056-004-212}}}“But there is no benefit whatsoever
+To be found in wailing.
+So I say to you, Ānanda—
+Reflect upon the Dharma, and do not grieve!”
+{{milestone:{label:1.97,id:UT22084-056-004-213}}}Then the Blessed One rose from his seat and, escorted by an entourage of many trillions of gods, humans, nāgas, yakṣas, gandharvas, kinnaras, mahoragas, asuras, and garuḍas, went to that pair of śāla trees, and when he arrived, he lay down upon the lion couch, on the right side of his body. As soon as the Blessed One had lain down upon the lion couch, the gods made all kinds of divine flowers rain from the sky, scattered many celestial powders, and played hundreds of thousands of heavenly instruments. Humans, too, saying this was the last time they would look upon the blessed Thus-Gone One, made offerings of flowers, fragrant powders, perfumes, ointments, and music from the human world.
+{{milestone:{label:1.98,id:UT22084-056-004-214}}}As soon as the Blessed One had lain down on his right side upon the lion couch, between the pair of śāla trees, at that moment, right then, at that very instant, a hundred million buddha fields away to the east, in the world called Precious and Melodious, the buddha field of the thus-gone, worthy, perfect buddha Siṃhanādeśvara, a bodhisattva great being called Sucintitārtha passed away and was reborn in the city of Rājagṛha, miraculously appearing in the lap of Vaidehī’s son, King Ajātaśatru of Magadha, as his son. As soon as he was born, he spoke up, and he spoke with purpose:
+{{milestone:{label:1.99,id:UT22084-056-004-215}}}“From the presence of Siṃhanāda,
+I have come here with a purpose.{{note:{index:28,id:UT22084-056-004-216}}}
+Is the lion of the Śākyas, the best of men,
+The perfect Buddha, still here?”
+{{milestone:{label:1.99,id:UT22084-056-004-215}}}A god replied in verse to the bodhisattva great being Sucintitārtha: {{page:{number:14,id:UT22084-056-004-892,folio:F.151.a}}}
+{{milestone:{label:1.100,id:UT22084-056-004-218}}}“O great speaker!
+Our refuge, the lion of the Śākyas,
+Will today, between two śāla trees,
+Pass without grasping into nirvāṇa.”
+{{milestone:{label:1.100,id:UT22084-056-004-218}}}The bodhisattva great being Sucintitārtha replied to the god:
+{{milestone:{label:1.101,id:UT22084-056-004-220}}}“The Dharma of the lion of the Śākyas
+Is very hard to find.
+From billions of buddha fields away,
+I have come here to listen to it.
+{{milestone:{label:1.102,id:UT22084-056-004-221}}}“Now I hear he will pass into nirvāṇa today,
+In a grove of śāla trees.
+It was pointless then, for me to come here
+To this buddha field!
+{{milestone:{label:1.103,id:UT22084-056-004-222}}}“The very day I arrive,
+The sage will pass away,
+So I must grieve 
+Along with the world and its gods.
+{{milestone:{label:1.104,id:UT22084-056-004-223}}}“If I do not see the Buddha,
+My journey here will have been pointless.
+It shall not be so—I must not leave this a mere aspiration.
+I must go before the Buddha!”
+{{milestone:{label:1.105,id:UT22084-056-004-224}}}And so, there and then,{{note:{index:29,id:UT22084-056-004-225}}}
+He addressed the royal lord of Magadha.
+Speaking gently, calmly,
+And cheerfully, he said:
+{{milestone:{label:1.106,id:UT22084-056-004-226}}}“King, listen to me now.
+He is a rare, sublime being,
+So have no hesitation!
+Go before the Thus-Gone One!
+{{milestone:{label:1.107,id:UT22084-056-004-227}}}“Over millions upon millions of eons,
+Only very rarely does a victor appear.
+If you meet with such a conjunction of circumstances,
+Learned one, you should not be despondent!
+{{milestone:{label:1.108,id:UT22084-056-004-228}}}“For that would be the attitude of an unschooled child.
+What do you think, great king?
+It is not I, great king, who am the child—
+It is you, lord of men, who are a child.
+{{milestone:{label:1.109,id:UT22084-056-004-229}}}“Under the sway of desire,
+You have committed a heinous crime{{note:{index:30,id:UT22084-056-004-230}}}
+That will propel you to the lower realms—
+This is the foolishness of a child!{{note:{index:31,id:UT22084-056-004-231}}}
+{{milestone:{label:1.110,id:UT22084-056-004-232}}}“The evil deed you committed
+Is a terrible crime of immediate retribution
+For which you will plummet into the terrible hells
+Of unbearable and unceasing torment.
+{{milestone:{label:1.111,id:UT22084-056-004-233}}}“Have faith in the Buddha!
+For through it you will attain liberation.
+Lord of men, such conditions will then lead you 
+To the attainment of perfect awakening.
+{{milestone:{label:1.112,id:UT22084-056-004-234}}}“You have relied on evil companions;
+Devadatta is deeply harmful. {{page:{number:15,id:UT22084-056-004-893,folio:F.151.b}}}
+Under his influence
+You killed your own father.
+{{milestone:{label:1.113,id:UT22084-056-004-235}}}“Your father practiced the Dharma;
+He was the Buddha’s heir, his heart son.
+In your arrogance
+You murdered this wise man.
+{{milestone:{label:1.114,id:UT22084-056-004-236}}}“If you cannot see the perfect Buddha
+Before he passes into nirvāṇa,
+Then at least make extensive offerings
+To his sacred remains.
+{{milestone:{label:1.115,id:UT22084-056-004-237}}}“I did not come to this realm
+For its sense pleasures;
+I came here to see the Buddha.
+Great king, have patience.
+{{milestone:{label:1.116,id:UT22084-056-004-238}}}“While in the presence of the Buddha Siṃhanāda,
+I heard that the lion of the Śākyas, 
+The great sage, 
+Will pass away today.
+{{milestone:{label:1.117,id:UT22084-056-004-239}}}“It is in order to see him
+That I am here in this realm,
+So let us go, accompanied by
+All the royal kinsmen and their people.”
+{{milestone:{label:1.117,id:UT22084-056-004-239}}}King Ajātaśatru then replied to the child in verse:{{note:{index:32,id:UT22084-056-004-241}}}
+{{milestone:{label:1.118,id:UT22084-056-004-242}}}“The road from here to the Malla kingdom is long;
+One cannot possibly go by foot, only by carriage.
+Child, you will stay here tonight,
+And we will travel in comfort with a large army.”
+{{milestone:{label:1.118,id:UT22084-056-004-242}}}The child then replied to King Ajātaśatru:
+{{milestone:{label:1.119,id:UT22084-056-004-244}}}“Lord of men, I am not lazy like you!
+I have inconceivable miraculous powers.
+If I so wish, I could travel unhindered
+Throughout the many eastern realms.
+{{milestone:{label:1.120,id:UT22084-056-004-245}}}“Between here and the world from which I have come,
+There are so many buddha fields,
+Boundless and immeasurable,
+So reaching the Malla kingdom will be all right!”
+{{milestone:{label:1.121,id:UT22084-056-004-246}}}The boy then jumped down from King Ajātaśatru’s lap and left Rājagṛha on foot, and as he left, he spoke this{{note:{index:33,id:UT22084-056-004-247}}} verse:
+{{milestone:{label:1.122,id:UT22084-056-004-248}}}“Anyone who does no wrong, who is free of affliction
+And longs to see the mighty one, supreme in speech, the lord of men, 
+Come now, and follow me!
+We will see Śākyamuni before he passes away!”
+{{milestone:{label:1.123,id:UT22084-056-004-249}}}As soon as the child departed the city of Rājagṛha, {{page:{number:16,id:UT22084-056-004-894,folio:F.152.a}}} at that moment, right then, at that very instant, in addition to gods and humans, seventy-two thousand creatures of all kinds gathered around as the child, escorted by an entourage of billions upon billions of gods who pay homage at the feet of the Blessed One, proceeded to where the Blessed One was. 
+{{milestone:{label:1.124,id:UT22084-056-004-250}}}As soon as the Blessed One had lain down on his right side upon the lion couch, between a pair of śāla trees, at that moment, right then, at that very instant, five trillion buddha fields away to the south in the world called Ratnavyūha, the buddha field of the thus-gone, worthy, perfect buddha Beautiful Heap of Jewels, a bodhisattva great being called Thoroughly at Peace passed away and was reborn in this buddha field of Jambudvīpa, in the great city of Śrāvastī, in the household of the eminent merchant called Leonine. The moment he was born, he spoke up, and he spoke with purpose:
+{{milestone:{label:1.125,id:UT22084-056-004-251}}}“Over so many eons, 
+Again and again, he severed his limbs.{{note:{index:34,id:UT22084-056-004-252}}}
+He gave away his own eyes, his own flesh,
+Even his own head.
+{{milestone:{label:1.126,id:UT22084-056-004-253}}}“In his wish to attain buddhahood, 
+He gave away queens, princes, and princesses.
+He gave away all his possessions, again and again,
+For ten billion eons. 
+{{milestone:{label:1.127,id:UT22084-056-004-254}}}“He who gave so expansively
+Over so many billions of eons 
+For the sake of liberating beings—
+Is that seer still here?”
+{{milestone:{label:1.127,id:UT22084-056-004-254}}}The eminent merchant Leonine replied to the child in verse:
+{{milestone:{label:1.128,id:UT22084-056-004-256}}}“How is it you speak such excellent words
+As soon as you are born?
+Are you a god, or else a nāga?
+Are you a yakṣa, or a rākṣasa? 
+{{milestone:{label:1.129,id:UT22084-056-004-257}}}“My relatives have taken fright,
+Running here and there in fear,
+But, child, the voice of a buddha
+Does not make me flee.”
+{{milestone:{label:1.129,id:UT22084-056-004-257}}}Then the child said to the merchant:
+{{milestone:{label:1.130,id:UT22084-056-004-259}}}“I am not just a god, nor a nāga,
+Not just a yakṣa or a rākṣasa. {{page:{number:17,id:UT22084-056-004-895,folio:F.152.b}}}
+For they are ordinary worldly beings!
+Why, merchant, do you not know?
+{{milestone:{label:1.131,id:UT22084-056-004-260}}}“Called ‘god of gods,’
+I am god, nāga, yakṣa, 
+Kinnara, and mahoraga!
+I am bound by my promise, like a bull.” 
+{{milestone:{label:1.131,id:UT22084-056-004-260}}}The merchant Leonine then said to the child in verse:
+{{milestone:{label:1.132,id:UT22084-056-004-262}}}“Wise one, I have heard
+The words you have spoken,
+But I have doubts about what they mean.
+I would speak further of it to you, child.
+{{milestone:{label:1.133,id:UT22084-056-004-263}}}“Tell me, child: 
+How is it you are god and nāga?
+How are you yakṣa and kinnara?
+How are you god of gods?”
+{{milestone:{label:1.133,id:UT22084-056-004-263}}}The child replied to the merchant Leonine in verse:
+{{milestone:{label:1.134,id:UT22084-056-004-265}}}“In the south
+Lives the lord of speech
+Beautiful Heap of Jewels.
+It is from there that I have come.
+{{milestone:{label:1.135,id:UT22084-056-004-266}}}“But a hundred times I have been Śakra;
+I have reigned. 
+A hundred times I have been Brahmā;
+I have been a universal monarch.
+{{milestone:{label:1.136,id:UT22084-056-004-267}}}“If I had to describe those births in detail,
+Millions upon millions of eons would pass,
+And still it would not be over.
+And, learned one, I must go.”
+{{milestone:{label:1.137,id:UT22084-056-004-268}}}“However, great merchant, you should henceforth rely on the following teaching. Rely on it with confidence and contemplate it many times over. Great merchant, what is this teaching? Great merchant, the blessed, thus-gone, worthy, perfect Buddha Beautiful Heap of Jewels has said, ‘When bodhisattva great beings have three qualities, they will be irreversible on the path to unsurpassed, completely perfect awakening, and they will swiftly awaken to complete, unsurpassed buddhahood.’ What are the three? They are being immersed in the limitless mind, being immersed in profound wisdom, and cultivating the sāravatī absorption.{{note:{index:35,id:UT22084-056-004-269}}} Eminent merchant, if bodhisattva great beings have these three qualities, they will be irreversible on the path to unsurpassed, completely perfect awakening {{page:{number:18,id:UT22084-056-004-896,folio:F.153.a}}} and they will swiftly awaken to unsurpassed, completely perfect awakening.”
+Then the child spoke these verses:
+{{milestone:{label:1.138,id:UT22084-056-004-271}}}“Apart from pure illustrious buddhas,
+Who understand all things caused and uncaused,
+The profound wisdom, so difficult to realize,
+Creates doubt{{note:{index:36,id:UT22084-056-004-272}}} for all types of beings, including gods.
+{{milestone:{label:1.139,id:UT22084-056-004-273}}}“Since awakening is groundless, all there is is not.
+Genuine wisdom is beyond attachment.
+It is by becoming familiar with the wisdom that has abandoned all forms of attachment
+And is devoid of pain that one becomes a buddha.
+{{milestone:{label:1.140,id:UT22084-056-004-274}}}“In the limitless mind, the mind does not exist; 
+To be immersed in such a mind is complete peace.
+This mind is called mind because even when turned away from all things,
+It remains thoroughly immersed in them.{{note:{index:37,id:UT22084-056-004-275}}}
+{{milestone:{label:1.141,id:UT22084-056-004-276}}}“That which can be cut or broken does not endure.
+This absorption, indivisible from the qualities taught by the well-gone ones,
+In which all entities are like the vault of the sky,{{note:{index:38,id:UT22084-056-004-277}}}
+Is indestructible.{{note:{index:39,id:UT22084-056-004-278}}}
+{{milestone:{label:1.142,id:UT22084-056-004-279}}}“Those who meditate on the ephemerality of all entities,
+Understanding their empty nature in this way,
+Will loosen the web of afflictions
+And become buddhas who have conquered worldly desire.
+{{milestone:{label:1.143,id:UT22084-056-004-280}}}“Everything is understood, yet there is no understanding.
+Everything is cultivated, yet there is no cultivation.
+Everything is realized, yet there is no realization.
+Everything is explained, yet there is nothing there at all.
+{{milestone:{label:1.144,id:UT22084-056-004-281}}}“The profound Dharma lacks any notion of Dharma.
+Though beings are liberated, there is no notion of beings.
+In peaceful disengagement, there is no notion of peace.
+Though awakening is realized, there is no notion of awakening.
+{{milestone:{label:1.145,id:UT22084-056-004-282}}}“The courageous who abandon the thorns of views
+Surpass all unreliable beings.
+They understand the entire process of death and rebirth,
+And by renouncing it they reach buddhahood.”
+{{milestone:{label:1.146,id:UT22084-056-004-283}}}As soon as the child had spoken these verses, right then, at that very instant, the eminent merchant Leonine, his entire entourage, {{page:{number:19,id:UT22084-056-004-897,folio:F.153.b}}} and two thousand other beings developed the mind set on unsurpassed, completely perfect awakening, and with their minds thus fully committed, they reached the acceptance of the unborn nature of phenomena. Eighty million gods also generated the mind set on unsurpassed, completely perfect awakening and became certain of irreversibility on the path to unsurpassed, completely perfect awakening. And forty quadrillion{{note:{index:40,id:UT22084-056-004-284}}} living beings were able to see phenomena with Dharma eyes, free of dust, pure, undefiled, and immaculate.
+The child then spoke these verses:
+{{milestone:{label:1.147,id:UT22084-056-004-286}}}“The reason I came here
+Was to enter the presence of the lion of the Śākyas,
+Who has freed millions upon millions of beings
+From the terrors of saṃsāra.
+{{milestone:{label:1.148,id:UT22084-056-004-287}}}“Many millions among them,
+With the mind set on unsurpassed awakening,
+A re now well established
+At the level of acceptance.
+{{milestone:{label:1.149,id:UT22084-056-004-288}}}“My own parents, siblings, and relatives 
+Are also settled in acceptance,
+And all eighty million gods
+Have embarked upon awakening.
+{{milestone:{label:1.150,id:UT22084-056-004-289}}}“In the teachings of the Buddha,
+I have found a great heap of precious jewels 
+Inestimable and beyond imagination,
+So I am far from want.”
+{{milestone:{label:1.151,id:UT22084-056-004-290}}}Then the child Thoroughly at Peace summoned his parents, siblings, and relatives, and escorted by his parents, siblings, relatives, kinsmen, and an entourage of many hundreds of thousands of beings who pay homage at the feet of the Blessed One, he left the great city of Śrāvastī and journeyed to the Yamakaśāla Grove in the country of the Mallas. 
+{{milestone:{label:1.152,id:UT22084-056-004-291}}}As soon as the Blessed One had lain down on his right side upon the lion couch, at that very moment, right then, at that very instant, eight trillion buddha fields away to the west, {{page:{number:20,id:UT22084-056-004-898,folio:F.154.a}}} in the world called Joy, the buddha field of the thus-gone, worthy, perfect buddha Lord of Joy, a bodhisattva great being called Without Reference passed away and was reborn here in this buddha field of Jambudvīpa, in the great city of Vārāṇasī, in the household of the eminent merchant called Excellent Flower. As soon as the child was born, he spoke up, and he spoke with purpose:
+{{milestone:{label:1.153,id:UT22084-056-004-292}}}“The Buddha, our guide,
+The teacher of the Dharma of unwavering selflessness,
+Will pass into nirvāṇa today
+Amidst a grove of śāla trees.
+{{milestone:{label:1.154,id:UT22084-056-004-293}}}“If all phenomena are beyond reference points,{{note:{index:41,id:UT22084-056-004-294}}}
+The unlearned who make reference points
+Will not be freed from suffering—
+Their suffering will only increase.
+{{milestone:{label:1.155,id:UT22084-056-004-295}}}“All phenomena are ephemeral;
+There is no place where they abide.
+Neither that which is already exhausted nor that which is yet to be exhausted
+Is to be found.
+{{milestone:{label:1.156,id:UT22084-056-004-296}}}“Emptiness is never destroyed;
+Emptiness does not disintegrate.
+It neither has conditions,
+Nor is it without conditions.
+{{milestone:{label:1.157,id:UT22084-056-004-297}}}“He who revealed peace, so hard to see, 
+Through this profound doctrine—
+The lion of the Śākyas, the best of men,
+The perfect Buddha—is he still here?
+{{milestone:{label:1.158,id:UT22084-056-004-298}}}“The great lion, the elephant
+Who has become pure,
+Whose vision has become flawless,
+Will today pass away between the śāla trees.
+{{milestone:{label:1.159,id:UT22084-056-004-299}}}“He who, like a full moon,
+Gave teachings for so long
+Before the community of monks
+Henceforth shall be seen no more.
+{{milestone:{label:1.160,id:UT22084-056-004-300}}}“He who glorified the monastic assembly
+Like a wealth deity atop a mountain peak,{{note:{index:42,id:UT22084-056-004-301}}}
+The protector, the eloquent teacher,
+Henceforth shall visit the city no more.
+{{milestone:{label:1.161,id:UT22084-056-004-302}}}“Before gods and humans,
+The roar of the protector’s unsurpassed doctrine,
+The melodious speech that brings delight,
+Henceforth shall be heard no more.”
+{{milestone:{label:1.162,id:UT22084-056-004-303}}}As soon as the bodhisattva great being Without Reference had uttered these verses, a hundred thousand people in the great city Vārāṇasī exclaimed, “How is it that this child can remember his past lives as soon as he is born? {{page:{number:21,id:UT22084-056-004-899,folio:F.154.b}}} The eloquence of insight, the fearlessness of insight, and the extraordinary insight with which he has spoken these verses, with their various expressions—with such power of understanding and such fearlessness— is truly amazing! We, too, must surely strive to fully achieve such insight!”
+{{milestone:{label:1.163,id:UT22084-056-004-304}}}Then the child declared to the amassed crowd of people, “Acceptance that all is infinite and boundless, invisible, without reference points, and unborn is to reach irreversibility on the path. It is no ordinary thing; it is equal to the unequaled.”
+They replied, “All of us gathered here will set our minds on unsurpassed, completely perfect awakening!” 
+{{milestone:{label:1.164,id:UT22084-056-004-306}}}The child said to them, “All of you, who have set your minds on unsurpassed, completely perfect awakening, come this way! We have gathered together, now let us travel together to see, pay homage, and serve the Blessed One, the thus-gone, worthy, perfect Buddha.” 
+{{milestone:{label:1.165,id:UT22084-056-004-307}}}Then the bodhisattva great being Without Reference, escorted by an entourage of two hundred thousand creatures, left the great city of Vārāṇasī and journeyed to where the Blessed One was, to pay homage at the feet of the Blessed One.
+{{milestone:{label:1.166,id:UT22084-056-004-308}}}As soon as the Blessed One had lain down on his right side upon the lion couch, at that moment, right then, at that very instant, sixty-four trillion buddha fields away to the north in the world called Puṣpavatī, the buddha field of the thus-gone, worthy, perfect buddha called Resting in the Branches of Awakening, the bodhisattva great being {{page:{number:22,id:UT22084-056-004-900,folio:F.155.a}}} called Flower of Clairvoyance passed away and was reborn in this buddha field of Jambudvīpa, in the great city of Vaiśālī, into the household of the general Siṃha. As soon as the bodhisattva great being Flower of Clairvoyance was born, he spoke up, and he spoke with purpose:
+{{milestone:{label:1.167,id:UT22084-056-004-309}}}“He who liberates
+Millions of afflicted beings,
+Who delights the Śākya clan—
+The perfect Buddha—is he still here?
+{{milestone:{label:1.168,id:UT22084-056-004-310}}}“He who through exertion has crossed to the far shore,
+Who has mastered wisdom, activity, and equipoise,
+That infinite ocean of knowledge—
+The perfect Buddha—is he still here?
+{{milestone:{label:1.169,id:UT22084-056-004-311}}}“He whose mind is at peace, who has found acceptance,
+The Thus-Gone remover of painful thorns
+Who teaches the Dharma to beings
+But does not do so with conceit—
+The perfect Buddha—is he still here?
+{{milestone:{label:1.170,id:UT22084-056-004-312}}}“He who does not abide in the three worlds
+But in his wisdom comprehends 
+The desire, form, and formless realms in their entirety—
+The one who sees—is he still here?”
+{{milestone:{label:1.171,id:UT22084-056-004-313}}}Then the thus-gone one called Resting in the Branches of Awakening manifested in the form of a god, and he spoke to the boy in verse:
+{{milestone:{label:1.172,id:UT22084-056-004-314}}}“Since perfect buddhas live for an eon,
+Or perhaps even more,
+You will see the perfect buddha again,
+So enjoy yourself, child!
+{{milestone:{label:1.173,id:UT22084-056-004-315}}}“This is a royal household,
+So enjoy the greatest of luxuries.
+From the moment you wake, 
+Let lutes and drums, large and small, resound!”
+{{milestone:{label:1.174,id:UT22084-056-004-316}}}Then the child, though he understood that this was none other than the Thus-Gone One, for the sake of generating roots of virtue in those other beings who perceived him as a god, spoke these verses:
+{{milestone:{label:1.175,id:UT22084-056-004-317}}}“Those under the sway of desires
+Are foolish and deluded.
+They know neither the perfect Buddha
+Nor the Buddha’s teachings.
+{{milestone:{label:1.176,id:UT22084-056-004-318}}}“Since the objects of desire are without essence,
+I have no desire to indulge them.
+Desire is like the edge of a razor—
+Who can trust their desires? {{page:{number:23,id:UT22084-056-004-901,folio:F.155.b}}}
+{{milestone:{label:1.177,id:UT22084-056-004-319}}}“Dogs, pigs, and foxes,
+Oxen, asses, and mules,
+Rely on their desires,
+But they do not become buddhas, nor their disciples.
+{{milestone:{label:1.178,id:UT22084-056-004-320}}}“The crippled, the lame, and the blind,
+Idiots, hunchbacks, and dwarves,
+Rely on their desires,
+But they do not become buddhas, nor their disciples.
+{{milestone:{label:1.179,id:UT22084-056-004-321}}}“Bees, beetles, and butterflies,
+Peacocks and cuckoos, too,
+Rely on their desires,
+So I would be no different from them.
+{{milestone:{label:1.180,id:UT22084-056-004-322}}}“Victor,{{note:{index:43,id:UT22084-056-004-323}}} desire is like
+A raging inferno 
+That engulfs the entire world,
+Into which the blind do fall.
+{{milestone:{label:1.181,id:UT22084-056-004-324}}}“Desires are ephemeral and painful,
+So who can rely on them?
+Those who follow their desires
+Do not understand the Dharma.
+{{milestone:{label:1.182,id:UT22084-056-004-325}}}“The buddhas know me
+As one with no interest in desire.
+I know that this being in the form of a god
+Who tests me is a buddha. 
+{{milestone:{label:1.183,id:UT22084-056-004-326}}}“I heard the gods of Sumeru talking
+About the Buddha, the protector. 
+‘In the last watch of the night,’ they said,
+‘The Buddha will pass away.’
+{{milestone:{label:1.184,id:UT22084-056-004-327}}}“All those who wish to behold the sage,
+He who has exhausted all fetters, come along!
+Alas! The teacher is passing into nirvāṇa!
+Let us go and see the Buddha.
+{{milestone:{label:1.185,id:UT22084-056-004-328}}}“Those who are able to see and hear
+The protector, the lion of the Śākyas,
+As he passes into nirvāṇa
+Will reap tremendous virtue.
+{{milestone:{label:1.186,id:UT22084-056-004-329}}}“ ‘Such virtue cannot be accrued 
+Over a billion eons.’ 
+This, Resting in the Branches of Awakening, 
+Is what the well-gone, the best of men has said.
+{{milestone:{label:1.187,id:UT22084-056-004-330}}}“Those who find joy in the teachings—
+Gods, yakṣas, and humans—
+Come quickly with me now,
+To see the renowned and perfect Buddha!”
+{{milestone:{label:1.188,id:UT22084-056-004-331}}}Then the bodhisattva great being Flower of Clairvoyance, escorted by an entourage of many hundreds of thousands of beings who pay homage at the feet of the Blessed One, left the great city of Vaiśālī and journeyed to where the Blessed One was. {{page:{number:24,id:UT22084-056-004-902,folio:F.156.a}}}
+{{milestone:{label:1.189,id:UT22084-056-004-332}}}As soon as the Blessed One had lain down on his right side upon the lion couch, the four boys—neither the same nor not the same, possessed of qualities without a hair’s breadth of difference—arrived from the four directions into the presence of the Blessed One, each escorted by a multitude of beings paying homage with folded hands to the Blessed One.
+{{milestone:{label:1.190,id:UT22084-056-004-333}}}As the four boys came before the Blessed One, a crowd of many hundreds of thousands of people gathered from the villages, cities, markets, surrounding countryside, and royal palaces and welcomed them with folded hands. As they approached, a thick rain of flowers fell over the whole area for about a league in all four directions. As they approached, divine music resounded as the gods played hundreds and thousands of celestial instruments and sang melodious songs. 
+{{milestone:{label:1.191,id:UT22084-056-004-334}}}At that moment, four more well-prepared lion couches sprang up in the four cardinal directions around the thus-gone, worthy, perfect Buddha. Venerable Ānanda then asked the Blessed One in verse:
+{{milestone:{label:1.192,id:UT22084-056-004-335}}}“Why, Blessed One, 
+Have beautiful and well-prepared lion couches
+Sprung up in the four directions 
+Around the omniscient one?”
+{{milestone:{label:1.193,id:UT22084-056-004-336}}}The Blessed One replied to Ānanda, “Ānanda, the boys who have arrived from the four directions—whose faces are like the moon, whose radiance surpasses the sun in suffusing the four continents with light—shine with brilliance in form and majesty. They possess the light of insight, they are diligent, they have realized profound wisdom, they are glorious, intelligent, and well behaved, they are conscientious, modest, realized, discerning, mindful, stable, and insightful, they are skilled in expounding virtuous teachings, {{page:{number:25,id:UT22084-056-004-903,folio:F.156.b}}} and they have fostered roots of virtue with many hundreds of buddhas. They have heard, while in the presence of other blessed buddhas, in other buddha fields, that tonight in the last watch of the night, in the country of the Mallas, between a pair of śāla trees, I, the thus-gone, worthy, perfect Buddha, will pass into complete nirvāṇa that is beyond all limits, the parinirvāṇa that is beyond conception, the parinirvāṇa that is unlike anything in all worlds, the parinirvāṇa that outshines anything in all worlds, the parinirvāṇa that brings benefit and wellness to all worlds, the parinirvāṇa that is hard to comprehend in all worlds, the parinirvāṇa that quells imputations in all worlds. They have heard that I will pass into parinirvāṇa, so they have taken rebirth here, in this world.
+{{milestone:{label:1.194,id:UT22084-056-004-337}}}“Have you seen these four boys who have come here from the four directions to hear my Dharma teachings, whose good qualities are praised and proclaimed in this way? 
+{{milestone:{label:1.195,id:UT22084-056-004-338}}}“Ānanda, the child who came from the east has a good complexion and is bright and handsome. He shines with light and blazes with glory. He is accompanied by many hundreds of thousands of beings and is venerated by a hundred thousand gods. Ānanda, this child who was showered with divine flowers as he came into the presence of the Thus-Gone One was previously a king in the buddha field of the thus-gone, worthy, perfect buddha Siṃhanādeśvara. He was a universal monarch, venerated by gods and humans, who ruled over a thousand worlds. During his reign, he taught gods and humans of the desire realm and propagated the Dharma. When teaching the Dharma to many hundreds of thousands of beings, he caused their roots of virtue to mature, and he was skilled in clairvoyance. {{page:{number:26,id:UT22084-056-004-904,folio:F.157.a}}} He was a master of the Dharma, penetrating in realization and with an eloquence that was infinitely noble, fluent, diverse, fearless, and meaningful. Expert in his knowledge of the Dharma and possessed of perfect wisdom, he served continuously as Dharma king for one hundred eighty million{{note:{index:44,id:UT22084-056-004-339}}} years, without the need for weapons and without harming anyone. Not driven by desire, and not hankering for power, he ruled for the benefit of all beings who were open to liberation. He tamed and trained them so that they were tamed and trained. For one hundred eighty million years, he established eighteen hundred billion beings at the level of irreversibility on the path to awakening. He firmly established both those with the qualities of bodhisattvas and those noble sons who had for the first time generated the mind set on awakening at the level of irreversibility from the certain attainment of unsurpassed, completely perfect awakening.
+{{milestone:{label:1.196,id:UT22084-056-004-340}}}“On another occasion, he shaved his head and facial hair, donned saffron robes, and left his home to live the life of a homeless renunciate. Having thus gone forth, he lived the life of a dedicated, celibate renunciate for eight hundred ten million{{note:{index:45,id:UT22084-056-004-341}}} years, never even lying on a bed, let alone succumbing to dullness or sleep. For the duration of those eight hundred ten million years, he never had a single desirous thought, a single malicious thought, or a single harmful thought. During that whole time, he had no notion of attractiveness or repulsiveness, no notion of being in a monastery or not being in a monastery, and without having a single other unvirtuous thought, he remained focused on just two endeavors. What were the two? To perfect the physical eye with regard to the imperfection of the eye, and to realize the basic reality of the Dharma teachings with no attachment whatsoever.
+{{milestone:{label:1.197,id:UT22084-056-004-342}}}“Moreover, for the duration of those eight hundred ten million years, he never entertained the notion of earth, {{page:{number:27,id:UT22084-056-004-905,folio:F.157.b}}} the notion of water, the notion of fire, the notion of wind, the notion of space, the notion of consciousness, the notion of woman, the notion of man, the notion of hunger, the notion of thirst, the notion of villages, the notion of wilderness, the notion of cities, the notion of market towns, the notion of disharmony, the notion of harmony, the notion of isolation, the notion of meditation, the notion of self, the notion of other, the notion of form, the notion of formlessness, the notion of end, the notion of middle, the notion of beginning, the notion of ceasing, the notion of less, or the notion of more. Nor did he entertain any other notions. Apart from the teachings of the Bodhisattva Collection, no conceptual notions occurred to him at all. 
+{{milestone:{label:1.198,id:UT22084-056-004-343}}}During that time, the bodhisattva ripened eighty billion beings for unsurpassed, completely perfect awakening, all of whom, by generating the mind set on awakening for the first time, became certain to reach unsurpassed, completely perfect awakening and who, in order to see, revere, and serve blessed buddhas residing in various other buddha fields, were able to travel instantaneously between worlds and buddha fields even when they were not next to one another.{{note:{index:46,id:UT22084-056-004-344}}}
+{{milestone:{label:1.199,id:UT22084-056-004-345}}}“And all the blessed buddhas residing in all those buddha fields are thus: Just as I, the Thus-Gone One called Śākyamuni, am alone, all of them are alone in arising in those worlds beset by the five degenerations. And all those blessed buddhas will at the same moment, the same instant, {{page:{number:28,id:UT22084-056-004-906,folio:F.158.a}}} pass into the great parinirvāṇa, having manifestly lain down on their right sides, upon a lion couch. Tonight, in the last watch of the night, between a pair of śāla trees in the country of the Mallas, all those blessed buddhas will pass into parinirvāṇa. 
+{{milestone:{label:1.200,id:UT22084-056-004-346}}}“Ānanda, with my unimpeded eye of flesh, I know that which is not understood by all disciples and solitary buddhas. I know that which is beyond their scope and that which they cannot fathom—what I know is limitless. Ānanda, in order for those who listen to this prophetic teaching—whether they are monks, nuns, laymen, or laywomen—to attain the wisdom of buddhahood and perfect omniscient wisdom, they must develop faith in the omniscience of my eye of flesh. If they can develop this for a single instant, the very moment such a mind is generated they will attain great stores of merit, and these will then greatly increase to become boundless and innumerable stores of merit. 
+{{milestone:{label:1.201,id:UT22084-056-004-347}}}“Ānanda, even for noble sons and daughters who have directly served, respected, honored, venerated, and supplicated eighty billion buddhas with all kinds of pleasing articles for eighteen billion years, if they have not generated the mind set on awakening and have not made this aspiration, they will not gain as much merit as those aforementioned noble sons, nor will their stores of merit increase in the same way.
+{{milestone:{label:1.202,id:UT22084-056-004-348}}}“Ānanda, with this teaching of mine, this child will benefit beings day and night in ways that Śāriputra, Maudgalyāyana, and my other disciples have not benefited beings with this teaching of mine. Ānanda, even if you were to live for an eon, doing nothing other than teaching the Dharma day and night to beings with total commitment, {{page:{number:29,id:UT22084-056-004-907,folio:F.158.b}}} even if you were to do that, you would not be able to convey this teaching as much as this child does, nor convey it as well.
+{{milestone:{label:1.203,id:UT22084-056-004-349}}}“So Ānanda, this is a child of limitless good qualities. He really benefits beings, he loves beings, he is of great help to beings, and he regards beings with equanimity. His limitless good qualities are inconceivable.
+{{milestone:{label:1.204,id:UT22084-056-004-350}}}“Ānanda, did you see the child arriving from the south, like the sun rising in autumn, like the immense disk of the full moon rising, striking his staff made of various precious substances upon the great earth? As it strikes the earth his staff makes such a sound as if it were made from precious Magadhan materials,{{note:{index:47,id:UT22084-056-004-351}}} or from gold or silver. It is perfectly made, beautifully polished, completely smooth, spotless, without dents or smudges, perfectly clean, free of dust and grease, made as an object with many uses, of the highest quality, replete with the five points, free of the ten points, and devoid of the twelve faults.{{note:{index:48,id:UT22084-056-004-352}}} Its physical form examined a thousand times,{{note:{index:49,id:UT22084-056-004-353}}} its gold and silver are faultless, very pure, and from a good source. Very fine, it was fashioned with a hundred types of special gold. Straight and solid, it was skillfully smelted by a thousand craftsmen expert in the eight qualities.{{note:{index:50,id:UT22084-056-004-354}}} Free of all defects, its sound is such that it could quell any suffering. Ānanda, these are mere examples, mere illustrations, to show what the sound was like when the child struck the earth with his staff made from various precious substances.
+{{milestone:{label:1.205,id:UT22084-056-004-355}}}“Ānanda, this child called Thoroughly at Peace is a bodhisattva great being {{page:{number:30,id:UT22084-056-004-908,folio:F.159.a}}} who has come from the south, from the world called Ratnavyūha in the buddha field of the thus-gone, worthy, perfect buddha called Beautiful Heap of Jewels. Ānanda, what do you think? Why is that world called Ratnavyūha? Ānanda, in that world there is no mention of beings being mistaken or being correct. Ānanda, every being there is fearless and sure to reach completely perfect awakening. Ānanda, that buddha field is a realm of bodhisattvas only, where there is no mention of being a man or a woman. Ānanda, all beings there are celibate, clean, without bad odor, and pure in thought. They do not engage in sexual intercourse; indeed there is no concept of sex in that world.
+{{milestone:{label:1.206,id:UT22084-056-004-356}}}“No nonvirtuous thoughts occur to beings in that buddha field, and there is no notion of food apart from the two types of sustenance. What are the two? The sustenance of meditative equipoise achieved through wisdom, and the sustenance that comes through perfectly explaining the Buddha’s Dharma. Ānanda, in that buddha field there are no teachings of the two categories and the three vehicles,{{note:{index:51,id:UT22084-056-004-357}}} only the body of teachings on omniscient wisdom and the vast discourses of the Bodhisattva Collection. Ānanda, it is because of those discourses that this realm is called Ratnavyūha.
+{{milestone:{label:1.207,id:UT22084-056-004-358}}}“Ānanda, those bodhisattvas from other worlds who are reborn in that buddha field will, immediately upon taking birth there, have clairvoyance of all the buddha fields. In that very moment, right then, at that instant, {{page:{number:31,id:UT22084-056-004-909,folio:F.159.b}}} they will also perceive the buddha who appears in that buddha field.
+{{milestone:{label:1.208,id:UT22084-056-004-359}}}“Ānanda, the Thus-Gone Beautiful Heap of Jewels teaches those countless billions of bodhisattvas with omniscience and without narrative digression,{{note:{index:52,id:UT22084-056-004-360}}} that is to say, he perfectly teaches them the vast corpus of the Bodhisattva Collection.
+{{milestone:{label:1.209,id:UT22084-056-004-361}}}“Ānanda, if I were to describe the special qualities of each bodhisattva great being there in that world and the praises suitable to each, the aspiration prayer composed for that buddha field would not be complete even after a thousand eons. So, Ānanda, I can do no more than speak the name of that realm from which the bodhisattva great being Thoroughly at Peace has come. 
+{{milestone:{label:1.210,id:UT22084-056-004-362}}}“Ānanda, the bodhisattva great being Thoroughly at Peace has come here to see me pass into parinirvāṇa, to instill disenchantment in many beings, to make the name and the qualities of that world well known, and to sing the praises of that thus-gone one. He has come to this buddha field to proclaim the greatness and the pure qualities of those exceptional beings who follow the bodhisattva vehicle, so that countless beings in this buddha field will uphold the sublime Dharma, so that bodhisattvas in the future will be thoroughly happy, and to instill complete faith.
+{{milestone:{label:1.211,id:UT22084-056-004-363}}}“Ānanda, in the past, when the thus-gone Dīpaṅkara appeared in the world, this child was born as the universal monarch named Ajātaśatru, and he trained in the practice of a bodhisattva. Ānanda, at that time, the universal monarch Ajātaśatru taught the Dharma to many millions of beings, causing their roots of virtue to mature. In a single morning, even before the sun rose, he had established three hundred sixty million beings at the level of irreversibility on the path to unsurpassed, completely perfect awakening, {{page:{number:32,id:UT22084-056-004-910,folio:F.160.a}}} so that they were faultless and reached acceptance of the unborn nature of phenomena. After the thus-gone, worthy, perfect Buddha Dīpaṅkara’s parinirvāṇa, the faithful Ajātaśatru renounced his home and went forth to live a life of homelessness. For a full thousand years after he went forth as a renunciate, he turned the wheel of the Dharma in accordance with the Blessed Dīpaṅkara’s teachings. He benefited countless beings. On the final day, as the sun was setting, he ripened sixty million beings in the state of unsurpassed, completely perfect awakening. When the sun set that day, seventy billion beings had reached the level of the exhaustion of defilements, not to mention those disciples established at the level of seeing and the level of cultivation. 
+{{milestone:{label:1.212,id:UT22084-056-004-364}}}“Ānanda, if, with awakened wisdom, I were to speak of the many praises of the bodhisattva great being Thoroughly at Peace and the benefits this child has brought to each and every being, I would not reach the end even after many thousands of eons. 
+{{milestone:{label:1.213,id:UT22084-056-004-365}}}“Ānanda, arrange before me a seat for the noble son Thoroughly at Peace, and it will bring you great merit, Ānanda. To those who hear the name of the bodhisattva great being Thoroughly at Peace, he is a buddha.
+{{milestone:{label:1.214,id:UT22084-056-004-366}}}“Ānanda, I prophesy that, aside from those with the particular aspirations of bodhisattva great beings, anyone who upon receiving this extensive and authoritative Dharma instruction that is rich in qualities develops even for an instant the faithful intention to look upon and venerate and serve the blessed, thus-gone, worthy, perfect Buddha Beautiful Heap of Jewels and listen to his sublime Dharma will, because, Ānanda, this is a common teaching, certainly be reborn in that buddha field and look upon that blessed one and listen to his sublime Dharma and see the bodhisattva great beings of that buddha field. {{page:{number:33,id:UT22084-056-004-911,folio:F.160.b}}}. Ānanda, those beings who have directly heard with their faculty of hearing this extensive and authoritative Dharma instruction that is rich in qualities will be very fortunate; they will be immensely fortunate. It goes without saying that anyone who has heard it will have faith.
+{{milestone:{label:1.215,id:UT22084-056-004-367}}}“So, Ānanda, occasions such as these, occasions for Dharma teachings such as this, must be guarded well and remembered faithfully. Why? Because, Ānanda, discourses like this have never before been heard by the people of Jambudvīpa, nor by those displaying the form of bodhisattvas, nor by those who renounce the sublime Dharma, though you should not set eyes on those who renounce the Dharma.
+{{milestone:{label:1.216,id:UT22084-056-004-368}}}“Ānanda, did you see the storied mansion of various precious substances that arrived in the sky from the west?”
+“Yes indeed, Blessed One.”
+{{milestone:{label:1.217,id:UT22084-056-004-370}}}“Ānanda, did you see the child coming here from the west to tame beings, reveling in his magical power, making this great earth shake on both sides, making it shake a lot, making it tremble and tremble a lot, and making it shudder and shudder a lot—making the earth quake so terrifyingly that everyone’s hair stood on end in alarm?” 
+“Yes indeed, Blessed One. Yes indeed, Well-Gone One. Blessed One, I saw the child arriving, displaying his magical power.”
+{{milestone:{label:1.218,id:UT22084-056-004-372}}}“Ānanda, was it in front of this noble son that the storied mansion of various precious substances arrived, spreading all kinds of scents from his buddha realm everywhere?”
+“Yes indeed, Blessed One.”
+{{milestone:{label:1.219,id:UT22084-056-004-374}}}“Ānanda, it was by the power of this noble son’s wisdom that those scents wafted from the precious storied mansion. {{page:{number:34,id:UT22084-056-004-912,folio:F.161.a}}} Did you hear, Ānanda, the four sounds coming from it: the sounds ‘emptiness,’ ‘unreal,’ ‘peace,’ and ‘awakened’?” 
+“Yes indeed, Blessed One.”
+{{milestone:{label:1.220,id:UT22084-056-004-376}}}“Ānanda, these sounds come from the pores of this child. Ānanda, these sounds have brought benefit to the sixty-eight billion beings who heard them. The minds of many beings of the chiliocosm have been liberated from defilements with no more grasping, and, Ānanda, ten million bodhisattvas, hearing the sound ‘awakened’ alone, entered with certainty the level of irreversibility on the path to unsurpassed, completely perfect awakening, and among the beings of this buddha field, too, with its gods and humans, a hundred thousand billion gods and humans were settled with certainty at the level of irreversibility on the path to unsurpassed, completely perfect awakening.
+{{milestone:{label:1.221,id:UT22084-056-004-377}}}“Ānanda, in order to see me, the Thus-Gone One, passing into nirvāṇa, this noble son has come to this buddha field from the west, from the world called Joy in the buddha field of the thus-gone, worthy, perfect buddha Lord of Joy. Ānanda, since this noble son arrived here in this buddha field, he has benefited countless beings, he has performed awakened activities, and he has turned the wheel of Dharma. Ānanda, over the span of countless eons up to now, sounds have been emerging from the pores of this noble son: the word ‘emptiness,’ the word ‘unreal,’ the word ‘peace,’ and the word ‘awakened.’ Each of these sounds has brought benefit to countless beings.”
+{{milestone:{label:1.222,id:UT22084-056-004-378}}}Ānanda then asked, “Blessed One, what roots of virtue did this noble son gather so that such sounds would emerge from his pores in this way?” {{page:{number:35,id:UT22084-056-004-913,folio:F.161.b}}}
+{{milestone:{label:1.223,id:UT22084-056-004-379}}}The Blessed One replied, “Ānanda, in a former time, a thus-gone, worthy, perfect buddha named Flawless Eye—a blessed buddha, perfect in wisdom and conduct, a well-gone one, a knower of the world, a guide who tames beings, an unsurpassed teacher of gods and humans—appeared in the world. This noble son attended his discourses as a monk called Delighting in Wisdom. In the presence of that thus-gone one, he heard words of wisdom, words difficult to understand, words that reveal meaning. He learned that all phenomena are without arising and without ceasing, that all phenomena are unreal, that all phenomena are by nature at peace, and that all buddhas attain the same awakening. After he heard this, for seven days, without any slackening of effort, he tirelessly thought of nothing else, and he physically inculcated those four statements, keeping them firm in his mind, considering them attentively, reciting them, and examining them well. Seeing their truth, he attained great realization.
+{{milestone:{label:1.224,id:UT22084-056-004-380}}}“Ānanda, with these four meaningful statements, that monk engaged with the Dharma that has been taught by countless millions of buddhas. Once he had memorized and understood them, he felt great kindness toward beings, and traveling through villages, cities, market towns, and countryside, he eventually arrived at the king’s palace to teach the Dharma.
+{{milestone:{label:1.225,id:UT22084-056-004-381}}}“Ānanda, at that time, the karma of the preacher-monk Delighting in Wisdom came to fruition, and because of his physical inculcation, extensive learning, and six years of sincerely teaching the Dharma, thereafter, and for countless eons up until now, sounds have been magically emitting from his pores, and the four Dharma words that resound from his body and bring benefit to many beings are these: ‘empty,’ ‘unreal,’ ‘peace,’ {{page:{number:36,id:UT22084-056-004-914,folio:F.162.a}}} and ‘awakened.’ Ānanda, this is why for countless eons until now these four Dharma words have come to emerge from this child’s pores.
+{{milestone:{label:1.226,id:UT22084-056-004-382}}}“Ānanda, those beings of Jambudvīpa who merely hear the name of the bodhisattva great being Without Reference will be very fortunate, immensely fortunate—not to mention those who hear his Dharma teachings. Ānanda, those gods and humans, both male and female, who upon hearing the name of the bodhisattva great being Without Reference develop faith will, as soon as they hear it, gain inconceivably numerous good qualities—not to mention those who actually see him with their physical eyes. Why? Because, Ānanda, the bodhisattva great being Without Reference has attained the boundless good qualities of the bodhisattva stages.
+{{milestone:{label:1.227,id:UT22084-056-004-383}}}“Ānanda, the bodhisattva great being Without Reference has come here because he wishes to see me, the Thus-Gone One, passing into parinirvāṇa. So, Ānanda, set out a seat before the Thus-Gone One for the bodhisattva great being Without Reference to sit upon. By doing so, you will experience benefit and happiness for a long time, and you will swiftly gain the higher perceptions. Ānanda, as the karmic fruition of the act of setting out his seat, you will easily remain in absorption, and the instant you generate to the mind set on awakening, you will attain the realization of the noble state of arhatship, with the quality of being uninterested in material things.{{note:{index:53,id:UT22084-056-004-384}}}
+{{milestone:{label:1.228,id:UT22084-056-004-385}}}“Ānanda, if you were not settled with certainty at the level of a hearer, I would prophesy that you would also acquire the qualities of a buddha, based on the roots of virtue of the branches of unsurpassed, completely perfect awakening. Why? Because, Ānanda, any monk or nun, {{page:{number:37,id:UT22084-056-004-915,folio:F.162.b}}} any lay devotee, male or female, any god, nāga, yakṣa, gandharva, asura, garuḍa, kinnara, mahoraga, human, or nonhuman, or any other type of being who hears this prophetic teaching on peace will develop great faith. 
+{{milestone:{label:1.229,id:UT22084-056-004-386}}}“Ānanda, those who wish to hear this prophetic teaching on peace should arrange Dharma seats for thus-gone ones or their disciples, wherever they may be, to expound this teaching that explains peace. Ānanda, as soon as such a seat is set out for them, they will become those who assume the ten wondrous seats. What are the ten? They are (1) the seat of the universal monarch; (2) the seat of Śakra; (3) the seat of Brahmā; (4) the seat of Prajāpati; (5) the seat upon which a long succession of thus-gone ones have taught; (6) the lion throne upon which the empowered bodhisattva great being takes the seat of awakening, having gone before the Bodhi tree; (7) the unsurpassable seat of a buddha who has realized omniscient wisdom; (8) the unsurpassable wheel-turning throne upon which the wheel of Dharma is turned; (9) the lion throne of unsurpassable miracles, constructed by ten billion gods when a thus-gone one displays miracles, that transcends and outshines all worlds; and (10) the final seat of a thus-gone one, upon which, at the time of passing into parinirvāṇa, a thus-gone, worthy, and completely perfect buddha, having fully pacified all formations, sits in vajra-like absorption and instills serene confidence in gods, nāgas, yakṣas, gandharvas, kinnaras, mahoragas, asuras, garuḍas, humans, and nonhumans. 
+{{milestone:{label:1.230,id:UT22084-056-004-387}}}“Ānanda, know that they will assume those ten lion thrones. {{page:{number:38,id:UT22084-056-004-916,folio:F.163.a}}} Ānanda, when a thus-gone one or the disciple of a thus-gone one is to expound this prophetic teaching on peace, any noble son or noble daughter who, with respect and pure intention toward the Dharma teacher, makes preparations for the teaching with joy, faith, and respect will also come to assume those ten lion thrones. Ānanda, press your palms together in the direction of the noble son Without Reference, and it will bring you meaning, welfare, and happiness, through which you will come to have great merit and swiftly gain the higher perceptions.”
+{{milestone:{label:1.231,id:UT22084-056-004-388}}}Venerable Ānanda then arranged a Dharma seat for the noble son Without Reference, and with sincere faith, respect, and devotion, he bowed with folded hands toward the bodhisattva Without Reference and spoke these verses:
+{{milestone:{label:1.232,id:UT22084-056-004-389}}}“Without Reference, heroic elephant, 
+Mighty being, gentle and imperturbable,
+You shine with the light of great insight; 
+I bow to you with folded hands.
+{{milestone:{label:1.233,id:UT22084-056-004-390}}}“Source of wisdom and diligence, 
+Imperturbable in your massed insight,
+To this peerless support, 
+I bow today with folded hands.”
+{{milestone:{label:1.233,id:UT22084-056-004-390}}}The Blessed One then said in verse to Venerable Ānanda:
+{{milestone:{label:1.234,id:UT22084-056-004-392}}}“Son of Gautama, I shall now tell 
+The karmic result
+Of pressing your palms together 
+In veneration for Without Reference.
+{{milestone:{label:1.235,id:UT22084-056-004-393}}}“Ānanda, once I have passed into parinirvāṇa, as the karmic result of pressing your palms together, you will act as a teacher of disciples in villages, cities, and market towns, in the countryside, and in kings’ palaces, and in all your activities—whether you are entering, leaving, standing, walking, lying down, or sitting—both beings with sentience and inanimate things in this world—{{page:{number:39,id:UT22084-056-004-917,folio:F.163.b}}} men and women, goddesses, carakas, parivrājakas, ascetics, brahmins, kings, ministers, royal ministers and the resident staff of royal ministers,{{note:{index:54,id:UT22084-056-004-394}}} merchants, city folk and country folk, householders, and every other type of person—will bow in your direction. Likewise, animals of every station—elephants, horses, deer, cows, and birds—will be filled with faith upon seeing you. And, likewise, grass and shrubs, medicinal plants, canopy trees, flowering trees, and fruit trees will bend in your direction. Likewise, even houses and towering palaces, storied mansions, and fine houses, even parapets, windows, and dismounting steps, will bow in your direction, overcome by the splendor of your merit.
+{{milestone:{label:1.236,id:UT22084-056-004-395}}}“Ānanda, just as whenever a thus-gone, worthy, completely perfect buddha attains complete liberation, free of all obscuration—when he awakens to complete, unsurpassed buddhahood—all the grass, shrubs, medicinal plants, canopy trees, flowering trees, and fruit trees in the vicinity of the seat of awakening do as has just been described, and like humans and nonhumans alike will bow in the direction of the thus-gone one, in the same way, Ānanda, because of the root of virtue of having bowed with folded hands to the noble son Without Reference, humans, nonhumans, and all types of plants will bow in your direction, wherever you are, bowing low, really bowing down. 
+{{milestone:{label:1.237,id:UT22084-056-004-396}}}“Ānanda, any noble sons or daughters present now who have heard this teaching as the Thus-Gone One passes into parinirvāṇa, {{page:{number:40,id:UT22084-056-004-918,folio:F.164.a}}} who press their palms together with sincerity and faithfully consider it certain, will fully receive karmic results like those I have just described. 
+{{milestone:{label:1.238,id:UT22084-056-004-397}}}“Ānanda, although those beings who hear this Dharma teaching in this way or hear the sūtra even once or twice may be few, any who hear it will develop faith and sincere devotion, will consider it certain, will have correct ideas about it, and will be without hesitation, not to mention being free of doubt. I see all those noble sons and noble daughters with my awakened vision and know them with my awakened wisdom. They have not venerated just a single buddha, nor have they generated roots of virtue toward a single buddha. All noble sons and noble daughters, like those actually gathered around me here and now who have come to witness my passing into parinirvāṇa, Ānanda, will also later come to the seat of awakening of the thus-gone, worthy, perfect Buddha Maitreya, and they will sincerely worship and venerate him from the time of his unsurpassed, completely perfect awakening in complete buddhahood until his passing into parinirvāṇa. So will they also witness the great parinirvāṇa of the thus-gone, worthy, perfect Buddha Maitreya. 
+{{milestone:{label:1.239,id:UT22084-056-004-398}}}“These four boys will also come before that thus-gone one, see him, and listen to the Dharma he teaches—just as they are doing in my presence now. At that time, too, Dharma words will resound loudly, for all to hear, from the pores of the bodhisattva great being {{page:{number:41,id:UT22084-056-004-919,folio:F.164.b}}} Without Reference, to the delight of those that hear them. 
+{{milestone:{label:1.240,id:UT22084-056-004-399}}}“So Ānanda, you should bow with folded hands again and again to those who expound sūtras of definitive meaning such as this, and you should have faith. Why? Because, Ānanda, as the karmic result of this, you will come to be venerated by all beings. The whole world with its gods will bow before you, and when you pass into parinirvāṇa, gods and humans alike will worship your body.”
+{{milestone:{label:1.241,id:UT22084-056-004-400}}}The Blessed One then asked Venerable Aniruddha, “Aniruddha, did you see four hundred million gods bowing with folded hands in the midst of the sky when they heard this Dharma discourse?”
+“Yes indeed, Blessed One.”
+{{milestone:{label:1.242,id:UT22084-056-004-402}}} “Aniruddha, by the roots of virtue gained by pressing their palms together with faith in the Dharma and bowing their bodies low with faith, they will not fall into bad rebirth for countless eons but will be reborn in the company of gods and humans. When reborn as humans, each of them will reign as a universal monarch with domains as numerous as the grains of sand in the river Gaṅgā, and all will pay respects to the buddha who has appeared in their world. They will then perfect the roots of virtue and fully awaken to unsurpassed and perfect awakening. All will be thus: they will be none other than thus-gone ones, fit to be called by the name Worthy of Bowing{{note:{index:55,id:UT22084-056-004-403}}} by all thus-gone, worthy, perfectly buddhas that appear.”
+{{milestone:{label:1.243,id:UT22084-056-004-404}}}At this time, the Malla called Joyful, the Malla called Invincible, the Mallas Mighty, Resplendent, Victorious God, Ascending on Shoulders, Intelligent, Fearless, Riches, Truth, {{page:{number:42,id:UT22084-056-004-920,folio:F.165.a}}} and Mighty Eye of the North, and the Malla called All-Enduring,{{note:{index:56,id:UT22084-056-004-405}}} with an entourage of about five hundred, joined those assembled and worshiped the Thus-Gone One. They bowed with folded hands toward the Blessed One and wept. Lamenting, their eyes full of tears, they supplicated the Blessed One: “Blessed One, to venerate the Blessed One, the bodhisattva Without Reference, the assembled bodhisattvas, the great saṅgha of the Blessed One’s great disciples, and this Dharma teaching, we bow with folded hands. Blessed One, we dedicate all our roots of virtue to the attainment of unsurpassed, completely perfect awakening.”
+{{milestone:{label:1.244,id:UT22084-056-004-406}}}Then, at that moment, the Blessed One smiled. And as is the case whenever blessed buddhas smile, streams of multicolored light—blue, yellow, red, white, crimson, crystalline, and silver—came from the Blessed One’s mouth. This light illuminated countless world systems, spreading all the way up to the highest reaches of the Brahmā realms, and then returned, circled the Blessed One three times, and vanished into the crown of his head.
+Venerable Ānanda saw this, and he entreated the Blessed One in verse:
+{{milestone:{label:1.245,id:UT22084-056-004-408}}}“For what reason do you smile,
+Thus illuminating the world?
+Please dispel my doubts
+And those of other beings!”
+{{milestone:{label:1.246,id:UT22084-056-004-409}}}The Blessed One replied, “Ānanda, did you see those Malla sons who with sincere reverence bowed with folded hands to me, to the bodhisattva great being Without Reference, {{page:{number:43,id:UT22084-056-004-921,folio:F.165.b}}} and to the teachings of this discourse and generated the mind set on complete, unsurpassed awakening?”
+“I saw them, Blessed One,” replied Ānanda.
+{{milestone:{label:1.247,id:UT22084-056-004-411}}}The Blessed One continued, “Ānanda, those Malla sons will not fall into the lower realms of rebirth for countless millions of eons, and later they will fully awaken in unsurpassed, completely perfect awakening.”
+The Blessed One then spoke these verses:
+{{milestone:{label:1.248,id:UT22084-056-004-413}}}“Those Malla sons have come here
+With joy and delight
+And bowed with folded hands—
+Did you not see, Ānanda?
+{{milestone:{label:1.249,id:UT22084-056-004-414}}}“All these wise ones
+Have made offerings to me,
+And they joyfully speak 
+Of attaining supreme awakening.
+{{milestone:{label:1.250,id:UT22084-056-004-415}}}“With faith in the Dharma,
+In the insightful Without Reference,
+And in the community of disciples,
+They have pressed their palms together.
+{{milestone:{label:1.251,id:UT22084-056-004-416}}}“Through this act of joining their hands
+And bowing their bodies,
+They will not fall into lower realms
+For countless millions of eons,
+{{milestone:{label:1.252,id:UT22084-056-004-417}}}“And it is certain that in the future
+They will reach perfect awakening.
+Were I to describe their abundance
+For a billion eons,
+{{milestone:{label:1.253,id:UT22084-056-004-418}}}“The activities of their sublime conduct
+Could not be enumerated.
+Even over millions of eons,
+The task would not easily be completed.
+{{milestone:{label:1.253,id:UT22084-056-004-418}}}“Ānanda, the last watch of this night will be the last time you see me, the Awakened One.
+{{milestone:{label:1.254,id:UT22084-056-004-420}}}“Ānanda, did you see that great shaft of golden light that came from the north? Did you see how its brilliance illuminated the entire north, all at once, with its golden color—all the grass, bushes, and shrubs, the vegetation, trees, and medicinal plants, the forests, mountains, and plains, the mansions, houses, palaces, and manors, the humans and nonhumans, the sky, {{page:{number:44,id:UT22084-056-004-922,folio:F.166.a}}} and the entire space?”
+“Yes indeed, Blessed One,” he replied.
+{{milestone:{label:1.255,id:UT22084-056-004-422}}}“Ānanda, did you see the seven storied mansions made from Jambu River gold that arrived from the north? And did you see a beautiful, splendid, and magnificent child sitting cross-legged in the middle storied mansion?”
+“Yes indeed, Blessed One,” he replied. 
+{{milestone:{label:1.256,id:UT22084-056-004-424}}}“Ānanda, this child is called Flower of Clairvoyance. Sixty-four trillion buddha fields north of here, in the buddha field of the thus-gone, worthy, perfect buddha called Resting in the Branches of Awakening, he died in Puṣpavatī and was reborn here, in this world. Ānanda, the sounds of the words of the branches of awakening come from that world. There, the sounds of the words of the branches of awakening resound from every blade of grass, from every bush, shrub, tree, medicinal plant, and forest. Those sounds ripen the virtuous qualities of beings. Ānanda, the Thus-Gone One Branches of Awakening has been sustained there for sixty-four thousand eons since his attainment of perfect buddhahood in unsurpassed, completely perfect awakening. With that thus-gone one there are no hearers, only bodhisattvas. 
+{{milestone:{label:1.257,id:UT22084-056-004-425}}}“Ānanda, it is like this: when, to give an analogy, a crown-anointed king of a royal line has many sons, his ministers are also his sons, his ministerial advisors are also his sons, his closest attendants{{note:{index:57,id:UT22084-056-004-426}}} are also his sons, and vassal kings are also his sons. Likewise, the sons of that blessed one are bodhisattvas, {{page:{number:45,id:UT22084-056-004-923,folio:F.166.b}}} the ministers are also bodhisattvas, the ministerial advisors are also bodhisattvas, the closest attendants are bodhisattvas, and everyone in his service is a bodhisattva. So his Saṅgha{{note:{index:58,id:UT22084-056-004-427}}} consists of nothing but bodhisattvas. So, Ānanda, that world is rich, prosperous, and happy, with good crops and full of joyous creatures and many people, and the bodhisattvas assembled there have the exalted higher perceptions. Only bodhisattvas—with the boundless qualities of bodhisattvas—live there, in accordance with their age, settling in deep absorption, ascending by stages to the summit of insight, correctly accumulating wisdom, earnestly developing the mind set on awakening, and striving to realize omniscient wisdom. Ānanda, such is the world from which this noble son, the bodhisattva Flower of Clairvoyance, came to take birth in this world of Jambudvīpa, in Vaiśālī—from a world filled with nothing but bodhisattva great beings.
+{{milestone:{label:1.258,id:UT22084-056-004-428}}}“Ānanda, the miracles displayed by this noble son as he came here to bow at my, the Thus-Gone One’s, feet and to witness my, the Thus-Gone One’s, passing into great parinirvāṇa, this great apparition, Ānanda, comes from the power of that thus-gone, worthy, completely perfect buddha. Ānanda, the seven storied mansions made of Jambu River gold emanated by that blessed one illustrate the seven branches of awakening. 
+{{milestone:{label:1.259,id:UT22084-056-004-429}}}“Ānanda, this child is accompanied in Jambudvīpa by many trillions of beings who have cultivated roots of virtue. As soon as this child was born in Jambudvīpa, gods and humans were joyful, and as they experienced the greatest elation, {{page:{number:46,id:UT22084-056-004-924,folio:F.167.a}}} some among them exhausted their defilements, while others were established at the level of training. Some who had never before generated it generated the mind set on unsurpassed, completely perfect awakening, and some, as soon as they generated the mind set on awakening, gained acceptance of irreversibility. 
+{{milestone:{label:1.260,id:UT22084-056-004-430}}}“Ānanda, the central storied mansion emitting light, in which this child was sitting cross-legged, was emanated by that thus-gone one, and the other six lavish storied mansions came from that. Ānanda, in this way, that thus-gone one and the bodhisattva great being Flower of Clairvoyance were able to suffuse this entire world system with light. By correctly upholding the Dharma, look at the power they have to benefit countless beings!”
+{{milestone:{label:1.261,id:UT22084-056-004-431}}}All the boys then gathered together and rejoiced, surrounded by many hundreds of thousands of beings as they touched the feet of the Blessed One, immediately causing a rain of many kinds of flowers to fall. 
+{{milestone:{label:1.262,id:UT22084-056-004-432}}}The Blessed One then said to Venerable Ānanda, “Due to the bodhisattva great being Flower of Clairvoyance’s magical emanation of storied mansions made of Jambu River gold, millions upon billions of beings have been tamed into the state of arhatship; millions upon billions of beings have been tamed to the level of training; a billion beings have gained faith in the Three Jewels and have committed to the five basic precepts; seventy million one hundred gods have been firmly established in awakening with certainty in their irreversibility on the path to unsurpassed, completely perfect awakening; seventy million gods have been firmly established in acceptance of the unborn nature of phenomena; and countless millions upon billions of beings have seen Maitreya’s assembly and later, when fully matured, will see and meet Maitreya. {{page:{number:47,id:UT22084-056-004-925,folio:F.167.b}}}
+{{milestone:{label:1.263,id:UT22084-056-004-433}}}“Ānanda, whatever a thus-gone one can do for the benefit of beings and whatever a thus-gone one’s heart sons, the bodhisattva great beings, can do for the benefit of beings has already been done by me and by these ones. Whatever I can do for the benefit of beings, I have already done.” 
+{{milestone:{label:1.264,id:UT22084-056-004-434}}}Venerable Ānanda then entreated the Blessed One, “Blessed One, for the love of beings, please stay for an eon, or for more than an eon! Why? Because if the blessed, thus-gone, worthy, perfect Buddha were to remain in this world, we would continue to see sublime beings like these. If virtuous beings such as these come to Jambudvīpa and we look upon such sublime beings, we will have the opportunity to serve them. Discourses like this one will proliferate in the world, extensive discourses of the Buddha’s Dharma such as this will be heard, and we will witness various miraculous manifestations such as those displayed by these blessed ones and noble sons. If the Thus-Gone One passes into parinirvāṇa, we will surely lose three great things. What three? Looking upon the Buddha, hearing his sublime Dharma, and looking upon and serving a sublime being such as this, inclined toward the vast. These will be lost. That is why!”
+{{milestone:{label:1.265,id:UT22084-056-004-435}}}After he had spoken these words, Venerable Ānanda thought, “I will very soon be separated from my spiritual mentor,” and he wept. {{page:{number:48,id:UT22084-056-004-926,folio:F.168.a}}} Lamenting and sobbing, he threw himself on the ground, falling like a felled tree. 
+{{milestone:{label:1.266,id:UT22084-056-004-1435}}}The bodhisattva great being Sucintitārtha then spoke to Venerable Ānanda in verse:
+{{milestone:{label:1.267,id:UT22084-056-004-437}}}“You do not seem to have understood the point
+Of composite things being impermanent!
+Since everything composite is impermanent,
+Do not grieve, Ānanda!
+{{milestone:{label:1.268,id:UT22084-056-004-438}}}“Examination shows that there are only composite things—
+You have not even understood that!
+Phenomena are empty, Ānanda,
+So why do you grieve?
+{{milestone:{label:1.269,id:UT22084-056-004-439}}}“Examination shows that knowledge is empty
+And that awakening is empty of all knowledge.
+If the buddha cannot be found,
+Why do you grieve, Ānanda?
+{{milestone:{label:1.270,id:UT22084-056-004-440}}}“Since things are like the sky,
+Or like reflections on water,
+They are unanalyzable, nonconceptual—
+So do not conceptualize, wise one!
+{{milestone:{label:1.271,id:UT22084-056-004-441}}}“Like the delightful conjurations of a skilled magician—
+Carriages pulled by horses and elephants,
+Hosts of creatures, and all manner of plants,
+Flowers, and fruits—
+{{milestone:{label:1.272,id:UT22084-056-004-442}}}“So, too, are all composite things, 
+Like these illusions, without essence.
+The Buddha and his disciples are no different;
+Such is the way things are.”
+{{milestone:{label:1.272,id:UT22084-056-004-442}}}Venerable Ānanda then replied in verse to the noble son Sucintitārtha:
+{{milestone:{label:1.273,id:UT22084-056-004-444}}}“It is just as you have said:
+All phenomena lack characteristics.
+But today is the last time
+I will hear the best of teachings.
+{{milestone:{label:1.274,id:UT22084-056-004-445}}}“How can I enter Śrāvastī?
+What should I say when I am asked,
+‘Ānanda, where will the perfect Buddha reside?
+From where will the seer arrive?’ 
+{{milestone:{label:1.275,id:UT22084-056-004-446}}}“How can I look upon the perfumed chamber 
+When the supreme one is not there?
+How can I maintain good discipline
+When I look upon an empty throne?”
+{{milestone:{label:1.275,id:UT22084-056-004-446}}}Then the noble son Thoroughly at Peace spoke to Venerable Ānanda in verse:
+{{milestone:{label:1.276,id:UT22084-056-004-448}}}“Even after ten million years,
+The truth will be extremely hard to find.
+So investigate carefully, Ānanda,
+Since the field of phenomena is difficult to see. {{page:{number:49,id:UT22084-056-004-927,folio:F.168.b}}}
+{{milestone:{label:1.277,id:UT22084-056-004-449}}}“Just as you can peel layers 
+From the trunk of a plantain tree
+And find no core within,
+Such is the nature of phenomena.
+{{milestone:{label:1.278,id:UT22084-056-004-450}}}“Just as bubbles briefly form
+When rain falls on water—
+They are born and then they cease—
+Such is the material reality of this life.
+{{milestone:{label:1.279,id:UT22084-056-004-451}}}“Just as when you look for an essence
+Within a swelling mass of foam
+No essence is found,
+So is it with everything in this life. 
+{{milestone:{label:1.280,id:UT22084-056-004-452}}}“Just as an image reflected in a mirror
+Lacks an essential nature,
+So is it with the three realms,
+So do not cry, learned one!”
+{{milestone:{label:1.280,id:UT22084-056-004-452}}}Venerable Ānanda then replied to the noble son Thoroughly at Peace in verse:
+{{milestone:{label:1.281,id:UT22084-056-004-454}}}“Learned one, it is not that I
+Do not understand what you say,
+For in the discourses, the mighty sage has taught
+That the entire triple world is unreal.
+{{milestone:{label:1.282,id:UT22084-056-004-455}}}“But it is the weeping of ten million gods, 
+Crying, weeping, and choked with tears,
+Coming before me
+That has caused me pain.
+{{milestone:{label:1.283,id:UT22084-056-004-456}}}“The seer abandons me!
+When the perfect Buddha leaves,
+Where will I go?
+Who will protect me?
+{{milestone:{label:1.284,id:UT22084-056-004-457}}}“Alas! The Buddha is so rare.
+To whom will I make offerings?
+From whom will I hear the sublime Dharma,
+The teachings on profound peace, so hard to find?”
+{{milestone:{label:1.284,id:UT22084-056-004-457}}}The bodhisattva great being Without Reference then spoke in verse to Venerable Ānanda:
+{{milestone:{label:1.285,id:UT22084-056-004-459}}}“Get up, honorable Ānanda!
+Since there is nothing that comes,
+There is also nothing that goes,
+So do not be upset; consider the true nature!
+{{milestone:{label:1.286,id:UT22084-056-004-460}}}“The way a buddha is born
+Is like his awakening;
+The way he turns the wheel
+Is like his passing into nirvāṇa.
+{{milestone:{label:1.287,id:UT22084-056-004-461}}}“A buddha is never born,
+Nor does a buddha ever cease.
+This is the nature of all phenomena, 
+So why are you crying, Ānanda?
+{{milestone:{label:1.288,id:UT22084-056-004-462}}}“Listen to these four words
+That issue from my pores:
+‘Emptiness,’ ‘unreal,’
+‘Peace,’ ‘awakened.’ ”
+{{milestone:{label:1.288,id:UT22084-056-004-462}}}Venerable Ānanda replied to the noble son Without Reference in verse: {{page:{number:50,id:UT22084-056-004-928,folio:F.169.a}}}
+{{milestone:{label:1.289,id:UT22084-056-004-464}}}“Well-disciplined ones such as yourself
+Will soon be going to other realms.
+There, too, you will see a perfect buddha
+Who teaches with nectar-like words.
+{{milestone:{label:1.290,id:UT22084-056-004-465}}}“There you will hear the profound Dharma
+Taught by an awakened one,
+And there you will also see bodhisattvas,
+The supreme saṅgha of the buddhas.
+{{milestone:{label:1.291,id:UT22084-056-004-466}}}“But, learned one,
+How can I stay here,
+Escorted by many millions of lamenting gods, and say
+‘The world protector has passed away’?
+{{milestone:{label:1.292,id:UT22084-056-004-467}}}“Many thousands of lay devotees
+Are weeping desperately.
+When they come to me,
+How shall I answer them?
+{{milestone:{label:1.293,id:UT22084-056-004-468}}}“Hosts of gods have come here—
+From the Heaven of the Thirty-Three, the Heaven without Conflict, 
+The Heaven of Joy, The Heaven of Good Emanation,
+The Heaven of Mastery over Others’ Emanations, the Brahmā realms and so on.{{note:{index:59,id:UT22084-056-004-469}}}
+{{milestone:{label:1.294,id:UT22084-056-004-470}}}“If the greatest of the Śākyas passes,
+How will I raise myself up
+And, in front of them,
+Dare to preach the sublime Dharma?
+{{milestone:{label:1.295,id:UT22084-056-004-471}}}“If the noble one, the supreme one, passes,
+When the gods ask me,
+‘Ānanda, where is the guide?’
+How should I reply?
+{{milestone:{label:1.296,id:UT22084-056-004-472}}}“ ‘The guide is in profound concentration,’
+‘He abides in a state of great merit,’ 
+‘He is immersed in meditation’?
+Or should I say he is out walking, or that he is here?”
+{{milestone:{label:1.296,id:UT22084-056-004-472}}}The noble son Flower of Clairvoyance then spoke to Venerable Ānanda in verse:
+{{milestone:{label:1.297,id:UT22084-056-004-474}}}“Three months from now,
+You will see me again.
+I make this promise to you,
+So let it go, Ānanda, and do not cry!
+{{milestone:{label:1.298,id:UT22084-056-004-475}}}“On your behalf, I will request
+Thousands of other buddhas
+To expound the supreme Dharma
+Taught by the crown ornament of the Śākyas.
+{{milestone:{label:1.299,id:UT22084-056-004-476}}}“The perfect buddhas will watch over you with compassion;
+They shall come before you.
+And you will serve those supreme humans well,
+So do not cry at this, Ānanda!
+{{milestone:{label:1.300,id:UT22084-056-004-477}}}“Whenever a teacher such as this
+Passes from the world, {{page:{number:51,id:UT22084-056-004-929,folio:F.169.b}}}
+It is reasonable for the world with its gods
+To mourn him greatly.
+{{milestone:{label:1.301,id:UT22084-056-004-478}}}“Yet as I have heard the Buddha say,
+All composite things, sustained over millions of eons,
+Are eventually destroyed;
+I heard this directly from the teacher.”
+{{milestone:{label:1.302,id:UT22084-056-004-479}}}Venerable Ānanda then sat behind the Thus-Gone One and let out a piteous cry three times.
+{{milestone:{label:1.303,id:UT22084-056-004-480}}}“Who will grant sight
+To those who are blind?
+The protector of all beings,
+Our teacher, will pass into nirvāṇa today!”
+{{milestone:{label:1.304,id:UT22084-056-004-481}}}“When he hears 
+That the guide has passed away,
+The great king, son of Vaidehī,
+Will be deeply distraught.
+{{milestone:{label:1.305,id:UT22084-056-004-482}}}“The Malla men and women, 
+The Malla children, too, will be unable to bear it;
+On hearing ‘the best of men is passing,’
+All shall weep pitifully.
+{{milestone:{label:1.306,id:UT22084-056-004-483}}}“To see their teacher for the last time,
+They have hastened here.
+Bowing low with folded hands,
+They pay homage with their bows.
+{{milestone:{label:1.307,id:UT22084-056-004-484}}}“For five leagues all around,
+The area is filled with gods and yakṣas, 
+So humans can find no space
+Anywhere, all around.
+{{milestone:{label:1.308,id:UT22084-056-004-485}}}“As an offering to the sublime sage,
+A rain of fragrant flowers falls, 
+Piling high, hiding their knees,
+And there falls a rain of powders too.
+{{milestone:{label:1.309,id:UT22084-056-004-486}}}“Then Nanda and Upananda, 
+With six hundred million nāgas, 
+Came to see the teacher for the last time,
+To witness his parinirvāṇa.
+{{milestone:{label:1.310,id:UT22084-056-004-487}}}“The great nāgas{{note:{index:60,id:UT22084-056-004-488}}} Varuṇa,
+Manasvin, Sāgara, 
+Huluka, and Mucilinda,
+Escorted by billions of nāgas—
+{{milestone:{label:1.311,id:UT22084-056-004-489}}}“As they came to see the teacher for the last time,
+Gathering clouds of fragrant mist
+That veiled the sky
+Descended like rain.
+{{milestone:{label:1.312,id:UT22084-056-004-490}}}“As an offering to the protector of the world, 
+Both gods and nāgas
+Have showered rains of divine flowers
+And pure, fragrant water.
+{{milestone:{label:1.313,id:UT22084-056-004-491}}}“The nāga king Anavatapta,
+With six hundred million,
+Released a rain of jewels
+As he arrived before the leader of men.
+{{milestone:{label:1.314,id:UT22084-056-004-492}}}“The great nāga Elāpatra, {{page:{number:52,id:UT22084-056-004-930,folio:F.170.a}}}
+Crying a great mountain of tears, 
+Has come to make offerings,
+For the last time, to the protector of the world.
+{{milestone:{label:1.315,id:UT22084-056-004-493}}}“Throngs of female nāgas,
+Hundreds of billions of them,
+Filling clouds with their voices,
+Have arrived before the teacher,
+{{milestone:{label:1.316,id:UT22084-056-004-494}}}“Releasing a great rain
+Of pure, scented water
+As a final offering
+To the protector of the world.
+{{milestone:{label:1.317,id:UT22084-056-004-495}}}“Hosts of yakṣas,
+Thousands of billions of them,
+Recalling the Buddha’s qualities,
+Have also come to watch.
+{{milestone:{label:1.318,id:UT22084-056-004-496}}}“The Four Great Kings, too,
+Crying and choked with tears,
+Have arrived before the Buddha
+To see their teacher one last time.
+{{milestone:{label:1.319,id:UT22084-056-004-497}}}“Śakra, too, lord of gods,
+Escorted by thirty-three thousand
+From the Heaven of the Thirty-Three,
+Has arrived before the perfect Buddha,
+{{milestone:{label:1.320,id:UT22084-056-004-498}}}“Showering rains
+Of mandāra flowers
+And powders of divine sandalwood
+As an offering to the sublime sage.
+{{milestone:{label:1.321,id:UT22084-056-004-499}}}“The brahmās Bhṛgu and Śikhin,{{note:{index:61,id:UT22084-056-004-500}}}
+Both escorted by brahmās,
+Have also come, sobbing,
+To see their teacher one last time.
+{{milestone:{label:1.322,id:UT22084-056-004-501}}}“Many billions of majestic gods 
+From the pure abodes,
+Saying, ‘The Victor will pass away today,’
+And sobbing, have also come.
+{{milestone:{label:1.323,id:UT22084-056-004-502}}}“Many billions of gods,
+Lamenting in all manner of ways,
+Have beseeched him in his great concentration: 
+‘Best of men, please stay for an eon!’
+{{milestone:{label:1.324,id:UT22084-056-004-503}}}“A wise son of Māra
+Known as Sārthavāha
+Has also come in great agitation,
+Saying ‘the best of men will pass into nirvāṇa.’
+{{milestone:{label:1.325,id:UT22084-056-004-504}}}“He, too, has bowed to his feet,
+Begging him with these words:
+‘Light of the Śākyas, for love of the world,
+Please stay for an eon!’
+{{milestone:{label:1.326,id:UT22084-056-004-505}}}“If the perfect Buddha stays,
+It will be of inconceivable benefit
+To the lords of both gods and humans.
+Great sage, please stay for an eon!” 
+{{milestone:{label:1.327,id:UT22084-056-004-506}}}Then, the noble son Without Reference spoke in verse to this world, with its gods and Brahmās, {{page:{number:53,id:UT22084-056-004-931,folio:F.170.b}}} and to Sārthavāha, son of Māra:
+{{milestone:{label:1.328,id:UT22084-056-004-507}}}“Have you all lost your minds,
+To cry and wail like this—
+You are all ignorant fools;
+This is how monkeys behave!
+{{milestone:{label:1.329,id:UT22084-056-004-508}}}“You whine piteously
+Like mindless pigs
+Woken from sleep
+By the slashing of blades.{{note:{index:62,id:UT22084-056-004-509}}}
+{{milestone:{label:1.330,id:UT22084-056-004-510}}}“Those who in the past have been overcome by carelessness
+Have not been able to hear Dharma teachings.
+You are all like them!
+This is what I have to say:
+{{milestone:{label:1.331,id:UT22084-056-004-511}}}“Today, the lamp of wisdom
+Will disappear from this world;
+Alas, the victor will pass,
+So do good deeds!”
+{{milestone:{label:1.332,id:UT22084-056-004-512}}}The Blessed One then said to Venerable Aniruddha, Venerable Pūrṇamaitrāyaṇīputra, Venerable Subhūti, Venerable Amogharāja, the elder Kāśyapakumāra, and the elder Mahākauṣṭhila, “Monks, place your right hands in the hand of the Thus-Gone One.”
+“Yes of course, Blessed One,” they replied, and they did as the Blessed One told them.
+{{milestone:{label:1.333,id:UT22084-056-004-514}}}A hundred thousand monks then each raised their hands to the Blessed One’s hand. Taking all those monks by the hand with his left hand, and with his right taking Ānanda and Rāhula by the hand, he said to the monks and elders, “Good Ānanda and glorious Rāhula are hereby entrusted and invested,” and with his hand he pressed the hands of those monks.{{note:{index:63,id:UT22084-056-004-515}}}
+{{milestone:{label:1.334,id:UT22084-056-004-516}}}At that moment, piteous and terrifying roaring sounds resounded across the buddha field; cries filled the entire buddha field. Then, having seen the two elders Venerable Ānanda and Venerable Rāhula entrusted, around five hundred monks took their own lives. Why? {{page:{number:54,id:UT22084-056-004-932,folio:F.171.a}}} Because those monks, unable to bear watching the Blessed One passing into parinirvāṇa, thought, “How can we watch as the protector of the world, the lamp of the world, our sublime and compassionate spiritual mentor who is filled with kindness, who brings such benefit, passes into parinirvāṇa? We will pass completely beyond suffering{{note:{index:64,id:UT22084-056-004-517}}} first!”
+{{milestone:{label:1.335,id:UT22084-056-004-518}}}At that moment, right then, at that very instant, five hundred blessed buddhas, while remaining in their own pure buddha fields, extended their right arms and bowed low toward the Blessed One. The Blessed One, taking Ānanda, Rāhula, and the elders by the hand, raised his other hand in greeting to those thus-gone ones, and the Blessed One spoke these verses:
+{{milestone:{label:1.336,id:UT22084-056-004-519}}}“Rāhula is my own son,
+Ānanda is my attendant;
+I have fully invested
+These two great sages.
+{{milestone:{label:1.337,id:UT22084-056-004-520}}}“Tonight will be my last night
+Here in this world.
+Neither gods, nāgas, nor humans
+Will henceforth see me again.
+{{milestone:{label:1.338,id:UT22084-056-004-521}}}“Apart from those protectors of the world,
+Whose love is inconceivable,
+Who will protect all the others{{note:{index:65,id:UT22084-056-004-522}}}
+And be their refuge and last resort?
+{{milestone:{label:1.339,id:UT22084-056-004-523}}}“If, for the sake of single being,
+I stay many thousands of eons,
+As many eons as there are 
+Grains of sand in the river Gaṅgā,
+{{milestone:{label:1.340,id:UT22084-056-004-524}}}“If I watch out for world systems
+Inconceivably limitless in number, 
+Why would I not have seen
+Any beings living here?{{note:{index:66,id:UT22084-056-004-525}}}
+{{milestone:{label:1.341,id:UT22084-056-004-526}}}“I have benefited those beings
+Who respect this Dharma;
+Those others, of weak intellect, 
+Could not be tamed by ten million buddhas.”
+{{milestone:{label:1.341,id:UT22084-056-004-526}}}Then those five hundred blessed buddhas spoke in verse: {{page:{number:55,id:UT22084-056-004-933,folio:F.171.b}}}
+{{milestone:{label:1.342,id:UT22084-056-004-528}}}“You have done so much to help beings:
+You have performed all the deeds of a buddha,
+You have displayed miracles,
+And you have sounded the great Dharma drum.
+{{milestone:{label:1.343,id:UT22084-056-004-529}}}“Protector, lion of the Śākyas,
+Like a cloud passing over the vast earth
+You have nourished millions of beings
+And removed their pain.”
+{{milestone:{label:1.344,id:UT22084-056-004-530}}}Then Venerable Ānanda and Venerable Rāhula, placing their right knees on the ground, supplicated those blessed buddhas in verse:
+{{milestone:{label:1.345,id:UT22084-056-004-531}}}“With your awakened splendor,
+May you seers watch over us for eons!
+May you guides remain with us for eons!
+We beseech you, great heroes!
+{{milestone:{label:1.346,id:UT22084-056-004-532}}}“If perfect buddhas, the best of humans,
+Remain with great insight,
+Inconceivable good will accrue
+For many millions of beings.
+{{milestone:{label:1.347,id:UT22084-056-004-533}}}“The hosts of gods will increase,
+Asuras will decrease,
+And hearers and bodhisattvas
+Will be inconceivable in number.”
+{{milestone:{label:1.348,id:UT22084-056-004-534}}}The five hundred blessed buddhas then replied to Venerable Ānanda and Venerable Rāhula, “Noble sons, enough weeping! Enough lamenting! Do not grieve, stop lamenting! This is the nature of composite things. There is an end. There is departure. There is no permanence for the composite things that arise. This is the way of phenomena, and so the thus-gone ones have relinquished all that is composite. They have no control over those things—they do not even think of having control over them. Noble sons, either you will come to our buddha fields or the thus-gone ones will extend their arms, and their illuminating light will bring you here. So even if you stay here, you will be taught directly from the lips of the thus-gone ones, and the sublime Dharma will be set forth for you. So do not grieve!” {{page:{number:56,id:UT22084-056-004-934,folio:F.172.a}}}
+{{milestone:{label:1.349,id:UT22084-056-004-535}}}Then at that moment, the Blessed One entered into absorption, and as he rested with his mind in equipoise, billions upon billions of light rays radiated from the big toe of his right foot, from the thumb of his right hand, and likewise from both on the left; from all the limbs of his body, from his minor appendages, from the wheel marks that adorned the soles of his two feet, from the copper-colored fingernails of his smooth, webbed fingers, from the fine lines of his long, broad hands,{{note:{index:67,id:UT22084-056-004-536}}} and likewise from all his major marks; and from the maṇḍala of his navel, from the vicinity of his private parts, from his face, and from between his eyebrows. At the tip of each ray of light were billions upon billions of lotuses. At the center of each lotus were billions upon billions of lion thrones, and upon each lion throne sat a thus-gone one, teaching the Dharma in the form of a buddha. And each of the emanated thus-gone ones were taming many billions of beings so as to exhaust their defilements, and some were tamed to the level of freedom from desire.
+{{milestone:{label:1.350,id:UT22084-056-004-537}}}Then from the crown of the Blessed One’s head radiated a trillion rays of light, each with billions upon billions of lotuses at their tip. At the center of each lotus appeared billions upon billions of lion thrones, and upon each lion throne sat a thus-gone one, teaching the Dharma in the form of a buddha. The thus-gone ones did not speak other than to thoroughly teach the Dharma discourses of the Bodhisattva Collection, dhāraṇīs, vajrapadas,{{note:{index:68,id:UT22084-056-004-538}}} the purity of the three spheres,{{note:{index:69,id:UT22084-056-004-539}}} and the powers and fearlessnesses of a buddha. And each of those emanated thus-gone ones, by teaching the Dharma, firmly established many billions of beings who had purified themselves at the level of irreversibility on the path to unsurpassed, completely perfect awakening. {{page:{number:57,id:UT22084-056-004-935,folio:F.172.b}}}
+{{milestone:{label:1.351,id:UT22084-056-004-540}}}Then the Blessed One, while magically displaying himself lying down on the Thus-Gone One’s right side upon a lion couch, between a pair of śāla trees in the country of the Mallas, went to where beings were dwelling in the Great Reviving Hell and radiated light from each of his bodies. As soon as he emitted this light, all those hell beings dwelling in the Great Reviving Hell were illuminated. Then the Blessed One, while illuminating the hell beings dwelling in the Great Reviving Hell with this light, spoke these verses:
+{{milestone:{label:1.352,id:UT22084-056-004-541}}}“Beings here are killed and revived
+Over and over again.
+With this as their most basic experience,{{note:{index:70,id:UT22084-056-004-542}}}
+They suffer tremendous agonies.
+{{milestone:{label:1.353,id:UT22084-056-004-543}}}“When the world protector, the maker of light,
+Appeared in this world,
+He taught the sublime Dharma
+That is uncorrupted and unceasing.
+{{milestone:{label:1.354,id:UT22084-056-004-544}}}“It brings an end to suffering,
+Is inexhaustible and beyond grasping,
+And, when fully understood,
+Ensures an end to all bad rebirth.”
+{{milestone:{label:1.355,id:UT22084-056-004-545}}}As soon as the Blessed One had spoken these verses, right then, at that very instant, on hearing these words, three hundred million beings living in the Great Reviving Hell achieved the level of nonreturning. Then those who had received the teaching spoke these verses:
+{{milestone:{label:1.356,id:UT22084-056-004-546}}}“We have discovered the noble Dharma,
+Inexhaustible, free from grasping,
+Unceasing, and uncorrupted;
+Now we are soothed, our pain transcended.
+{{milestone:{label:1.357,id:UT22084-056-004-547}}}“With understanding, he discovered the way things are.
+Knowing beings’ abilities,
+He teaches causes and conditions.
+He has a deep love for beings. {{page:{number:58,id:UT22084-056-004-936,folio:F.173.a}}}
+{{milestone:{label:1.358,id:UT22084-056-004-548}}}“The omniscient one removes our pain.
+He nourishes us, he gives us the cure.
+The perfect Buddha has tamed us.
+He has shown us how to transcend suffering.
+{{milestone:{label:1.359,id:UT22084-056-004-549}}}“Our eyes, our lamp,
+Will very soon pass away.
+Who then will liberate millions of beings
+From the torment of being continuously revived?
+{{milestone:{label:1.360,id:UT22084-056-004-550}}}“He is the great physician who removes all pain,
+The sustainer of all that lives,
+Who nourishes beings
+And ensures an end to bad rebirth.”
+{{milestone:{label:1.361,id:UT22084-056-004-551}}}The Blessed One then took a place at the edge of the Great Black Line Hell and radiated a great light that lit up the beings living there, releasing many thousands and sending them to the higher realms. In the same way, he released many thousands of beings from the Great Crushing Hell, the Wailing Hell, the Great Wailing Hell, the Hell of Heat, and the Hell of Intense Heat. He sent them to the higher realms and established them on the path that transcends suffering. At that moment, right then, at that very instant, many billions of beings living in the hell realms died and were reborn among the gods in the Heaven of Joy, and as soon as they were born there, those gods could perfectly recall the teachings they had previously received and attained the level of nonreturning. Then, when those gods who had received the teachings had understood them and deeply inculcated them, they spoke these verses:
+{{milestone:{label:1.362,id:UT22084-056-004-552}}}“Just as when traveling through a remote and empty place
+A fearless caravan leader
+Can keep many beings
+Free from the danger of bandits,
+{{milestone:{label:1.363,id:UT22084-056-004-553}}}“So does the unsurpassable caravan leader,
+The blessed Buddha,
+Free millions of beings
+From the prison of cyclic existence.
+{{milestone:{label:1.364,id:UT22084-056-004-554}}}“Awakening great compassion,
+He has freed us from our suffering.
+Unsurpassable caravan leader, maker of light,
+Awakened One, we take refuge in you! {{page:{number:59,id:UT22084-056-004-937,folio:F.173.b}}}
+{{milestone:{label:1.365,id:UT22084-056-004-555}}}“We also take refuge
+In the Dharma, which has touched us deeply,
+And in the noble Saṅgha, the supreme assembly 
+Inconceivably rich in good qualities.”
+{{milestone:{label:1.366,id:UT22084-056-004-556}}}The Blessed One then sent forth rays of soft, cooling light to comfort and soothe the intense torments of those inhabiting the Great Hell of Unceasing Torture. He taught those hell beings about emptiness, signlessness, and wishlessness,{{note:{index:71,id:UT22084-056-004-557}}} with a teaching that was perfect in its thousand aspects and that gladdened the hearts of all, was pleasing to the ear, and brought welfare and happiness. He then uttered this verse:
+{{milestone:{label:1.367,id:UT22084-056-004-558}}}“Those who have fully understood
+That phenomena are empty, signless,
+Unborn, and unconstructed
+Are free from fears of the lower realms.”
+{{milestone:{label:1.368,id:UT22084-056-004-559}}}When those words, unimpeded in the three times and rich in a hundred thousand qualities, reached their ears, eight trillion beings in the Great Hell of Unceasing Torture died and were reborn equal in fortune to the gods in the Heaven of Mastery over Others’ Emanations.
+{{milestone:{label:1.369,id:UT22084-056-004-1559}}}The Blessed One then went to the Brahmā realms and spoke these verses:
+{{milestone:{label:1.370,id:UT22084-056-004-561}}}“Those who do not experience suffering
+Are supremely happy.
+All names, conventional designations,
+And conceptions are invalid.
+{{milestone:{label:1.371,id:UT22084-056-004-562}}}“Those who can firmly abandon them
+Will be free from suffering.
+For them, even all conceptions
+Of the formless realm will be invalid.
+{{milestone:{label:1.372,id:UT22084-056-004-563}}}“Suffering increases exponentially 
+When one dies over and over again,
+Taking a new rebirth each time;
+What happiness is there in the three realms?
+{{milestone:{label:1.373,id:UT22084-056-004-564}}}“Those who understand the empty to be empty
+Do not conceive of even the empty.
+Those who do not perceive emptiness
+Are those who know emptiness.
+{{milestone:{label:1.374,id:UT22084-056-004-565}}}“Those who understand this point of doctrine {{page:{number:60,id:UT22084-056-004-938,folio:F.174.a}}}
+Will not find a self,
+For there is no self to be found—
+So where can suffering arise?
+{{milestone:{label:1.375,id:UT22084-056-004-566}}}“Those who teach the selflessness of phenomena
+And that they are empty, free of grasping, 
+And devoid of characteristics
+Are sons born from the hearts of the buddhas.”
+{{milestone:{label:1.376,id:UT22084-056-004-567}}}Then those eight trillion beings who had been reborn among those gods reached the exhaustion of defilements and became divine sages. Still recalling their suffering as hell beings in the hells, and in gratitude for the Thus-Gone One’s direct intervention,{{note:{index:72,id:UT22084-056-004-568}}} they exclaimed, “Rather than see the thus-gone, worthy, completely perfect Buddha pass into parinirvāṇa, we will pass completely beyond suffering first!” 
+Then, those gods who had reached the state of arhatship uttered this verse:
+{{milestone:{label:1.377,id:UT22084-056-004-570}}}“Tamer of beings, helmsman, best of humans,
+Maker of light, great illuminator, 
+We will pass beyond,
+Just as we see you passing into nirvāṇa.”
+{{milestone:{label:1.378,id:UT22084-056-004-571}}}And the moment they finished speaking, they passed completely beyond suffering. And at that moment, right then, that very instant, the Blessed One disappeared from the Brahmā realms and returned to the pair of śāla trees in the country of the Mallas. 
+{{milestone:{label:1.379,id:UT22084-056-004-572}}}The Blessed One then thought, “This night, I, the thus-gone, worthy, completely perfect Buddha, will pass into parinirvāṇa during the last watch of the night. Since this will be my last teaching, I will bring joy to beings with a great miracle that only the Thus-Gone One can manifest. It will make them happy, it will quell their suffering, so that all beings will merge unobstructedly with the nature of the Thus-Gone One. I will show them how the Buddha passes into parinirvāṇa.” {{page:{number:61,id:UT22084-056-004-939,folio:F.174.b}}}
+{{milestone:{label:1.380,id:UT22084-056-004-573}}}The Blessed One then lay on his right side. With the fearlessness of a lion and the gaze of an elephant, he looked out over all beings in the ten directions and pierced the earth with the big toe of his right foot. At this strike, the earth let out a huge roar and shook in six different ways. Inconceivable quantities of light filled worlds in the ten directions, illuminating them all without obstruction. Rays of light flooded from the Blessed One’s body, and rays as numerous as the grains of sand in the river Gaṅgā poured from every pore. Each of those rays of light in turn emitted further rays of light as numerous as the grains of sand in the river Gaṅgā, and each of those rays of light in turn illuminated as many buddha fields as there are grains of sand in the river Gaṅgā. The rays of light did not merge with one another but shone continuously from every pore, completely illuminating every world system. With the Blessed One’s manifestation of such a miraculous display, all those beings became endowed with the eye of awakening and realized the detailed vision of awakening by means of the Buddha’s power and blessings. Everyone could clearly see all the buddha fields illuminated by the light of the Blessed One.
+{{milestone:{label:1.381,id:UT22084-056-004-574}}}The Blessed One then said to the monks, “Monks, do you see, in the east, a huge, wide, high, and expansive city covering an area of one hundred thousand leagues, completely filled with hundreds of thousands of tiny particles?”
+“Yes, Blessed One,” replied the monks.
+{{milestone:{label:1.382,id:UT22084-056-004-576}}}The Blessed One continued, “And what do you think, monks? Do you think those tiny particles are numerous?”
+“Yes, Blessed One,” replied the monks. {{page:{number:62,id:UT22084-056-004-940,folio:F.175.a}}}
+He continued:
+{{milestone:{label:1.383,id:UT22084-056-004-579}}}“Those who clearly understand the Dharma,
+As inexhaustible,{{note:{index:73,id:UT22084-056-004-580}}} free of grasping,
+Unceasing, and uncorrupted,
+Will not experience bad rebirth.”
+{{milestone:{label:1.384,id:UT22084-056-004-581}}}Upon hearing this Dharma teaching, three hundred thirty million beings obtained the level of nonreturning.
+{{milestone:{label:1.385,id:UT22084-056-004-582}}}{{note:{index:74,id:UT22084-056-004-583}}}The Blessed One then illuminated the beings dwelling in the eight great hells with a very gentle, delightful, and pleasant golden-colored light, born from love and compassion, {{page:{number:63,id:UT22084-056-004-941,folio:F.175.b}}} that pacified their suffering, pleased their eyes, enchanted their hearts and eyes, soothed them, and filled their bodies with ease. The waves of light rays that radiated from the pores of his skin thoroughly quelled the burning torments of those in the great hells and instilled happiness in them. The Blessed One drenched the bodies of those beings with this light, soothing them physically and mentally, making them fit again, and then, with speech endowed with many hundreds of thousands of good qualities, he spoke these verses:
+{{milestone:{label:1.386,id:UT22084-056-004-584}}}“I bring happiness to the world;
+I put an end to suffering.
+I have shown complete peace
+To those who are physically weary.
+{{milestone:{label:1.387,id:UT22084-056-004-585}}}“What I have taught is the Dharma that is hard to find,
+The Dharma of peace and happiness;
+Those who understand it
+Will not experience bad rebirth.
+{{milestone:{label:1.388,id:UT22084-056-004-586}}}“Those who have found it,
+Who have taken refuge in the Buddha,
+Will henceforth not endure suffering
+For thousands of eons.”
+{{milestone:{label:1.389,id:UT22084-056-004-587}}}As soon as the Blessed One had spoken these verses, at that moment, right then, at that very instant, a great number of monks and an immeasurable number of blessed buddhas simultaneously, right then, at that very instant, having lain down on their right sides upon lion couches, also got up again, and all of them also displayed miracles like these. 
+{{milestone:{label:1.390,id:UT22084-056-004-588}}}The four communities then asked the Blessed One, “Blessed One, why did all those blessed buddhas display such miracles just now? Why, just like the Blessed One, did they all display such miracles at the very moment, the very instant of passing into parinirvāṇa?”
+{{milestone:{label:1.391,id:UT22084-056-004-589}}}The Blessed One replied, “It is so, monks: {{page:{number:64,id:UT22084-056-004-942,folio:F.176.a}}} all those blessed buddhas leaving their final existence today will pass into parinirvāṇa. All those thus-gone ones are none other than he who bears the name Śākyamuni. All of them have lain down on their right sides upon a lion couch between two śāla trees within the country of the Mallas. All of them will pass into parinirvāṇa today, during the last watch of the night.”
+{{milestone:{label:1.392,id:UT22084-056-004-590}}}The Blessed One continued, “Monks, do you see to the east all the countless, immeasurable blessed buddhas about to awaken to unsurpassed, completely perfect awakening? Monks, in the south, the west, and the north, in the intermediate directions, and below and above, do you see countless, immeasurable blessed buddhas about to awaken to unsurpassed, completely perfect awakening?”
+“Yes indeed, Blessed One,” they replied. “We see in our limited way. We cannot see in the ultimate way.”{{note:{index:75,id:UT22084-056-004-592}}}
+{{milestone:{label:1.393,id:UT22084-056-004-593}}}The Blessed One continued, “Monks, it is like this; consider this analogy: if you were to fill the space from the ocean that surrounds the four great continents of this world to the upper limit of the Brahmā realms with the tiniest particles, do you think it would be possible to measure those particles, to count them, to approximate them, or to precisely quantify them?”
+“No Blessed One,” they replied.
+{{milestone:{label:1.394,id:UT22084-056-004-595}}}He continued, “Monks, it is so: if, to give an analogy, a world such as this with its four great continents were entirely filled with tiny particles, that is how many blessed buddhas I see to the east when I look with my ordinary eye of flesh. {{page:{number:65,id:UT22084-056-004-943,folio:F.176.b}}} It is like, for example, seeing something up close, just a yoke away, without conceptual thought, not seen from afar but directly, with unimpaired eyes. So too in the south, in the west, in the north, in the intermediate directions, and below and above.
+{{milestone:{label:1.395,id:UT22084-056-004-596}}}“Indeed monks, it is so: to the east I see blessed buddhas as numerous as the tiny particles it would take to completely fill a hundred thousand worlds from the oceans that surround the four great continents to the upper limits of the Brahmā realms—those who are about to sit and those who are seated at the seat of awakening, all of whom are none other than blessed buddhas who bear the name Śākyamuni. Likewise, I see as many blessed buddhas who bear the name Dīpaṅkara, who bear the name Sarvābhibhū, who bear the name Padmottama, who bear the name Atyuccagāmin, who bear the name Yaśottara, who bear the name Krakucchanda, who bear the name Kanakamuni, and who bear the name Kāśyapa.{{note:{index:76,id:UT22084-056-004-597}}}
+{{milestone:{label:1.396,id:UT22084-056-004-598}}}“Likewise, I also see blessed buddhas known by a variety of other names, active in this world with the Dharma that is vast, diverse, and supreme. I see blessed buddhas known by different names living and thriving now. I see blessed buddhas with such names who are yet to pass into parinirvāṇa, who are still living, turning the wheel of Dharma. They all clearly appear to my unobscured, unimpeded, and unattached ordinary eye of flesh. {{page:{number:66,id:UT22084-056-004-944,folio:F.177.a}}} This is how the Thus-Gone One knows. But the Thus-Gone One knows more, much more than that—what he knows is inconceivable, inconceivably greater than that. It is superior, far superior to that; it is unfathomable, unfathomably greater than that. 
+{{milestone:{label:1.397,id:UT22084-056-004-599}}}“With my ordinary eye of flesh, I see that the number of thus-gone ones is immeasurable, infinite, unfathomable, and uncountable, not to mention the qualities of those buddhas.
+{{milestone:{label:1.398,id:UT22084-056-004-600}}}“Monks, it is so: for comparison, consider householders or renunciates who for an entire eon have venerated, served, honored, worshiped, revered, supplicated, and made inconceivable quantities of various offerings to perfect buddhas as numerous as all the beings in this buddha field who have reached unsurpassed, completely perfect awakening and developed the ten powers and the fearlessnesses. Compared to them, a noble son or noble daughter who develops faith, even for an instant, in this Dharma teaching as discerned and taught by all the buddhas, and who with a mind free of doubt develops the right understanding of it will, as soon as this is developed, produce a much greater amount of merit and will come closer to the many buddha qualities. Even if all the beings of this great trichiliocosm spent an eon revering those who have attained omniscience, they would not generate as much merit. Any bodhisattva great being who cultivates devoted interest in this wisdom will not only come closer to the blessed buddhas, but they will also come closer to unsurpassed, completely perfect awakening.”
+{{milestone:{label:1.399,id:UT22084-056-004-601}}}When this prophetic discourse concerning his eye of flesh was given, six hundred twenty million beings generated the mind set on unsurpassed, completely perfect awakening. {{page:{number:67,id:UT22084-056-004-945,folio:F.177.b}}} They thought, “Though it is difficult to reach unsurpassed, completely perfect awakening, with this our sufferings are over, our afflictions are ended, and we will achieve the exhaustion of the defilements,” and reached the stage of irreversibility. Innumerable beings were established at the level of training. Ten billion bodhisattvas, by generating the mind set on awakening for the first time, became fully accomplished, and thirty-two trillion bodhisattvas reached acceptance of the unborn nature of phenomena.
+{{milestone:{label:1.400,id:UT22084-056-004-602}}}Then wicked Māra became dispirited and distressed. Weeping and choked with tears, he complained to the Blessed One, “Blessed One, I do not want beings to ever escape my grasp. Thus-gone, worthy, perfect Buddha, you wish to pass into parinirvāṇa for their sake. You never diminish, so you have a lifespan that lets you remain for eons, yet before dawn, before sunlight spreads across the land, you will have established countless beings in nirvāṇa. Blessed Thus-Gone One, you will empty my domain!”
+{{milestone:{label:1.401,id:UT22084-056-004-603}}}The Blessed One replied to wicked Māra, “Wicked one, those who do not fully strive for virtuous qualities and those who do not cultivate faith in the domain of the Thus-Gone One will be your companions, and you, too, will be their companion. You will have many to keep you company, so do not weep! Wicked one, stop wailing!”
+{{milestone:{label:1.402,id:UT22084-056-004-604}}}The Blessed One then reached down to the ground, and picking up some dust with the tip of his fingernail, he asked wicked Māra, {{page:{number:68,id:UT22084-056-004-946,folio:F.178.a}}} “Wicked one, what do you think? Is there more dust on the tip of my fingernail or covering this vast earth?”
+{{milestone:{label:1.403,id:UT22084-056-004-605}}}“Blessed One, there is less dust on the tip of your fingernail, and much more covering this vast earth!” replied the wicked one.
+{{milestone:{label:1.404,id:UT22084-056-004-606}}}The Blessed One then said to wicked Māra, “Wicked one, as in this analogy, the sentient beings whose afflictions I have exhausted and established individually in unsurpassable parinirvāṇa are far fewer than the particles of dust on the tip of my fingernail, and as in this analogy, wicked one, beings far more numerous than the particles of dust covering this vast earth have gone to your domain. So, since the realms of beings are limitless, you should be happy, wicked one! Indeed, wicked one, how long such beings remain depends on what they themselves do; there is nothing even you can do about it. So, wicked one, since there are countless realms of beings like this, do what you will with them! The Thus-Gone One will pass into parinirvāṇa during the last watch of this night.”
+{{milestone:{label:1.405,id:UT22084-056-004-607}}}The Blessed One then asked the monks, “Monks, do you see the blessed buddhas?”
+“Yes indeed, Blessed One,” they replied.
+{{milestone:{label:1.406,id:UT22084-056-004-609}}}The Blessed One said, “Even more than this, you will see that they are utterly limitless. Do you also see the world systems of the blessed buddhas and their wondrous buddha fields? Do you see the great arrays of the bodhisattvas and the excellences of the hearers?”
+“Yes indeed, Blessed One. Yes indeed, Well-Gone One,” they replied.
+{{milestone:{label:1.407,id:UT22084-056-004-611}}}The Blessed One continued, “Monks, {{page:{number:69,id:UT22084-056-004-947,folio:F.178.b}}} the knowledge of the Thus-Gone One extends even beyond that; his knowledge is utterly infinite. Monks, the abundance of thus-gone ones and the abundance of buddha fields I see in world systems in the ten directions are so numerous that even if I were to spend an eon, a hundred eons, a thousand eons, a hundred thousand eons, ten million eons, a billion eons, or more describing them thoroughly and in great detail and with analogies, the task would still be incomplete. Monks, what I have to teach you, my disciples, I have already taught. I have held nothing back. I have taught you the entirety of the Dharma in all its aspects, inside and out. There is not even the tip of a blade of grass worth of teachings you have yet to receive, so now it is up to you to be diligent! I have taught you the Dharma of nirvāṇa, I have shown you the path that leads beyond suffering, I have produced roots of virtue that are extremely hard for beings to produce, and I have achieved unsurpassed, completely perfect awakening. Now you must all do likewise and under no circumstances let the teachings be spoiled!”
+{{milestone:{label:1.408,id:UT22084-056-004-612}}}The Blessed One then performed a miracle such that by the performance of this miracle the Dharma being taught by blessed buddhas in world systems in the ten directions could be heard by the beings in this buddha field. Those beings as numerous as the grains of sand in the river Gaṅgā who fully understood the Dharma taught by those blessed buddhas were firmly established in the three vehicles; ten trillion were firmly established in the state of unsurpassed, completely perfect awakening; ten billion beings were established in solitary awakening; {{page:{number:70,id:UT22084-056-004-948,folio:F.179.a}}} and an even greater number reached the state in which defilements are exhausted. The teachings likewise benefited immeasurable, uncountable, infinite, and inconceivable billions of other beings.
+{{milestone:{label:1.409,id:UT22084-056-004-613}}}The Blessed One then said to the monks, “Monks, I will now pass into parinirvāṇa. Henceforth, you must do whatever you can to protect the teachings of the Buddha. Monks, in order to take care of yourselves and benefit others, you must train in this way.”
+{{milestone:{label:1.410,id:UT22084-056-004-614}}}When the Blessed One had finished speaking, Venerable Ānanda and the world with its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said. 
+{{milestone:{label:1.411,id:UT22084-056-004-615}}}This concludes the noble Mahāyāna sūtra “The Four Boys’ Absorption.”
+{{milestone:{label:c.1,id:UT22084-056-004-616}}}Translated, edited, and finalized by the Indian scholars Jinamitra and Prajñāvarman, the translator-editor Bandé Yeshé Dé, and others.

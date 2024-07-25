@@ -1,0 +1,229 @@
+{{translation:{id:UT22084-062-014,key:toh214,version:1.0.7,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Mahāyāna Sūtra
+Advice to a King (1) 
+Advice to King Bimbisāra
+{{milestone:{label:1,id:UT22084-062-014-section-1}}}{{page:{number:1,id:UT22084-062-014-201,folio:F.207.a}}} Homage to all buddhas and bodhisattvas.
+Thus did I hear at one time. The Blessed One was staying at Prince Jeta’s Grove, Anāthapiṇḍada’s Park, with a large community of monks and a community of many bodhisattvas. At that time, the Blessed One declared to his audience, “Since the time has now come for King Bimbisāra to be trained, we must go to Magadha.” He then departed, gliding through the sky like a king of swans along with his entourage. 
+{{milestone:{label:1.1,id:UT22084-062-014-85}}}When the minister Sucandra{{note:{index:6,id:UT22084-062-014-86}}} saw this, he said to his king, “Lord, the Buddha and his entourage are approaching our land. We should adorn the city to pay our respects.”
+{{milestone:{label:1.2,id:UT22084-062-014-87}}}“There is no one in Jambudvīpa greater than I,” replied the king, inflated with his own arrogance, “so to whom should I pay my respects?” 
+{{milestone:{label:1.3,id:UT22084-062-014-88}}}Then the Buddha and his entourage sat down on seats laid out at the gates of King Bimbisāra’s palace. When the king came to know that the Blessed One and his entourage were thus seated, he called on a wrestler known as a heavy lifter to throw a huge rock at the Blessed One.{{note:{index:7,id:UT22084-062-014-89}}} From the sound of that rock flying through the air came a voice that proclaimed:{{note:{index:8,id:UT22084-062-014-90}}}
+{{milestone:{label:1.4,id:UT22084-062-014-91}}}“Alas! Compounded things have no permanence; 
+Their nature is to arise and to cease.
+Where there is birth, there is death.
+Where there is coming together, there is separation.
+Where there is accumulation, there is depletion.{{note:{index:9,id:UT22084-062-014-92}}}
+The glow of youth is robbed by illness
+And life itself is snatched by death.
+{{milestone:{label:1.5,id:UT22084-062-014-93}}}“Where there is attachment, suffering thrives.
+Where there is dissatisfaction, there will be liberation.” 
+{{milestone:{label:1.6,id:UT22084-062-014-94}}}On hearing this, King Bimbisāra became respectful and went before the Buddha with his palms joined. When he had taken a seat, the Blessed One said, “Great King, take interest in the Dharma, take it in, request for it to be taught, and be disillusioned.” 
+{{milestone:{label:1.7,id:UT22084-062-014-95}}}The king inquired, {{page:{number:2,id:UT22084-062-014-202,folio:F.207.b}}} “Blessed One, with what should I be dissatisfied and disillusioned?”
+“Be dissatisfied and disillusioned with saṃsāra,” replied the Blessed One.
+{{milestone:{label:1.8,id:UT22084-062-014-97}}} “Why should I be dissatisfied and disillusioned with saṃsāra?” asked the king.
+“Because saṃsāra is impermanence and suffering,” he replied. 
+{{milestone:{label:1.9,id:UT22084-062-014-99}}}“How is saṃsāra impermanence, Blessed One?” inquired the king.
+“This container, the world, is impermanent, and its contents, sentient beings, are also impermanent,”{{note:{index:10,id:UT22084-062-014-101}}} replied the Blessed One.
+{{milestone:{label:1.10,id:UT22084-062-014-102}}} “How is this container, the world, impermanent?” asked the king.
+{{milestone:{label:1.11,id:UT22084-062-014-230}}}The Blessed One replied:{{note:{index:11,id:UT22084-062-014-104}}}
+{{milestone:{label:1.12,id:UT22084-062-014-105}}}“When the time of destruction and the fires at the end of the eon rise,
+Nothing will remain, not even ashes,
+Of this container-world with its Mount Meru and the continents.
+So too shall it be with the destructions by water and by wind.{{note:{index:12,id:UT22084-062-014-106}}}
+{{milestone:{label:1.13,id:UT22084-062-014-107}}}“Or again, that which grows in warm summer rain dries up in the cold of winter. 
+Good crops, bad crops, drought, or deluge—there is no certainty.
+As the months and years pass, the time of destruction draws ever nearer.
+{{milestone:{label:1.14,id:UT22084-062-014-108}}}“Impermanence is evident from these and other examples, 
+For if there were permanence, how could there be change?”
+{{milestone:{label:1.15,id:UT22084-062-014-109}}} “How are the contents, sentient beings, impermanent?” asked the king. 
+{{milestone:{label:1.16,id:UT22084-062-014-231}}} The Blessed One replied: 
+{{milestone:{label:1.17,id:UT22084-062-014-111}}}“For the contents, for sentient beings, this life is just the same—
+Counting off the days, the months, and years,
+With every day that passes, death draws ever nearer.
+{{milestone:{label:1.18,id:UT22084-062-014-112}}}“Though we would like not to die, it is beyond our control. 
+Birth, old age, sickness, and death are like pictures we draw ourselves,
+While Māra, Lord of Death, looks on like a black heron waiting for fish.{{note:{index:13,id:UT22084-062-014-113}}}
+{{milestone:{label:1.19,id:UT22084-062-014-114}}}“Causes of death are more numerous than can be conceived.
+There is nothing at all that has not been a cause of death.
+This body is sustained by eating, but choke on your food, and you will die.
+In this world there are none—neither great nor small, neither rich nor poor— 
+Who have power over the Lord of Death.
+{{milestone:{label:1.20,id:UT22084-062-014-115}}}“Those people who have died in the past, 
+They too hoped that things would last. 
+They gathered children and wealth around them,
+But neither their children nor their wealth, 
+Nor even, in the end, their bodies, were of any use,
+For in death we are accompanied by our good and bad deeds alone.
+{{milestone:{label:1.21,id:UT22084-062-014-116}}}“Even now, while still living, 
+Haven’t you seen, or haven’t you heard, 
+Of friends or relatives—
+Those you like or those you do not, 
+Those your own age, or older, or younger— {{page:{number:3,id:UT22084-062-014-203,folio:F.208.a}}}
+Who have died?
+{{milestone:{label:1.22,id:UT22084-062-014-117}}}“Everyone{{note:{index:14,id:UT22084-062-014-118}}} who lives upon this earth
+May survive up to a hundred years, 
+But all will die, without exception.
+It is our nature, each and every one of us, to die. 
+Whether death will come today or tomorrow, 
+No one knows.
+{{milestone:{label:1.23,id:UT22084-062-014-119}}}“Even having the measure of it offers no respite from fear,{{note:{index:15,id:UT22084-062-014-120}}}
+For what will happen next year, or this very day?
+{{milestone:{label:1.24,id:UT22084-062-014-121}}}“When you die, neither your parents nor your sons,
+Neither your relatives nor friends, 
+Neither your servants nor all your possessions
+Will accompany you beyond death.
+None will share even a part of your pain.
+{{milestone:{label:1.25,id:UT22084-062-014-122}}}“At birth, you are born alone,
+And in the end, at death, you will die alone.
+In an instant, all that you hold nearest and dearest in life 
+Will depart, like guests returning home after a brief stay.{{note:{index:16,id:UT22084-062-014-123}}}
+{{milestone:{label:1.26,id:UT22084-062-014-124}}}“That which you dare not part with, even for a moment—
+Relatives, possessions, land, and home{{note:{index:17,id:UT22084-062-014-125}}}—all will be left behind,
+As you embark on the fearful road alone.
+{{milestone:{label:1.27,id:UT22084-062-014-126}}}“Wealth may be accumulated through this or that connivance or dispute,
+But while the obscurations incurred by such wrongdoing must be borne,
+The wealth accumulated thereby will soon be carried away by relatives,{{note:{index:18,id:UT22084-062-014-127}}}
+So what is gained by amassing wealth?
+{{milestone:{label:1.28,id:UT22084-062-014-128}}}“Even this body that is held so dear
+Will be discarded at death, like a used earthenware pot. 
+Even flesh and bone, born together, will come asunder. 
+Powerless, you will wander alone,
+Until by the power of karma you are reborn.
+So, for the sake of the body, do no wrong.
+{{milestone:{label:1.29,id:UT22084-062-014-129}}}“Do not be content with this body that treads the firm earth—
+It is an impure heap, born from impure karma.
+Subject to sickness, old age, and death, it is the site of every suffering.
+Once dead, it is nothing but some filth to be discarded anywhere,
+For birds, jackals, and other animals to feed upon.
+Even if efforts are made to respect and venerate them, 
+The Lord of Death and his demons will drag you away.
+{{milestone:{label:1.30,id:UT22084-062-014-130}}}“Disparaged by the wise and an object of attachment for fools—
+What learned person is attached to the body?
+So do not fret for the sake of the body.
+For the sake of this life, dispense wages for food and clothing,
+But for lasting benefit, make merit and so on,
+For the only friends you will have at death are your own good and bad deeds. {{page:{number:4,id:UT22084-062-014-204,folio:F.208.b}}}
+While good deeds lead to higher realms and liberation,
+Bad deeds lead to the suffering of the lower realms.
+{{milestone:{label:1.31,id:UT22084-062-014-131}}}“Even before death, this body is impermanent.
+From a small child you grow into a youth, 
+Then on to adulthood, middle age, and old age. 
+If the body were permanent, 
+How could there be such phases?
+{{milestone:{label:1.32,id:UT22084-062-014-132}}}“The objects of experience, those that bring pleasure and pain, are also impermanent.
+Those who have power and wealth may become miserable and destitute,
+And those who are miserable and destitute may become powerful and wealthy.
+The enjoyments of youth are ravaged by illness, aging, and death.
+All these worldly phenomena are impermanent.”
+{{milestone:{label:1.33,id:UT22084-062-014-133}}}King Bimisāra asked, “Blessed One, what are the sufferings of beings in saṃsāra?”
+{{milestone:{label:1.34,id:UT22084-062-014-232}}}The Blessed One replied, 
+{{milestone:{label:1.35,id:UT22084-062-014-135}}}“For beings in saṃsāra there is never any lasting happiness.
+The main kinds of suffering are four: birth, aging, illness, and death.
+{{milestone:{label:1.36,id:UT22084-062-014-136}}}“The sufferings of beings born in the hells are like this:
+Merely seeing the guards of hell and the fires of hell
+Sets off great wails of fear and terror.
+Counting the cost to oneself and feeling deep remorse about one’s former actions 
+Are of no use whatsoever.
+{{milestone:{label:1.37,id:UT22084-062-014-137}}}“Some obtain massive bodies with tender skin,
+Subject to intense and violent sensations.
+Some have bodies that burn in a blazing mass of fire.
+Some are crushed likes seeds in rooms with iron walls,{{note:{index:19,id:UT22084-062-014-138}}}
+Rolling back and forth, and burning all over.
+{{milestone:{label:1.38,id:UT22084-062-014-139}}}“Others are thrown headfirst into huge iron cauldrons 
+Where they cook like grains in a boiling soup.
+Some are gashed by saws and pounded in mortars.
+Some are kept in dwellings and houses and roasted alive, 
+Scorched by glowing embers, hot ashes, hot water, and such.
+There are tortures more numerous than can be conceived.
+{{milestone:{label:1.39,id:UT22084-062-014-140}}}“Where a single day and night is a hundred eighty thousand human years,
+They stay in such hells for an eon.
+Even though they long for death, death does not come
+To those whose karma is not exhausted,
+Until the time when the world itself disintegrates 
+And a new world is born again.
+{{milestone:{label:1.40,id:UT22084-062-014-141}}}“Those born as pretas are tormented by hunger and thirst, {{page:{number:5,id:UT22084-062-014-205,folio:F.209.a}}}
+With heads the size of mountains, mouths as narrow as the eye of a needle,
+Throats just as narrow, and bellies the size of districts.
+They see food and drink, but others guard these things,
+Or else they perceive them as something else—blood, pus, vomit, and the like.
+Though some manage to eat, the food turns to molten metal in their throats.
+{{milestone:{label:1.41,id:UT22084-062-014-142}}}“Those born as animals eat one another, and,
+Mired in the sufferings of ignorance, they have no freedom—
+They are tied up, beaten, exploited, and killed by others. 
+{{milestone:{label:1.42,id:UT22084-062-014-143}}}“Those born as humans suffer even while still in the womb.
+When the mother eats her fill, it is like being crushed between rocks. 
+When she is hungry, it is like being abandoned to wolves.
+When she does heavy labor, it is like being pounded in a mortar.
+The experience of birth is as rough as being dragged along the side of a wall
+After the skin has been peeled off,
+While tormented by heat rashes, hunger, thirst, and aching limbs.
+{{milestone:{label:1.43,id:UT22084-062-014-144}}}“When grown up, humans suffer by laboring in fields, through poverty,
+And by separation from loved ones, oppression by enemies, and debt. 
+They also suffer from heat, cold, hunger, thirst, and the rest.
+While the poor have no means of escaping their hardship, try as they might,
+The wealthy suffer too, needing to be vigilant to protect what they have.
+The work of farming and trading is suffering too.
+{{milestone:{label:1.44,id:UT22084-062-014-145}}}“Sufferings such as these and others are more numerous than can be conceived. 
+The bases of suffering are generally two—food and clothing—
+While even the pleasures of this world are for the most part 
+The causes of suffering in lower rebirths later on.
+{{milestone:{label:1.45,id:UT22084-062-014-146}}}“Those born as asuras endure suffering caused by 
+Pride and envy, rage and conflict, and more.
+{{milestone:{label:1.46,id:UT22084-062-014-147}}}“Those born as gods also endure suffering, such as the pain caused by 
+Falling from heaven at death, the five signs of impending death, 
+And the suffering of conditioned being. 
+{{milestone:{label:1.47,id:UT22084-062-014-148}}}“The sufferings of the elderly are like this:
+White hair, gathering wrinkles, being ignored by others,
+Dribbles of spittle and snot at the mouth and nose, 
+Trembling hands, and unsteady legs.
+The body becomes too feeble to do what the mind intends. 
+Relatives all consider you better off dead;
+Your advice is not heeded and your authority is lost.
+Some may even say, ‘That old monster should have died long ago.’
+Some may even threaten to beat you with cudgels and sticks.
+Seeing and hearing this, you may want to die, but die you cannot.
+{{milestone:{label:1.48,id:UT22084-062-014-149}}}“The sufferings of the sick are like this:
+When the four great physical elements are out of balance, 
+The body is oppressed by combinations of wind, bile, and phlegm, {{page:{number:6,id:UT22084-062-014-206,folio:F.209.b}}}
+So that even objects of enjoyment hold no allure.
+Physical strength is sapped and you cannot even stand up.
+Your luster and radiance are gone; you look like a preta.
+{{milestone:{label:1.49,id:UT22084-062-014-150}}}“The sufferings of the dying are like this:
+Though friends and relatives may gather and mourn,
+There is no looking on, or listening in, or thinking of them.
+The vital force is severed, as if cut by a blade,
+With your past deeds toward friends and enemies,
+Both good and bad, appearing as if in a dreamscape.
+{{milestone:{label:1.50,id:UT22084-062-014-151}}}“The terrifying minions of Yama close in on all sides.
+Eyes wide with fear, you look here, there, and everywhere,
+But no savior is to be seen.
+In abject fear and total despair, with no idea where to go, 
+The uncertain liminal state arises.{{note:{index:20,id:UT22084-062-014-152}}}
+{{milestone:{label:1.51,id:UT22084-062-014-153}}}“Impermanence will be a constant source of torment
+Through these endless sufferings
+From beginningless time right up to the present,
+Until you accept the noble path.”
+{{milestone:{label:1.52,id:UT22084-062-014-154}}}Then the king asked, “Blessed One, if saṃsāra is so much suffering, then where is well-being to be found?”
+{{milestone:{label:1.53,id:UT22084-062-014-233}}}The Blessed One replied, “Nirvāṇa is perfect well-being.”{{note:{index:21,id:UT22084-062-014-156}}}
+{{milestone:{label:1.54,id:UT22084-062-014-157}}} “How is it perfect well-being?” asked the king.
+The Blessed One answered,
+{{milestone:{label:1.55,id:UT22084-062-014-159}}}“Nirvāṇa is peace; it is happiness supreme,{{note:{index:22,id:UT22084-062-014-160}}}
+Devoid of concepts, of perceiving a self, and of afflictions,
+And devoid of the sufferings of the three lower realms, of hunger and thirst, of heat and cold,
+Of birth, of aging, of illness, of death, and the rest.
+All the sufferings of impermanent saṃsāra cease forever,
+And henceforth all actions are those that benefit others,{{note:{index:23,id:UT22084-062-014-161}}}
+With powers and miraculous abilities beyond imagination.”
+{{milestone:{label:1.56,id:UT22084-062-014-162}}}When the Blessed One had spoken, King Bimbisāra became disillusioned with saṃsāra, discarded his royal power like spittle in the dust, and set his mind on accomplishing nirvāṇa. 
+{{milestone:{label:1.57,id:UT22084-062-014-234}}}Then the Blessed One said: 
+{{milestone:{label:1.58,id:UT22084-062-014-164}}}“Great King, well done, well done! 
+Among all footprints, the footprint of the elephant is the greatest. 
+Among all flowers, the white lotus is the greatest. {{page:{number:7,id:UT22084-062-014-207,folio:F.210.a}}}
+Among all notions, the notion of impermanence is the greatest. 
+Among all motivations, disillusionment with saṃsāra is the greatest. 
+{{milestone:{label:1.59,id:UT22084-062-014-165}}}“Great King, it is good that you are disillusioned with saṃsāra. 
+It is good that you have become dissatisfied. 
+When one is attached, that is saṃsāra. 
+When one is not attached, that is nirvāṇa.”
+{{milestone:{label:1.60,id:UT22084-062-014-166}}}After the Blessed One had spoken, everyone, King Bimbisāra and the rest, rejoiced and praised what the Blessed One had said.
+{{milestone:{label:1.61,id:UT22084-062-014-167}}}This concludes the Mahāyāna sūtra “Advice to King Bimbisāra.”
+{{milestone:{label:c.1,id:UT22084-062-014-168}}}Translated, edited, and finalized by the Indian preceptor Dānaśīla and Bandé Yeshé Dé.

@@ -1,0 +1,33 @@
+{{translation:{id:UT22084-091-002,key:toh605,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble
+Dhāraṇī of Vajrabhairava
+{{milestone:{label:1.1,id:UT22084-091-002-71}}}{{page:{number:1,id:UT22084-091-002-179,folio:F.36.a}}} Homage to all buddhas and bodhisattvas!
+The victors and their heirs are stainless and remove all stain. They are infinite, unbounded, beneficent, and vast. May they all kindly{{note:{index:4,id:UT22084-091-002-75}}} and constantly grant me the most supreme and illimitable boon.{{note:{index:5,id:UT22084-091-002-76}}}
+These are my vajra statements.
+{{milestone:{label:1.2,id:UT22084-091-002-79}}}arara asama samatā anantadharmmatre{{note:{index:6,id:UT22084-091-002-80}}} khaṇā khaṇā mahāvire{{note:{index:7,id:UT22084-091-002-81}}} calesa mama āsahā{{note:{index:8,id:UT22084-091-002-82}}} mahābale kaṇa kaṇa mahābala āgrihe{{note:{index:9,id:UT22084-091-002-84}}} ha ha vajrā{{note:{index:10,id:UT22084-091-002-85}}} vajrahāye{{note:{index:11,id:UT22084-091-002-86}}} dhara dhara hūṃ hūṃ maṇḍala samapara-akravikrame kuru kuru turu turu sarvathā{{note:{index:12,id:UT22084-091-002-89}}} sarva hi jvala jvala akriṇi phaṭ svāhā{{note:{index:13,id:UT22084-091-002-90}}}
+{{milestone:{label:1.3,id:UT22084-091-002-91}}}When this essence of all vidyās and mantras has been recited a thousand times in the presence of the tathāgatas, all vidyās and mantras will have been recited a hundred thousand times.
+{{milestone:{label:1.4,id:UT22084-091-002-92}}}It accomplishes all other ritual actions unfailingly and without obstacle, for this, among all the vidyās, mantras, heart mantras, and dhāraṇīs originating from The Ritual of the Three Commitments,{{note:{index:14,id:UT22084-091-002-94}}} is the one that accomplishes all ritual actions.
+{{milestone:{label:1.5,id:UT22084-091-002-95}}}The violent rite is like a cast vajra
+That cannot be destroyed by the Thirty-Three gods,
+The nāgas, gods, or rākṣasas—
+{{milestone:{label:1.6,id:UT22084-091-002-97}}}Due to its wrath even Śakra himself, 
+Who is worshiped by the very gods, trembles.
+No bhūta would disparage it.
+It is the most excellent of protections.
+{{milestone:{label:1.7,id:UT22084-091-002-98}}}In the world with its gods,
+There is no teacher like the Buddha— 
+By these words of truth may all beings be protected!
+{{milestone:{label:1.8,id:UT22084-091-002-99}}}tadyathā | oṃ vajraprākāra vajraprākāra vajra­daṃṣṭā{{note:{index:15,id:UT22084-091-002-102}}} bhayābhahā curu curu paricumbike culutele namo ratnatrayāya namo vajra­bhairavasya {{page:{number:2,id:UT22084-091-002-182,folio:F.36.b}}} mahāgaṇapatisya vajraśakti parśupāśahastāya vajrakanka vajravaiḍūrya alaṅkṛtaśarīrāya vajrapāṇir anupālāya tadyathā bhuru bhuru ānayā ānayā mahāgaṇapati laghu laghu ehi ehi ākrama ākrama śarīraṃ gṛhītam graṃhītam{{note:{index:16,id:UT22084-091-002-120}}} daṃṣṭāmā{{note:{index:17,id:UT22084-091-002-121}}} daṃśṭrīmāvā{{note:{index:18,id:UT22084-091-002-122}}} attra viśatu śarīraṃ kiñ cirāyasi{{note:{index:19,id:UT22084-091-002-123}}} vidhuna vadhana paṭa paṭa kampa kampa raṅga raṅga moda moda dhama dhama vijṛmabā vijṛmabā{{note:{index:20,id:UT22084-091-002-127}}} pūra pūra ghūrṇṇa ghūrṇṇa āviśa āviśa{{note:{index:21,id:UT22084-091-002-129}}} śīghraṃ śīghraṃ mahāvajrabhairabhe{{note:{index:22,id:UT22084-091-002-131}}} gaṇapatir ājñāvayati svāhā{{note:{index:23,id:UT22084-091-002-132}}}
+{{milestone:{label:1.9,id:UT22084-091-002-133}}}As for the rite, to paralyze all one’s enemies and counter all kākhordas, after a square maṇḍala has been prepared on cow dung and a weapon incanted seven times in a wrathful state of mind, all kākhordas will be disrupted the moment the weapon is stabbed into the ground.
+{{milestone:{label:1.10,id:UT22084-091-002-134}}}When, wishing to repel an enemy army, one incants a rod seven times and hurls it in the army's direction, all the enemy soldiers will fall into a stupor.
+{{milestone:{label:1.11,id:UT22084-091-002-135}}}If one wishes to subjugate nāgas, one should wrathfully incant a vajra seven times and thrust it at them. This will bring the nāgas under one’s control.
+{{milestone:{label:1.12,id:UT22084-091-002-136}}}When, wishing to repel hail, one spins a vajra in utter absence of forcefulness while reciting the words at low pitch and in utter secrecy, the nāgas will refrain from sending down hail.
+{{milestone:{label:1.13,id:UT22084-091-002-137}}}When, wishing to preserve liquor, one incants the ingredients and mustard seeds seven times, they will endure.
+{{milestone:{label:1.14,id:UT22084-091-002-138}}}When, wishing to allay an illness, one incants the medicines appropriate to the illness seven times mixed in water and then drinks or applies it, one will be freed from illness.
+{{milestone:{label:1.15,id:UT22084-091-002-139}}}When, wishing to perform any rite, one recites the dhāraṇī{{note:{index:24,id:UT22084-091-002-140}}} seven times, one’s intention will be accomplished.
+{{milestone:{label:1.16,id:UT22084-091-002-141}}}This completes “The Noble Dhāraṇī of Vajrabhairava,” which repels malevolence.
+{{milestone:{label:1.17,id:UT22084-091-002-142}}}Though there are many dhāraṇīs that were spoken by the noble ones, {{page:{number:3,id:UT22084-091-002-184,folio:F.37.a}}}
+This dhāraṇī was spoken directly by Vajrabhairava.
+It is the supreme dhāraṇī endowed with the seven protective acts,{{note:{index:25,id:UT22084-091-002-143}}}
+The holiest dhāraṇī that is the most extraordinary yoga.
+{{milestone:{label:c.1,id:UT22084-091-002-144}}}Translated in the presence of the great lord of yogins Amoghavajra and given{{note:{index:26,id:UT22084-091-002-145}}} to the Tibetan monk Kyo Öjung.

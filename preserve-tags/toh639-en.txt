@@ -1,0 +1,248 @@
+{{translation:{id:UT22084-091-036,key:toh639,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble
+One Hundred and Eight Names of Youthful Mañjuśrī Accompanied by His Dhāraṇī-Mantra
+{{milestone:{label:1.1,id:UT22084-091-036-66}}}{{page:{number:1,id:UT22084-091-036-332,folio:F.118.b}}} Homage to the perfectly and completely awakened buddhas of the ten directions, whose minds, utterly wondrous and pure, pervade the entire domain of knowable things.
+Youthful Mañjuśrī, your heart is free of any stain or flaw, your body ornamented by an effulgent constellation of untainted virtues. Gods, humans, asuras, nāgas, and vidyādharas touch their topknots and the tips of their crowns to the lotus beneath your feet. Homage to you! {{page:{number:2,id:UT22084-091-036-334,folio:F.119.a}}}
+{{milestone:{label:1.2,id:UT22084-091-036-69}}}Mañjughoṣa, great bodhisattva who vanquishes the various states{{note:{index:9,id:UT22084-091-036-70}}} of misery, we pay homage to you.{{note:{index:10,id:UT22084-091-036-71}}}
+{{milestone:{label:1.3,id:UT22084-091-036-72}}}tadyathā | oṃ bho{{note:{index:11,id:UT22084-091-036-73}}} ­mahā{{note:{index:12,id:UT22084-091-036-74}}}­maṇirucira­kalāpa vicitra­muktadāma-alaṃ­kṛtaśarīra parama­satva­mocaka{{note:{index:13,id:UT22084-091-036-76}}} tathāgata­mahā{{note:{index:14,id:UT22084-091-036-77}}}­dharma{{note:{index:15,id:UT22084-091-036-78}}}koṣa­dhara pravara­dharma labdha vijaya­surata sam­bhogaupa­deśaka{{note:{index:16,id:UT22084-091-036-79}}} kleśa­gara{{note:{index:17,id:UT22084-091-036-80}}}­praśamaka śūnyatā{{note:{index:18,id:UT22084-091-036-81}}}svabhāva-anusvari mahā­bodhi­satvavara varata{{note:{index:19,id:UT22084-091-036-82}}} varaṇadada{{note:{index:20,id:UT22084-091-036-83}}}{{note:{index:21,id:UT22084-091-036-84}}}
+{{milestone:{label:1.4,id:UT22084-091-036-85}}}oṃ mahāpāśa prasara asamasama anantasama{{note:{index:22,id:UT22084-091-036-86}}} samantabhadra{{note:{index:23,id:UT22084-091-036-87}}} samantasan­dhara{{note:{index:24,id:UT22084-091-036-88}}} samanta-ākara{{note:{index:25,id:UT22084-091-036-89}}} samantaprasara sara sara he he{{note:{index:26,id:UT22084-091-036-90}}} mañjurava{{note:{index:27,id:UT22084-091-036-91}}} mahāvajra mahākhaḍga{{note:{index:28,id:UT22084-091-036-92}}}{{note:{index:29,id:UT22084-091-036-93}}}
+{{milestone:{label:1.5,id:UT22084-091-036-94}}}cchinda cchinda bhinda bhinda viraja viraja karma-apagamaka{{note:{index:30,id:UT22084-091-036-98}}} kuru kuru dhuru dhuru suru suru muru muru{{note:{index:31,id:UT22084-091-036-99}}} dha dha dha dha{{note:{index:32,id:UT22084-091-036-100}}} dhu dhu dhu dhu mahā mahā mahā mahā{{note:{index:33,id:UT22084-091-036-101}}} mohaya mohaya bho bho bhīma bhīma{{note:{index:34,id:UT22084-091-036-102}}} nāda nāda{{note:{index:35,id:UT22084-091-036-103}}} sara sara mahābodhisatva{{note:{index:36,id:UT22084-091-036-104}}} mocaya{{note:{index:37,id:UT22084-091-036-105}}}
+{{milestone:{label:1.6,id:UT22084-091-036-106}}}mama nātham anusṛta{{note:{index:38,id:UT22084-091-036-107}}} apāya duḥkhaṃ{{note:{index:39,id:UT22084-091-036-108}}} sukham{{note:{index:40,id:UT22084-091-036-109}}} mahākāruṇikā{{note:{index:41,id:UT22084-091-036-110}}} anātho ’haṃ duḥkhito ’haṃ sarajo ’ham{{note:{index:42,id:UT22084-091-036-111}}} uva{{note:{index:43,id:UT22084-091-036-112}}}druto{{note:{index:44,id:UT22084-091-036-113}}} ’haṃ avi{{note:{index:45,id:UT22084-091-036-114}}}vikto ’haṃ kusi{{note:{index:46,id:UT22084-091-036-115}}}dho ’haṃ mārana{{note:{index:47,id:UT22084-091-036-116}}}dharmo ’haṃ tvana bhagavām{{note:{index:48,id:UT22084-091-036-117}}} duḥkhitānāṃ sukhaṃdadā{{note:{index:49,id:UT22084-091-036-118}}} anāthānāṃ sanātha{{note:{index:50,id:UT22084-091-036-119}}}kara sarajasāṃ{{note:{index:51,id:UT22084-091-036-120}}} virajaskara{{note:{index:52,id:UT22084-091-036-121}}}
+{{milestone:{label:1.7,id:UT22084-091-036-122}}}upadruhā{{note:{index:53,id:UT22084-091-036-123}}}nāṃ svara-upa{{note:{index:54,id:UT22084-091-036-124}}}dravapra{{note:{index:55,id:UT22084-091-036-125}}}śamaka avivikatānāṃ{{note:{index:56,id:UT22084-091-036-126}}} kuśala{{note:{index:57,id:UT22084-091-036-127}}}sambhara paripūrayitā kusidhānām{{note:{index:58,id:UT22084-091-036-128}}} mahāviryadhatā{{note:{index:59,id:UT22084-091-036-129}}} māraṇa{{note:{index:60,id:UT22084-091-036-130}}}dharmiṇa mama tipadādātā{{note:{index:61,id:UT22084-091-036-131}}} mama vibhagavān{{note:{index:62,id:UT22084-091-036-132}}} nātho bhava śaraṇam parāyaṇaṃ{{note:{index:63,id:UT22084-091-036-133}}} tratā{{note:{index:64,id:UT22084-091-036-134}}}{{note:{index:65,id:UT22084-091-036-135}}}
+{{milestone:{label:1.8,id:UT22084-091-036-136}}}sarva­duḥkhāni me praśamaya{{note:{index:66,id:UT22084-091-036-137}}} sarva­kleśa­rajīṃsi{{note:{index:67,id:UT22084-091-036-138}}} mi{{note:{index:68,id:UT22084-091-036-139}}} avanaya{{note:{index:69,id:UT22084-091-036-140}}} sarva­saṃ­sāraupa­drava­duḥkhāni me nāśaya{{note:{index:70,id:UT22084-091-036-141}}} sarva{{note:{index:71,id:UT22084-091-036-142}}}kuśala­dharma­pari­pūram me{{note:{index:72,id:UT22084-091-036-143}}} kuru sarva­karma-āvaraṇa­kleśa{{note:{index:73,id:UT22084-091-036-144}}}­paravata{{note:{index:74,id:UT22084-091-036-145}}} me vikira{{note:{index:75,id:UT22084-091-036-146}}} mahā­bodhi{{note:{index:76,id:UT22084-091-036-147}}}­satva­sibidhi{{note:{index:77,id:UT22084-091-036-149}}} vīrya­pāram­itāyogam me sanniyojaya{{note:{index:78,id:UT22084-091-036-150}}}{{note:{index:79,id:UT22084-091-036-151}}}
+{{milestone:{label:1.9,id:UT22084-091-036-152}}}a{{note:{index:80,id:UT22084-091-036-153}}}raṇadharma virāgaviraja sañjaha prajaha dhariṇi{{note:{index:81,id:UT22084-091-036-154}}}sama khasama jalanidhisama merusama{{note:{index:82,id:UT22084-091-036-155}}} mahābodhi­satva parada{{note:{index:83,id:UT22084-091-036-157}}} svāhā{{note:{index:84,id:UT22084-091-036-158}}}
+{{milestone:{label:1.10,id:UT22084-091-036-159}}}No sooner did Mañjughoṣa speak
+This vidyāmantra, which accomplishes all aims, {{page:{number:3,id:UT22084-091-036-336,folio:F.119.b}}}
+Than the birth and aging of sentient beings
+Were extinguished.
+{{milestone:{label:1.11,id:UT22084-091-036-160}}}All states of misery were pacified,
+And Māra’s armies shuddered.
+All the gods were delighted,
+And the vināyakas were terrified.
+{{milestone:{label:1.12,id:UT22084-091-036-161}}}The very instant this dhāraṇī, 
+Which pacifies sins, was spoken,
+Countless hundreds of millions of beings
+Were freed from the prison of saṃsāra. 
+{{milestone:{label:1.13,id:UT22084-091-036-162}}}When Youthful Mañjuśrī, 
+Praising Mañjughoṣa,
+Spoke the vidyāmantra, 
+It shook the ground,
+{{milestone:{label:1.14,id:UT22084-091-036-163}}}And what moves and does not move upon it,
+Together with crag, forest, and grove,{{note:{index:85,id:UT22084-091-036-164}}}
+As the radiance of the buddhas’ light rays
+Covered the face of the earth.
+{{milestone:{label:1.15,id:UT22084-091-036-165}}}All the vighnas and vināyakas,
+And the rākṣasas, frightful in form,
+Cried out in harmony: 
+“We bow to the one who possesses the ten strengths!”
+{{milestone:{label:1.16,id:UT22084-091-036-166}}}The gods who bear a peaceful demeanor, 
+All their minds delighted,
+Came before the bearer
+Of the great vajra sword and said,
+{{milestone:{label:1.17,id:UT22084-091-036-167}}}“Homage to the granter of the highest, highest vajra,
+To Mañjughoṣa the mighty,
+The victorious one endowed with the thousand strengths,
+Destroyer of the dominion of the vighnas,
+{{milestone:{label:1.18,id:UT22084-091-036-168}}}“Mantra wielder who wields the great mantra,
+Polyform lord of humankind,
+Fearsome, beautiful form of power,
+Annihilator, fiercer than fierce.
+{{milestone:{label:1.19,id:UT22084-091-036-169}}}“Glory more radiant than radiant,
+Exemplar of unequaled glory,
+Vajra holder purifying hearts,
+He who removes the cataracts of ignorance,
+{{milestone:{label:1.20,id:UT22084-091-036-170}}}“He of the finest, charming appearance,
+Overjoyed charmer, lord of all beings,
+Long-armed powerful bowman,
+Dispeller of the enemy afflictions,
+{{milestone:{label:1.21,id:UT22084-091-036-172}}}“Wearing the manifold garments of beauty,
+Wreathed in many-colored flowers,
+Lovely eyed with an elegant head,
+Joy cloaked in elegance,
+{{milestone:{label:1.22,id:UT22084-091-036-174}}}“Gentle voice (mañjughoṣa) full of laughter, {{page:{number:4,id:UT22084-091-036-338,folio:F.120.a}}}
+With eyes whose color is distinct,{{note:{index:86,id:UT22084-091-036-175}}}
+Voice resounding ha ha,
+Delighted to teach the abstruse,{{note:{index:87,id:UT22084-091-036-176}}}
+{{milestone:{label:1.23,id:UT22084-091-036-177}}}“Resplendent gold complexion,{{note:{index:88,id:UT22084-091-036-178}}}
+He whose domain is the oceanic essence,
+Terrifying in his knowledge of conduct and his discipline,{{note:{index:89,id:UT22084-091-036-180}}}
+Terrifier of those who are hostile to the core, 
+{{milestone:{label:1.24,id:UT22084-091-036-181}}}“Blue-clad protector of the realm,
+Lord of gods, bringer of joy,
+God of desire who demonstrates dispelling desire,
+King{{note:{index:90,id:UT22084-091-036-183}}} and sustainer of worlds,
+{{milestone:{label:1.25,id:UT22084-091-036-184}}}“Famed as steady among the steady,
+Blossoming in all directions because of his good qualities,
+Venerated with reverence,
+Always worshiped and honored,
+{{milestone:{label:1.26,id:UT22084-091-036-186}}}“Great in power, great in strength,
+Long-armed commander of tremendous armies,
+Mesmerizing holy vajra,
+Protective compunction wise in restraint,{{note:{index:91,id:UT22084-091-036-187}}}
+{{milestone:{label:1.27,id:UT22084-091-036-188}}}“Supreme essence of the great maṇḍala,
+Teacher of the great maṇḍala,
+Renowned in the great maṇḍala,{{note:{index:92,id:UT22084-091-036-190}}}
+Acting within the great maṇḍala,{{note:{index:93,id:UT22084-091-036-191}}}
+{{milestone:{label:1.28,id:UT22084-091-036-192}}}“Moon-like master of the maṇḍala,{{note:{index:94,id:UT22084-091-036-193}}}
+With a retinue at his feet showing honor,
+Great lord of ha ha and svāhā,{{note:{index:95,id:UT22084-091-036-194}}}
+Receiving offerings equal to the earth,{{note:{index:96,id:UT22084-091-036-195}}}
+{{milestone:{label:1.29,id:UT22084-091-036-196}}}“Terrifier who terrifies with hūṃ, 
+Who illuminates with terrifying light,
+The one revered by the gods and asuras,
+Who worship and pay homage{{note:{index:97,id:UT22084-091-036-197}}} to him,
+{{milestone:{label:1.30,id:UT22084-091-036-198}}}“He whose servants bellow with laughter,{{note:{index:98,id:UT22084-091-036-199}}}
+Dispeller of both fierce winds and inertia,
+Gloriously famed throughout the triple world,
+Attended to by yakṣas and rākṣasas,
+{{milestone:{label:1.31,id:UT22084-091-036-201}}}“Fierce and brilliant source of bliss,{{note:{index:99,id:UT22084-091-036-202}}}
+Sovereign possessing the crown jewel,
+The one revealing a charming smile,
+With conduct steady as the earth,
+{{milestone:{label:1.32,id:UT22084-091-036-203}}}“Splendid jewel maṇḍala,
+Brilliantly shining sun,
+He who is like the light of the sun and a curved rainbow,
+Dwelling in pure water,{{note:{index:100,id:UT22084-091-036-205}}} his smile broad,
+{{milestone:{label:1.33,id:UT22084-091-036-206}}}“Whose sight brings repeated joy,{{note:{index:101,id:UT22084-091-036-207}}}
+Bestower of wealth, bestower of mantra,
+Bestower of lordship, bestower of sovereignty, {{page:{number:5,id:UT22084-091-036-340,folio:F.120.b}}}
+Bestower of beauty, bestower of power,
+{{milestone:{label:1.34,id:UT22084-091-036-208}}}“Glorious creator of fortune, vighna-crushing mountain,
+Dispeller of delusion,
+The one who takes his seat in the assembly,
+The one at whose feet a hoard of offerings accrues,
+{{milestone:{label:1.35,id:UT22084-091-036-209}}}“Bearer of armlets, earrings, and bracelets,
+Adorned with jewel ornaments, 
+A lamp for beings moving and still,
+Dispeller of the cataracts of ignorance,{{note:{index:102,id:UT22084-091-036-210}}}
+{{milestone:{label:1.36,id:UT22084-091-036-211}}}“Teacher, revealer, protector,
+Lord, sovereign, greatest of warriors,
+Dispeller of fears,
+Bestower of the fearless state,
+{{milestone:{label:1.37,id:UT22084-091-036-213}}}“White, blue, and luminous,
+Blue-throated teacher,{{note:{index:103,id:UT22084-091-036-214}}}
+Disciplining with suitable discipline,
+Demonstrating the appropriate guise,
+{{milestone:{label:1.38,id:UT22084-091-036-215}}}“Striking with the sword of wisdom,
+Firmly upholding the truth of emptiness,
+Supreme love and consummate knowledge,
+Definite fame and renown,
+{{milestone:{label:1.39,id:UT22084-091-036-216}}}“Praised by wielders of vidyāmantra,
+Powerful wielder of vidyāmantra,
+Triumphant cakravartin,
+Fearlessly intelligent and wise,
+{{milestone:{label:1.40,id:UT22084-091-036-217}}}“Tathāgata, upholder of the Dharma,
+Melodious, peaceful tamer,
+Revealer of the way to peace,
+Esteemed by the gods and asuras,
+{{milestone:{label:1.41,id:UT22084-091-036-218}}}“Bestowing fearlessness on all sentient beings,
+Teacher of all sentient beings,
+Steadfast one, highest of all sentient beings,
+Master of the minds of sentient beings,
+{{milestone:{label:1.42,id:UT22084-091-036-219}}}“Nārāyaṇa, fierce in strength,
+Like firelight,
+He whose youthful body is supreme, bestower of the supreme,
+Displaying sport and dance,
+{{milestone:{label:1.43,id:UT22084-091-036-220}}}“Performer of mudrā and mantra,
+Not grasping at ‘mine,’ dispassionate,{{note:{index:104,id:UT22084-091-036-221}}} steady, 
+Orator incomparable like the sky,
+Eviscerator of Māra’s armies,
+{{milestone:{label:1.44,id:UT22084-091-036-222}}}“The greatest of persons, boundless in exertion
+Thus indomitable and victorious,
+Steadfast one, buddha, tathāgata,
+Free of sorrow and without abode,
+{{milestone:{label:1.45,id:UT22084-091-036-224}}}“Unvanquishable, eloquent, and finely styled, 
+Foe-destroying hero, {{page:{number:6,id:UT22084-091-036-342,folio:F.121.a}}}
+Yogi who overcomes those of great physical prowess, 
+All-pervasive suppressor of desire,
+{{milestone:{label:1.46,id:UT22084-091-036-226}}}“Lord, foremost of the Victor’s heirs,
+Subduer of the Lord of Death, protector of beings,
+Incinerator of karma and afflictive emotions, 
+Teacher dispelling the afflictive emotions—
+{{milestone:{label:1.47,id:UT22084-091-036-227}}}“Excellent one, 
+Your hundred and eight supreme names,
+Illuminating and conducive to faith,
+Were revealed by the highest of the gods.
+{{milestone:{label:1.48,id:UT22084-091-036-228}}}“And have now been praised 
+By the wild and fierce great vighnas, vināyakas, 
+Yakṣas, asuras, rākṣasas, 
+And ojohāras.”{{note:{index:105,id:UT22084-091-036-229}}}
+{{milestone:{label:1.49,id:UT22084-091-036-230}}}Mañjuśrī, with a gesture of his sublime vajra,
+Looked about and was pleased,
+And holding all those beings in his regard,
+He spoke thus:
+{{milestone:{label:1.50,id:UT22084-091-036-231}}}“May you all be free of obstacles forever,
+And may you attain the highest welfare and liberation.
+May you find no danger, but goodness and fortune instead—
+Do not be afraid of me.”
+{{milestone:{label:1.51,id:UT22084-091-036-232}}}Then the Tathāgata{{note:{index:106,id:UT22084-091-036-233}}} boomed with thunderous laughter,
+Turned his dazzling visage
+Toward the east,
+And spoke, saying,
+{{milestone:{label:1.52,id:UT22084-091-036-235}}}“Kye-ma! A vast store of sentient beings’ merit
+Has arisen
+To dispel their gloom,
+The object of the sublime mantra.
+{{milestone:{label:1.53,id:UT22084-091-036-236}}}“Kye-ma! This boon-bestowing dhāraṇī
+Has been revealed by Mañju’s recitation
+To purify sentient beings
+Who have created great merit.
+{{milestone:{label:1.54,id:UT22084-091-036-237}}}“Some, entering into equipoise,
+Recite this dhāraṇī and succeed
+In dispelling all suffering—
+For others, to hear or contemplate it is sufficient.
+{{milestone:{label:1.55,id:UT22084-091-036-238}}}“It will accomplish all their aims
+And free them from all suffering.
+With it they are sure to succeed
+In the purification of all their evil.
+{{milestone:{label:1.56,id:UT22084-091-036-239}}}“Before long they will attain
+The great ground of the tathāgatas.
+Those great sentient beings who wish to inhabit
+The great and holy bodhisattva grounds—{{page:{number:7,id:UT22084-091-036-344,folio:F.121.b}}}
+Joyful, Stainless,
+Luminous, Radiant, 
+Invincible, Immediacy,
+Far Reaching, Immovable, 
+Eminence, and Cloud of Dharma{{note:{index:107,id:UT22084-091-036-240}}}—
+Will, at the end of their lives, arrive there unimpeded.
+{{milestone:{label:1.57,id:UT22084-091-036-241}}}“They will attain the unexcelled awakening
+That purifies all sin,
+That is pleasing to all sentient beings,
+And that pacifies all elaboration.
+{{milestone:{label:1.58,id:UT22084-091-036-242}}}“Those who rise in the morning 
+And, with a serene mind, 
+Join their palms together
+To Mañjughoṣa before them and recite
+{{milestone:{label:1.59,id:UT22084-091-036-243}}}“These one hundred and eight alluring, auspicious,
+And supremely virtuous names
+That invoke all the wielders of vidyāmantra
+And that pacify all evil—
+{{milestone:{label:1.60,id:UT22084-091-036-244}}}“They will be protected, always,
+By all the wielders of vidyāmantra 
+And by the lords of the gods
+And the many yakṣas and rākṣasas. 
+{{milestone:{label:1.61,id:UT22084-091-036-245}}}“They will be protected, in all certainty,
+By all the tathāgatas’ heirs,
+The tathāgatas themselves,
+And the bearers, too, of vajra weapons.
+{{milestone:{label:1.62,id:UT22084-091-036-246}}}“They will dwell in the body of a buddha,
+And they will appear in equipoise.
+The yakṣas and the lords of the gods,
+The vighnas and the great vināyakas—
+In delight and with holy intentions—
+Will prostrate to them from afar.
+Therefore, owing to their delight, the vighnas
+Will find themselves no longer able to do harm.
+{{milestone:{label:1.63,id:UT22084-091-036-248}}}“A single recitation will bring about the attainment
+Of merit equal to that of a great brahmā.
+When a person of great wisdom
+Has recited daily the sublime names,
+{{milestone:{label:1.64,id:UT22084-091-036-249}}}“They will attain stainlessness and purity, 
+Clarity and a pleasing voice,
+And a station that is delightful 
+And alluring to every sentient being.
+{{milestone:{label:1.65,id:UT22084-091-036-250}}}“This dhāraṇī, proclaimed by the victors, is unparalleled.
+It gives rise to the powers, leads one to the supreme path, {{page:{number:8,id:UT22084-091-036-346,folio:F.122.a}}}
+And is praised by the luminous pledge-deities.{{note:{index:108,id:UT22084-091-036-251}}}
+It is enchanting and desired by the hosts of gods and asuras.” 
+{{milestone:{label:1.66,id:UT22084-091-036-252}}}This concludes the noble “One Hundred and Eight Names of Mañjuśrī Accompanied by His Dhāraṇī-Mantra.”

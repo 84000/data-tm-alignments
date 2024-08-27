@@ -1,0 +1,18 @@
+{{translation:{id:UT22084-066-012,key:toh254,version:1.0.6,style:annotated}}}
+{{milestone:{label:tr,id:translation}}}The Noble Mahāyāna
+Sūtra of Dharmaketu
+{{milestone:{label:1.1,id:UT22084-066-012-76}}}{{page:{number:1,id:UT22084-066-012-119,folio:F.70.b}}} Homage to all buddhas and bodhisattvas.
+{{milestone:{label:1.2,id:UT22084-066-012-78}}}Thus did I hear at one time. The Blessed One was staying in Śrāvastī, in Prince Jeta’s Grove, Anātha­piṇḍada’s park. At that time, a bodhisattva named Dharmaketu who was present in his retinue rose from his seat and addressed this question to the Blessed One: “Blessed One, which are the qualities that bodhisattvas must possess to become unsurpassed, perfect, and completely awakened buddhas quickly?”
+{{milestone:{label:1.3,id:UT22084-066-012-79}}}The Blessed One replied, “Noble child, there are ten qualities that bodhisattvas should possess to become unsurpassed, perfect, and completely awakened buddhas quickly. What are those ten? They are as follows:
+{{milestone:{label:1.4,id:UT22084-066-012-80}}}“The bodhisattvas have faith. 
+They have bodhicitta. 
+They do not forsake their spiritual mentors. 
+They dwell in seclusion and abandon worldly distractions. {{page:{number:2,id:UT22084-066-012-120,folio:F.71.a}}}
+They seek out the oral instructions of gurus and preceptors.{{note:{index:7,id:UT22084-066-012-81}}}
+They have compassion. 
+They are learned in many teachings. 
+They have meditative concentration.
+They have ethical conduct.
+Through unparalleled joyous effort, they accomplish every one of their aims.” 
+{{milestone:{label:1.5,id:UT22084-066-012-82}}}The Blessed One spoke these words, and the bodhisattva Dharmaketu{{note:{index:8,id:UT22084-066-012-83}}} and all those in that retinue praised what the Blessed One had said. 
+{{milestone:{label:1.6,id:UT22084-066-012-84}}}This concludes the noble “Sūtra of Dharmaketu.”

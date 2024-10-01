@@ -1,0 +1,244 @@
+{{translation:{id:UT22084-072-021,key:toh321,version:1.0.7,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-072-021-translation}}}The Verses on Circumambulating Shrines
+{{milestone:{label:1.1,id:UT22084-072-021-279}}}{{page:{number:1,id:UT22084-072-021-280,folio:F.198.b}}} Homage to the Three Jewels. 
+Śāriputra, the greatly wise one, 
+Foremost among those with wisdom,{{note:{index:20,id:UT22084-072-021-113}}}
+Who turns the wheel of Dharma in the world,
+Asked the Teacher a question. 
+{{milestone:{label:1.2,id:UT22084-072-021-114}}}“What karmic result will there be 
+For those who circumambulate a shrine?
+Illustrious one, supreme in the world,
+Perfect guide, please tell me.”
+{{milestone:{label:1.3,id:UT22084-072-021-115}}}The best of those who walk on two feet,
+The teacher, the perfect Buddha, answered,
+“I will only teach a portion of the virtues
+Of those who circumambulate a shrine.
+{{milestone:{label:1.4,id:UT22084-072-021-116}}}“Those who circumambulate a shrine
+Shall be honored everywhere
+By devas, nāgas, and likewise by yakṣas,
+And, indeed, by piśācas and rākṣasas.{{note:{index:21,id:UT22084-072-021-117}}}
+{{milestone:{label:1.5,id:UT22084-072-021-118}}}“Those who circumambulate a shrine, {{page:{number:2,id:UT22084-072-021-281,folio:F.199.a}}}
+Even only a single time, 
+Having gained the opportunity so hard to find,
+Will be freed from the eight inopportune states.
+{{milestone:{label:1.6,id:UT22084-072-021-119}}}“Those who circumambulate a shrine
+Will possess mindfulness, intelligence,
+Beauty, and clearsightedness, 
+And be honored everywhere.
+{{milestone:{label:1.7,id:UT22084-072-021-120}}}“Those who circumambulate a shrine
+Will acquire a long lifespan
+As a god or likewise as a human,{{note:{index:22,id:UT22084-072-021-121}}}
+And great renown too.
+{{milestone:{label:1.8,id:UT22084-072-021-122}}}“Those who circumambulate a shrine 
+Will be born possessing intelligence{{note:{index:23,id:UT22084-072-021-123}}}
+And also a lineage that is pure
+In the foremost clan in Jambūdvīpa.
+{{milestone:{label:1.9,id:UT22084-072-021-124}}}“Those who circumambulate a shrine
+Will have a kind and pure countenance,
+A good complexion, and be bright too.{{note:{index:24,id:UT22084-072-021-125}}}
+They will dwell in happiness.
+{{milestone:{label:1.10,id:UT22084-072-021-126}}}“Those who circumambulate a shrine
+Will have great wealth and riches.
+They will not be miserly, but generous,
+And will take pleasure in giving.
+{{milestone:{label:1.11,id:UT22084-072-021-127}}}“Those who circumambulate a shrine
+Will achieve great prosperity.
+They will be beautiful and gorgeous,
+With an attractive and lovely skin tone.
+{{milestone:{label:1.12,id:UT22084-072-021-128}}}“Those who circumambulate a shrine 
+Will not be deluded about phenomena, 
+Seeing conditioned things as empty,{{note:{index:25,id:UT22084-072-021-129}}}
+And will quickly obtain happiness.
+{{milestone:{label:1.13,id:UT22084-072-021-130}}}“Those who circumambulate a shrine
+Will be born as a most excellent kṣatriya,
+Surrounded by a wife and children, 
+And endowed with strength and vigor.
+{{milestone:{label:1.14,id:UT22084-072-021-131}}}“Those who circumambulate a shrine
+Will be born as a great landowning brahmin,
+Endowed with moral discipline and learning,
+With knowledge of the Vedas and mantras.
+{{milestone:{label:1.15,id:UT22084-072-021-132}}}“Those who circumambulate a shrine
+Will be born as a great landowning householder,
+Having much wealth and many riches, 
+With grain and cattle in abundance.
+{{milestone:{label:1.16,id:UT22084-072-021-133}}}“Those who circumambulate a shrine
+Will become lord and sovereign of Jambūdvīpa,
+A righteous king whose rule extends
+To the ends of the earth.
+{{milestone:{label:1.17,id:UT22084-072-021-134}}}“Those who circumambulate a shrine
+Will become a wheel-turning king, 
+Possessing the seven royal treasures, {{page:{number:3,id:UT22084-072-021-282,folio:F.199.b}}}
+And roll the wheel according to the Dharma.
+{{milestone:{label:1.18,id:UT22084-072-021-135}}}“Those who circumambulate a shrine
+Will go to higher realms once they pass on from here, 
+Find joy in the Buddha’s teachings,{{note:{index:26,id:UT22084-072-021-136}}}
+Become yogins, and gain great miraculous powers.
+{{milestone:{label:1.19,id:UT22084-072-021-137}}}“Those who circumambulate a shrine,
+After passing on from the divine realms,
+Will be reborn again among humans,
+Entering the womb without delusion.
+{{milestone:{label:1.20,id:UT22084-072-021-286}}}“Those who circumambulate a shrine
+Will not become tainted 
+By the impurities and flaws of the womb;
+They will be like a pure jewel.{{note:{index:27,id:UT22084-072-021-138}}}
+{{milestone:{label:1.21,id:UT22084-072-021-139}}}“Those who circumambulate a shrine
+Will dwell at ease inside their mothers.
+They will be at ease as they are born; 
+At ease they will suckle their mothers’ breasts.
+{{milestone:{label:1.22,id:UT22084-072-021-140}}}“Those who circumambulate a shrine
+Will be supported and nourished by many servants,
+As well as by their fathers,
+And always cared for by nurses.{{note:{index:28,id:UT22084-072-021-141}}}
+{{milestone:{label:1.23,id:UT22084-072-021-142}}}“Those who circumambulate a shrine
+Will prosper right from birth,
+Be dearly beloved of relatives,
+And especially doted upon by parents. 
+{{milestone:{label:1.24,id:UT22084-072-021-143}}}“Those who circumambulate a shrine 
+Will not be able to be harmed{{note:{index:29,id:UT22084-072-021-144}}}
+By piśācas or rākṣasas.
+They will enjoy unhindered abundance.
+{{milestone:{label:1.25,id:UT22084-072-021-145}}}“Those who circumambulate a shrine
+Will have an immaculate body
+And never be blind or crippled, 
+Through hundreds of eons.
+{{milestone:{label:1.26,id:UT22084-072-021-146}}}“Those who circumambulate a shrine
+Will have perfectly clear eyes,
+Long and shapely, dark, alluring,
+And also obtain the divine eye.
+{{milestone:{label:1.27,id:UT22084-072-021-147}}}“Those who circumambulate a shrine
+Will be steady in body,{{note:{index:30,id:UT22084-072-021-148}}} steady in mind,
+Steady too in diligence, 
+And have steady, rounded shoulders.{{note:{index:31,id:UT22084-072-021-149}}}
+{{milestone:{label:1.28,id:UT22084-072-021-150}}}“Those who circumambulate a shrine
+Will be strong, perfect in shape and form,
+And their limbs will be well adorned
+With all auspicious marks.
+{{milestone:{label:1.29,id:UT22084-072-021-151}}}“Those who circumambulate a shrine
+Will be the great lord of the gods,
+Śakra, whose miraculous powers are great, {{page:{number:4,id:UT22084-072-021-283,folio:F.200.a}}}
+Lord of the Heaven of the Thirty-Three.
+{{milestone:{label:1.30,id:UT22084-072-021-152}}}“Those who circumambulate a shrine 
+Will be king of the gods in the Heaven Without Strife,
+Or likewise in the Heavens of Joy, 
+Joyful Emanation, or Controlling Others’ Emanations.{{note:{index:32,id:UT22084-072-021-153}}}
+{{milestone:{label:1.31,id:UT22084-072-021-154}}}“Those who circumambulate a shrine
+Will be lord of brahmās
+In the Brahmā World,
+Honored by tens of millions of gods.
+{{milestone:{label:1.32,id:UT22084-072-021-155}}}“Those who circumambulate a shrine
+Will have wisdom and continually be honored
+Over tens of billions of eons or, indeed, 
+For millions upon billions of eons.
+{{milestone:{label:1.33,id:UT22084-072-021-156}}}“Those who circumambulate a shrine
+Will have clean bodies, clean clothing,
+And the immaculate Dharma,
+For tens of millions of eons.
+{{milestone:{label:1.34,id:UT22084-072-021-157}}}“Those who circumambulate a shrine
+Will be endowed with strength and vigor,
+Have no laziness at all,
+And achieve the greatest accomplishment.
+{{milestone:{label:1.35,id:UT22084-072-021-158}}}“Those who circumambulate a shrine
+Will be steady in diligence, steady in power, 
+Steady in skill, be their own master,
+And swiftly accomplish their goals.
+{{milestone:{label:1.36,id:UT22084-072-021-159}}}“Those who circumambulate a shrine
+Will have melodious speech,
+A fine, pleasant voice,
+And be free from harm and illness.
+{{milestone:{label:1.37,id:UT22084-072-021-160}}}“Those who circumambulate a shrine
+Will quickly achieve a rebirth 
+In a place I myself have described
+And have a great urgency there.{{note:{index:33,id:UT22084-072-021-161}}}
+{{milestone:{label:1.38,id:UT22084-072-021-162}}}“Those who circumambulate a shrine
+Will obtain the four applications of mindfulness, 
+The four immeasurable states of mind, 
+And control over the bases of miraculous power.
+{{milestone:{label:1.39,id:UT22084-072-021-163}}}“Those who circumambulate a shrine
+Will obtain the four noble truths,
+The faculties, the powers, 
+And the fruition of the factors of awakening.
+{{milestone:{label:1.40,id:UT22084-072-021-164}}}“Those who circumambulate a shrine
+Will become arhats, ones with great miraculous powers,
+Possessing the six supernormal faculties,
+Without defilement, and all their afflictions dispelled. 
+{{milestone:{label:1.41,id:UT22084-072-021-165}}}“Those who circumambulate a shrine
+Will release attachment and aversion,
+Release all enmities,{{note:{index:34,id:UT22084-072-021-166}}}
+And achieve the awakening of a pratyekabuddha.
+{{milestone:{label:1.42,id:UT22084-072-021-167}}}“Those who circumambulate a shrine {{page:{number:5,id:UT22084-072-021-284,folio:F.200.b}}}
+Will become a tathāgata in the world,
+With a body the color of gold 
+And adorned with the marks.
+{{milestone:{label:1.43,id:UT22084-072-021-168}}}“Circumambulation is an act of the body. 
+Circumambulation is an act of speech.
+Circumambulation is an act of the mind.
+Circumambulation is also the making of a vow.
+Here, one easily achieves through circumambulation 
+Goals that are difficult to reach.{{note:{index:35,id:UT22084-072-021-169}}}
+{{milestone:{label:1.44,id:UT22084-072-021-170}}}“Mere words cannot well convey, 
+Even slightly, the virtues of those
+Who perform a circumambulation 
+At a shrine of the World Protector.”
+{{milestone:{label:1.45,id:UT22084-072-021-171}}}When asked by Śāriputra, 
+The World Protector explained
+The virtues of venerating shrines,
+Out of compassion for beings.
+{{milestone:{label:1.46,id:UT22084-072-021-172}}}“A hundred horses, a hundred gold pieces,
+A hundred mule carts, 
+And a hundred mare-drawn carriages
+Filled with all manner of jewels
+Do not add up to even a sixteenth of the worth
+Of a single step of a circumambulation.{{note:{index:36,id:UT22084-072-021-173}}}
+{{milestone:{label:1.47,id:UT22084-072-021-174}}}“A hundred Kamboja girls{{note:{index:37,id:UT22084-072-021-175}}}
+Wearing jeweled earrings and bangles, 
+Their upper arms bearing golden armlets,
+Their necks well adorned with gold necklaces,
+Do not add up to even a sixteenth of the worth
+Of a single step of a circumambulation.
+{{milestone:{label:1.48,id:UT22084-072-021-176}}}“A hundred Himalayan elephants,{{note:{index:38,id:UT22084-072-021-177}}}
+With huge bodies, broad chests, 
+And trunks like plows, 
+Adorned with gold and jewels,
+Do not add up to even a sixteenth of the worth
+Of a single step of a circumambulation.
+{{milestone:{label:1.49,id:UT22084-072-021-178}}}“Hundreds of thousands of gold pieces from the Jambu River
+Are not equal to a single step
+Taken with a thought of joy by a wise one{{note:{index:39,id:UT22084-072-021-179}}}
+At shrines of a buddha.{{note:{index:40,id:UT22084-072-021-180}}}
+{{milestone:{label:1.50,id:UT22084-072-021-181}}}“Hundreds of thousands of nuggets{{note:{index:41,id:UT22084-072-021-182}}} of Jambu River gold
+Are not equal to a single lump of clay 
+Offered with a thought of joy by a wise one 
+At shrines of a buddha.
+{{milestone:{label:1.51,id:UT22084-072-021-183}}}“Hundreds of thousands of bowls of Jambu River gold {{page:{number:6,id:UT22084-072-021-285,folio:F.201.a}}}
+Are not equal to a handful of flower petals 
+Scattered with a thought of joy by a wise one 
+At shrines of a buddha. 
+{{milestone:{label:1.52,id:UT22084-072-021-184}}}“Tens of millions of bushels of Jambu River gold
+Are not equal to a flower garland 
+Held up with a thought of joy by a wise one 
+At shrines of a buddha.
+{{milestone:{label:1.53,id:UT22084-072-021-185}}}“Hundreds of thousands of heaps of Jambu River gold
+Are not equal to scented water 
+Sprinkled with a thought of joy by a wise one 
+At shrines of a buddha.
+{{milestone:{label:1.54,id:UT22084-072-021-186}}}“Hundreds of thousands of grams of Jambu River gold
+Are not equal to an oil lamp
+Lit with a thought of joy by a wise one 
+At shrines of a buddha.
+{{milestone:{label:1.55,id:UT22084-072-021-187}}}“Hundreds of thousands of mountains of gold 
+Are not equal to a banner or canopy 
+Raised with a thought of joy by a wise one 
+At shrines of a buddha.
+{{milestone:{label:1.56,id:UT22084-072-021-188}}}“This is the teaching on the benefits 
+Of making offerings to tathāgatas,
+Perfect buddhas, peerless caravan leaders, 
+Who are limitless, just like the ocean.{{note:{index:42,id:UT22084-072-021-189}}}
+{{milestone:{label:1.57,id:UT22084-072-021-190}}}“Whether one makes offerings to a living buddha
+Or makes them to one who has passed into nirvāṇa, 
+There is no difference in merit
+If the thought is equally devout.{{note:{index:43,id:UT22084-072-021-191}}}
+{{milestone:{label:1.58,id:UT22084-072-021-192}}}“In this way, buddhas are inconceivable;
+A buddha’s qualities are also inconceivable.
+For those who have faith{{note:{index:44,id:UT22084-072-021-193}}} in the inconceivable, 
+The karmic fruit is also inconceivable.”{{note:{index:45,id:UT22084-072-021-194}}}
+{{milestone:{label:1.59,id:UT22084-072-021-195}}}This concludes “The Verses On Circumambulating Shrines.”

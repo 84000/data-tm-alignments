@@ -1,0 +1,241 @@
+{{translation:{id:UT22084-072-022,key:toh322,version:1.0.3,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-072-022-translation}}}Verses for Prasenajit
+{{milestone:{label:1.1,id:UT22084-072-022-76}}}{{page:{number:1,id:UT22084-072-022-226,folio:F.201.a}}} Homage to the Three Jewels.
+After setting aside his parasol, crown, 
+Fly whisk, sword, and bejeweled shoes,
+And joining his palms and bowing properly, 
+King Prasenajit asked the Protector of the World a question:
+{{milestone:{label:1.2,id:UT22084-072-022-79}}}“How, O supreme mind,{{note:{index:14,id:UT22084-072-022-80}}} do people attain happiness in other lives, 
+By making offerings to the thus-gone ones, 
+Who, intent on helping and compassionate by nature, 
+Have entered nirvāṇa?”
+{{milestone:{label:1.3,id:UT22084-072-022-81}}}Since the Blessed One, a lion among men, {{page:{number:2,id:UT22084-072-022-227,folio:F.201.b}}}
+Has the eye of direct perception{{note:{index:15,id:UT22084-072-022-82}}} on all things, past and future,
+He provided these answers to Prasenajit’s question, 
+In the presence of Ānandabhadra:
+{{milestone:{label:1.4,id:UT22084-072-022-83}}}“How, by worshiping the victors,{{note:{index:16,id:UT22084-072-022-84}}}
+Do people, in other lives, 
+Obtain the various rewards{{note:{index:17,id:UT22084-072-022-85}}} they desire? 
+Listen, O King, to the answer to your question! 
+{{milestone:{label:1.5,id:UT22084-072-022-86}}}“However many particles make up stūpas and images of the Blessed One,
+As numerous as those shall be the kingdoms assuredly attained,
+In heaven and on earth,
+By people who construct them.{{note:{index:18,id:UT22084-072-022-87}}}
+{{milestone:{label:1.6,id:UT22084-072-022-88}}}“Having experienced all the supreme levels of perfect
+Meditative absorption of the form and formless realms, 
+Ultimately, they will obtain the state of buddhahood,
+Which is free from the suffering of birth, old age, and so on.
+{{milestone:{label:1.7,id:UT22084-072-022-89}}}“Those who produce an image of the Victor here,
+They will possess beauty, charm, and good qualities.
+Their senses restrained, brilliant as the sun,
+They will become beautiful for all the world to behold.{{note:{index:19,id:UT22084-072-022-90}}}
+{{milestone:{label:1.8,id:UT22084-072-022-91}}}“Those who produce an image of the Sugata, 
+Their bodies will be unblemished, 
+Soft, and wide—like the calyx of a lotus—
+Free from fear, disease, sorrow, and pain.{{note:{index:20,id:UT22084-072-022-92}}}
+{{milestone:{label:1.9,id:UT22084-072-022-93}}}“Someone who produces an image of the Protector of the World
+Will not be born a slave or a servant; 
+They will not become a beggar or an outcast, 
+And their sense faculties, moreover, will not be deficient.
+{{milestone:{label:1.10,id:UT22084-072-022-94}}}“People who build a stūpa of the Lord of Sages 
+Will be utterly unafflicted, their entire body strong, 
+With superior resources and many jewel treasuries. 
+They will also be able to defeat throngs of enemies.
+{{milestone:{label:1.11,id:UT22084-072-022-95}}}“By offering the central pillar within a stūpa of the Victor,
+They will accomplish the Dharma and what accords with it,{{note:{index:21,id:UT22084-072-022-96}}}
+And they will possess supreme morality, learning, and forbearance.
+In every world, they will accomplish all their goals.
+{{milestone:{label:1.12,id:UT22084-072-022-97}}}“By offering the tiered parasol spire,
+They will be reborn among gods and humans, 
+And like Nārāyaṇa’s body, their entire body will be strong.
+They will become someone with qualities that command respect.
+{{milestone:{label:1.13,id:UT22084-072-022-98}}}“By coating a stūpa of the Lord of Sages with whitewash, {{page:{number:3,id:UT22084-072-022-228,folio:F.202.a}}}
+They will have a long life in the worlds of gods and humans,
+Their body and mind will be freed from disease and distress,{{note:{index:22,id:UT22084-072-022-99}}}
+And they will be constantly happy and wealthy. 
+{{milestone:{label:1.14,id:UT22084-072-022-100}}}“After causing a stūpa of the Lord of Sages
+To be covered with resplendent strips of gold and silver,{{note:{index:23,id:UT22084-072-022-101}}}
+People in other, different existences
+Will have bodies that are firm and luminous as well as radiant and beautiful.
+{{milestone:{label:1.15,id:UT22084-072-022-102}}}“Whoever, with a faithful mind, 
+Offers a canopy to a stūpa or statue,
+Will rule, entirely and unhindered, as the sole victor
+Over the earth, boundless as the shores of the ocean.
+{{milestone:{label:1.16,id:UT22084-072-022-103}}}“By joyfully setting up
+Many kinds of broad parasols at stūpas of the Sugata,
+In worlds of gods and humans they will become like parasols,{{note:{index:24,id:UT22084-072-022-104}}}
+Just like lords of gods and lords of humans. 
+{{milestone:{label:1.17,id:UT22084-072-022-105}}}“People who hang various beautiful banners
+On reliquaries that have become pure sources of merit
+Will come to possess power 
+And become objects of worship in the three realms.
+{{milestone:{label:1.18,id:UT22084-072-022-106}}}“By putting a crown on a stūpa of the Sugata,{{note:{index:25,id:UT22084-072-022-107}}}
+They will obtain the fortune of the lord of humans and the fortune of the lord of gods;
+And then, having experienced supreme bliss, 
+They will obtain the special crown of liberation.{{note:{index:26,id:UT22084-072-022-108}}}
+{{milestone:{label:1.19,id:UT22084-072-022-109}}}“By offering bells to stūpas of the Victor,{{note:{index:27,id:UT22084-072-022-110}}}
+They will have compelling speech{{note:{index:28,id:UT22084-072-022-111}}} and great fame,
+The pleasant, melodious voice of Brahmā, and recall of previous lives,
+And they will obtain various adornments.{{note:{index:29,id:UT22084-072-022-112}}}
+{{milestone:{label:1.20,id:UT22084-072-022-113}}}“Whichever wise person, with a faithful mind, 
+Hangs a garland at a stūpa of the Sugata,
+That meritorious person will, over their head,
+Wear many precious golden garlands.
+{{milestone:{label:1.21,id:UT22084-072-022-114}}}“Those who drape ornaments on stūpas of the Teacher
+Will go about the world adorned
+With multistranded necklaces, collar necklaces,
+Bracelets, and the finest armlets.{{note:{index:30,id:UT22084-072-022-115}}}
+{{milestone:{label:1.22,id:UT22084-072-022-116}}}“Those who smear earth and cow dung{{note:{index:31,id:UT22084-072-022-117}}}
+On a stūpa of the Sugata
+Will be happy and born among gods and humans, 
+With bodies that are beautiful, utterly pure, and flawless.
+{{milestone:{label:1.23,id:UT22084-072-022-118}}}“By sweeping around a stūpa of the Lord of Sages, {{page:{number:4,id:UT22084-072-022-229,folio:F.202.b}}}
+They will be very pleasant to see, beautiful to the eye,
+With a fine countenance, lotus-hued,
+And free from the flaws of craving.{{note:{index:32,id:UT22084-072-022-119}}}
+{{milestone:{label:1.24,id:UT22084-072-022-120}}}“Whoever smears a stūpa of the Sugata 
+With oil mixed with the best fragrances
+Will be worshiped with incense, 
+And their body, anointed with sandalwood, will be like the rays of the sun.
+{{milestone:{label:1.25,id:UT22084-072-022-121}}}“Whoever washes a stūpa of the Lord of Sages
+With scented water, clean and clear, 
+Will have an unblemished body, free of pain, 
+With a soft complexion, free of sorrow.
+{{milestone:{label:1.26,id:UT22084-072-022-122}}}“One who beautifies, with various paints, 
+The shrines at a stūpa of the Buddha{{note:{index:33,id:UT22084-072-022-123}}}
+Will become enveloped in{{note:{index:34,id:UT22084-072-022-124}}}
+All the various qualities of the Sugata.
+{{milestone:{label:1.27,id:UT22084-072-022-125}}}“Those who, in the springtime,{{note:{index:35,id:UT22084-072-022-126}}}
+settle all the dust around a stūpa with clean water,
+For them, women will joyfully wave away dust
+With golden-handled fans.
+{{milestone:{label:1.28,id:UT22084-072-022-127}}}“Whoever, for the sake of the Three Jewels, 
+Creates a mandala that delights the noble ones
+Will have hands and feet with webbed fingers and toes,
+And every limb, too, will be flawless.
+{{milestone:{label:1.29,id:UT22084-072-022-128}}}“Whoever offers flowers to the Three Jewels, 
+Along with freshly grown fruit,
+Will, as they transmigrate among beings,
+Obtain every supreme taste and possess indominable might.{{note:{index:36,id:UT22084-072-022-129}}}
+{{milestone:{label:1.30,id:UT22084-072-022-130}}}“Whoever venerates a statue of the Victor here 
+With vast garlands and cascades of flowers
+Will, among the worlds of gods and humans,
+Be well dressed in various, attractive garments.{{note:{index:37,id:UT22084-072-022-131}}}
+{{milestone:{label:1.31,id:UT22084-072-022-132}}}“Those who offer fragrances at stūpas of the Buddha,
+With infusions of many and various types of incense, 
+As well as agarwood incense, 
+Will have their entire body perfumed.
+{{milestone:{label:1.32,id:UT22084-072-022-133}}}“Whoever joyfully donates yak-tail fans
+To a stūpa of the Sugata,
+That eminent one will also be fanned significantly
+By the joyful mind, the yak-tail fan, that is the compassion of the victors.
+{{milestone:{label:1.33,id:UT22084-072-022-134}}}“Whoever offers to the omniscient one a delightful mirror, 
+Totally stainless, like the full moon,
+Will, amid their series of rebirths, 
+Be suitable to gaze at by gods and men. {{page:{number:5,id:UT22084-072-022-230,folio:F.203.a}}}
+{{milestone:{label:1.34,id:UT22084-072-022-135}}}“Those who offer to the stūpa of the Sugata 
+Whatever special offerings they have and can afford, 
+Accordingly will attain unsurpassable awakening, 
+Which is stainless and devoid of sorrow.
+{{milestone:{label:1.35,id:UT22084-072-022-136}}}“Whoever pays homage to stūpas or statues of the Buddha, 
+Respectfully bowing their heads,
+Will, among gods and humans, 
+Occupy a place of greater and greater esteem. 
+{{milestone:{label:1.36,id:UT22084-072-022-137}}}“Those who, with devotion, circumambulate 
+Stūpas or statues of the Sage
+Will have their enemies bow to them in future lives
+And they will become a fine vessel, full of virtues.
+{{milestone:{label:1.37,id:UT22084-072-022-138}}}“Those who, with joyful devotion, 
+Perform physical activities 
+At stūpas and statues of the Unsurpassed One 
+Will have abundant riches in every lifetime.{{note:{index:38,id:UT22084-072-022-139}}}
+{{milestone:{label:1.38,id:UT22084-072-022-140}}}“By offering musical sounds to a stūpa of the Victor, 
+They will have perfect eloquence, profound and coherent—
+With charming words, complete with the five attributes,
+The sound of their voices will fill the world. 
+{{milestone:{label:1.39,id:UT22084-072-022-141}}}“Whoever extols the reliquary of the Victor 
+Will hear the sounds of flutes and singing, 
+As well as pleasant, charming sounds,
+And will obtain correct discernment.
+{{milestone:{label:1.40,id:UT22084-072-022-142}}}“People who suitably{{note:{index:39,id:UT22084-072-022-143}}} cover the head of the World’s Superior 
+With grass or bricks,
+Or inspire others to do so—either way,
+They will be like a refuge for all beings. 
+{{milestone:{label:1.41,id:UT22084-072-022-144}}}“People who construct a temple to the Victor 
+Will, as they transmigrate among beings, 
+Obtain a splendorous home like the abode of the lord of gods 
+And happiness across all seasons of the year. 
+{{milestone:{label:1.42,id:UT22084-072-022-145}}}“In the higher realms, states that are the result of excellent karma, 
+Like Constant Happiness, where one is happy for an eon,
+They will frolic, lack sorrow, 
+And finally obtain a state of peace.
+{{milestone:{label:1.43,id:UT22084-072-022-146}}}“Whoever erects a main gate to the Sage—
+A beautiful archway like the bend of a rainbow—
+Will, in other lives, obtain mansions 
+With doors completely decorated.
+{{milestone:{label:1.44,id:UT22084-072-022-147}}}“Whichever people who, out of devotion
+And in order to protect the teacher’s reliquary, 
+Establish a moat and a gate, {{page:{number:6,id:UT22084-072-022-231,folio:F.203.b}}}
+Their enemies in other lives will not be able to rend them from their glorious qualities.
+{{milestone:{label:1.45,id:UT22084-072-022-148}}}“Whoever mends cracks in old stūpas,
+Not acting on another’s behalf 
+But of their own accord,
+Will become adorned with a fine body and the best qualities.
+{{milestone:{label:1.46,id:UT22084-072-022-149}}}“By clearing away wilted flowers from a stūpa of the Victor,
+Without being impassioned by desire or becoming hostile in anger,
+Without being deluded in ignorance or becoming engrossed in wrong views,{{note:{index:40,id:UT22084-072-022-150}}}
+People will become very joyful and happy. 
+{{milestone:{label:1.47,id:UT22084-072-022-151}}}“Whoever offers elephants bedecked with hanging bells{{note:{index:41,id:UT22084-072-022-152}}}
+And chariots harnessed to tamed horses
+To the Teacher and the community of noble ones
+Will obtain the unsurpassed Great Vehicle. 
+{{milestone:{label:1.48,id:UT22084-072-022-153}}}“Those beings who offer sparkling, choice gems
+To the Protector of the World
+Will obtain the seven precious jewels
+And the precious, pure factors of awakening. 
+{{milestone:{label:1.49,id:UT22084-072-022-154}}}“By offering clothing to a stūpa of the Victor,
+While wearing the clothes of modesty—by this meritorious act{{note:{index:42,id:UT22084-072-022-155}}}
+They will be joyful, endowed with all virtues, unselfish,
+As well as smooth skinned and golden hued. 
+{{milestone:{label:1.50,id:UT22084-072-022-156}}}“By offering a butter lamp at a stūpa of the Incomparable One,{{note:{index:43,id:UT22084-072-022-157}}}
+They will have eyes like fully blossomed blue lotuses,
+Clear, attractive, elongated, and beautiful,
+And they will have the unblemished divine eye. 
+{{milestone:{label:1.51,id:UT22084-072-022-158}}}“Whoever offers rows{{note:{index:44,id:UT22084-072-022-159}}} of butter lamps at a stūpa
+Will have attractive eyes like fully developed lotus buds,{{note:{index:45,id:UT22084-072-022-160}}}
+Elongated and sapphire hued,
+Worthy of men’s and women’s admiration.
+{{milestone:{label:1.52,id:UT22084-072-022-161}}}“At night, those who sit, palms joined, before the Great Sage
+And offer wicks for butter lamps according to their means{{note:{index:46,id:UT22084-072-022-162}}}
+Will gain rewards in other lives,
+And obtain a body with the luster of a large gem. 
+{{milestone:{label:1.53,id:UT22084-072-022-163}}}“If, when butter lamps offered to the Victor die out,
+Joyful minds become delighted at this 
+And revive the wicks,
+They will also surely obtain fivefold vision. 
+{{milestone:{label:1.54,id:UT22084-072-022-164}}}“Some people, those with virtuous minds, 
+Rejoice in the deeds done by others at a stūpa of the Victor,
+And even though such deeds are not done by them, 
+In essence it is as if they also perform those deeds. {{page:{number:7,id:UT22084-072-022-232,folio:F.204.a}}}
+{{milestone:{label:1.55,id:UT22084-072-022-165}}} “Whoever joyfully gives bedding and seats
+To those who come from morally disciplined communities, 
+Such a person, while cycling through the realms of existence,
+Will obtain a lion’s throne{{note:{index:47,id:UT22084-072-022-166}}} and the best of seats.
+{{milestone:{label:1.56,id:UT22084-072-022-167}}}“Those who give to the saṅgha
+Fine food fitting for a renunciant
+Will, amid the wilderness of cyclic existence,
+Obtain food rich in color, taste, and so on. 
+{{milestone:{label:1.57,id:UT22084-072-022-168}}}“Those who give to the saṅgha
+Ample drink fitting for a renunciant
+Will, amid the wilderness of cyclic existence,
+Obtain drink rich in color, taste, and so on. 
+{{milestone:{label:1.58,id:UT22084-072-022-169}}}“Those who practice the excellent way of the holy Dharma,
+Having heard it proclaimed by the World’s Teacher,
+Will swiftly cross the ocean of existence
+Amid the most frightening waves of afflictive emotions.
+{{milestone:{label:1.59,id:UT22084-072-022-170}}}“O King, since all these virtuous deeds
+Ripen into various worldly pleasures,
+Then the fruit that is the sublime awakening of the buddhas 
+Will be just as easy to attain.”
+{{milestone:{label:1.60,id:UT22084-072-022-171}}}Then, after the king, radiant with joy, circumambulated the sage and the saṅgha and bowed down his head at the feet of the Lord of Sages, he departed the Jeta Grove.
+{{milestone:{label:1.61,id:UT22084-072-022-172}}}“Verses for Prasenajit” is complete.

@@ -1,0 +1,6 @@
+{{translation:{id:UT22084-090-028,key:toh584,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-090-028-translation}}}The Dhāraṇī for Retaining the Noble Avatamsaka
+{{milestone:{label:1.1,id:UT22084-090-028-44}}}{{page:{number:1,id:UT22084-090-028-63,folio:F.204.a}}} Homage to the Three Jewels.
+oṃ nthiṃ | nāmaḥ sarvabuddhānām | oṃ māṃ bhrūṃ mūṃ | tadyathā | oṃ bhrūm |{{note:{index:4,id:UT22084-090-028-47}}}
+{{milestone:{label:1.2,id:UT22084-090-028-48}}}By taking up this dhāraṇī, one will retain the noble Avataṃsaka. One will be like someone who has written it and recited it.
+{{milestone:{label:1.3,id:UT22084-090-028-49}}}This completes “The Dhāraṇī for Retaining the Noble Avataṃsaka.”

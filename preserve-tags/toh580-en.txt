@@ -1,0 +1,16 @@
+{{translation:{id:UT22084-090-024,key:toh580,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-090-024-translation}}}The Dhāraṇī for Retaining the Six Perfections
+{{milestone:{label:1.1,id:UT22084-090-024-45}}}{{page:{number:1,id:UT22084-090-024-89,folio:F.203.b}}} Homage to the Three Jewels.
+By hearing this essence mantra of giving, even one time, one will obtain the perfection of giving:
+{{milestone:{label:1.2,id:UT22084-090-024-49}}}oṃ namas tasyai{{note:{index:3,id:UT22084-090-024-50}}} bhagavati dānādhipataye svāhā |{{note:{index:4,id:UT22084-090-024-51}}}
+{{milestone:{label:1.3,id:UT22084-090-024-52}}}By hearing this essence mantra of ethics, even one time, one will obtain the perfection of ethics:
+{{milestone:{label:1.4,id:UT22084-090-024-53}}}namaḥ sarvatathāgatānāṃ mahākāmātmakānām{{note:{index:5,id:UT22084-090-024-54}}} | namo bhagavatyai | śīlaparipūrṇas īraye{{note:{index:6,id:UT22084-090-024-55}}} śīlaṃ me | sādhaya sādhaya | kiṃ tiṣṭha saṃbuddho bhagavan dharmasya samājñānapayati | svāhā |{{note:{index:7,id:UT22084-090-024-56}}}
+{{milestone:{label:1.5,id:UT22084-090-024-57}}}By hearing this essence mantra of patience, even one time, one will obtain the perfection of patience:
+{{milestone:{label:1.6,id:UT22084-090-024-58}}}namaḥ sarvatathāgatāya acintya gocarya | namaḥ kṣantaye{{note:{index:8,id:UT22084-090-024-59}}} bahubhyaḥ | tathāgatānām bhūtakoṭibhiḥ parivartita ye rakṣa kuru turu turu samayam anusmara | śākyamuni sarvatathāgatānām pāramitājñānagocaro jñānagocaro 'jñānam apāyati{{note:{index:9,id:UT22084-090-024-60}}} | svāhā |{{note:{index:10,id:UT22084-090-024-61}}}
+{{milestone:{label:1.7,id:UT22084-090-024-62}}}By hearing this essence mantra of effort, even one time, one will obtain the perfection of effort:
+{{milestone:{label:1.8,id:UT22084-090-024-63}}}namaḥ sarvatathāgatānām acintya visayānām | namo stute bhagavate viryapāramitā | viryan kuru vīrye vīrye mahāvīrye tathāgata sarvājñānam apayati{{note:{index:11,id:UT22084-090-024-64}}} svāhā |{{note:{index:12,id:UT22084-090-024-65}}}
+{{milestone:{label:1.9,id:UT22084-090-024-66}}}By hearing this essence mantra of meditative concentration, even one time, one will obtain the perfection of meditative concentration:
+{{milestone:{label:1.10,id:UT22084-090-024-67}}}namaḥ sarvatathāgatānām | oṃ vimale nirmale dhyāne dhyāne dhyānapriye hūṃ phaṭ |{{note:{index:13,id:UT22084-090-024-68}}}
+{{milestone:{label:1.11,id:UT22084-090-024-69}}}By hearing this essence mantra of wisdom, even one time, one will obtain the perfection of wisdom:
+{{milestone:{label:1.12,id:UT22084-090-024-70}}}namas tathāgatāya aparimitājñānagocarāya | namo bhagavate jñānapāramitā | ye jñānam | me kuru kuru vigaṇa{{note:{index:14,id:UT22084-090-024-71}}} | tathāgatasya samayam anusmara | hi hi hi hi jñā jñā jñā jñā hūṃ hūṃ phaṭ |{{note:{index:15,id:UT22084-090-024-72}}}
+{{milestone:{label:1.13,id:UT22084-090-024-73}}}This completes “The Dhāraṇī for Retaining the Six Perfections.”

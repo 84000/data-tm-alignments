@@ -1,0 +1,6 @@
+{{translation:{id:UT22084-090-023,key:toh579,version:1.0.3,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-090-023-translation}}}The Dhāraṇī of the Essence of the Six Perfections
+{{milestone:{label:1.1,id:UT22084-090-023-46}}}{{page:{number:1,id:UT22084-090-023-65,folio:F.203.a}}} Homage to the Noble Mother, Prajñāpāramitā. Homage to the Buddha. Homage to the Dharma. Homage to the Saṅgha.
+namo dharmakāya saṃbhogakāya nirmāṇakāya | tadyathā | dānapāramitā śīlapāramitā kṣāntipāramitā vīryapāramitā dhyānapāramitā prajñāpāramitā sarvadharmaśunyatā svāhā |{{note:{index:3,id:UT22084-090-023-50}}}
+{{milestone:{label:1.2,id:UT22084-090-023-51}}}By taking this up, one will retain the six perfections, and emptiness will have been established in one’s mind. When one verbally recites this constantly, one will understand all the aphoristic and extensive teachings,{{note:{index:4,id:UT22084-090-023-52}}} one will purify the five deeds of immediate retribution, and one will also overcome all bad views.
+{{milestone:{label:1.3,id:UT22084-090-023-53}}}This completes {{page:{number:2,id:UT22084-090-023-67,folio:F.203.b}}} “The Dhāraṇī of the Essence of the Six Perfections.”

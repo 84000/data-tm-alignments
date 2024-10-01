@@ -1,0 +1,5 @@
+{{translation:{id:UT22084-090-025,key:toh581,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-090-025-translation}}}The Dhāraṇī for Obtaining the Ten Perfections
+{{milestone:{label:1.1,id:UT22084-090-025-44}}}By hearing this essence mantra of the ten perfections, even one time, one will obtain the ten perfections:
+{{milestone:{label:1.2,id:UT22084-090-025-46}}}namas saptānām{{note:{index:3,id:UT22084-090-025-47}}} tathāgatānām daśapāramitāparipūrakānām hrīḥ |{{note:{index:4,id:UT22084-090-025-48}}}
+{{milestone:{label:1.3,id:UT22084-090-025-49}}}This completes “The Dhāraṇī for Obtaining the Ten Perfections.”

@@ -1,0 +1,7 @@
+{{translation:{id:UT22084-090-027,key:toh583,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-090-027-translation}}}The Dhāraṇī for Retaining the Perfection of Wisdom in a Hundred Thousand Lines
+{{milestone:{label:1.1,id:UT22084-090-027-65}}}{{page:{number:1,id:UT22084-090-027-83,folio:F.203.b}}} Homage to the Bhagavatī, the Perfection of Wisdom.
+{{milestone:{label:1.2,id:UT22084-090-027-68}}}tadyathā | oṃ munidharme saṃgrahadharme vimuktidharme sadā anugrahadharme vaiśravaṇa parivartata | dharme sarvakārya paripramāṇadharme samatāparivartanadharme svāhā |{{note:{index:7,id:UT22084-090-027-69}}}
+{{milestone:{label:1.3,id:UT22084-090-027-70}}}oṃ prajñā śruti smṛti vijaye dhīḥ dhāraṇīye svāhā |{{note:{index:8,id:UT22084-090-027-71}}}
+{{milestone:{label:1.4,id:UT22084-090-027-72}}}{{note:{index:9,id:UT22084-090-027-73}}}By taking up this dhāraṇī, one will retain The Perfection of Wisdom in a Hundred Thousand Lines.
+{{milestone:{label:1.5,id:UT22084-090-027-74}}}This completes “The Dhāraṇī for Retaining the Perfection of Wisdom in a Hundred Thousand Lines.”

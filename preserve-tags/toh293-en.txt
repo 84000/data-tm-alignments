@@ -1,0 +1,48 @@
+{{translation:{id:UT22084-071-007,key:toh293,version:1.0.3,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-071-007-translation}}}The Mahāsūtra
+The Crest Insignia (2)
+{{milestone:{label:1.1,id:UT22084-071-007-86}}}{{page:{number:1,id:UT22084-071-007-151,folio:F.265.b}}} Homage to the Three Jewels.
+{{milestone:{label:1.2,id:UT22084-071-007-89}}}Thus did I hear at one time. The Blessed One was staying in Śrāvastī, in Jeta Grove, the park of Anāthapiṇḍada. The Blessed One addressed the monks, saying, “Monks, whether you stay in the wilderness, under a tree, or in an empty house, in the event that you experience fear, trepidation, or terror, you should recollect me thus through these epithets: ‘The Blessed One is a thus-gone one, a worthy one, a perfectly awakened one, a learned and virtuous one, a well-gone one, a knower of the world, an unsurpassed leader of those to be trained, a teacher of gods and humans, an awakened one, and a blessed one.’{{note:{index:16,id:UT22084-071-007-90}}}{{page:{number:2,id:UT22084-071-007-152,folio:F.266.a}}} If at that time you recollect me through these epithets, then whatever fear, trepidation, or terror you are experiencing will subside. 
+{{milestone:{label:1.3,id:UT22084-071-007-91}}}“Monks, previously, when a battle between the gods and the asuras was about to break out, Śakra, the king of the gods, called out to the gods of the Heaven of the Thirty-Three, saying, ‘If friends, when you go into the battle between the gods and the asuras, you experience fear, trepidation, or terror, you should at that time recall my crest insignia Vaijayanta. If at that time you recollect my crest insignia Vaijayanta, whatever fear, trepidation, or terror you are experiencing will subside.’ 
+{{milestone:{label:1.4,id:UT22084-071-007-92}}}“Monks, similarly, whether in the wilderness, under a tree, or in an empty house, in the event that you experience fear, trepidation, or terror, you should recollect me thus through these epithets: ‘The Blessed One is a thus-gone one, a worthy one, a perfectly awakened one, a learned and virtuous one, a well-gone one, a knower of the world, an unsurpassed leader of those to be trained, a teacher of gods and humans, an awakened one, and a blessed one.’ Monks, if at that time you recollect me through these epithets, whatever fear, trepidation, or terror you are experiencing will subside.
+{{milestone:{label:1.5,id:UT22084-071-007-93}}}“Monks, Śakra, the lord of the gods, still has desire, hatred, and delusion, and he is not liberated from birth, old age, sickness, death, {{page:{number:3,id:UT22084-071-007-153,folio:F.266.b}}} sorrow, lamentation, suffering, unhappiness, and disturbance. He also experiences fear, trepidation, alarm, and cowardice. Several times has he experienced fear, trepidation, alarm, and cowardice. Monks, the gods in the Heaven of the Thirty-Three confidently regard the words of Śakra, the lord of the gods—who still possesses desire, hatred, and delusion, who is not liberated from birth, old age, sickness, death, sorrow, lamentation, suffering, unhappiness, and disturbance, and who experiences fear, trepidation, alarm, and cowardice—as something to be heard and obeyed. Considering that, given that I am a thus-gone one, a worthy one, a perfectly awakened one—one who is without desire, hatred, and delusion, one who is liberated from birth, old age, sickness, death, sorrow, lamentation, suffering, unhappiness, and disturbance, and one who does not experience fear, trepidation, alarm, or cowardice—these words of mine are worthy of being heeded, of what they say to be put into practice, and of being propagated accordingly.” {{page:{number:4,id:UT22084-071-007-154,folio:F.267.a}}}
+{{milestone:{label:1.6,id:UT22084-071-007-94}}}This is what the Blessed One said, and the Well-Gone One having spoken those words, the Teacher continued:{{note:{index:17,id:UT22084-071-007-95}}}
+{{milestone:{label:1.7,id:UT22084-071-007-96}}}“In the wilderness, under a tree, 
+Or in an empty house, monks,
+You should recollect the Leader of the World, the Guide,
+The Perfectly Awakened One.{{note:{index:18,id:UT22084-071-007-97}}}
+{{milestone:{label:1.8,id:UT22084-071-007-98}}}“If you do not recollect the Leader of the World, the Guide,
+the Perfectly Awakened One, 
+You should recollect the Dharma,
+The best of what is free from desire.
+{{milestone:{label:1.9,id:UT22084-071-007-99}}}“If you do not recollect the Dharma, 
+The best of what is free from desire, 
+You should recollect the Saṅgha, 
+That unsurpassable field of merit. 
+{{milestone:{label:1.10,id:UT22084-071-007-100}}}“If the Buddha, the Dharma, and the Saṅgha
+Are recollected in this way, 
+Then fear, trepidation, and terror 
+Will subside, monks.
+{{milestone:{label:1.11,id:UT22084-071-007-101}}}Many are those, when frightened by terrors, 
+Who will go to seek refuge 
+In mountains and forests,
+Or worship shrines in trees and groves.{{note:{index:19,id:UT22084-071-007-104}}}
+{{milestone:{label:1.12,id:UT22084-071-007-105}}}“But no such place can be a principal refuge. 
+They are not the supreme refuge. 
+Going to such places for refuge 
+Will not liberate such people from all suffering. 
+{{milestone:{label:1.13,id:UT22084-071-007-106}}}“But for those who have gone for refuge
+In the Buddha, the Dharma, and the Saṅgha, 
+For them the truths of suffering, of the origin of suffering, 
+Of the complete cessation of suffering, 
+{{milestone:{label:1.14,id:UT22084-071-007-107}}}“And of the eightfold path of the noble ones
+That leads to happiness and nirvāṇa—
+These four truths of the noble ones
+They will clearly see through their discernment. 
+{{milestone:{label:1.15,id:UT22084-071-007-108}}}“That is the principal refuge. 
+That is the supreme refuge.
+If you rely on these for refuge, 
+You will be freed from all suffering.” 
+{{milestone:{label:1.16,id:UT22084-071-007-109}}}When the Blessed One had spoken these words, the monks were delighted and praised what the Blessed One had said.
+{{milestone:{label:1.17,id:UT22084-071-007-110}}}This completes the Mahāsūtra “The Crest Insignia.”
+{{milestone:{label:c.1,id:UT22084-071-007-111}}}Translated, edited, and finalized by the Indian preceptors Jinamitra and Prajñāvarman, the senior editor-translator Bandé Yeshé Dé, and others.

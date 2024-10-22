@@ -1,0 +1,11 @@
+{{translation:{id:UT22084-088-015,key:toh521,version:1.0.1,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-088-015-translation}}}The Noble
+Essence of Dependent Arising
+{{milestone:{label:1.1,id:UT22084-088-015-64}}}{{page:{number:1,id:UT22084-088-015-101,folio:F.59.a}}}{{note:{index:10,id:UT22084-088-015-103}}}{{note:{index:11,id:UT22084-088-015-65}}}Homage to the blessed Buddha! 
+“The Tathāgata explained the cause
+Of dharmas that arise from causes,
+And he taught their cessation.
+Thus the Great Śramaṇa has instructed.{{note:{index:12,id:UT22084-088-015-107}}}
+{{milestone:{label:1.2,id:UT22084-088-015-68}}}ye dharmā hetuprabhavā hetuṃ teṣāṃ tathāgato hy avadat | teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇaḥ ||
+{{milestone:{label:1.3,id:UT22084-088-015-69}}}By reciting this essence once, all negative actions will be purified and all adverse conditions will be pacified and averted. Any object that one envisions{{note:{index:13,id:UT22084-088-015-70}}} while reciting it will become the body of the Buddha or a stūpa, and any offering one envisions while reciting it will be offered as if they fill an entire world realm. 
+{{milestone:{label:1.4,id:UT22084-088-015-72}}}The Essence of Dependent Arising is complete.

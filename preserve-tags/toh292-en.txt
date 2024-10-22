@@ -1,0 +1,85 @@
+{{translation:{id:UT22084-071-006,key:toh292,version:1.0.1,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-071-006-translation}}}The Mahāsūtra
+The Crest Insignia (1)
+{{milestone:{label:1.1,id:UT22084-071-006-57}}}{{page:{number:1,id:UT22084-071-006-176,folio:F.262.a}}} Homage to the Three Jewels.
+{{milestone:{label:1.2,id:UT22084-071-006-60}}}Thus did I hear at one time. The Blessed One was traveling through the land of Vṛji and had arrived in Vaiśālī. He had taken up residence at the Kūṭāgāraśālā, on the banks of the Monkey Pond near Vaiśālī.
+{{milestone:{label:1.3,id:UT22084-071-006-61}}}At that time, a large group of merchants from Vaiśālī was preparing for a journey to the land of Takṣaśilā in order to trade. These many merchants of Vaiśālī heard that the Blessed One was traveling through the land of Vṛji, had arrived in Vaiśālī, and had taken up residence at the Kūṭāgāraśālā on the banks of the Monkey Pond near Vaiśālī. When they heard this, they gathered in groups and banded together in bands,{{note:{index:12,id:UT22084-071-006-62}}} left Vaiśālī, and went to the Blessed One. 
+{{milestone:{label:1.4,id:UT22084-071-006-63}}}On arrival, they bowed their heads at the Blessed One’s feet and sat to one side. The Blessed One taught, instructed, encouraged, and delighted the many merchants of Vaiśālī, who were seated to one side, with a Dharma talk. Having taught, instructed, encouraged, and delighted them with a Dharma talk on various topics, the Blessed One sat in silence. 
+{{milestone:{label:1.5,id:UT22084-071-006-64}}}The many merchants of Vaiśālī then rose from their seats and, draping their robes over their left shoulders, bowed to the Blessed One with joined palms. “Honored One,” they addressed the Blessed One, “we are a large group of merchants from Vaiśālī preparing for a journey to the land of Takṣaśilā in order to trade goods. {{page:{number:2,id:UT22084-071-006-177,folio:F.262.b}}} Would the Blessed One and the saṅgha of monks agree to take their midday meal at our place tomorrow?”
+{{milestone:{label:1.6,id:UT22084-071-006-65}}}The Blessed One assented to the many merchants of Vaiśālī by remaining silent. The many merchants of Vaiśālī recognized that the Blessed One had agreed by remaining silent. They praised what the Blessed One had taught and rejoiced. They bowed their heads at the Blessed One’s feet and departed from his presence.
+{{milestone:{label:1.7,id:UT22084-071-006-66}}}That evening, the many merchants of Vaiśālī carefully prepared pure and wholesome food and drink. Rising early the next morning, they prepared the seating and set out the water jugs. They then extended their invitation to the Blessed One: “Honored One, the meal has been prepared, and the time has come. Please, Blessed One, know that the time has now come.” 
+{{milestone:{label:1.8,id:UT22084-071-006-67}}}That morning, the Blessed One donned his lower garment and upper robe and took up his alms bowl. Surrounded by a group of monks at the head of the saṅgha of monks, he proceeded to the dining hall of the many merchants of Vaiśālī. When he arrived, he sat on the seat that had been prepared for him amid the gathering of monks. The many merchants of Vaiśālī then bowed their heads at the Blessed One’s feet and sat to one side. The Blessed One gave the following teaching to the many merchants of Vaiśālī, who were seated to one side.
+{{milestone:{label:1.9,id:UT22084-071-006-68}}}“Merchants, when you are in the wilderness and you feel fear, trepidation, or terror, at that time, you should recollect me through my aspects: 
+{{milestone:{label:1.10,id:UT22084-071-006-69}}}“The Blessed One is a thus-gone one, a worthy one, {{page:{number:3,id:UT22084-071-006-178,folio:F.263.a}}} a perfectly and completely awakened one, a learned and virtuous one, a well-gone one, a knower of the world, an unsurpassed{{note:{index:13,id:UT22084-071-006-691}}} leader of those to be trained, a teacher of devas and humans, an awakened one, and a blessed one.
+{{milestone:{label:1.11,id:UT22084-071-006-70}}}“Merchants, if at that time you recollect me through my aspects, then whatever fear, trepidation, or terror you are experiencing will subside.
+{{milestone:{label:1.12,id:UT22084-071-006-701}}}“If you cannot recollect me, then recollect the Dharma through its aspects: 
+{{milestone:{label:1.13,id:UT22084-071-006-71}}}“The Dharma of the Blessed One has been well spoken, it is to be seen for oneself, it is free from ailments, it is timeless, it is a guide,{{note:{index:14,id:UT22084-071-006-72}}} it is there in plain sight, and it is to be experienced by the wise for themselves.
+{{milestone:{label:1.14,id:UT22084-071-006-73}}}“Merchants, if at that time you recollect the Dharma through{{note:{index:15,id:UT22084-071-006-74}}} these aspects, then whatever fear, trepidation, or terror you are experiencing will subside.
+{{milestone:{label:1.15,id:UT22084-071-006-731}}}“If you cannot recollect the Dharma, then recollect the Saṅgha through its aspects: 
+{{milestone:{label:1.16,id:UT22084-071-006-75}}}“The Saṅgha of śrāvakas of the Blessed One practice well, they practice in the proper way, they practice with integrity, they practice in the right way, they practice the Dharma as befits the Dharma, and they act in accordance with the Dharma. In the Saṅgha there are those who practice to realize the result of stream entry. In the Saṅgha there are stream enterers. In the Saṅgha there are those who practice to realize the result of once-returners. In the Saṅgha there are once-returners. In the Saṅgha there are those who practice to realize the result of non-returners. In the Saṅgha there are non-returners. In the Saṅgha there are those who practice to realize the result of arhathood. In the Saṅgha there are arhats. {{page:{number:4,id:UT22084-071-006-179,folio:F.263.b}}} These are the four pairs, the eight types of persons. The Blessed One’s Saṅgha of śrāvakas is replete{{note:{index:16,id:UT22084-071-006-76}}} with discipline, replete with samādhi, replete with wisdom, replete with liberation, and replete with the knowledge and vision of liberation. They are fully worthy of offerings, they are completely worthy of offerings, they are worthy of respect with joined palms, they are worthy of homage. They are the unsurpassed field of merit, the rightful recipients of the offerings of the world. 
+{{milestone:{label:1.17,id:UT22084-071-006-77}}}“Merchants, if at that time you recollect the Saṅgha through these aspects, then whatever fear, trepidation, or terror you are experiencing will subside.
+{{milestone:{label:1.18,id:UT22084-071-006-78}}}“Previously, merchants, when a battle between the devas and the asuras was about to break out, Śakra, the lord of the devas, called out to the devas of the Heaven of the Thirty-Three: ‘Friends, when you go into the battle between the devas and the asuras, if you feel any fear, trepidation, or terror, you should at that time recall my crest insignia Vaijayanta. If at that time you recollect my crest insignia Vaijayanta, then whatever fear, trepidation, or terror you are experiencing will subside.
+{{milestone:{label:1.19,id:UT22084-071-006-79}}}“ ‘If you cannot recollect my crest insignia, then recollect the crest insignia of the deva Īśāna. If at that time you recollect the crest insignia of the deva Īśāna, then whatever fear, trepidation, or terror you are experiencing will subside. 
+{{milestone:{label:1.20,id:UT22084-071-006-80}}}“ ‘If you cannot recollect the crest insignia of the deva Īśāna, then recollect the crest insignia of the deva Varuṇa. {{page:{number:5,id:UT22084-071-006-180,folio:F.264.a}}} If at that time you recollect the crest insignia of the deva Varuṇa, then whatever fear, trepidation, or terror you are experiencing will subside.
+{{milestone:{label:1.21,id:UT22084-071-006-81}}}“In the same way, merchants, when you are in the wilderness and feel fear, trepidation, or terror, at that time, you should recollect me through my aspects: 
+{{milestone:{label:1.22,id:UT22084-071-006-82}}}“The Blessed One is a thus-gone one, a worthy one, a perfectly and completely awakened one, a learned and virtuous one, a well-gone one, a knower of the world, an unsurpassed leader of those to be trained, a teacher of devas and humans, an awakened one, and a blessed one.
+{{milestone:{label:1.23,id:UT22084-071-006-83}}}“Merchants, if at that time you recollect me through my aspects, whatever fear, trepidation, or terror you are experiencing will subside.
+{{milestone:{label:1.24,id:UT22084-071-006-84}}}“If you cannot recollect me, then recollect the Dharma through its aspects: 
+{{milestone:{label:1.25,id:UT22084-071-006-85}}}“The Dharma of the Blessed One has been well spoken, it is to be seen for oneself, it is free from ailments, it is timeless, it is a guide, it is there in plain sight, and it is to be experienced by the wise for themselves. 
+{{milestone:{label:1.26,id:UT22084-071-006-86}}}“Merchants, if at that time you recollect the Dharma through its aspects, whatever fear, trepidation, or terror you are experiencing will subside. 
+{{milestone:{label:1.27,id:UT22084-071-006-87}}}“If you cannot recollect the Dharma, then recollect the Saṅgha through its aspects: 
+{{milestone:{label:1.28,id:UT22084-071-006-88}}}“The Saṅgha of śrāvakas of the Blessed One practices well; they practice in the proper way, they practice with integrity, they practice in the right way, they practice the Dharma as befits the Dharma, and they act in accordance with the Dharma. In the Saṅgha there are those who practice to realize the result of stream entry. In the Saṅgha there are stream enterers. {{page:{number:6,id:UT22084-071-006-181,folio:F.264.b}}} In the Saṅgha there are those who practice to realize the result of once-returners. In the Saṅgha there are once-returners. In the Saṅgha there are those who practice in order to realize the result of non-returners. In the Saṅgha there are non-returners. In the Saṅgha there are those who practice in order to realize the result of arhathood. In the Saṅgha there are arhats. These are the four pairs, the eight types of persons. The Blessed One’s Saṅgha of śrāvakas is replete with discipline, replete with samādhi, replete with wisdom, replete with liberation, and replete with the knowledge and vision of liberation. They are fully worthy of offerings, they are completely worthy of offerings, they are worthy of respect with joined palms, they are worthy of homage. They are the unsurpassed field of merit, the rightful recipients of the offerings of the world.
+{{milestone:{label:1.29,id:UT22084-071-006-89}}}“Merchants, if at that time you recollect the Saṅgha through its aspects, whatever fear, trepidation, or terror you are experiencing will subside.”
+{{milestone:{label:1.30,id:UT22084-071-006-90}}}Seeing that the Buddha and the saṅgha of monks were comfortably seated, the many merchants of Vaiśālī then graciously served them from their own hands the pure and wholesome foods and drinks and ensured they were satisfied. In various ways, they graciously served them from their own hands the pure and wholesome foods and drinks and ensured their satisfaction, and the Blessed One partook of the midday meal. When the many merchants of Vaiśālī saw that he had placed his alms bowl down and concealed his hands, they spread out low seats and sat before the Blessed One to listen to the Dharma. {{page:{number:7,id:UT22084-071-006-182,folio:F.265.a}}}
+{{milestone:{label:1.31,id:UT22084-071-006-91}}}The Blessed One rejoiced with delight at the generosity of the many merchants of Vaiśālī.
+{{milestone:{label:1.32,id:UT22084-071-006-198}}}“O merchants, you have sustained 
+The saṅgha of monks with food and drink
+In the manner of wise and noble beings
+Who, in their wisdom, practice generosity.{{note:{index:17,id:UT22084-071-006-183}}} [1]
+{{milestone:{label:1.33,id:UT22084-071-006-184}}}“This is a benediction for your offering.
+By making this gift, O merchants,
+May the aims you rightfully desire
+Always be accomplished. [2]
+{{milestone:{label:1.34,id:UT22084-071-006-185}}}“May there be goodness for those of you who travel on two feet.{{note:{index:18,id:UT22084-071-006-186}}}
+May there be goodness for those of you who travel on four feet.
+May there be goodness as you embark upon your journey,
+And may there be goodness when you return. [3]
+{{milestone:{label:1.35,id:UT22084-071-006-187}}}“May there be goodness all night and goodness all day,
+And may there be goodness at midday. 
+May you experience goodness in all situations,
+And may negativity never befall you. [4]
+{{milestone:{label:1.36,id:UT22084-071-006-188}}}“When perfect{{note:{index:19,id:UT22084-071-006-189}}} seeds are sown
+In perfect fields
+And enjoy perfect rainfall,
+A perfect harvest will abound. [5]
+{{milestone:{label:1.37,id:UT22084-071-006-190}}}“When perfectly free from damage,
+When crops grow with perfection
+And burst forth with perfection,
+A perfect harvest will abound. [6]
+{{milestone:{label:1.38,id:UT22084-071-006-191}}}“So, too, by giving perfect foods
+To those with perfect discipline,
+You will accomplish perfection,{{note:{index:20,id:UT22084-071-006-192}}}
+For your act itself was perfect. [7]
+{{milestone:{label:1.39,id:UT22084-071-006-193}}}“Thus, when people who seek perfection
+And strive toward perfection
+Attend to those with perfect wisdom,
+Perfection is what they accomplish. [8]
+{{milestone:{label:1.40,id:UT22084-071-006-194}}}“Thus, those with stable faith
+In the unsurpassed Buddha
+And in the Dharma and the Saṅgha
+Will find perfection of mind. [9]
+{{milestone:{label:1.41,id:UT22084-071-006-195}}}“Those with perfect thoughts
+Toward the one with knowledge and conduct
+Perform virtuous actions.
+This is the perfection of action. [10]
+{{milestone:{label:1.42,id:UT22084-071-006-196}}}“When one truly knows the world as it is,
+One attains the perfection of the view.
+When the noble vision is perfectly present,
+One’s mind becomes perfect too. [11] {{page:{number:8,id:UT22084-071-006-200,folio:F.265.b}}}
+{{milestone:{label:1.43,id:UT22084-071-006-197}}}“Those who overcome all stains
+Attain the perfection of nirvāṇa
+And extinguish suffering;
+Their aim is perfectly complete.” [12]
+{{milestone:{label:1.44,id:UT22084-071-006-108}}}The Blessed One taught, instructed, encouraged, and delighted the many merchants of Vaiśālī with this Dharma talk. Having taught, instructed, encouraged, and delighted them with this Dharma talk on various topics, the Blessed One rose from his seat and departed.
+{{milestone:{label:1.45,id:UT22084-071-006-109}}}This concludes the Mahāsūtra “The Crest Insignia.”
+{{milestone:{label:c.1,id:UT22084-071-006-110}}}Translated, edited, and finalized by the Indian preceptors Jinamitra and Prajñāvarman, the translator-editor Bandé Yeshé Dé, and others.

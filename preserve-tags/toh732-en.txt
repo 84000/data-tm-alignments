@@ -1,0 +1,21 @@
+{{translation:{id:UT22084-094-009,key:toh732,version:1.0.4,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-094-009-translation}}}The Noble Yaśovatī Dhāraṇī
+{{milestone:{label:1.1,id:UT22084-094-009-61}}}{{page:{number:1,id:UT22084-094-009-127,folio:F.224.b}}} Homage to all buddhas and bodhisattvas.
+{{milestone:{label:1.2,id:UT22084-094-009-133}}}namo ratna­trayāya | nama āryāvalokiteśvarāya­ bodhisattvāya mahā­sattvāya | 
+{{milestone:{label:1.3,id:UT22084-094-009-64}}}tadyathā | jvare mahājvare dukhe mukti­susampanne mahā­sampanne sampatti mahā­sampatti kase mahā­kase kacchajvaramuktesi svāhā ||
+{{milestone:{label:1.4,id:UT22084-094-009-65}}}If one incants a cord or some water with this mantra three times, it will cure fever.
+{{milestone:{label:1.5,id:UT22084-094-009-66}}}namo ratna­trayāya | nama āryāvalokiteśvarāya­ bodhisattvāya mahā­sattvāya |
+{{milestone:{label:1.6,id:UT22084-094-009-67}}}tadyathā | cili cili mili mili rakṣa rakṣa māṃ āryāvalokiteśvara svāhā ||
+{{milestone:{label:1.7,id:UT22084-094-009-68}}}For all manner of grahas, one should incant a red cord or a cord spun with five-colored thread with this mantra three times while tying three knots in it, and it will pacify obstacles.
+{{milestone:{label:1.8,id:UT22084-094-009-69}}}namo ratnatrayāya | nama āryāvalokiteśvarāya­ bodhisattvāya mahā­sattvāya | 
+{{milestone:{label:1.9,id:UT22084-094-009-70}}}tadyathā | kili kili cili cili nigile svāhā ||
+{{milestone:{label:1.10,id:UT22084-094-009-71}}}If one incants sesame oil with this mantra three times and applies it as an ointment, it will treat swelling. 
+{{milestone:{label:1.11,id:UT22084-094-009-72}}}namo ratnatrayāya | nama āryāvalokiteśvarāya­ bodhisattvāya mahā­sattvāya | 
+{{milestone:{label:1.12,id:UT22084-094-009-73}}}tadyathā | sare sare visare visare saranāśani svāhā ||
+{{milestone:{label:1.13,id:UT22084-094-009-74}}}If one recites this mantra in the ear of a dead being, they will be revived. 
+{{milestone:{label:1.14,id:UT22084-094-009-75}}}namo ratna­trayāya | nama āryāvalokiteśvarāya­ bodisattvāya mahā­sattvāya | 
+{{milestone:{label:1.15,id:UT22084-094-009-76}}}tadyathā |nisire nisire kalanimire kalaricirī vacile svāhā ||
+{{milestone:{label:1.16,id:UT22084-094-009-77}}}For goiters, any illness of the throat, illnesses of the tongue,{{note:{index:10,id:UT22084-094-009-78}}} and all manner of grahas, incant some clay with this mantra three times, apply it as an ointment, and it will help.
+{{milestone:{label:1.17,id:UT22084-094-009-79}}}namo ratnatrayāna | nama āryāvalokiteśvarāya vajra­pāṇidhyam oṁ oṁ krāraprabhave bhagavati buddhe pratibuddhe śuddhe śāntikiri hana hana {{page:{number:2,id:UT22084-094-009-130,folio:F.225.a}}} mama pāpam{{note:{index:11,id:UT22084-094-009-80}}} daha daha mama pāpadaṃ paca paca mama pāpakaṃ | oṁ oḍe grasa grasa riteḍe riteḍe śāntīṃ{{note:{index:12,id:UT22084-094-009-81}}} karīya svāhā | śubhakarīya svāhā | kṣemakarīya svāhā ||
+{{milestone:{label:1.18,id:UT22084-094-009-82}}}When one has contracted a disease, the disease will be cured by reciting this mantra while bathing. If one takes medicine that has been incanted with this mantra, the illness will be cured. If one eats food that has been incanted with this mantra, one will not be harmed by poison. For those who are possessed by any kind of bhūtagraha, one should take a thread spun by a young girl, incant it with the mantra twenty-one times, and tie it to them. They will then be released. 
+{{milestone:{label:1.19,id:UT22084-094-009-83}}}This concludes “The Yaśovatī Dhāraṇī.”

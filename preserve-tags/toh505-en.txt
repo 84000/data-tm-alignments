@@ -1,0 +1,52 @@
+{{translation:{id:UT22084-087-010,key:toh505,version:1.0.7,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-087-010-translation}}}The Noble
+Vaiḍūryaprabha Dhāraṇī
+That Activates the Power of the Thus-Gone Ones’ Absorption
+{{milestone:{label:1.1,id:UT22084-087-010-65}}}{{page:{number:1,id:UT22084-087-010-194,folio:F.284.a}}} Homage to all buddhas and bodhisattvas.
+Thus did I hear at one time. The Blessed One was present in a medicine hall with a large saṅgha of monks and a large saṅgha of bodhisattvas. At that time, the Blessed One entered the absorption called invitation to the buddha field. As soon as he did this, the entire trichiliocosm shook and an immeasurable rain of divine sandalwood powder and flowers fell from the sky. The Seven Thus-Gone Ones and their retinues arrived in this world system and sat on lion thrones that had sprung up due to their previous roots of virtue. They were surrounded by all manner of bodhisattvas as well as gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, kings, ministers, brahmins, and householders. 
+{{milestone:{label:1.2,id:UT22084-087-010-69}}}Then, through the Buddha’s power, Mañjuśrīkumārabhūta rose from his seat, placed his palms together, and addressed them, saying, “Thus-Gone Ones, please consider my request. Please purify all beings’ misdeeds, cure all their illnesses, and fulfill all their hopes. Please tell us the names of these blessed thus-gone ones and the dhāraṇī that has been blessed by their previous aspirations.”
+{{milestone:{label:1.3,id:UT22084-087-010-70}}}The Blessed One expressed his approval of Mañjuśrīkumārabhūta, saying, “Good, Mañjuśrī, {{page:{number:2,id:UT22084-087-010-195,folio:F.284.b}}} good. Listen well, focus your attention, and I will explain.” 
+{{milestone:{label:1.4,id:UT22084-087-010-71}}}“Very well, Blessed One,” said Mañjuśrīkumārabhūta, who listened just as the Blessed One had said. The Blessed One spoke the following words: 
+{{milestone:{label:1.5,id:UT22084-087-010-72}}}“Homage to the thus-gone one Suparikīrtita­nāma­dheyaśrī­rāja.{{note:{index:3,id:UT22084-087-010-73}}}
+{{milestone:{label:1.6,id:UT22084-087-010-74}}}“Homage to the thus-gone one King Roaring Splendor of Mastery Who Is Adorned with Lotuses, the Moon, and Jewels. 
+{{milestone:{label:1.7,id:UT22084-087-010-75}}}“Homage to the thus-gone one King Resplendent Untarnished Jewel of Striking Color Who Has Perfect Conduct.
+{{milestone:{label:1.8,id:UT22084-087-010-76}}}“Homage to the thus-gone one Glorious King Supreme in His Lack of Sorrow. 
+{{milestone:{label:1.9,id:UT22084-087-010-77}}}“Homage to the thus-gone one King Roaring Sea of Renown in the Dharma. 
+{{milestone:{label:1.10,id:UT22084-087-010-78}}}“Homage to the thus-gone one King of Supernatural Perception Who Revels in the Exalted Mind of the Sea of Dharma. 
+{{milestone:{label:1.11,id:UT22084-087-010-79}}}“Homage to the thus-gone one Bhaiṣajya­guru­vaiḍūrya­prabha­rāja.
+{{milestone:{label:1.12,id:UT22084-087-010-80}}}“Homage to the thus-gone one Śākyamuni.
+{{milestone:{label:1.13,id:UT22084-087-010-81}}}“Homage to the blessed one Prajñāpāramitā.
+{{milestone:{label:1.14,id:UT22084-087-010-82}}}“Homage to the bodhisattva great being Mañjuśrīkumārabhūta. 
+{{milestone:{label:1.15,id:UT22084-087-010-83}}}“Homage to the bodhisattva great being Avalokiteśvara. 
+{{milestone:{label:1.16,id:UT22084-087-010-84}}}“Homage to the bodhisattva great being Vajrapāṇi.
+{{milestone:{label:1.17,id:UT22084-087-010-85}}}“Homage to the bodhisattva great being Vairocana, who is like the sun.
+{{milestone:{label:1.18,id:UT22084-087-010-86}}}“Homage to the bodhisattva great being Cooling, who is like the moon.
+{{milestone:{label:1.19,id:UT22084-087-010-87}}}“Homage to the bodhisattva great being Mahāmati.
+{{milestone:{label:1.20,id:UT22084-087-010-88}}}“Homage to the bodhisattva great being Maitreya.
+{{milestone:{label:1.21,id:UT22084-087-010-89}}}“Homage to the bodhisattva great being Vajra.
+{{milestone:{label:1.22,id:UT22084-087-010-90}}}“Homage to the bodhisattva great being Pratibhānakūṭa. {{page:{number:3,id:UT22084-087-010-196,folio:F.285.a}}}
+{{milestone:{label:1.23,id:UT22084-087-010-91}}}“Homage to the bodhisattva great being Unfailing Might.
+{{milestone:{label:1.24,id:UT22084-087-010-92}}}“Homage to the bodhisattva great being Priyadarśana.
+{{milestone:{label:1.25,id:UT22084-087-010-93}}}“Homage to the bodhisattva great being He Whose Mind Dispels All Darkness. 
+{{milestone:{label:1.26,id:UT22084-087-010-94}}}“Homage to the bodhisattva great being Sucintitacintin.
+{{milestone:{label:1.27,id:UT22084-087-010-95}}}“Homage to the bodhisattva great being Merukūṭa.
+{{milestone:{label:1.28,id:UT22084-087-010-96}}}“Homage to the bodhisattva great being Gadgadasvara.
+{{milestone:{label:1.29,id:UT22084-087-010-97}}}“Homage to the bodhisattva great being King Who Holds the Peak of Great Mount Meru.
+{{milestone:{label:1.30,id:UT22084-087-010-98}}}“Homage to the noble, worthy Śāriputra and Mahāmaudgalyāyana.
+{{milestone:{label:1.31,id:UT22084-087-010-99}}}“Homage to the great divine lay practitioners, glorious Brahmā and Śakra.
+{{milestone:{label:1.32,id:UT22084-087-010-100}}}“Homage to the Four Great Kings.
+{{milestone:{label:1.33,id:UT22084-087-010-101}}}“Homage to the great nāga lay practitioner Blessed Buddha. 
+{{milestone:{label:1.34,id:UT22084-087-010-102}}}“Homage to the twelve great yakṣa generals.”{{note:{index:4,id:UT22084-087-010-103}}}
+{{milestone:{label:1.35,id:UT22084-087-010-104}}}All the thus-gone ones then spoke the words of the dhāraṇī in a single melodious voice: 
+{{milestone:{label:1.36,id:UT22084-087-010-105}}}namo ratnatrayāya | namo bhagavate apratihata­bhaiṣajyarājāya | tadyathā |
+{{milestone:{label:1.37,id:UT22084-087-010-106}}}oṁ sarva­tathāgata hūṁ ghume ghume imini mihi mati mati saptata­thāgata­samādhya­dhiṣṭhite atimate pāle pāpaṃ śodhani sarva­pāpaṃ nāśaya mama buddhe buddhottame ume kume buddha­kṣetra­pariśodhani dhameni dhame meru meru meru­śikhare sarvākālam­ṛtyuni­vāraṇi buddhe subuddhe buddhā­dhiṣṭhānā­dhiṣṭhitena rakṣantu me sarva­deva same asame saman­vāharantu me sarva­buddha­bodhi­sattvā śame śame pra­śamantu me sarvetyupa­drāvavyā­dhayaḥ pūrāṇī supūrāṇī {{page:{number:4,id:UT22084-087-010-197,folio:F.285.b}}} pūraya me sarvāśāme vaiḍūrya­pratibhāse sarva­pāpaṃ kṣayaṅkari svāhā |
+{{milestone:{label:1.38,id:UT22084-087-010-107}}}oṁ bhaṣajye bhaiṣajye mahā­bhaiṣajye sam­udgate svāhā
+{{milestone:{label:1.39,id:UT22084-087-010-108}}}As the names of the thus-gone ones and this dhāraṇī were pronounced, a great light shone, the vast earth shook, and miraculous emanations appeared. The assemblies gathered there made offerings of perfume and incense to the thus-gone ones, expressed their approval, and circumambulated them seven times. The Seven Thus-Gone Ones then disappeared. 
+{{milestone:{label:1.40,id:UT22084-087-010-109}}}Blessed Śākyamuni then spoke: “Any son or daughter of good family who upholds, carries, recites, and makes offerings to this dhāraṇī and the names of the thus-gone ones will be cleansed. They will cleanse the directions and maintain the eightfold noble path.{{note:{index:5,id:UT22084-087-010-110}}}
+{{milestone:{label:1.41,id:UT22084-087-010-111}}}“With supreme compassion{{note:{index:6,id:UT22084-087-010-112}}} for all beings, they should begin on the full moon during Viśākhā. They should make an image of the thus-gone ones, fast on the eighth, fourteenth, and fifteenth days, and then recite the dhāraṇī forty-nine, one thousand and eight, or forty-nine thousand times while offering flowers, incense, perfume, lamps, garlands, music, parasols, banners, and flags three times per day and three times per night. 
+{{milestone:{label:1.42,id:UT22084-087-010-113}}}“When they do, the thus-gone ones will direct their attention toward them and all the bodhisattvas will think of them. Brahmā, Śakra, the Four Great Kings, and the great nāga lay practitioners will protect them, and they will be guarded by all the vajra-wielding yakṣa generals. All of their karmic obscurations will be purified, including the five acts with immediate retribution and so forth. They will not contract any illnesses, will have a long life, {{page:{number:5,id:UT22084-087-010-198,folio:F.286.a}}} and will avoid any kind of unnatural death. Death, enemies, dangers of the wilderness, conflict, arguments, and disputes will all be pacified. They will not be enthralled by any enemy, and anything they wish for will be fulfilled.”
+{{milestone:{label:1.43,id:UT22084-087-010-114}}}At that point Mañjuśrīkumārabhūta addressed the Blessed One, saying, “Blessed One, what is the name of this Dharma discourse? How should it be remembered?” 
+{{milestone:{label:1.44,id:UT22084-087-010-115}}}“Mañjuśrī,” the Blessed One replied, “this Dharma discourse should be known as The Dhāraṇī of Vaiḍūryaprabha That Activates the Power of the Thus-Gone Ones’ Absorption. It should be known as Pulverizing and Purifying all Karmic Obscurations. It should be known as Displaying the Emanations of the Seven Thus-Gone Ones.” 
+{{milestone:{label:1.45,id:UT22084-087-010-116}}}When the Blessed One said this, Mañjuśrīkumārabhūta and the entire assembly rejoiced and praised the words of the Blessed One.
+{{milestone:{label:1.46,id:UT22084-087-010-117}}}This concludes “The Noble Dhāraṇī of Vaiḍūryaprabha That Activates the Power of the Thus-Gone Ones’ Absorption.”
+{{milestone:{label:c.1,id:UT22084-087-010-118}}}This was translated, edited, and finalized by the Indian preceptors Jinamitra, Dānaśīla, and Śīlendrabodhi along with the great editor and translator Bandé Yeshé Dé. It was later updated and finalized according to the new translation guidelines by the Indian preceptor Dīpaṅkaraśrījñāna and the monk Tsültrim Gyalwa at Tholing Serkang.

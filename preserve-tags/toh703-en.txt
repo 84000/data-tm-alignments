@@ -1,0 +1,270 @@
+{{translation:{id:UT22084-093-018,key:toh703,version:1.0.1,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-093-018-translation}}}The Dhāraṇī of Noble Avalokiteśvara Siṃhanāda
+{{milestone:{label:1.1,id:UT22084-093-018-67}}}{{page:{number:1,id:UT22084-093-018-266,folio:F.165.b}}} Homage to blessed Vajradhara.
+Thus did I hear at one time. The Blessed One was residing at the noble Lord Avalokiteśvara’s palace at the summit of Mount Potala. That bejeweled palace was ornamented with countless jewels, pearls, and gems, the light of which filled the trichiliocosm. In that region filled with the delightful scent of all kinds of flowers, the Blessed One was seated on a lion throne that had been arranged for him, surrounded by countless bodhisattvas led by Maitreya, {{page:{number:2,id:UT22084-093-018-267,folio:F.166.a}}} as well as many monks led by the great śrāvaka Śāradvatīputra. In that assembly was the bodhisattva great being Mañjuśrī, who rose from his seat, draped his upper robe over one shoulder, knelt on his right knee, and prostrated his head at the Blessed One’s feet. 
+{{milestone:{label:1.2,id:UT22084-093-018-70}}}He said to the Blessed One, “Blessed One, in the land of Magadha there is a king named Lord of Light who has an excellent retinue, queens, and abundant wealth. But beyond this, the king is afflicted with leprosy, boils, difficulty breathing, and heart disease. How can he be healed?” 
+{{milestone:{label:1.3,id:UT22084-093-018-71}}}The Blessed One replied, “Bodhisattva great being Mañjuśrī, long ago in this very world you, Mañjuśrī, were a bodhisattva called Great Wisdom, and noble Avalokiteśvara Siṃhanāda was a bodhisattva called Supreme Compassion. Those two bodhisattvas tamed a white lion, mounted it, and rode out to help beings of the trichiliocosm. They set out adorned with precious adornments and holding a trident, sword, lotus, and an utpala flower. But when the time came to cross the great ocean, they left the lion behind, shared the load, and continued onward. You, the bodhisattva Great Wisdom, thinking to benefit your friend, took your own life with your sword. But the bodhisattva Supreme Compassion thought that you had been killed by the nāgas, gods, and the like, who dwell in the heavens, below the earth, and in the sky. He then took up a brahmin’s skull as a drinking vessel, took his trident in his hand, and mounted the white lion. In sorrow, he bound his locks upon his crown. 
+{{milestone:{label:1.4,id:UT22084-093-018-72}}}“He threatened the gods above while brandishing his trident at them, and said, {{page:{number:3,id:UT22084-093-018-268,folio:F.166.b}}}
+{{milestone:{label:1.5,id:UT22084-093-018-73}}}“‘Moved by compassion we set out to help beings, 
+But I was abandoned by my friend and left behind alone. 
+If this is the fault of all the gods, I will punish them. 
+I will destroy their towns and kill the gods!’
+{{milestone:{label:1.6,id:UT22084-093-018-74}}}“The Four Great Kings, Śakra, lord of the gods, Brahmā, lord of the Sahā world, and the gods of the three worlds beamed with joy. They offered divine lotuses, kumuda flowers, white lotuses, campaka flowers, and the like, filling his skull cup.
+{{milestone:{label:1.7,id:UT22084-093-018-75}}}“He next threatened the gods of the sky, nāgas, gandharvas, yakṣas, asuras, kumbhāṇḍa, garuḍas, and kinnaras, brandished his trident, and said, 
+{{milestone:{label:1.8,id:UT22084-093-018-76}}}“‘Moved by compassion we set out to help beings, 
+But I was abandoned by my friend and left behind alone. 
+If this is the fault of the eight classes, I will punish them
+By destroying their towns and killing the eight classes!’ 
+{{milestone:{label:1.9,id:UT22084-093-018-77}}}“He then brandished his trident at the eight classes. The nāga king Jeweled Crown, the gandharva king Pañcaśikha, the yakṣa king Vaiśravaṇa, the asura king Vemacitrin, the horse-headed kinnara king Druma, the kumbhāṇḍa king Nine-Headed Snake, the garuḍa king Golden Eyes, and the rest, together with their large retinues, beamed with joy and offered jeweled ornaments to the lion. 
+{{milestone:{label:1.10,id:UT22084-093-018-78}}}“He next threatened the nāgas who live below the earth, saying, 
+{{milestone:{label:1.11,id:UT22084-093-018-79}}}“‘Moved by compassion we set out to help beings,
+But I was abandoned by my friend and left behind alone. 
+If this is the fault of the nāgas, I will punish them 
+By destroying their towns and killing the nāgas!’ 
+{{milestone:{label:1.12,id:UT22084-093-018-80}}}“He then stirred the great ocean with his trident. The nāga king Anavatapta, the nāga king Varuṇa, the nāga king Takṣaka, and the other six hundred thousand nāga kings, and their servants and retinues, who have miraculous powers, are radiant, and who cause the gods and asuras to battle all gathered together, beamed with joy. {{page:{number:4,id:UT22084-093-018-269,folio:F.167.a}}} The nāga king Varuṇa became a single white snake, bowed down, circumambulated the bodhisattva three times, and said, 
+{{milestone:{label:1.13,id:UT22084-093-018-81}}}“‘Compassionate bodhisattva,
+I take refuge in you. 
+Be the protector of all nāgas!
+You may kill us if we commit an offense.’
+{{milestone:{label:1.14,id:UT22084-093-018-82}}}“Saying this he wrapped himself around the trident three times, turned to face the bodhisattva, said, ‘phuḥ phuḥ!’ respectfully bled from his mouth, and remained there. 
+{{milestone:{label:1.15,id:UT22084-093-018-83}}}“The other nāga kings likewise joined their palms, circumambulated him three times, and said, 
+{{milestone:{label:1.16,id:UT22084-093-018-84}}}“‘Compassionate bodhisattva, 
+We take refuge in you.
+Accept all nāgas under your protection!
+You may kill us if we commit an offense.’
+{{milestone:{label:1.17,id:UT22084-093-018-85}}}“Saying this, the eight great nāgas became a single white snake and bound themselves around him as a sacred thread. Those nāga kings then said, ‘We are your servants. We will listen to whatever you command.’ Then all the nāgas returned to their own places.
+{{milestone:{label:1.18,id:UT22084-093-018-86}}}“Mañjuśrī, that bodhisattva then became known as Compassionate Nāga Tamer, and as Heart Disease Healer. Mañjuśrī, indeed that bodhisattva Great Wisdom of former times is none other than you, Mañjuśrī Vādisiṃha. And the one who at that time was the bodhisattva Supreme Compassion is now Noble Avalokiteśvara Siṃhanāda, the great leader of the nāgas, himself. Mañjuśrī, for the sake of the king I will pronounce the mantra of the Great Compassionate One—memorize it! 
+{{milestone:{label:1.19,id:UT22084-093-018-87}}}namo ratna­trayāya | nama āryāvalokiteśvarāya bodhi­sattvāya mahā­sattvāya mahā­kāruṇikāya | tadyathā| oṁ akaṭe vikaṭe nikaṭe kaṭaṃkaṭe karoṭe citijvala­karoṭa{{note:{index:11,id:UT22084-093-018-88}}}vīrye{{note:{index:12,id:UT22084-093-018-89}}} svāhā ||
+{{milestone:{label:1.20,id:UT22084-093-018-90}}}“This dhāraṇī has been taught by eight hundred million buddhas, and I myself pronounce it now. Its rite accomplishes all of the activities without need of great difficulty.{{note:{index:13,id:UT22084-093-018-91}}} Before a statue or a painting of blessed Avalokiteśvara Siṃhanāda, make eight distinct maṇḍalas with cow dung that has not fallen to the ground. Scatter each maṇḍala with five bunches of flowers and make offerings of flowers, {{page:{number:5,id:UT22084-093-018-270,folio:F.167.b}}} incense, perfumes, garlands, and scented powders. Then recite the dhāraṇī thirteen times at each maṇḍala and gather the dung. Incant{{note:{index:14,id:UT22084-093-018-92}}} that resulting{{note:{index:15,id:UT22084-093-018-93}}} dung and anoint the sick person with it. All of their illnesses will be healed. All illnesses caused by the poison of gods, nāgas, and others will be healed. If it does not succeed within twenty-one days, then, Mañjuśrī, the Great Compassionate One himself, will have committed the five deeds with immediate retribution.{{note:{index:16,id:UT22084-093-018-94}}} Mañjuśrī, this is the Great Compassionate One’s own promise. Mañjuśrī, this dhāraṇī will free the great king from his ill health, the heart disease that afflicts him, and in his next life he will be reborn in the realm of Sukhāvatī. 
+{{milestone:{label:1.21,id:UT22084-093-018-95}}}“Listen, Mañjuśrī! The Buddha Amitābha and the rest of the nine-hundred ninety million buddhas have taught this essence mantra, and now I teach it:
+{{milestone:{label:1.22,id:UT22084-093-018-96}}}oṁ aḥ hrīḥ siṃhanāda hūṁ phaṭ ||
+{{milestone:{label:1.23,id:UT22084-093-018-97}}}“Reciting this essence vidyāmantra just once frees the reciter from all evil deeds. 
+{{milestone:{label:1.24,id:UT22084-093-018-98}}}“They will not take dreadful rebirths, 
+Nor will their body be pierced by weapons. 
+They will not be harmed by enemies or robbers,
+By nāgas, or by other such beings. 
+They will always have fortune, 
+And will not be born into a female body. 
+They will always remember their previous lives 
+And at death will be reborn in Sukhāvatī. 
+{{milestone:{label:1.25,id:UT22084-093-018-99}}}“Mañjuśrī, the tathāgatas Vipaśyin, Śikhin, Viśvabhū, Krakucchanda, Kanakamuni, and Kāśyapa have all taught this mantra, and now I, Śākyamuni, teach it as well. 
+{{milestone:{label:1.26,id:UT22084-093-018-100}}}namo ratna trayāya | namo hayagrīvāya | namo lokesvarāya | 
+{{milestone:{label:1.27,id:UT22084-093-018-101}}}tadyathā |oṁ hrīḥ kulu yulu nīlakaṇṭha hulu hulu tiṣṭha tiṣṭha bandha bandha māraya māraya hā hā hā hā vajrakrodha hayagrīva hṛīḥ hūṁ phaṭ ||
+{{milestone:{label:1.28,id:UT22084-093-018-102}}}“Mañjuśrī, this dhāraṇī is the mantra of Padma Hayagrīva, who is Avalokiteśvara himself.
+{{milestone:{label:1.29,id:UT22084-093-018-103}}}“A person who recites this just once
+Will be freed from all evil deeds.
+The doors to the lower realms will be cut off {{page:{number:6,id:UT22084-093-018-271,folio:F.168.a}}}
+And they will be unharmed by grahas such as nāgas and the like.
+They will be freed from kākhordas and poisoning—
+All the buddhas have taught this. 
+{{milestone:{label:1.30,id:UT22084-093-018-104}}}“Arisen through the power of countless billions,{{note:{index:17,id:UT22084-093-018-105}}}
+Its qualities are immeasurable.
+Speaking it once clears away evil deeds,
+Speaking it twice brings fortune,
+And three times brings long life.
+After a million recitations, one will see his face
+And travel to the Lotus Realm.
+{{milestone:{label:1.31,id:UT22084-093-018-106}}}“Mañjuśrī, other people are afflicted by illnesses of blood or bile, sicknesses of wind or cold, or are afflicted{{note:{index:18,id:UT22084-093-018-107}}} by kṣatriya nāgas, brahmin nāgas, and outcaste or śūdra nāgas. Therefore, they have joyless, ill hearts; they have difficulty breathing, their stomachs and backs ache, their heads ache, they have headaches on one side, indigestion, swelling, crippled limbs, pregnancy-related illnesses, animal-related illnesses, fractures of their joints and skin, urinary diseases, phlegmy coughs, and fractured bones. They stoop, are crippled, have a weak appetite, have skin pustules, tumors, edema, blisters, rashes, abscesses, swollen and blocked throats, gout, persisting sensations of cold, heat, and so on. They are as if afflicted by different kinds of leprosy and boils;{{note:{index:19,id:UT22084-093-018-108}}} they are afflicted by gods, māras, brahmas, yamas, rock spirits, graha that disturb their mental state, angered hearth spirits, lake goddesses, nāgas or the like; they have been made ill by yakṣas, bhūtas, vināyakas, or flesh-eating graha; and they become ill in one of the myriad ways. All of this is suffering born from nonvirtue.” 
+{{milestone:{label:1.32,id:UT22084-093-018-109}}}The Blessed One said, “O bodhisattva great being Mañjuśrī, listen!
+{{milestone:{label:1.33,id:UT22084-093-018-110}}}“This is the rite for this essence dhāraṇī:
+First arouse respect and faith
+For the Great Compassionate One
+And make a maṇḍala on fertile earth,
+Spread fragrant cow dung, {{page:{number:7,id:UT22084-093-018-272,folio:F.168.b}}}
+And draw a lotus maṇḍala
+Using five colors of paint.
+{{milestone:{label:1.34,id:UT22084-093-018-111}}}“Place five full vases
+In the four directions and in the center,
+And arrange five abundant oblations.
+Set{{note:{index:20,id:UT22084-093-018-112}}} five rosewood daggers,
+As well as four arrows tied with silk,
+And tie a lattice made of five-colored threads.
+{{milestone:{label:1.35,id:UT22084-093-018-113}}}“‘Homage to noble Avalokiteśvara Siṃhanāda.
+Homage to the wrathful King Hayagrīva.
+Homage to the blessed Pāṇḍaravāsinī.
+Homage to the blessed Tārā.
+Homage to the bodhisattva nāga king Varuṇa. 
+{{milestone:{label:1.36,id:UT22084-093-018-114}}}ā hrīḥ hri paṁ taṁ naṁ ||
+{{milestone:{label:1.37,id:UT22084-093-018-115}}}“‘Through the recitation of this six-syllabled mantra 
+May all evil deeds be cleared away svāhā.’
+{{milestone:{label:1.38,id:UT22084-093-018-116}}}“One should exert oneself in worshiping the buddhas using offerings of flowers, incense, perfumes, flower garlands, scented unguents, parasols, banners, pendants, scented powders, and all sorts of ornaments.
+{{milestone:{label:1.39,id:UT22084-093-018-117}}}“Then make a fire with rosewood and jujube, 
+Hold the colored threads and burn grains. 
+Using a peacock feather and a spiraea{{note:{index:21,id:UT22084-093-018-118}}} sprig, 
+Clear away the nāga poison. 
+{{milestone:{label:1.40,id:UT22084-093-018-119}}}hrīḥ nāga lele nāga dumva lele nāga phut phut hale hale hāla hāla sphuṭa sphuṭanāga bright flickering{{note:{index:22,id:UT22084-093-018-121}}}svāhā ||
+{{milestone:{label:1.41,id:UT22084-093-018-122}}}“‘May the poison from the minds of all nāgas and vināyakas, the poison from seeing them, the poison from binding them, the poison from their breath, the poison from touching them, and all poison be expelled svāhā!
+{{milestone:{label:1.42,id:UT22084-093-018-123}}}“‘May the poison not remain here! 
+May it be drawn into this gift! 
+May it be drawn into what is held!
+May it depart into the fire!
+May it depart into the water!
+May it be pacified svāhā!’
+{{milestone:{label:1.43,id:UT22084-093-018-124}}}“Mañjuśrī, here are the initiations bestowed by the tathāgatas from their crown: 
+{{milestone:{label:1.44,id:UT22084-093-018-125}}}hriḥ bruṁ oṁ hūṁ khaṁ || 
+{{milestone:{label:1.45,id:UT22084-093-018-126}}}“The five families confer empowerment.
+{{milestone:{label:1.46,id:UT22084-093-018-127}}}“One who has the supreme vajra protection,
+The favor of the auspicious goddess,
+And maintains a fast, 
+Recalls the Three Jewels, arouses bodhicitta,
+{{milestone:{label:1.47,id:UT22084-093-018-128}}}Clears their karmic obscurations with the vase’s pure water, 
+And obtains purity of body, speech, and mind.
+They are suffused with the six perfections,
+Come to know buddhas and beings,
+And all samādhis become manifest.
+{{milestone:{label:1.48,id:UT22084-093-018-129}}}“Weave together three white threads
+Spun by a young maiden
+And incant it twenty-eight times. {{page:{number:8,id:UT22084-093-018-273,folio:F.169.a}}}
+When it is worn around the neck, one will be free of illness.
+{{milestone:{label:1.49,id:UT22084-093-018-130}}}“If this dhāraṇīmantra is used to incant
+Medicines used to heal illness,
+The medicine heals all illnesses when given.
+{{milestone:{label:1.50,id:UT22084-093-018-131}}}“When recited many times over water
+The dhāraṇīmantra heals nāga illnesses from within. 
+{{milestone:{label:1.51,id:UT22084-093-018-132}}}“If something is devouring the harvest,
+This can be remedied with powders, earth, and ashes.
+{{milestone:{label:1.52,id:UT22084-093-018-133}}}“If there is too much rain, 
+Burn freshly picked flowers
+Inside a new vessel
+At an ancient shrine,
+And the rain will stop.
+{{milestone:{label:1.53,id:UT22084-093-018-134}}}“If a strong hailstorm comes, 
+Fasten incanted human ash and mustard seeds 
+Into a bundle{{note:{index:23,id:UT22084-093-018-135}}} with hail, mother of pearl, and tree shoots,
+And plant this in the earth;
+The hail will stop. 
+{{milestone:{label:1.54,id:UT22084-093-018-136}}}“If there is a harmful graha
+Such as a god, nāga, gandharva, or the like,
+Place five clean vases on a square maṇḍala 
+That is one arm span in size.
+Fill them with medicinal water,
+And incant them one hundred and eight times. 
+{{milestone:{label:1.55,id:UT22084-093-018-137}}}“A disciple should combine white cloth and food,
+Place it in the maṇḍala, 
+And cleanse it with water from the vases. 
+One will be freed from all illness and harm. 
+Even the countless grahas, nāgas, and the like,
+Will be unable to cause harm.
+{{milestone:{label:1.56,id:UT22084-093-018-138}}}“If one fears a child-snatching graha,
+Draw a protection circle with hardened bile,
+Combine this with mustard seeds, and fasten it on; 
+The child will be safe from grahas and illness.
+{{milestone:{label:1.57,id:UT22084-093-018-139}}}“When a person sets out to travel,
+If they incant the bottom right corner of their garment
+Seven times, while tying it in a knot,
+Their travel will be pleasant and successful. 
+{{milestone:{label:1.58,id:UT22084-093-018-140}}}“If one incants water and mustard seeds
+And sprinkles it on horses and other livestock, they will be healthy.
+All illnesses in both humans and livestock will be healed and pacified
+By washing with and applying mustard seeds and water from the vase.
+{{milestone:{label:1.59,id:UT22084-093-018-141}}}“Just as the asmrari{{note:{index:24,id:UT22084-093-018-142}}} dhāraṇī heals,{{note:{index:25,id:UT22084-093-018-143}}}
+So will all activities be successful?”
+{{milestone:{label:1.60,id:UT22084-093-018-144}}}Then the Blessed One said, “Bodhisattva great being Mañjuśrī, this king is filled with nāga poison. Since the nāga king Varuṇa rules over all nāgas, he should expel it. {{page:{number:9,id:UT22084-093-018-274,folio:F.169.b}}}
+{{milestone:{label:1.61,id:UT22084-093-018-145}}}“Homage to the blessed Lokeśvara Siṃhanāda.
+Homage to the nāga king Varuṇa. 
+Homage to the nāga king Takṣaka. 
+Homage to the nāga king Ananta.
+Homage to the nāga king Padma.
+Homage to the nāga king Mahāpadma. 
+Homage to the nāga king Śaṅkhapāla.
+Homage to the nāga king Kulika.
+Homage to the nāga king Nanda.
+Homage to the nāga king Vāsuki.
+{{milestone:{label:1.62,id:UT22084-093-018-146}}}oṁ varuṇāya svāhā | oṁ anantāya svāhā | oṁ vāsūkāya svāhā | oṁ takṣakāya svāhā | oṁ karkoṭāya svāhā | oṁ padmāya svāhā | oṁ mahāpadmāya svāhā | oṁ śaṅkhapālāya svāhā | oṁ kulikāya svāhā ||{{note:{index:26,id:UT22084-093-018-147}}}
+{{milestone:{label:1.63,id:UT22084-093-018-148}}}“Although nāgas appear in many different forms, 
+Prepare a rice porridge of the three white foods and the three sweets,
+Cooking it well until its color changes.{{note:{index:27,id:UT22084-093-018-149}}}
+Delight them with flowers and incense, 
+With unguents, lamps, food, music, 
+Parasols, banners, flower garlands, 
+And sacred threads.
+Offer roots, leaves, stalks,
+Flowers, fruits, and medicines. 
+With a peacock, a porcupine, and a mirror, 
+Extract the poison inside the king. 
+{{milestone:{label:1.64,id:UT22084-093-018-150}}}“Hold the offering support, precious spiraea, 
+As the irreversible substance,
+And offer an attractive vase filled with treasure
+In a form that delights beings. 
+There is no doubt that this will bring healing.
+Even if he has been afflicted by the nāga king Takṣaka, 
+He will be released in an instant.
+{{milestone:{label:1.65,id:UT22084-093-018-151}}}“Mañjuśrī, this power does not come from somewhere else—it is the power of the Noble Avalokiteśvara. It is his strength. It is his blessing. The Compassionate One’s excellent qualities are inexpressible, but I will try to express some of them here. 
+{{milestone:{label:1.66,id:UT22084-093-018-152}}}“Oṁ
+Blessed One,
+You have performed activities and done all that must be done,
+Laid down your burden,{{note:{index:28,id:UT22084-093-018-153}}} achieved your own aims, 
+And your fetters of existence are completely gone. 
+Relying on genuine teachings, you have been freed.
+You have attained the supreme perfection
+Of all the mental powers,{{note:{index:29,id:UT22084-093-018-154}}}
+Crossed over existence, and perfected the two accumulations. {{page:{number:10,id:UT22084-093-018-275,folio:F.170.a}}}
+{{milestone:{label:1.67,id:UT22084-093-018-155}}}“Āḥ
+Compassionate One who strives to help others
+You have perfect love for all beings.
+Sole friend to all in the three realms
+You are skilled in freeing countless beings.
+{{milestone:{label:1.68,id:UT22084-093-018-156}}}“Hrīḥ
+You constantly protect unfortunate beings. 
+You have removed the three stains and reached perfection.
+You have obtained the six clairvoyances, child of the banyan tree.{{note:{index:30,id:UT22084-093-018-157}}}
+You possess the marks of a great being,
+Thirty-two in number,
+And are resplendent with the eighty minor marks.
+{{milestone:{label:1.69,id:UT22084-093-018-158}}}“Your body is the color of crystal,
+Massive and brilliant 
+Like a snowy mountain peak at dawn.
+You emanate from{{note:{index:31,id:UT22084-093-018-159}}} the bodies of the buddhas of the five families,
+Your locks are piled in a high topknot, 
+And Amitābha sits upon your crown.
+{{milestone:{label:1.70,id:UT22084-093-018-160}}}“Tamer of all nāgas
+A snake coils around your trident.
+You hold the blessings of the lords of the three families, 
+And are praised for fully severing the three poisons.
+Unstained by flaws, you hold a lotus.
+In perfect wisdom, you hold a blazing sword.
+Having purified the afflictions, 
+You hold a brahmin’s skull filled with fragrant flowers.
+Because you have brought all the nāgas under your control
+You are praised as the one beautified by a sacred thread made from a snake.
+{{milestone:{label:1.71,id:UT22084-093-018-161}}}“Siṃha
+You sit upon a pure lotus seat. 
+As the subjugator of the four māras
+You are seated upon a white lion. 
+Since you have accomplished all desired aims
+You are adorned with various precious jewel ornaments. 
+Even each hair on your body 
+Is superior to all beings—
+Homage and praise to the Compassionate One!
+{{milestone:{label:1.72,id:UT22084-093-018-162}}}“Tā{{note:{index:32,id:UT22084-093-018-163}}}
+Anointed regent of the sacred dharma, 
+The goddess Tārā stands by you. 
+Green-bodied, she protects from the eight fears,
+Removes harm, and grants fearlessness. 
+Holding an utpala flower, she embodies compassion—
+I bow before she who sends forth many emanations. 
+{{milestone:{label:1.73,id:UT22084-093-018-164}}}“Hūṃ
+Pāṇḍaravāsinī, fulfiller of commands, 
+Blissfully turns a wish-granting wheel, 
+Fulfilling wishes and pacifying suffering—
+I praise she who dispels the eight fears!
+{{milestone:{label:1.74,id:UT22084-093-018-165}}}“Phaṭ
+Hayagrīva, wrathful in form, 
+Noble horse-necked one, conquering the four māras,
+Wrathful blue-necked one, tamer of evil,
+Tamer of nāgas and demons, I praise you with hūṁ!
+{{milestone:{label:1.75,id:UT22084-093-018-166}}}“Nā
+Nāga king of space, Varuṇa, 
+God of water{{note:{index:33,id:UT22084-093-018-167}}} who saw the teacher’s face, {{page:{number:11,id:UT22084-093-018-276,folio:F.170.b}}}
+Took delight in the teachings, tamed the nāgas, 
+And saw the truth of the first bhūmi, 
+Keeper of the tathāgatas’ relics,
+I offer praise to this bodhisattva nāga king!
+{{milestone:{label:1.76,id:UT22084-093-018-168}}}oṁ tāre tuttāre ture svāhā | oṁ kaṭe vikaṭe nikaṭe kataṃkara svāhā ||
+{{milestone:{label:1.77,id:UT22084-093-018-169}}}“Whoever makes this praise and recites it will purify even the karmic stains from committing the five deeds of immediate retribution. They will enter into all maṇḍalas and recite all mantras. For a thousand eons, they will never take birth in the lower realms and will never be born in a female body. 
+{{milestone:{label:1.78,id:UT22084-093-018-170}}}“Anyone who rises early in the morning, bathes with fragrant water, observes cleanliness, and recites this dhāraṇī, writes it down, upholds it, or has others recite or chant it, or who recites the essence and dhāraṇīmantra in front of the deeply compassionate Siṃhanāda, that person will be freed from illnesses such as leprosy, ringworm, boils, swelling, skin disorders, rashes, itching, abscesses, a swollen and blocked throat, edema, consumption, ruptured kidneys, organ diseases, the various illness related to khākorḍa maṇḍalas, lung disease, difficulty breathing, and disorders caused by wind, bile, phlegm, or their combination. 
+{{milestone:{label:1.79,id:UT22084-093-018-171}}}“Mañjuśrī, this dhāraṇī has been blessed by all the tathāgatas. Anyone, including that great king, who writes this dhāraṇī down in a book, keeps it, recites it, masters it, worships it, puts it into writing, and keeps that book in their home, village, town, region, or kingdom, or in a temple, will be attended by the glorious Mahākāla, the Four Great Kings, the nāga king Varuṇa, and the eight great nāgas. They will conquer any hostile forces, gods, nāgas, yakṣas, malevolent grahas, {{page:{number:12,id:UT22084-093-018-277,folio:F.171.a}}} vināyakas, or opponents within a thousand leagues. 
+{{milestone:{label:1.80,id:UT22084-093-018-172}}}“If one has committed any mistakes in meditation or writing, or has erred in mantra, mudrā, explanation, or listening, reciting this dhāraṇī will purify them. Whoever is protected by this dhāraṇī, rescued by it, nurtured by it, pacified by it, or made happy by it will not be harmed by weapons, poison, poisonous brews, khākorḍas and kṛtyās, fevers, or any other harm, nor will they meet with untimely death. Anyone who harms them will be annihilated.”
+{{milestone:{label:1.81,id:UT22084-093-018-173}}}When the Blessed One finished speaking, the bodhisattva Mañjuśrī, the great śrāvaka Śāradvatīputra, and the whole world with its gods, humans, asuras, and gandharvas, rejoiced and praised what the Blessed One had said. 
+{{milestone:{label:1.82,id:UT22084-093-018-174}}}This completes “The Dhāraṇī of Noble Avalokiteśvara Siṃhanāda.”
+{{milestone:{label:c.1,id:UT22084-093-018-175}}}It was translated, edited, and finalized at the self-arisen caitya at the Drika charnel ground in Kashmir by the Noble Lady Vajrasattvī, who had attained accomplishment, and the translator Gar Sherab Jungne.

@@ -1,0 +1,14 @@
+{{translation:{id:UT22084-091-040,key:toh643,version:1.0.1,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-091-040-translation}}}The Noble Dhāraṇī
+Maitreya’s Pledge
+{{milestone:{label:1.1,id:UT22084-091-040-67}}}{{page:{number:1,id:UT22084-091-040-110,folio:F.127.b}}} Homage to the Three Jewels. 
+Homage to Maitreya the Victorious One.
+{{milestone:{label:1.2,id:UT22084-091-040-69}}}namo ratna trayāya | namo bhagavate | śākyamunaye | tathāgatāya | arhate samyaksaṃ­buddhāya | tadyathā | oṃ ajite ajite | aparājite{{note:{index:9,id:UT22084-091-040-70}}} | ajitaṃ jaya | hara hara | maitri avalokite | kara kara | mahā­samaya­siddhe | bhara bhara | mahābodhi­maṇḍabīje | smara smara | asmakaṃ samaya bodhi bodhi | mahābodhi svāhā | |{{note:{index:10,id:UT22084-091-040-71}}}
+This was the root mantra.
+{{milestone:{label:1.3,id:UT22084-091-040-73}}}oṃ mohi mohi | mahāmohi svāhā | |{{note:{index:11,id:UT22084-091-040-74}}}
+This was the heart mantra.
+{{milestone:{label:1.4,id:UT22084-091-040-76}}}oṃ muni muni smara svāhā | |{{note:{index:12,id:UT22084-091-040-77}}}
+This was the auxiliary heart mantra.
+{{milestone:{label:1.5,id:UT22084-091-040-78}}}“Once I have fully awakened to unsurpassed and perfectly complete enlightenment, I will be certain to search out any being who simply hears, recites, chants, correctly contemplates, or meditates on this dhāraṇī and offer them a prophecy for unsurpassed and perfectly complete enlightenment. Even if this dhāraṇī is recited into the ear of a deer or bird from the animal realm, they will also receive a prophecy for unsurpassed and perfectly complete enlightenment. Whoever merely hears this will never go to the lower realms, nor will they be stained by the dirt of the lower realms. They will not be reborn in a mother’s womb. They will become a universal monarch for a thousand divine eons. {{page:{number:2,id:UT22084-091-040-113,folio:F.128.a}}} They will inhabit the path of the ten virtuous actions. Whichever material enjoyments they wish for and seek will appear for them. I, a blessed one, will never forget that being. Having reached the seat of awakening, I will absolutely provide them, no matter who they are, a prophecy for unsurpassed and perfectly complete enlightenment.”
+{{milestone:{label:1.6,id:UT22084-091-040-79}}}This completes The Noble Dhāraṇī “Maitreya’s Pledge.”
+{{milestone:{label:c.1,id:UT22084-091-040-80}}}Translated, edited, and finalized by the Indian preceptor Vajrapāṇi and the Tibetan translator-monk Chökyi Sherap.

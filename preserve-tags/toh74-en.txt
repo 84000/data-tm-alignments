@@ -1,0 +1,144 @@
+{{translation:{id:UT22084-043-011,key:toh74,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-043-011-translation}}}The Noble Mahāyāna Sūtra
+The Inquiry of the Girl Sumati
+{{milestone:{label:1.1,id:UT22084-043-011-69}}}{{page:{number:1,id:UT22084-043-011-242,folio:F.216.a}}} Homage to all buddhas and bodhisattvas!
+{{milestone:{label:1.2,id:UT22084-043-011-70}}}Thus did I hear at one time. The Bhagavān was residing on Vulture Peak at Rājagṛha together with a large community of twelve hundred and fifty monks and a large community of ten thousand bodhisattvas. 
+{{milestone:{label:1.3,id:UT22084-043-011-73}}}At that time, in the great city of Rājagṛha, there lived a girl named Sumati who was the daughter of the householder Ugra. She was about eight years old, had a graceful appearance, was beautiful and pleasant to behold, had a fine complexion, and was well proportioned. In the past, she had served the victors and generated roots of virtue. She had venerated many hundreds and thousands of millions and billions of buddhas and accumulated roots of virtue in the company of countless millions upon billions upon trillions of buddhas.
+{{milestone:{label:1.4,id:UT22084-043-011-74}}}Together with her retinue, she went to Vulture Peak where the Bhagavān was residing and bowed down with her head at his feet. Then, after walking around the Bhagavān three times, keeping him on her right, she sat down in front of him and addressed him in verse: 
+{{milestone:{label:1.5,id:UT22084-043-011-75}}}“If I may, I would like to ask the perfect Buddha, 
+The best of those who walk on two feet,
+The one who illuminates the world:
+What are the practices of a bodhisattva?”
+{{milestone:{label:1.6,id:UT22084-043-011-76}}}The Bhagavān replied:
+{{milestone:{label:1.7,id:UT22084-043-011-77}}}“Girl, ask whatever you like, 
+And I will explain to you
+All the practices of a bodhisattva, {{page:{number:2,id:UT22084-043-011-243,folio:F.216.b}}}
+Just as your heart desires.”
+{{milestone:{label:1.8,id:UT22084-043-011-78}}}Thereupon the girl Sumati addressed the Bhagavān with these verses:
+{{milestone:{label:1.9,id:UT22084-043-011-79}}}“How does one become beautiful?
+How does one become wealthy?
+How does one come to have a united assembly?
+Would the Sage teach me this?
+{{milestone:{label:1.10,id:UT22084-043-011-80}}}“How does one become spontaneously reborn
+In the presence of the King of Dharma,
+Where one comes into being sitting upon
+A thousand-petaled lotus?
+{{milestone:{label:1.11,id:UT22084-043-011-81}}}“Would the Victor teach the practices by which
+One comes to possess the perfections and superhuman powers,
+And by which one goes to myriad realms without measure
+In order to pay homage to the buddhas?
+{{milestone:{label:1.12,id:UT22084-043-011-82}}}“What makes one free from enemies?
+What gives weight to one’s words?
+How can one face no hindrance from karma,
+And encounter none of Māra’s work?
+{{milestone:{label:1.13,id:UT22084-043-011-83}}}“When the time of death has come,
+How can one see the Buddha directly,
+And also hear the Dharma from him,
+And not experience the feeling of suffering?” 
+{{milestone:{label:1.14,id:UT22084-043-011-84}}}When she had said this, the Bhagavān replied to the girl Sumati, “Girl, your intention to ask the Tathāgata about this topic is excellent! It is excellent! Therefore, girl, listen carefully and pay close attention, and I will explain it to you.”
+{{milestone:{label:1.15,id:UT22084-043-011-85}}}The girl Sumati replied, “Excellent, Bhagavān!” and she listened accordingly as the Bhagavān taught her: 
+{{milestone:{label:1.16,id:UT22084-043-011-86}}}“Girl, there are four dharmas, the possession of which causes a bodhisattva to become beautiful. What are these four? They are (1) one does not act out of anger, even at an enemy; (2) one becomes established in love; (3) one desires the Dharma, and (4) one causes figures to be made of the tathāgatas. Girl, these are the four dharmas the possession of which causes a bodhisattva to become beautiful.
+{{milestone:{label:1.17,id:UT22084-043-011-87}}}“About this, it can also be said: 
+{{milestone:{label:1.18,id:UT22084-043-011-88}}}“If one does not allow anger, the root of harm, to grow,
+Dwells in loving kindness, desires the Dharma,
+And has figures made {{page:{number:3,id:UT22084-043-011-244,folio:F.217.a}}} of the tathāgatas,
+One becomes beautiful, worthy to behold.
+{{milestone:{label:1.19,id:UT22084-043-011-89}}}“Girl, there are four dharmas the possession of which causes a bodhisattva to become very wealthy. What are these four? They are (1) giving at the right time, (2) giving without regret, (3) giving with joy,{{note:{index:14,id:UT22084-043-011-90}}} and (4) giving without expecting a result. Girl, these are the four dharmas the possession of which causes a bodhisattva to become very wealthy.
+{{milestone:{label:1.20,id:UT22084-043-011-91}}}“About this, it can also be said:
+{{milestone:{label:1.21,id:UT22084-043-011-92}}}“Giving at the right time, without regret,
+Giving joyfully and without expecting a result—
+When heroic ones perform such actions,
+They will always obtain great wealth.
+{{milestone:{label:1.22,id:UT22084-043-011-93}}}“Girl, there are four dharmas the possession of which causes a bodhisattva to have a united assembly. What are these four? They are (1) one abstains from divisive speech; (2) one causes beings with mistaken views to grasp the correct view properly and maintain it; (3) one preserves the true Dharma at the time of the destruction of the true Dharma; and (4) one causes beings to grasp properly and maintain the awakening of the buddhas. Girl, these are the four dharmas the possession of which causes a bodhisattva to have a united assembly.
+{{milestone:{label:1.23,id:UT22084-043-011-94}}}“About this, it can also be said:
+{{milestone:{label:1.24,id:UT22084-043-011-95}}}“If one abstains from divisive speech and wrong views, 
+One preserves the Dharma at the time of its destruction, 
+And one causes beings to grasp awakening properly,
+One’s assembly will be united, and it will thrive. 
+{{milestone:{label:1.25,id:UT22084-043-011-96}}}“Girl, there are four dharmas the possession of which causes a bodhisattva to be reborn spontaneously from a lotus of precious substances in the presence of the buddhas, the bhagavāns. What are these four? They are (1) offering handfuls of powders, blue lotus flowers, red lotuses, white water lilies, and white lotuses to a figure of the Tathāgata or a stūpa of the Tathāgata;{{note:{index:15,id:UT22084-043-011-97}}} (2) not giving rise to harmful thoughts toward others; (3) causing figures to be made of the Tathāgata seated on a lotus; {{page:{number:4,id:UT22084-043-011-245,folio:F.217.b}}} and (4) having strong faith in the certainty of the awakening of the Buddha. Girl, these are the four dharmas the possession of which causes a bodhisattva to be reborn spontaneously from a lotus of precious substances in the presence of the buddhas, the bhagavāns. 
+{{milestone:{label:1.26,id:UT22084-043-011-259}}}“About this, it can also be said:
+{{milestone:{label:1.27,id:UT22084-043-011-98}}}“One who offers handfuls of powders and flowers, 
+Abstains from thoughts of harm, makes figures,
+And is established in strong faith
+Is reborn spontaneously in the presence of the victors.
+{{milestone:{label:1.28,id:UT22084-043-011-99}}}“Girl, there are four dharmas the possession of which enables a bodhisattva to go by means of superhuman powers from one buddha realm to another buddha realm. What are these four? They are (1) not interfering with others’ roots of virtue, (2) not interfering as others hear the Dharma, (3) offering butter lamps to the stūpas of the Tathāgata, and (4) cultivating meditative concentration. Girl, these are the four dharmas the possession of which enables a bodhisattva to go by means of superhuman powers from one buddha realm to another buddha realm. 
+{{milestone:{label:1.29,id:UT22084-043-011-100}}}“About this, it can also be said:
+{{milestone:{label:1.30,id:UT22084-043-011-101}}}“Those who do not interfere with virtue,
+Do not criticize the Dharma teachings of others,
+Do offer butter lamps to stūpas of the Tathāgata,
+And cultivate meditative concentration will go to buddha realms. 
+{{milestone:{label:1.31,id:UT22084-043-011-102}}}“Girl, there are four dharmas the possession of which makes a bodhisattva free from enemies. What are these four? They are (1) one relies upon spiritual friends without any deceit,{{note:{index:16,id:UT22084-043-011-103}}} (2) one does not covet roots of virtue,{{note:{index:17,id:UT22084-043-011-104}}} (3) one feels joy in others’ gains, and (4) one does not give rise to anger or spread criticism about any of the states or deeds of bodhisattvas. Girl, these are the four dharmas the possession of which makes a bodhisattva free from enemies.
+{{milestone:{label:1.32,id:UT22084-043-011-105}}}“About this, it can also be said:
+{{milestone:{label:1.33,id:UT22084-043-011-106}}}“Having no deceit toward spiritual friends,
+Feeling joy and not envy toward others’ gains,
+And not criticizing the conduct of bodhisattvas,
+One will always be without enemies. {{page:{number:5,id:UT22084-043-011-246,folio:F.218.a}}}
+{{milestone:{label:1.34,id:UT22084-043-011-108}}}“Girl, there are four dharmas the possession of which gives weight to a bodhisattva’s words. What are these four? They are (1) doing what one says one will do, (2) not hiding one’s nature from friends,{{note:{index:18,id:UT22084-043-011-109}}} (3) listening to teachings without looking for faults, and (4) not slandering other teachers of the Dharma. Girl, these are the four dharmas the possession of which gives weight to a bodhisattva’s words.
+{{milestone:{label:1.35,id:UT22084-043-011-110}}}“About this, it can also be said:
+{{milestone:{label:1.36,id:UT22084-043-011-111}}}“If one does what one says one will do,
+Does not hide one’s nature from friends,
+And listens to teachings without looking for faults,
+One will have no fear and also one’s words will have weight.
+{{milestone:{label:1.37,id:UT22084-043-011-112}}}“Girl, there are four dharmas the possession of which causes a bodhisattva to face no hindrance from karma and also quickly realize purity. What are these four? They are (1) one fully takes up the three vows with the establishment of one’s ambition, (2) one does not disdain the profound sūtras,{{note:{index:19,id:UT22084-043-011-113}}} (3) one considers a bodhisattva who has conceived the aspiration for awakening for the first time to be none other than the Omniscient One, and (4) one cultivates love for all beings. Girl, these are the four dharmas the possession of which causes a bodhisattva to face no hindrance from karma and also quickly realize purity.
+{{milestone:{label:1.38,id:UT22084-043-011-114}}}“About this, it can also be said:
+{{milestone:{label:1.39,id:UT22084-043-011-115}}}“Abiding by the three vows with ambition,
+Always being interested in the profound sūtras,
+Seeing the Buddha’s progeny as the Omniscient One,
+And having love for beings, one’s karma becomes pure. 
+{{milestone:{label:1.40,id:UT22084-043-011-116}}}“Girl, there are four dharmas the possession of which causes a bodhisattva to encounter none of Māra’s work. What are these four? They are (1) meditating on the sameness of all things, (2) undertaking heroic effort, (3) meditating on the recollection of the Buddha, and (4) dedicating the roots of virtue.{{note:{index:20,id:UT22084-043-011-117}}} Girl, these are the four dharmas the possession of which causes a bodhisattva to encounter none of Māra’s work.
+{{milestone:{label:1.41,id:UT22084-043-011-118}}}“About this, it can also be said:
+{{milestone:{label:1.42,id:UT22084-043-011-119}}}“One who realizes the principle of dharma toward all things, {{page:{number:6,id:UT22084-043-011-247,folio:F.218.b}}}
+Undertakes heroic effort, recollects the Buddha,
+And makes dedication, confession, and veneration—
+Māra will not find any opportunity to harm such a person.
+{{milestone:{label:1.43,id:UT22084-043-011-120}}}“Girl, there are four dharmas a bodhisattva’s possession of which causes the Buddha to appear in the presence of that bodhisattva at the time of death and, at that time, to hear the Dharma from him, and also not to experience any suffering. What are these four? They are (1) fulfilling the wishes of others, (2) having great devotion, (3) gathering together a diverse array of the generosity of a bodhisattva, and (4) endeavoring to make offerings to the Three Jewels. Girl, these are the four dharmas a bodhisattva’s possession of which causes the Buddha to appear in the presence of that bodhisattva at the time of death and, at that time, to hear the Dharma from him, and also not to experience any suffering.
+{{milestone:{label:1.44,id:UT22084-043-011-121}}}“About this, it can also be said:
+{{milestone:{label:1.45,id:UT22084-043-011-122}}}“Those who fulfill the wishes of others,
+Have devotion and great generosity,
+And always make offerings to the wise—
+The Tathāgata appears to such people as a result.”
+{{milestone:{label:1.46,id:UT22084-043-011-123}}}After the Bhagavān had spoken thus, the girl Sumati said this to him: “Venerable Bhagavān, I want to train in the precepts of a bodhisattva exactly as you have taught them. Should I fail to practice even a single dharma from among these ten sets of four, exactly as you have taught them, Bhagavān, then I would be deceiving the figure of the Tathāgata.”
+{{milestone:{label:1.47,id:UT22084-043-011-124}}}The elder, the great Maudgalyāyana, then spoke to the girl Sumati in this way: “Girl, given that the conduct of the bodhisattvas is difficult to comprehend, have you attained mastery over your mind when you take it upon yourself to act fully in this way?”{{note:{index:21,id:UT22084-043-011-125}}}
+{{milestone:{label:1.48,id:UT22084-043-011-126}}}The girl Sumati replied to the venerable one, the great Maudgalyāyana, “By the truth and by these words of truth, Venerable Maudgalyāyana, {{page:{number:7,id:UT22084-043-011-248,folio:F.219.a}}} that is, by the truth and the words of truth that I will realize all these dharmas, may this cosmos of a billion worlds shake in six different ways, may there be a shower of heavenly flowers, and may the sound of musical instruments spontaneously arise!”
+{{milestone:{label:1.49,id:UT22084-043-011-127}}}Thereafter, as soon as the girl Sumati had made the truthful resolution, at that moment the cosmos of a billion worlds shook in six different ways, a shower of heavenly flowers fell, and the sound of musical instruments spontaneously arose. 
+{{milestone:{label:1.50,id:UT22084-043-011-128}}}“Venerable Maudgalyāyana,” she said, “by the truth and by these words of truth—that is, by the truth and by these words of truth to the effect that I will become a tathāgata in the future just like the present tathāgata, arhat, perfect and completely awakened Buddha Śākyamuni, and that in that buddha realm, Māra will not appear to me, not even the name of the lower realms of rebirth will arise there, and the faults of women will not exist there{{note:{index:22,id:UT22084-043-011-129}}}—may this assembly become golden in color!”
+{{milestone:{label:1.51,id:UT22084-043-011-130}}}As soon as the girl Sumati uttered these words, at that same moment, the entire assembly became golden in color. 
+{{milestone:{label:1.52,id:UT22084-043-011-131}}}Thereafter, the great Maudgalyāyana, the highly respected one, arose from his seat, draped his upper robe on one shoulder, knelt on his right knee, and with his palms joined together in a gesture of respect, he bowed to the Bhagavān and said this to him, “I bow to all the bodhisattvas, Bhagavān, beginning with those who have conceived the aspiration for awakening for the first time.”
+{{milestone:{label:1.53,id:UT22084-043-011-132}}}Thereupon, Mañjuśrī Kumārabhūta asked the girl Sumati, “Based upon which dharma, Sumati, did you make this truthful resolution?” 
+{{milestone:{label:1.54,id:UT22084-043-011-133}}}“Mañjuśrī,” Sumati replied, {{page:{number:8,id:UT22084-043-011-249,folio:F.219.b}}} “Since the dharmadhātu has no basis, nothing can be based upon it. Therefore, there is no question about it.” 
+{{milestone:{label:1.55,id:UT22084-043-011-134}}}“Sumati, to what does the term awakening refer?” Mañjuśrī་ asked. 
+{{milestone:{label:1.56,id:UT22084-043-011-135}}}“Mañjuśrī,” Sumati replied, “the term awakening refers to a dharma that is not conceptualized.”
+{{milestone:{label:1.57,id:UT22084-043-011-136}}}Mañjuśrī asked, “Sumati, to what does the term bodhisattva refer?”
+{{milestone:{label:1.58,id:UT22084-043-011-137}}}Sumati replied, “Mañjuśrī, the term bodhisattva refers to a dharma that has the same nature as space.”
+{{milestone:{label:1.59,id:UT22084-043-011-138}}}“Sumati,” Mañjuśrī asked, “did the Tathāgata also perform acts for the sake of awakening?”
+{{milestone:{label:1.60,id:UT22084-043-011-139}}}“Just as a mirage or an echo acts for the sake of awakening,” Sumati replied, “the Tathāgata acted in the same way for the sake of awakening.”
+{{milestone:{label:1.61,id:UT22084-043-011-140}}}“What were you thinking of, Sumati, when you said this?” Mañjuśrī asked.
+{{milestone:{label:1.62,id:UT22084-043-011-141}}}“About this, Mañjuśrī,” Sumati replied, “I was neither thinking nor not thinking of any dharma whatsoever.”
+{{milestone:{label:1.63,id:UT22084-043-011-142}}}“If it is as you think, Sumati,” Mañjuśrī said, “then every childish being would be awakened.”
+{{milestone:{label:1.64,id:UT22084-043-011-143}}}“What do you think, Mañjuśrī?” Sumati replied. “Do you see childish beings as different from the wise, and awakening too as different from them? If you wonder why I say this, it is because the dharmadhātu contains only one constituent element. When there is nothing to take up and nothing to cast away, there is nothing to superimpose on anything else.”
+{{milestone:{label:1.65,id:UT22084-043-011-144}}}Mañjuśrī asked, “Sumati, how many understand the meaning of what you have said?”
+{{milestone:{label:1.66,id:UT22084-043-011-145}}}Sumati replied, “Mañjuśrī, the number of those who understand the meaning of what I have said is equal in number to the minds and mental factors of illusory beings created by magic.”
+{{milestone:{label:1.67,id:UT22084-043-011-146}}}“Sumati,” Mañjuśrī asked, {{page:{number:9,id:UT22084-043-011-250,folio:F.220.a}}} “if illusory beings themselves do not even exist, how can their minds and mental factors exist?” 
+{{milestone:{label:1.68,id:UT22084-043-011-147}}}“Mañjuśrī,” Sumati replied, “the dharmadhātu is neither existent nor nonexistent, and the Tathāgata is like that too.” 
+{{milestone:{label:1.69,id:UT22084-043-011-148}}}Mañjuśrī Kumārabhūta then said this to the Bhagavān: “The extent to which the girl Sumati has an acceptance of the profound is truly marvelous, Bhagavān!” 
+{{milestone:{label:1.70,id:UT22084-043-011-149}}}“It is just so, Mañjuśrī. It is just as you have said,” replied the Bhagavān. “Within thirty eons from the time that the girl Sumati became well established on the path to perfect and complete awakening, I first conceived the aspiration for unsurpassable, perfect, and complete awakening. You, too, were introduced to the idea that things do not arise by this same girl, Sumati.”
+{{milestone:{label:1.71,id:UT22084-043-011-150}}}At that point, Mañjuśrī Kumārabhūta rose from his seat, bowed to the girl Sumati, and spoke these words: “I am seeing my teacher after a long time.”
+{{milestone:{label:1.72,id:UT22084-043-011-151}}}“Do not form a concept, Mañjuśrī,” Sumati replied. “Why do I say this? It is because the acceptance of the fact that things do not arise is not something conceptual.” 
+{{milestone:{label:1.73,id:UT22084-043-011-152}}}Mañjuśrī asked, “Why has my teacher not yet transformed herself from her female body?” 
+{{milestone:{label:1.74,id:UT22084-043-011-153}}}“Mañjuśrī,” responded Sumati, “to say that ‘this is a woman’ or ‘this is a man’ implies an objective basis.{{note:{index:23,id:UT22084-043-011-154}}} However, your doubt should be removed. By the truth, that is, by the truth that I will become a tathāgata, a perfect and complete buddha in the future, may I become a man.” 
+{{milestone:{label:1.75,id:UT22084-043-011-155}}}As soon as the girl Sumati uttered these words her female body vanished and she was transformed into a man wearing saffron-colored monastic robes, who then spoke these words: “By the truth that when I attain awakening, ordinations will occur through my utterance of the words ‘Come, monk,’ {{page:{number:10,id:UT22084-043-011-260,folio:F.220.b}}} and no Māra will exist in my buddha realm, not even the name of the lower realms will exist there, and the faults of women will also not exist there—by that truth, and by those words of truth, may my demeanor become just like the demeanor of a monk who has been ordained for thirty years.”
+{{milestone:{label:1.76,id:UT22084-043-011-156}}}As soon as these words had been uttered, the demeanor of the bodhisattva Sumati became just like that of someone who had been ordained as a monk for thirty years. 
+{{milestone:{label:1.77,id:UT22084-043-011-157}}}“Mañjuśrī,” continued the bodhisattva Sumati, “by the truth and the words of truth—that beings in my buddha realm will have golden-colored bodies, food and drink will be acquired there merely by wishing for it, and the riches and enjoyments there will be just like those of the gods in the Heaven of Making Use of Others’ Emanations; In that buddha realm, the three lower realms will not be included; and the trees there will be made of seven precious substances, it will be surrounded by jeweled lattices, ornamented with lotuses made of seven precious substances and with jeweled canopies spread above, and that it will be a superior realm at least equal to the buddha realm of Mañjuśrī—by that truth and by those words of truth, may this assembly become golden in color.” 
+{{milestone:{label:1.78,id:UT22084-043-011-158}}}As soon as the bodhisattva Sumati uttered these words, the entire assembly became golden in color. 
+{{milestone:{label:1.79,id:UT22084-043-011-159}}}At that point, the divine multitude of sky-dwelling gods exclaimed and informed each other in these words: “O, the bodhisattva mahāsattva Sumati has just made an inspired utterance about the nature of the array of qualities of the buddha realm in which that bodhisattva will attain awakening!”
+{{milestone:{label:1.80,id:UT22084-043-011-160}}}The Bhagavān then said to Mañjuśrī Kumārabhūta, “Mañjuśrī, this bodhisattva Sumati will appear in the world as a tathāgata, an arhat, a perfect and complete buddha, perfect in knowledge and conduct, {{page:{number:11,id:UT22084-043-011-251,folio:F.221.a}}} a sugata, a knower of the world, a supreme trainer of those who are ready to be trained, a teacher to gods and humans, a bhagavān, a buddha named Essence of Splendorous and Precious Qualities.” 
+{{milestone:{label:1.81,id:UT22084-043-011-161}}}When the Bhagavān gave this Dharma discourse, three hundred million beings became established in the state of not turning back from unsurpassable, perfect, and complete awakening; eight hundred million gods purified the eye of Dharma with respect to things, so that it became spotless and free of impurities; and one hundred thousand beings had a direct realization of knowledge.
+{{milestone:{label:1.82,id:UT22084-043-011-162}}}Around five thousand monks on the bodhisattva path, who wished not to turn back from the aspiration for awakening, realized the ambition of the bodhisattva Sumati and saw the greatness of the bodhisattva’s roots of virtue. So, all of them put their monastic robes on the body of the Bhagavān, and with their ambition directed toward unsurpassable, perfect, and complete awakening, they made the following dedication: “Bhagavān, may our roots of virtue be certain to lead to unsurpassable, perfect, and complete awakening.”
+{{milestone:{label:1.83,id:UT22084-043-011-163}}}As soon as the monks dedicated their roots of virtue to unsurpassable, perfect, and complete awakening, after ninety eons of saṃsāra had passed and were left behind, they attained the state of not turning back from the unsurpassable, perfect, and complete awakening. 
+{{milestone:{label:1.84,id:UT22084-043-011-164}}}The Bhagavān also made a prophecy for all of them.{{note:{index:24,id:UT22084-043-011-165}}} He said, “After twelve eons,{{note:{index:25,id:UT22084-043-011-166}}} Mañjuśrī, over the course of a single eon, an eon called Vimalaprabhāsa, all these monks will awaken to unsurpassable, perfect, and complete awakening. They will do so in the buddha realm of the Tathāgata Duṣprasaha in the world system called Mārīcī. All of them will appear as tathāgatas in that world and will have a single name: Adornment of Eloquence.{{note:{index:26,id:UT22084-043-011-167}}}{{page:{number:12,id:UT22084-043-011-252,folio:F.221.b}}}
+{{milestone:{label:1.85,id:UT22084-043-011-168}}}“In that way, Mañjuśrī, this Dharma discourse will cause bodhisattva mahāsattvas and śrāvakas to become great in the possession of superhuman powers.
+{{milestone:{label:1.86,id:UT22084-043-011-169}}}“Even if sons and daughters from good families who aspire for awakening practice the six perfections with skillful means for a thousand eons, Mañjuśrī, their accumulation of merit will not equal even a hundredth, a thousandth, a hundred thousandth, or a thousand billionth of the merit accumulated by those who write down this Dharma discourse or listen to it even once during a half-month period. No reckoning, calculation, analogy, or account would suffice to describe it. Therefore, Mañjuśrī, I am entrusting this Dharma discourse to you. You should take an interest in it. Such a sūtra has arisen from the vows of bodhisattvas from the past. Hold on to it in future times. Understand it thoroughly. Remember it. Teach it. Recite it. Demonstrate it. Expound it extensively to others.
+{{milestone:{label:1.87,id:UT22084-043-011-170}}}“Consider this analogy, Mañjuśrī. So long as a cakravartin king is alive, the seven treasures will not cease to exist, but when a cakravartin king dies, the seven treasures will cease to exist. In the same way, Mañjuśrī, so long as a Dharma discourse like this one is practiced in this world, that is how long the seven precious constitutive factors of the awakening of the Tathāgata and all the principles of the qualities that are conducive to awakening will not cease to exist. When a Dharma discourse like this one ceases to exist, then the true Dharma will disappear. Therefore, Mañjuśrī, bodhisattva mahāsattvas should undertake heroic efforts to write down the words of a treasure of a sūtra like this one, to explain it, to remember it, to recite it, and to expound it extensively to others. This is my instruction. Do not feel regret in the future! This is my instruction to sons and daughters from good families who aspire for awakening.” 
+{{milestone:{label:1.88,id:UT22084-043-011-171}}}This is what the Bhagavān said, {{page:{number:13,id:UT22084-043-011-253,folio:F.222.a}}} and the bodhisattva Sumati, Mañjuśrī Kumārabhūta, the entire assembly, and the whole world with its gods, humans, asuras, and gandharvas rejoiced and praised what the Bhagavān had said.
+{{milestone:{label:1.89,id:UT22084-043-011-172}}}This concludes “The Inquiry of the Girl Sumati,” the thirtieth of the one hundred thousand chapters of the Dharma discourse known as “The Noble Great Heap of Jewels.”{{note:{index:27,id:UT22084-043-011-173}}}
+{{milestone:{label:c.1,id:UT22084-043-011-174}}}Translated, edited, and finalized by the Indian preceptors Jinamitra and Surendrabodhi, along with the chief editor and translator Bandé Yeshé Dé, and others.

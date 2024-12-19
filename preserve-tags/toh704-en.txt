@@ -1,0 +1,7 @@
+{{translation:{id:UT22084-093-019,key:toh704,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-093-019-translation}}}The Dhāraṇī of Siṃhanāda
+{{milestone:{label:1.1,id:UT22084-093-019-68}}}namo ratna­trayāya | nama āryāvalokiteśvarāya bodhi­sattvāya mahā­sattvāya mahā­kāruṇikāya | tadyathā | oṃ akaṭe vikaṭe nikaṭe kaṭaṃkaṭe karoṭe{{note:{index:14,id:UT22084-093-019-72}}} karoṭavīrye svāhā ||
+{{milestone:{label:1.2,id:UT22084-093-019-73}}}In front of the Blessed One, make eight individual maṇḍalas out of cow dung that has not fallen to the ground. Recite this thirteen times at each maṇḍala, then incant the resulting{{note:{index:15,id:UT22084-093-019-74}}} dung with the mantra. When it is smeared on a sick person, all illnesses will be cured. 
+{{milestone:{label:1.3,id:UT22084-093-019-75}}}If this is not successful after seven, thirteen, or twenty-one days, even for someone who has carried out the five deeds of immediate retribution, then I{{note:{index:16,id:UT22084-093-019-76}}} myself will have carried out the five deeds of immediate retribution.{{note:{index:17,id:UT22084-093-019-77}}}
+{{milestone:{label:1.4,id:UT22084-093-019-78}}}This completes the “Dhāraṇī of Siṃhanāda.” 
+{{milestone:{label:c.1,id:UT22084-093-019-79}}}It was translated by the Indian preceptor Vāgīśvara and Lokya Sherab Tsek.{{note:{index:18,id:UT22084-093-019-80}}}{{page:{number:2,id:UT22084-093-019-107,folio:F.171.b}}}

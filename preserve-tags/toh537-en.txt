@@ -1,0 +1,6 @@
+{{translation:{id:UT22084-088-031,key:toh537,version:1.0.1,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-088-031-translation}}}Recollecting the Names of the Buddha Ratnaśikhin
+{{milestone:{label:1.1,id:UT22084-088-031-60}}}{{page:{number:1,id:UT22084-088-031-82,folio:F.100.a}}} Homage to the Buddha Ratnaśikhin.
+{{milestone:{label:1.2,id:UT22084-088-031-62}}}namo ratnaśikhine| tathāgatāya| arhate sam­yaksaṃ­buddhāya| tadyathā| ratne ratne ratna­śikhine svāhā|| 
+{{milestone:{label:1.3,id:UT22084-088-031-63}}}If someone remembers this at the moment of death, they will be freed from the lower realms. When they do die and transmigrate, they will take birth as a god in the Heaven of the Thirty-Three.
+{{milestone:{label:1.4,id:UT22084-088-031-64}}}This completes “Recollecting the Names of the Buddha Ratnaśikhin.”

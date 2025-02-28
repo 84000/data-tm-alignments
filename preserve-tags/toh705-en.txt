@@ -1,0 +1,125 @@
+{{translation:{id:UT22084-093-020,key:toh705,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-093-020-translation}}}The Noble Hundred and Eight Names of Avalokiteśvara [1]
+{{milestone:{label:1,id:UT22084-093-020-section}}}{{page:{number:1,id:UT22084-093-020-202,folio:F.171.b}}} Homage to all the buddhas and bodhisattvas.
+{{milestone:{label:1.1,id:UT22084-093-020-70}}}Thus did I hear at one time. The Blessed One was residing at the noble Avalokiteśvara’s abode at the summit of Mount Potala, a place that was arrayed{{note:{index:10,id:UT22084-093-020-71}}} with many different fragrant flowers, golden like the color of the Jambu River, and shining with a variety of jewels. There he was surrounded by many trillions of gods, nāgas, yakṣas, rākṣasas,{{note:{index:11,id:UT22084-093-020-72}}} gandharvas, asuras, garuḍas, kinnaras, mahoragas,{{note:{index:12,id:UT22084-093-020-73}}} humans, and non-humans, who honored him, took him as their teacher, respected him, made offerings to him, and revered him. In front of this group, he taught the Dharma. 
+{{milestone:{label:1.2,id:UT22084-093-020-74}}}He exclusively taught, in a perfect manner, the pure conduct—virtuous in the beginning, virtuous in the middle, and virtuous in the end, excellent in meaning, beautiful in expression, completely cleansed, and completely pure, unmixed,{{note:{index:13,id:UT22084-093-020-75}}} complete, and utterly clear. Thereafter, Brahmā and so forth praised the bodhisattva great being, noble Avalokiteśvara, as follows: 
+{{milestone:{label:1.3,id:UT22084-093-020-76}}}“Ah, Blessed Buddha!{{note:{index:14,id:UT22084-093-020-77}}}
+You have done what is to be done, accomplished the task,{{note:{index:15,id:UT22084-093-020-78}}}
+Cast off the burden, achieved your own aims,
+And utterly cleared away the ties to existence.
+{{milestone:{label:1.4,id:UT22084-093-020-79}}}Your words are authentic and your mind completely free.
+Your wisdom is completely liberated.
+Like the Great Elephant, you know all. 
+You have attained the supreme perfection 
+{{milestone:{label:1.5,id:UT22084-093-020-80}}}Of completely controlling your mind. 
+You have perfected the accumulation of wisdom. 
+You have crossed the wilderness of existence.
+You strive in actions for others’ benefit.
+{{milestone:{label:1.6,id:UT22084-093-020-81}}}Your mind is suffused with compassion,
+And you have love for every being. {{page:{number:2,id:UT22084-093-020-205,folio:F.172.a}}}
+Arisen from love, you strive toward virtue 
+And are skilled in freeing limitless beings. 
+{{milestone:{label:1.7,id:UT22084-093-020-82}}}You have been born from the sugatas themselves
+And are the word of the sugatas.
+You are the single friend of the three worlds.
+Free from desire, anger, and delusion, 
+{{milestone:{label:1.8,id:UT22084-093-020-83}}}You have left behind the three stains,
+And are the perfection of the three knowledges.
+You have the six superknowledges.
+Your body is rounded{{note:{index:16,id:UT22084-093-020-215}}} like the nyagrodha tree.{{note:{index:17,id:UT22084-093-020-84}}}
+{{milestone:{label:1.9,id:UT22084-093-020-85}}}You possess the thirty-two
+Marks of a great being 
+And your body is also fully adorned
+With the eighty minor marks. 
+{{milestone:{label:1.10,id:UT22084-093-020-86}}}Golden in color, 
+Your body is tall and edged with white.
+Like the young nāgakesara,{{note:{index:18,id:UT22084-093-020-87}}}
+You are slightly reddish in color. 
+{{milestone:{label:1.11,id:UT22084-093-020-88}}}You have a crowning topknot
+Wrapped with many locks. 
+Amitābha sits upon your crown,
+Radiating out rays of light. 
+{{milestone:{label:1.12,id:UT22084-093-020-89}}}Your aura of light, a fathom in size, blazes
+Like a golden mountain, spreading with renown.
+Your magnificence is great. 
+You are endowed with an uṣṇīṣa,
+{{milestone:{label:1.13,id:UT22084-093-020-90}}}Radiant like the sun shining on an eastern ridge.
+A sash blazing with precious gems
+Is an adornment across your body. 
+You are extremely learned about the bhūmis. 
+{{milestone:{label:1.14,id:UT22084-093-020-91}}}You practice the ten perfections.
+Your moral conduct is uncorrupted, untorn.
+Your breast is like a protective lion.{{note:{index:19,id:UT22084-093-020-92}}}
+Your body is smooth and supple. 
+{{milestone:{label:1.15,id:UT22084-093-020-93}}}You gaze and depart like a chief. 
+Similar to a right-coiling conch, 
+Your forehead is like the half-moon.
+Your forehead is extremely broad
+{{milestone:{label:1.16,id:UT22084-093-020-94}}}And there is no break between your eyebrows. 
+Your eyes blaze like precious gems.{{note:{index:20,id:UT22084-093-020-95}}}
+Your nose is slightly raised. 
+Your teeth are pressed down by your lips
+{{milestone:{label:1.17,id:UT22084-093-020-96}}}And your tongue can cover the three thousand worlds.
+The openings of your ears are very deep,{{note:{index:21,id:UT22084-093-020-97}}}
+Your throat is like the neck of a vase,
+And your shoulders are extremely round.
+{{milestone:{label:1.18,id:UT22084-093-020-98}}}The fingers and{{note:{index:22,id:UT22084-093-020-99}}} joints of your hands are long,
+Your fingernails are smooth and slightly red,
+And your hands are webbed.
+At the palms of your hands and soles of your feet,
+{{milestone:{label:1.19,id:UT22084-093-020-100}}}You are adorned with wheels. 
+You are beautiful like an autumn lotus. {{page:{number:3,id:UT22084-093-020-207,folio:F.172.b}}}
+Your complexion is smooth and your body strong.{{note:{index:23,id:UT22084-093-020-101}}}
+Your speech is deep{{note:{index:24,id:UT22084-093-020-102}}} like Brahmā’s voice. 
+{{milestone:{label:1.20,id:UT22084-093-020-103}}}You are lovely and delightful,
+A joy to see, and your splendor pleasing. 
+Arisen from a lotus, you are lotus colored.{{note:{index:25,id:UT22084-093-020-104}}}
+You are born from a pure lotus
+{{milestone:{label:1.21,id:UT22084-093-020-105}}}And seated upon a pure lotus seat. 
+You hold a beautiful lotus in your hand.
+You hold a round anointing vase in your hand. 
+You wear the skin of a black deer 
+{{milestone:{label:1.22,id:UT22084-093-020-106}}}And you hold a staff and a rosary. 
+Due to auspiciousness, you are pure. 
+You are the first to speak, and you speak sincerely.
+You shower down a rain of nectar.
+{{milestone:{label:1.23,id:UT22084-093-020-107}}}You are like a precious, wish-fulfilling gem. 
+You delight all beings. 
+You are like a beautiful tree. 
+You are the sustenance of all beings.
+{{milestone:{label:1.24,id:UT22084-093-020-108}}}You are the emanation of all buddhas.
+You possess the sugatas’ accoutrements.
+You bear the relics of the sugatas. 
+Each and every bodily hair of yours
+{{milestone:{label:1.25,id:UT22084-093-020-109}}}Is the sovereign of all{{note:{index:26,id:UT22084-093-020-110}}} beings. 
+You make merit and carry out virtue.
+You act without delay and with certainty.
+Your diligence is renowned.{{note:{index:27,id:UT22084-093-020-111}}}
+{{milestone:{label:1.26,id:UT22084-093-020-112}}}You have gone completely beyond saṃsāra.
+You are empowered as a regent of the True Dharma.
+You turn with delight the wish-fulfilling wheel.{{note:{index:28,id:UT22084-093-020-113}}}
+As Amoghapāśa, you draw out the afflictive emotions.
+{{milestone:{label:1.27,id:UT22084-093-020-114}}}As noble{{note:{index:29,id:UT22084-093-020-115}}} Hayagrīva, you conquer the four māras. 
+As the wrathful Nīlakaṇṭha, you clear away poison.
+You liberate from fear of makaras and crocodiles.{{note:{index:30,id:UT22084-093-020-116}}}
+The goddess Tārā follows you.
+{{milestone:{label:1.28,id:UT22084-093-020-117}}}Bhṛkuṭī carries out your commands.
+You follow the way of the Victors.
+You have great power and good recall.
+You have excellent qualities and loving kindness.
+{{milestone:{label:1.29,id:UT22084-093-020-118}}}You are endowed with wisdom and glory. 
+You have moral conduct and are purposeful.
+You are a knower of all things.
+You cut off every doubt.
+{{milestone:{label:1.30,id:UT22084-093-020-119}}}You are a propounder of every dharma. 
+You are the teacher of the whole{{note:{index:31,id:UT22084-093-020-120}}} world.
+Your face is like the full moon.
+Your lower body is adorned with every gem.
+{{milestone:{label:1.31,id:UT22084-093-020-121}}}You are like a golden sacrificial post,
+More radiant than a thousand suns.
+Brahmā and the others bow before you— 
+Homage to the world’s protector!”{{note:{index:32,id:UT22084-093-020-122}}}{{page:{number:4,id:UT22084-093-020-209,folio:F.173.a}}}
+{{milestone:{label:1.32,id:UT22084-093-020-123}}}Whoever praises noble Avalokiteśvara by means of these one hundred and eight names will utterly purify the karmic obscuration caused by having engaged in the five actions of immediate consequence. They will enter into all maṇḍalas. They will also accomplish all mantras. For a thousand eons, they will not be born in the lower realms. They will not fall into Avīci.
+{{milestone:{label:1.33,id:UT22084-093-020-124}}}Whoever rises at dawn and reads this, or has someone read it, or recites it aloud, will be free from all physical illnesses—like leprosy, boils, lung diseases, difficulty breathing, and so forth. They will recall all of their previous births. They will be like the children of the gods. Also, at the time of death, they will take rebirth in the realm of Sukhāvatī. Wherever they are born and wherever they reside, they will never be separated from noble Avalokiteśvara. If they recite this continually, they will become intelligent. They will become heroic. They will become sweet voiced. They will become fortunate.{{note:{index:33,id:UT22084-093-020-125}}} They will become skilled in all the sciences. They will become someone who speaks nobly. 
+{{milestone:{label:1.34,id:UT22084-093-020-126}}}If one offers praise with this praise, the result will be no different at all from the result that would come from making offerings to blessed ones equal in number to the grains of sand in sixty-two Ganges River. 
+{{milestone:{label:1.35,id:UT22084-093-020-127}}}This completes “The Noble Hundred and Eight Names of Avalokiteśvara,” called “The Receptacle of the Precious Relics of all Victors.”

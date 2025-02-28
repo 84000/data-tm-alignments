@@ -1,0 +1,28 @@
+{{translation:{id:UT22084-072-024,key:toh324,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-072-024-translation}}}The Four Stanzas
+{{milestone:{label:1.1,id:UT22084-072-024-71}}}{{page:{number:1,id:UT22084-072-024-113,folio:F.204.a}}} Homage to the Three Jewels!
+{{milestone:{label:1.2,id:UT22084-072-024-73}}}I pay homage to all victorious ones, 
+Those celebrated perfect buddhas,
+And to their bodies
+That possess the thirty-two supreme marks.{{note:{index:15,id:UT22084-072-024-74}}}
+{{milestone:{label:1.3,id:UT22084-072-024-75}}}Where the perfect buddhas were born, 
+Where they reached awakening,
+Where they turned the wheel of peace, {{page:{number:2,id:UT22084-072-024-114,folio:F.204.b}}}
+Where they passed into parinirvāṇa, free from defilement,
+{{milestone:{label:1.4,id:UT22084-072-024-76}}}Where those sugatas{{note:{index:16,id:UT22084-072-024-77}}} sat, 
+Where they walked and stood, 
+And where they slept like lions— 
+To all those places I bow.
+{{milestone:{label:1.5,id:UT22084-072-024-78}}}I also bow to all stūpas, 
+With and without relics,
+Above, in between, below, 
+And in the cardinal and intermediate directions.
+{{milestone:{label:1.6,id:UT22084-072-024-79}}}These stanzas were uttered 
+By the victorious one Difficult to Follow,{{note:{index:17,id:UT22084-072-024-80}}}
+The best of humans, 
+Who dwells in the northeastern direction.{{note:{index:18,id:UT22084-072-024-81}}}
+{{milestone:{label:1.7,id:UT22084-072-024-82}}}Those who praise the tathāgatas 
+With these four stanzas 
+Will not go to the lower realms 
+For a thousand lifetimes.{{note:{index:19,id:UT22084-072-024-83}}}
+{{milestone:{label:1.8,id:UT22084-072-024-84}}}Thus ends “The Four Stanzas.”

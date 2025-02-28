@@ -1,0 +1,8 @@
+{{translation:{id:UT22084-072-023,key:toh323,version:1.0.1,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-072-023-translation}}}The Single Stanza
+{{milestone:{label:1.1,id:UT22084-072-023-84}}}{{page:{number:1,id:UT22084-072-023-113,folio:F.204.a}}} Homage to the Three Jewels!{{note:{index:17,id:UT22084-072-023-86}}}
+{{milestone:{label:1.2,id:UT22084-072-023-87}}}Foremost among humans, there is no other great ascetic like you,
+Neither in the heavenly lands, in this world, in Vaiśravaṇa’s abode, 
+In the excellent abodes of the gods’ palaces, nor in the cardinal and intermediate directions.
+How could there be another one like you on this vast earth with its mountains and forests?
+{{milestone:{label:1.3,id:UT22084-072-023-88}}}Thus ends “The Single Stanza.”

@@ -1,0 +1,6 @@
+{{translation:{id:UT22084-088-029,key:toh535,version:1.0.1,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-088-029-translation}}}Recollecting the Name of Moonlight
+{{milestone:{label:1.1,id:UT22084-088-029-61}}}{{page:{number:1,id:UT22084-088-029-91,folio:F.99.b}}} Homage to the thus-gone, worthy {{page:{number:2,id:UT22084-088-029-93,folio:F.100.a}}}, fully and perfectly awakened Moonlight!
+{{milestone:{label:1.2,id:UT22084-088-029-95}}}tadyathā| candre candre| sucandre| mati­candra candra­kiraṇa| siri siri| buddhādhiṣṭhite| kili kili| dharmādhiṣṭhite| kili kili| saṃghādhiṣṭhite svāhā.
+{{milestone:{label:1.3,id:UT22084-088-029-64}}}A son or daughter of good family who, every morning after rising, recollects the name of the tathāgata Moonlight, will remember all their former lives during forty thousand kalpas and will not fall into the lower realms. By recollecting Moonlight’s name, one will attain those attributes. 
+{{milestone:{label:1.4,id:UT22084-088-029-65}}}Recollecting the Name of Moonlight is complete.

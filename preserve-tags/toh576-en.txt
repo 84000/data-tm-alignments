@@ -1,0 +1,8 @@
+{{translation:{id:UT22084-090-020,key:toh576,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-090-020-translation}}}The Dhāraṇī of “The Perfection of Wisdom in One Hundred Thousand Lines”
+{{milestone:{label:1.1,id:UT22084-090-020-47}}}{{page:{number:1,id:UT22084-090-020-85,folio:F.202.b}}} Homage to the Blessed Lady, the Mother Perfection of Wisdom.
+{{milestone:{label:1.2,id:UT22084-090-020-50}}}tadyathā—oṃ munidharme{{note:{index:7,id:UT22084-090-020-51}}} saṃgraha­dharme anugraha­dharme vimukti­dharme sadānu­graha­dharme{{note:{index:8,id:UT22084-090-020-52}}} vaiśravaṇa­parivartita­dharme{{note:{index:9,id:UT22084-090-020-53}}} sarvakāryapariprāpaṇadharme{{note:{index:10,id:UT22084-090-020-54}}} śamatānu­parivartita­dharme{{note:{index:11,id:UT22084-090-020-55}}} svāhā!{{note:{index:12,id:UT22084-090-020-56}}}oṃ prajñe{{note:{index:13,id:UT22084-090-020-57}}} śrutismṛtivijaye{{note:{index:14,id:UT22084-090-020-58}}} dhīdhāraṇīye{{note:{index:15,id:UT22084-090-020-59}}} svāhā!
+{{milestone:{label:1.3,id:UT22084-090-020-60}}}oṃ prajñā­pāramitābala svāhā!{{note:{index:16,id:UT22084-090-020-61}}}
+{{milestone:{label:1.4,id:UT22084-090-020-62}}}By upholding this, one will have upheld The Perfection of Wisdom in One Hundred Thousand Lines.{{note:{index:17,id:UT22084-090-020-63}}}
+{{milestone:{label:1.5,id:UT22084-090-020-64}}}If one recites it continuously, the mind will become heedful. All karmic obscurations will be purified. {{page:{number:2,id:UT22084-090-020-87,folio:F.203.a}}}
+{{milestone:{label:1.6,id:UT22084-090-020-65}}}Here ends “The Dhāraṇī of ‘The Perfection of Wisdom in One Hundred Thousand Lines.’ ”

@@ -1,0 +1,7 @@
+{{translation:{id:UT22084-083-008,key:toh460a,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-083-008-translation}}}The Dhāraṇī “Dream Visions”
+{{milestone:{label:1.1,id:UT22084-083-008-56}}}{{page:{number:1,id:UT22084-083-008-75,folio:F.39.b}}} Homage to the Three Jewels!
+Homage to the great yakṣa general, the fierce Vajrapāṇi!
+{{milestone:{label:1.2,id:UT22084-083-008-81}}}oṁ mucini{{note:{index:5,id:UT22084-083-008-59}}} svāhā | mukhese{{note:{index:6,id:UT22084-083-008-60}}} svāhā | mohani svāhā | dantiri svāhā
+{{milestone:{label:1.3,id:UT22084-083-008-61}}}This rite is as follows: One should incant a handful of water and drink it. Then, when one falls asleep with intent, Vajrapāṇi will reveal a dream.
+{{milestone:{label:1.4,id:UT22084-083-008-62}}}The Dhāraṇī “Dream Visions” is complete.

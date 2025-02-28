@@ -1,0 +1,40 @@
+{{translation:{id:UT22084-087-002,key:toh497,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-087-002-translation}}}The Noble Dhāraṇī of the Eight Goddesses
+{{milestone:{label:1.1,id:UT22084-087-002-52}}}{{page:{number:1,id:UT22084-087-002-118,folio:F.157.a}}} Homage to all buddhas and bodhisattvas.
+{{milestone:{label:1.2,id:UT22084-087-002-54}}}Then, Vajrapāṇi taught this supreme queen of great dhāraṇī mantras that is the mother of the thus-gone ones, that purifies all misdeeds, that cures all illnesses, that frightens off all vighnas, and that brings all manner of prosperity.
+{{milestone:{label:1.3,id:UT22084-087-002-55}}}namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā he buddha­mātari sarva­pāpanāśani garja garja bhañja bhañja marda marda gambhari gambhari hasa hasa dama dama matha matha vidhvaṃsaya vidhvaṃsaya sarva­śatrūn taramati vimale pūraya pūraya prati­jñāna sarva­buddha­paryupasiti bhagavati gana gana jahi jahi vimasani kramaṇi dhavani ramaṇi mātaṅgi ge svāhā |
+{{milestone:{label:1.4,id:UT22084-087-002-56}}}This is the blessed dhāraṇī called Consecrated in Great Gnosis.{{note:{index:4,id:UT22084-087-002-57}}}
+{{milestone:{label:1.5,id:UT22084-087-002-58}}}namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā amari amari taṭa bhañja bhañja jha jha mici mici sphoṭaya sphoṭaya matha matha durdāntadamaka svāhā |
+{{milestone:{label:1.6,id:UT22084-087-002-59}}}namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyā sarvathā he he kinade sarva­tathāgata­bhaneke bhodhiṃ dada trāṭa trāṭa hūṁ phaṭ hūṁ phaṭ{{note:{index:5,id:UT22084-087-002-60}}} garja garja paramati vihurike svāhā |
+{{milestone:{label:1.7,id:UT22084-087-002-61}}}namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā bhagavati prajñā­pāramite a sarva­pāpakṣayaṅkari jñānārcisparaṇi bhañja bhañja matha matha dama dama ānaya ānaya sara sara māraya māraya sarva­buddha­janetrīyai svāhā |
+{{milestone:{label:1.8,id:UT22084-087-002-62}}}namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā garja garja matha matha dama dama bhañja bhañja dundubhi sarva­nirghoṣe hana hana vidhvaṃsaya vidhvaṃsaya moṭaya moṭaya daha daha vipulanirma­lanirjāte āhara āhara gaccha gaccha sarva­buddha­paryupasatim mā vilamba svāhā | {{page:{number:2,id:UT22084-087-002-121,folio:F.157.b}}}
+{{milestone:{label:1.9,id:UT22084-087-002-63}}}This is the blessed dhāraṇī called Vajradhātvīśvarī.
+{{milestone:{label:1.10,id:UT22084-087-002-64}}}namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā oṁ bhagavati sarva­tathāgata­janika pūraya prati­jñāna taṭa taṭa marda marda āhara āhara hūṁ hūṁ jati svāhā |
+{{milestone:{label:1.11,id:UT22084-087-002-65}}}This is the blessed dhāraṇī called Mahāpratisarā.
+{{milestone:{label:1.12,id:UT22084-087-002-66}}}namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā hūṁ hrī sarva­buddha­mātiri bhañja bhañja matha matha damani damani gargāri gargāri hrī svāhā |
+{{milestone:{label:1.13,id:UT22084-087-002-67}}}This is the blessed dhāraṇī called Unconquered Vajra.
+{{milestone:{label:1.14,id:UT22084-087-002-68}}}namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā trāṭa trāṭa muhu muhu sarva­pāpaviśodhani svāhā |
+{{milestone:{label:1.15,id:UT22084-087-002-69}}}This is the blessed dhāraṇī called the Relinquishing All Misdeeds. 
+{{milestone:{label:1.16,id:UT22084-087-002-70}}}namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā dhaka dhaka moṭa moṭa daha daha sarva­tathāgata­jñāna­nirjāte svāhā |
+{{milestone:{label:1.17,id:UT22084-087-002-71}}}This is the blessed dhāraṇī called Durdāntā.
+{{milestone:{label:1.18,id:UT22084-087-002-72}}}namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā ha ha mihu mihu dama dama khāhi khāhi dhuna dhuna mici mici durdāntada­mani svāhā |
+{{milestone:{label:1.19,id:UT22084-087-002-73}}}This is the blessed dhāraṇī called Destroying All Māras.
+{{milestone:{label:1.20,id:UT22084-087-002-74}}}namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā mici mici garja garja sphoṭaya sphoṭaya matha matha dama dama svāhā |
+{{milestone:{label:1.21,id:UT22084-087-002-75}}}This is the blessed dhāraṇī called Anantamukhasādhakā.
+{{milestone:{label:1.22,id:UT22084-087-002-76}}}“Manjuśrī, anyone in whose hand the maṇḍala of consecration in great gnosis is placed will be free from afflictions and free from peril. Even if they find themselves in the midst of thieves, in the midst of rākṣasas, in the midst of enemies, or in the midst of conflict, their bodies will not be pierced by weapons, they will not be killed by thieves and rākṣasas and the like will not harm them. They will have no fear of dying an untimely death, they will always have good fortune, and all their misdeeds {{page:{number:3,id:UT22084-087-002-123,folio:F.158.a}}} will be purified. In a single day, they will come to possess the root of virtue equal to that accumulated by one hundred thousand one hundred million tens of millions of buddhas. When their time of death has come, the buddhas and bodhisattvas will care for them, and, after they die, they will be born in Sukhāvatī. 
+{{milestone:{label:1.23,id:UT22084-087-002-77}}}“Thus, it goes without saying that the obscurations of whoever upholds, recites, focuses upon, and maintains it without relenting will be purified. They will close the doors to the lower realms and they will be very far away from lower rebirths and the lower realms. 
+{{milestone:{label:1.24,id:UT22084-087-002-78}}}“Any person who recites it once 
+In the morning when they wake,
+And who fears the next life, 
+Will be free from all the misdeeds they have committed.
+{{milestone:{label:1.25,id:UT22084-087-002-79}}}“Rākṣasas and the like, thieves, 
+Weapons, and enemies will not strike them, 
+They will be liberated from untimely death,
+And they will always have good fortune. 
+{{milestone:{label:1.26,id:UT22084-087-002-80}}}“When their time of death has come,
+They will be very far from the lower realms, 
+The buddhas will care for them, and 
+They will be reborn in Sukhāvatī.”
+{{milestone:{label:1.27,id:UT22084-087-002-81}}}When he had said that, the world with its gods, humans, asuras, and gandharvas rejoiced and praised him. 
+{{milestone:{label:1.28,id:UT22084-087-002-82}}}This concludes “The Noble Dhāraṇī of the Eight Goddesses.”
+{{milestone:{label:c.1,id:UT22084-087-002-83}}}This was translated, edited, and finalized by the Indian preceptor Śīlendrabodhi and the chief editor and translator Bandé Yeshé Dé.

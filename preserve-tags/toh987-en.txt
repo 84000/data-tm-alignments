@@ -1,0 +1,148 @@
+{{translation:{id:UT22084-101-042,key:toh987,version:1.0.4,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-101-042-translation}}}The Tantra of the Play of the Goddess Uṣṇīṣā
+{{milestone:{label:1.1,id:UT22084-101-042-76}}}{{page:{number:1,id:UT22084-101-042-295,folio:F.138.b}}} Homage to the glorious self-arisen goddess!
+{{milestone:{label:1.2,id:UT22084-101-042-78}}}These are the eighteen emanations:{{note:{index:19,id:UT22084-101-042-79}}} the grahī Black Vetālī, the grahī Black Piśācī, the grahī Black Unmadā, the grahī Black Obscurer, the grahī Black Defeater, the grahī Black Seer, the grahī Black Rākṣasī, the grahī Black Vāyu, the grahī Black Indrāṇī, the grahī Black Revatī, the grahī Black Kumbhāṇḍī, the grahī Black Nāginī, the grahī Black Yakṣiṇī, the grahī Black Revatī Protectress Vetālī, the grahī Great Revatī the Lion-Faced Defeater, the grahī Great Revatī the Garuḍa-Winged Ḍākinī, the grahī Great Revatī Who Extends One Hand, the grahī One-Toothed One-Eyed Great Revatī, and the grahī Donkey-Riding Great Revatī. 
+{{milestone:{label:1.3,id:UT22084-101-042-80}}}There are also the additional emanations, the thirteen Ladies of the Tent who are great heart emanations: the grahī Ruler of the First Tent,{{note:{index:20,id:UT22084-101-042-81}}} the grahī Ruler of the Second Tent, the grahī Ruler{{note:{index:21,id:UT22084-101-042-82}}} of the Third Tent, the grahī Ruler of the Fourth Tent, the grahī Ruler of the Fifth Tent, the grahī Ruler of the Sixth Tent, the grahī Ruler of the Seventh Tent, the grahī Ruler of the Eighth Tent, the grahī Ruler of the Ninth Tent, the grahī Ruler of the Tenth Tent, {{page:{number:2,id:UT22084-101-042-288,folio:F.139.a}}} the grahī Ruler of the Eleventh Tent, the grahī Ruler of the Twelfth Tent, and the grahī Ruler of the Thirteenth Tent. 
+{{milestone:{label:1.4,id:UT22084-101-042-83}}}There are the re-emanations emanated by the heart emanations: the Ruler of Epidemics, the Ruler of Strife, the Ruler of All Mārā Armies, the Ruler of Illness and Fever, the Ruler of Headaches, the Ruler of Mouth Disease, the Ruler of Blood and Throat Disease, the Ruler of Heart Disease, the Ruler of Internal Illness, the Ruler of Painful Larynx Diseases, the Ruler of Painful Thigh Diseases, the Ruler of Painful Calf Diseases, the Ruler of Ulcers, the Ruler of Wasting Diseases, the Ruler of Bladder Disease, the Ruler of Skin Diseases, the Ruler of Painful Limb Diseases, the Ruler of Rashes, the Ruler of Pox, the Ruler of Burning Itch, the Ruler of Abscesses, the Ruler of Toxic Potions,{{note:{index:22,id:UT22084-101-042-84}}} the Ruler of Poison-Derived Diseases, the Ruler of Dysentery, the Ruler of Stomach Illness, the Ruler of Plague, the Ruler of Latent Brain Disease, and the rest. 
+{{milestone:{label:1.5,id:UT22084-101-042-85}}}Know that the rulers of the four-hundred forty-four types of illnesses are emanations of Ekajaṭī.{{note:{index:23,id:UT22084-101-042-86}}} Eliminate them all with the vidyāmantra blessed by the true vidyāmantra. Stab with the dagger that violently repels. 
+{{milestone:{label:1.6,id:UT22084-101-042-87}}}Eliminate a harmful graha by reciting the vidyāmantra of Black Vetālī Rākṣasī, destroyer of the triple city. Stab with the dagger. 
+{{milestone:{label:1.7,id:UT22084-101-042-88}}}Eliminate a harmful graha, an insanity-causing drum-riding graha, the graha of a dead person,{{note:{index:24,id:UT22084-101-042-89}}} and so forth with the vidyāmantra of Mule Lady,{{note:{index:25,id:UT22084-101-042-90}}} since these are due to the grahī Unmadā.{{note:{index:26,id:UT22084-101-042-91}}} Recite the vidyāmantra and stab with the dagger. {{page:{number:3,id:UT22084-101-042-289,folio:F.139.b}}}
+{{milestone:{label:1.8,id:UT22084-101-042-92}}}oṁ a ka ra pra ma ni bhyaḥ phaṭ | śa tu ma ki li ki la ya huṃ phaṭ ||
+{{milestone:{label:1.9,id:UT22084-101-042-93}}}Appearing as a black woman
+Who sullies the yogin’s eyes
+Is the grahī Black Obscurer.{{note:{index:27,id:UT22084-101-042-94}}}
+{{milestone:{label:1.10,id:UT22084-101-042-95}}}Therefore, eliminate her with the vidyāmantra of the ascetic Lekden and stab with the dagger of the preeminent goddess Mule Lady. 
+{{milestone:{label:1.11,id:UT22084-101-042-96}}}sarva pra ma ni bhyaḥ phaṭ | ro ti baṃ ki li ki la ya hūṁ phaṭ ||
+{{milestone:{label:1.12,id:UT22084-101-042-97}}}If someone is afflicted by a latent brain disease or an illness where their hands and feet are burning, this is due to the graha Black Bhūta. Therefore, eliminate him with the vidyāmantra of the powerful Great Glorious One and stab with the dagger of the great Mule Lady.
+{{milestone:{label:1.13,id:UT22084-101-042-98}}}ja lar ye bhyaḥ phaṭ | pra ma ki li ki la ya hūṁ drūṁ ||
+{{milestone:{label:1.14,id:UT22084-101-042-99}}}If someone feels heavy or is afflicted by illness, or has an illness involving dullness, sleepiness, or forgetfulness, this is due to the grahī Black Defeater.{{note:{index:28,id:UT22084-101-042-100}}} Therefore, eliminate her with the vidyāmantra of the Victory Bringer and stab with the dagger of Madhukara. 
+{{milestone:{label:1.15,id:UT22084-101-042-101}}}ru tra ya na vyi śa bhyaḥ phaṭ | ka pa la ki li ki la ya phaṭ ||
+{{milestone:{label:1.16,id:UT22084-101-042-102}}}If nothing that one does ever works out and one’s actions do not achieve their desired ends, this is due to the grahī Majestic Seer. Therefore eliminate her with the vidyāmantra of Skull Holder and stab with the dagger of Naked Mendicant.
+{{milestone:{label:1.17,id:UT22084-101-042-103}}}ca ya ma me bhyaḥ phaṭ | ro ti pa ma ki li ki la ya hūṁ drūṁ ||
+{{milestone:{label:1.18,id:UT22084-101-042-104}}}If the yogin is afflicted by an illness that causes his mind to be unstable, unsteady, and emotional,{{note:{index:29,id:UT22084-101-042-105}}} this is due to the grahī Black Rākṣasī. Therefore, eliminate her with the vidyāmantra of Vajrapāṇi and stab with the dagger of the protector Indra.
+{{milestone:{label:1.19,id:UT22084-101-042-106}}}rakṣa ya ni bhyaḥ phaṭ | du ni rākṣa ki li ki la ya hūṁ drūṁ | May whatever is unpleasing to the mind dissipate!{{note:{index:30,id:UT22084-101-042-107}}}
+{{milestone:{label:1.20,id:UT22084-101-042-108}}}An illness that involves increased wind is due to the grahī Black Vāyu. Therefore, eliminate her with the vidyāmantra of the Seven Mothers and stab with the dagger of the Four Sisters. 
+{{milestone:{label:1.21,id:UT22084-101-042-109}}}ha sa ya ni ra re bhyaḥ phaṭ | du ya ka sa ya ni ki li ki la ya hūṁ drūṁ ||
+{{milestone:{label:1.22,id:UT22084-101-042-110}}}If someone is afflicted by an illness that makes them angry, furious, talkative, and enraged, and their arms and legs move or cramp a lot,{{note:{index:31,id:UT22084-101-042-111}}} this is due to the grahī{{note:{index:32,id:UT22084-101-042-112}}} Black Indrāṇī. Therefore, eliminate her with the vidyāmantra of the preeminent Indra and stab with the wrathful dagger of the Wrathful One from the family. 
+{{milestone:{label:1.23,id:UT22084-101-042-113}}}de va lo yā bhyaḥ phaṭ | de va ki li ki li ya hūṁ drūṁ ||
+{{milestone:{label:1.24,id:UT22084-101-042-114}}}Being unable to sleep in the middle of the night, {{page:{number:4,id:UT22084-101-042-290,folio:F.140.a}}}
+The occurrence of powerful sorcery, 
+And bees appearing as pigs
+Are due to the grahī Black Revatī. 
+Therefore, eliminate her with the vidyāmantra of the preeminent Great Glorious One 
+And stab with the dagger of the Wrathful One from the family.
+{{milestone:{label:1.25,id:UT22084-101-042-115}}}de va ki li ki la yā bhyaḥ phaṭ | de va dra ti ki li ki la ya hūṁ hūṁ ||
+{{milestone:{label:1.26,id:UT22084-101-042-116}}}If one is afflicted by an illness where their limbs are burning and painful, or if one has little appetite and feels nauseous, this is due to the grahī Black Yamā. Therefore, eliminate her with the vidyāmantra of Mañjuśrī Yamāntaka and stab with the dagger of the Splendorous Invincible One.
+{{milestone:{label:1.27,id:UT22084-101-042-117}}}ya ma rā ja hriḥ ṣṭi bi kri kri nad ma hā hūṁ drūṁ | ca ya raṃ ba ni ki li ki la ya bhyaḥ phaṭ ||
+{{milestone:{label:1.28,id:UT22084-101-042-118}}}When half the body becomes withered or paralyzed, 
+When crippled, when the body is bruised and tender, 
+Or the eyes turn dark and itchy, 
+This is leprosy caused by sorcery 
+And is due to the grahī Black Nāgiṇī. 
+Therefore, eliminate her with the vidyāmantra of Garuḍa He 
+And stab with the dagger of the Old Seer. 
+{{milestone:{label:1.29,id:UT22084-101-042-119}}}nā ga le ya hūṁ hūṁ | ca ya ka bhyaḥ phaṭ ||
+{{milestone:{label:1.30,id:UT22084-101-042-120}}}If someone is afflicted by an illness that causes their mind to feel unstable and vacuous, to feel pressure on their torso, experience a sense of futility, or feel as if their teeth are falling out, this is due to the grahī Black Yakṣiṇī.{{note:{index:33,id:UT22084-101-042-121}}} Therefore, eliminate her with the vidyāmantra of Vaiśravaṇa and stab with the dagger of the Emanatress. 
+{{milestone:{label:1.31,id:UT22084-101-042-122}}}ti ti ma ye bhyaḥ phaṭ | ku ku rā ja ye hūṁ drūṁ ||
+{{milestone:{label:1.32,id:UT22084-101-042-123}}}If someone is afflicted with skin disease, rashes, and their body itches, this is due to the grahī Black Revatī Protectress Vetālī. Therefore, eliminate her with the vidyāmantra of unimpeded Yama and stab with the dagger of the Red Lady of Desire. 
+{{milestone:{label:1.33,id:UT22084-101-042-124}}}va ren he ya hūṁ hūṁ | ku ma la gur dang bhyaḥ phaṭ ||
+{{milestone:{label:1.34,id:UT22084-101-042-125}}}If someone is afflicted by an illness of the blood, feels heavy, cannot see far, or has an unstable and vacuous mind, this is due to the grahī Garuḍa-Winged Revatī. Therefore, eliminate her with the vidyāmantra of the powerful Great Glorious One and stab with the dagger of blazing wrathful Hūṁchen. 
+{{milestone:{label:1.35,id:UT22084-101-042-126}}}du ya kula hūṁ phaṭ | ma ma ku du ye bhyaḥ phaṭ ||
+{{milestone:{label:1.36,id:UT22084-101-042-127}}}If someone is afflicted by an illness that cripples their right arm {{page:{number:5,id:UT22084-101-042-291,folio:F.140.b}}} or causes rib pain, this is due to the grahī Revatī Who Extends One Hand. Therefore, eliminate her with the vidyāmantra of Expanse of Wrath and stab with the dagger of the Powerful Red Lady. 
+{{milestone:{label:1.37,id:UT22084-101-042-128}}}ma ma ri haya hūṁ hūṁ | ka pa la ya he bhyaḥ phaṭ ||
+{{milestone:{label:1.38,id:UT22084-101-042-129}}}If someone feels intoxicated, hemorrhages blood, and sees all sorts of forms appear before their eyes, this is due to the grahī One-Toothed One-Eyed Revatī. Therefore, eliminate her with the counteractive vidyāmantra of Lekden and stab with the dagger of the Principal Ascetic. 
+{{milestone:{label:1.39,id:UT22084-101-042-130}}}rākṣa se hūṁ drūṁ | rākṣa laṁ ki la ye bhyaḥ phaṭ ||
+{{milestone:{label:1.40,id:UT22084-101-042-131}}}As for the twelve grahīs of the lesser demons—{{note:{index:34,id:UT22084-101-042-132}}}
+{{milestone:{label:1.41,id:UT22084-101-042-133}}}Inside a white silken tent
+Is the magical emanation of the sovereign woman
+Arisen from the White Inauspicious Lady,
+The powerful lady ornamented with gold and turquoise,
+The grahī Wisdom Samantabhadrī.
+{{milestone:{label:1.42,id:UT22084-101-042-134}}}Eliminate untimely rain, strife, frost, and hail caused by sorcery with the dharmadhātu vidyāmantra and stab with the dagger of samādhi. 
+{{milestone:{label:1.43,id:UT22084-101-042-135}}}ni dhar ma dhā tu sa ma ya hūṁ druṁ | ka ma la ca ga ye sa ma ye bhyaḥ phaṭ ||
+{{milestone:{label:1.44,id:UT22084-101-042-136}}}The Lady who rules the second turquoise tent
+Is the great and powerful Dark Blue Lady. 
+Riding an ox, mule,{{note:{index:35,id:UT22084-101-042-137}}} or horse.
+She brings disaster upon worldly yogas. 
+{{milestone:{label:1.45,id:UT22084-101-042-138}}}Eliminate her with the vidyāmantra of the great and powerful Lady and stab with the dagger of the great all-pervasive Lady.
+{{milestone:{label:1.46,id:UT22084-101-042-139}}}a ra li bhyaḥ phaṭ | ra du hūṁ druṁ || 
+{{milestone:{label:1.47,id:UT22084-101-042-140}}}The Lady who rules the third coral tent 
+Is the ruler of the heart inside the tent. 
+{{milestone:{label:1.48,id:UT22084-101-042-141}}}Eliminate her with the offering vidyāmantra of the yellow tent and stab with the dagger of the Principal Ascetic.
+{{milestone:{label:1.49,id:UT22084-101-042-142}}}tiṣṭa tiṣṭa ni bhyaḥ phaṭ | va pā ma hūṁ drūṁ ||
+{{milestone:{label:1.50,id:UT22084-101-042-143}}}The Lady who rules the fourth golden tent rules over all illnesses of the throat and ulcers. Eliminate her with the vidyāmantra of Mañjuśrī Roten{{note:{index:36,id:UT22084-101-042-144}}} and stab with the dagger of the Splendorous Invincible One. 
+{{milestone:{label:1.51,id:UT22084-101-042-145}}}ro ro baṁ hūṃ druṃ | ku ku ye bhyaḥ phaṭ ||
+{{milestone:{label:1.52,id:UT22084-101-042-146}}}The Lady who rules the fifth dark blue tent 
+Is the rending spike woman. 
+Eliminate bladder and internal diseases, 
+Blood diseases, and abscesses 
+With the vidyāmantra of playful Yama, 
+And stab with the dagger of the Playful Invincible One. {{page:{number:6,id:UT22084-101-042-292,folio:F.141.a}}}
+{{milestone:{label:1.53,id:UT22084-101-042-147}}}ya go le hūṁ drūṁ | phra do phra ye bhyaḥ phaṭ ||
+{{milestone:{label:1.54,id:UT22084-101-042-148}}}The Lady who rules the sixth tent of the inconceivably large field 
+Is the goddess of symptoms such as
+Vomiting blood from the mouth,
+The feeling of fever in the body, 
+And contraction of the limbs. 
+{{milestone:{label:1.55,id:UT22084-101-042-149}}}Eliminate her with the vidyāmantra of compassionate Yama and stab with the dagger of attachment-inducing Yama. 
+{{milestone:{label:1.56,id:UT22084-101-042-150}}}ca ga ya baṁ bhyaḥ phaṭ | gur la de hūṁ drūṁ ||
+{{milestone:{label:1.57,id:UT22084-101-042-151}}}Inside the seventh oxen-hair tent 
+Is the Mother who strikes those who speak falsely.{{note:{index:37,id:UT22084-101-042-152}}}
+She inflicts illness where blood comes from the mouth, 
+Kindles fever in the body like a great fire, 
+And acts while brandishing a copper knife. 
+Eliminate her with the vidyāmantra of Blazing Great Garuḍa 
+And stab with the dagger of the Eliminator of Poison. 
+{{milestone:{label:1.58,id:UT22084-101-042-153}}}da he ya ya hūṁ dṛūṁ | me ca ye bhyaḥ phaṭ ||
+{{milestone:{label:1.59,id:UT22084-101-042-154}}}Inside the eighth elephant tent, 
+The woman who rides a mule
+Rules over ulcers and lung and foot diseases. 
+Eliminate her with the heart vidyāmantra of Yama 
+And stab with the dagger of Powerful Blazing Lady.
+{{milestone:{label:1.60,id:UT22084-101-042-155}}}ca kra ki li ki la ye bhyaḥ phaṭ | ā ko laṁ hūṁ drūṁ ||
+{{milestone:{label:1.61,id:UT22084-101-042-156}}}Inside the multicolored ninth leather tent— 
+{{milestone:{label:1.62,id:UT22084-101-042-157}}}Are the nine preeminent Dabren{{note:{index:38,id:UT22084-101-042-158}}} Medicine Ladies,
+Who cause hail, frost, spell-caused illness, 
+Personal ruin, house collapse, 
+Swelling, nasal irritation, 
+And illnesses of the nine black ones. 
+Therefore, eliminate them with the vidyāmantra of the preeminent Lady of the Expanse 
+And stab with the dagger of the Conqueror of Saṃsāra.
+{{milestone:{label:1.63,id:UT22084-101-042-159}}}ku ma la ya hūṁ drūṁ | śa ma ma ye bhyaḥ phaṭ ||
+{{milestone:{label:1.64,id:UT22084-101-042-160}}}Inside the dark blue tenth tent—
+{{milestone:{label:1.65,id:UT22084-101-042-161}}}Are the ten Rulers of the Tent, 
+Who cause leprosy and itchy lesions, 
+Make poison, cause conflict, 
+And kill with knives. 
+Eliminate them with the vidyāmantra of wrathful Yaśodharā 
+And stab with the dagger of the All-Pervasive Mother. 
+{{milestone:{label:1.66,id:UT22084-101-042-162}}}a ko śa me ra ra hūṁ drūṁ | pra du le bhyaḥ phaṭ ||
+{{milestone:{label:1.67,id:UT22084-101-042-163}}}Inside the eleventh tent of the secret lotus—
+{{milestone:{label:1.68,id:UT22084-101-042-164}}}Is the powerful eleventh tent-ruling Lady. 
+A great all-pervasive lady, powerful in form, 
+She obstructs the passage of rainfall in the world by means of the planets 
+And does not grant rainfall. 
+Eliminate her with the vidyāmantra of Great Glorious Expanse 
+And stab with the dagger of beautiful Gāndhārī. {{page:{number:7,id:UT22084-101-042-293,folio:F.141.b}}}
+{{milestone:{label:1.69,id:UT22084-101-042-165}}}a ko muna bhyaḥ phaṭ | ca ye ma hūṁ drūṁ ||
+{{milestone:{label:1.70,id:UT22084-101-042-166}}}Inside the camphor crystal twelfth tent—
+{{milestone:{label:1.71,id:UT22084-101-042-167}}}Is the mother of space, the sole mother Mukhale. 
+The twelve and the fourteen are complete in you. 
+In order to heal all beings everywhere 
+You reside in the essence of nectar. 
+You hold the heart-stalk of knowledge in your hand 
+And illuminate all of existence in a single moment.
+{{milestone:{label:1.72,id:UT22084-101-042-168}}}Within the heart-maṇḍala of blazing clarity, the four māras śantiṃ ku ru svā hā ||{{note:{index:39,id:UT22084-101-042-169}}}
+The gongpo yak of the mountain peak{{note:{index:40,id:UT22084-101-042-170}}}śāntiṃ ku ru svā hā ||
+The twelve male māras śāntiṃ ku ru svā hā ||
+The thirteen female mārās śāntiṃ ku ru svā hā ||
+The Lord of Order who Carries a White Staff śāntiṃ ku ru svā hā ||
+White Sky Terang śāntiṃ ku ru svā hā ||
+Colorful Terang of Intermediate Space śāntiṃ ku ru svā hā ||
+Black Earth Terang śāntiṃ ku ru svā hā ||
+Red grahas, tsen, and red gongpo in the northeastern direction śāntiṃ ku ru svā hā ||
+Lady who Rules Epidemic and Illness śāntiṃ ku ru svā hā ||
+Medicinal and local deities{{note:{index:41,id:UT22084-101-042-171}}}śāntiṃ ku ru svā hā ||
+{{milestone:{label:1.73,id:UT22084-101-042-172}}}If someone clearly reads aloud three times this fundamentally beneficial dhāraṇī-sūtra of the Glorious Black Goddess Uṣṇīṣa that averts grahas and swears to perform a difficult action, they will achieve whatever they wish. If one makes five oblations inside a leather cup and performs the ritual according to the text, then they will achieve whatever they wish. 
+{{milestone:{label:1.74,id:UT22084-101-042-173}}}If someone properly upholds this graha-averting ritual for the glorious goddess Uṣṇīṣa, recites it again and again, follows the ritual correctly, and carries oblations to a great river or the top of a high mountain, then when engaged in a great conflict they will be victorious in battle. When performing hostile rites, direct this toward the heart of the enemy. If this is directed to the Rulers of the Nine Tents, the enemy will be defeated and destroyed. 
+{{milestone:{label:1.75,id:UT22084-101-042-174}}}This completes “The Glorious Tantra of the Play of the Goddess Uṣṇīṣā.”

@@ -1,0 +1,6 @@
+{{translation:{id:UT22084-090-022,key:toh578,version:1.0.1,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-090-022-translation}}}The Dhāraṇī of “The Perfection of Wisdom in Eight Thousand Lines”
+{{milestone:{label:1.1,id:UT22084-090-022-43}}}{{page:{number:1,id:UT22084-090-022-63,folio:F.203.a}}} Homage to the Blessed Lady, the Mother Perfection of Wisdom.
+{{milestone:{label:1.2,id:UT22084-090-022-46}}}tadyathā—oṃ hrīḥ śruti­smṛti­vijaye svāhā! prajñā­pāramitāyai sarva­durgati śodhaya rājāya svāhā!{{note:{index:3,id:UT22084-090-022-47}}}
+{{milestone:{label:1.3,id:UT22084-090-022-48}}}By upholding this, one will have upheld The Perfection of Wisdom in Eight Thousand Lines.{{note:{index:4,id:UT22084-090-022-49}}} It will block all kinds of negative omens. All karmic obscurations and unfavorable kinds of rebirth will be purified. 
+{{milestone:{label:1.4,id:UT22084-090-022-50}}}Here ends “The Dhāraṇī of ‘The Perfection of Wisdom in Eight Thousand Lines.’ ”

@@ -1,0 +1,5 @@
+{{translation:{id:UT22084-088-030,key:toh536,version:1.0.0,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-088-030-translation}}}Recollecting the Common Essence of the Tathāgatas
+{{milestone:{label:1.1,id:UT22084-088-030-54}}}namaḥ sarva tathāgata­hṛdaya| anugate oṃ kuruṃgini svāhā|
+{{milestone:{label:1.2,id:UT22084-088-030-56}}}Reciting this even a single time will exhaust the karmic obscurations accumulated in eight hundred million eons. 
+{{milestone:{label:1.3,id:UT22084-088-030-57}}}This completes “Recollecting the Common Essence of the Tathāgatas.”

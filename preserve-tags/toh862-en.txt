@@ -1,0 +1,5 @@
+{{translation:{id:UT22084-100-018,key:toh862,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-100-018-translation}}}The Essence Dhāraṇī of the Tathāgata Bhaiṣajyaguru
+{{milestone:{label:1.1,id:UT22084-100-018-42}}}{{page:{number:1,id:UT22084-100-018-63,folio:F.87.a}}} Homage to the thus-gone, worthy, perfectly awakened Bhaiṣajya­guru­vaiḍūrya­prabha­rāja.
+oṃ bhaiṣajye bhaiṣajye mahā­bhaiṣajye bhaiṣajyarāja­samudgate svāhā
+{{milestone:{label:1.2,id:UT22084-100-018-45}}}This completes “The Essence Dhāraṇī of the Tathāgata Bhaiṣajyaguru.”

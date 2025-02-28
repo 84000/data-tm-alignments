@@ -1,0 +1,48 @@
+{{translation:{id:UT22084-083-019,key:toh471,version:1.0.1,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-083-019-translation}}}The Myth Chapter
+{{milestone:{label:1.1,id:UT22084-083-019-62}}}{{page:{number:1,id:UT22084-083-019-131,folio:F.173.b}}} Homage to the glorious Vajrabhairava.
+{{milestone:{label:1.2,id:UT22084-083-019-64}}}“Now, I will explain
+How the great Vajrabhairava—
+He who has emerged from the vajras
+Of the Blessed One’s body, speech, and mind—
+Crossed the southern ocean 
+And reached the city of Yama.
+{{milestone:{label:1.3,id:UT22084-083-019-65}}}“With his overwhelming sixteen legs
+He trampled the sixteen gateless iron castles.
+With his organ{{note:{index:7,id:UT22084-083-019-66}}} of single-pointed wisdom 
+He pounded the great central iron castle.
+{{milestone:{label:1.4,id:UT22084-083-019-67}}}“Once he gained victory over the great Māra,
+He roared ha ha hi hi.
+Yama Dharmarāja and the rest,
+Feeling overwhelmed, said to him:
+{{milestone:{label:1.5,id:UT22084-083-019-68}}}“ ‘Great hero, what is this? 
+We will do whatever you require, hero.{{note:{index:8,id:UT22084-083-019-69}}}
+We likewise offer our essential life forces.
+Please accept them, hero.’
+{{milestone:{label:1.6,id:UT22084-083-019-70}}}“The eight classes of beings{{note:{index:9,id:UT22084-083-019-71}}} also offered their essential life forces:
+Yama offered ya, the mātṛsma,{{note:{index:10,id:UT22084-083-019-72}}}
+The rākṣasas offered ra, the yakṣas kṣe,
+The humans offered ṇi,{{note:{index:11,id:UT22084-083-019-73}}} the earth lords sa,
+The tsen offered tsa, and the māras da.{{note:{index:12,id:UT22084-083-019-74}}}
+{{milestone:{label:1.7,id:UT22084-083-019-75}}}“They came together as one
+And promised to become his servants. 
+Due to this great declaration,
+They were well-regarded by the wisdom deity{{note:{index:13,id:UT22084-083-019-76}}}
+And gained a profound experience of service.{{note:{index:14,id:UT22084-083-019-77}}}
+{{milestone:{label:1.8,id:UT22084-083-019-130}}}“After they gained this experience of serving the deity,
+They would never transgress their former oath 
+And it became impossible for them to fail.
+{{milestone:{label:1.9,id:UT22084-083-019-78}}} ‘ya ma rā ja sa do me ya | ya me do ru ṇa yo da ya | ya da yo ni ra yakṣe ya | yakṣe yaccha ni rā ma ya’ {{note:{index:15,id:UT22084-083-019-79}}}
+{{milestone:{label:1.10,id:UT22084-083-019-80}}}“After saying this,
+The great Vajrabhairava
+Empowered Yama Dharmarāja
+And all of Yama’s messengers
+To become servants of liberation.{{note:{index:16,id:UT22084-083-019-81}}}
+{{milestone:{label:1.11,id:UT22084-083-019-82}}}“To their mothers, sisters, daughters,
+And their retinues, he gave this command:
+{{milestone:{label:1.12,id:UT22084-083-019-129}}}“ ‘In the final five hundred years{{note:{index:17,id:UT22084-083-019-83}}}
+During which my teachings appear,
+You must correctly carry out activities
+Of yogins and vidyādharas.’
+{{milestone:{label:1.13,id:UT22084-083-019-84}}}They took this oath and were released from the oppression that afflicted them.{{note:{index:18,id:UT22084-083-019-85}}}
+{{milestone:{label:1.14,id:UT22084-083-019-86}}}The Myth Chapter is complete.

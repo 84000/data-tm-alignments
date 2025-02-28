@@ -1,0 +1,69 @@
+{{translation:{id:UT22084-079-036,key:toh409,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-079-036-translation}}}The Fearsome Vajra of Destruction
+{{milestone:{label:1.1,id:UT22084-079-036-60}}}{{page:{number:1,id:UT22084-079-036-115,folio:F.247.a}}} Homage to the glorious Heruka. 
+Thus did I hear at one time. The Blessed One was staying on top of Mount Meru together with an inestimable assembly, when the bodhisattva Vajragarbha circled the Blessed One three times, folded his hands, and asked:
+{{milestone:{label:1.2,id:UT22084-079-036-62}}}“Compassionate Blessed One, please explain:
+What does vajra mean, and what is fearsome?
+What does destruction mean, and what about tantra?
+Please explain what king means.”
+{{milestone:{label:1.3,id:UT22084-079-036-63}}}The Blessed One replied:
+{{milestone:{label:1.4,id:UT22084-079-036-64}}}“Vajra has three aspects,
+That are fearsome to the māra of the afflictive emotions and the others,{{note:{index:9,id:UT22084-079-036-65}}}
+And destructive to the enemy, the afflictive emotions, and so forth.
+These are causal tantra, resultant tantra, and ultimate tantra; 
+It is these that are taught to be king.”
+{{milestone:{label:1.5,id:UT22084-079-036-66}}}Vajragarbha spoke again:
+{{milestone:{label:1.6,id:UT22084-079-036-67}}}“This does not provide specifics for the individual terms, so please explain them in detail.” {{page:{number:2,id:UT22084-079-036-116,folio:F.247.b}}}
+{{milestone:{label:1.7,id:UT22084-079-036-68}}}The Blessed One replied:
+{{milestone:{label:1.8,id:UT22084-079-036-69}}}“Vajra has three aspects:
+The true vajra, the symbolic vajra,
+And the material vajra.
+Now, to explain the true vajra:
+{{milestone:{label:1.9,id:UT22084-079-036-118}}}“It is explained as the truevajra
+Because it is undivided by dualistic thinking.
+Each of the four initiations are vajras
+And are described as ‘the four vajras.’
+{{milestone:{label:1.10,id:UT22084-079-036-70}}}“The symbolic vajra is of three kinds:
+Three-pronged, five-pronged, and nine-pronged.
+The three prongs represent body, speech, and mind;
+The five prongs represent the five wisdoms;
+And the nine prongs represent the nine levels of the three worlds.
+{{milestone:{label:1.11,id:UT22084-079-036-71}}}“The true vajra{{note:{index:10,id:UT22084-079-036-72}}} is of four kinds:
+“The deity, with its colors and implements,
+Connected to the vase initiation, is vajra
+Because it crushes and destroys
+The dualistic concepts of subject and object.
+{{milestone:{label:1.12,id:UT22084-079-036-119}}}“The channels, winds, and drops,
+Connected to the secret initiation, are vajra
+Because they crush and destroy
+The dualistic concepts of subject and object.
+{{milestone:{label:1.13,id:UT22084-079-036-73}}}“Innate joy and the other joys
+Connected to insight-wisdom are vajra
+Because they crush and destroy
+The dualistic concepts of subject and object.
+{{milestone:{label:1.14,id:UT22084-079-036-74}}}“The emptiness of the self-aware mind itself, 
+Connected with the fourth initiation, is vajra
+Because it crushes and destroys
+The dualistic concepts of subject and object.
+{{milestone:{label:1.15,id:UT22084-079-036-75}}}“Next is the symbolic vajra:
+The three-pronged vajra is explained as body, speech, and mind,
+Because a vajra crushes and destroys
+Attachment, anger, and delusion.
+{{milestone:{label:1.16,id:UT22084-079-036-76}}}“The five-pronged vajra symbolizes the five wisdoms
+Because it crushes and destroys 
+The five afflictions of pride and the rest.
+{{milestone:{label:1.17,id:UT22084-079-036-77}}}“Next, the material vajra
+Is taught to be of four kinds:
+“When sharp and triangular it pierces,
+When four sided it purifies,
+When round, it destroys all that is material,
+While one with five angles fulfills desires.
+Such are the material vajras.
+{{milestone:{label:1.18,id:UT22084-079-036-78}}}“The meaning of tantra is fourfold: 
+There are the two tantras, causal and resultant,
+And the ultimate tantra that is king.
+By gaining mastery over them all,
+The tantra of wrong view is eliminated.”
+{{milestone:{label:1.19,id:UT22084-079-036-79}}}The Blessed One finished speaking, and the countless bodhisattvas in the assembly felt joy and devotion, and then rejoiced. After circling the Blessed One to the right three times, they disappeared by using their individual, miraculous powers.
+{{milestone:{label:1.20,id:UT22084-079-036-80}}}“The Destruction of The Glorious Vajrabhairava, A King of Tantras,” is complete. {{page:{number:3,id:UT22084-079-036-117,folio:F.248.a}}}
+{{milestone:{label:c.1,id:UT22084-079-036-81}}}This was translated by the paṇḍita Gayādhara and the translator-monk Śākya Yeshé.

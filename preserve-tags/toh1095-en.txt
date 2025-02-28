@@ -1,0 +1,257 @@
+{{translation:{id:UT22084-101-151,key:toh1095,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-101-151-translation}}}The Noble King of
+Prayers of Good Conduct
+{{milestone:{label:1.1,id:UT22084-101-151-29}}}{{page:{number:1,id:UT22084-101-151-98,folio:F.262.b}}}Homage to Noble Mañjuśrīkumārabhūta.
+{{milestone:{label:1.2,id:UT22084-101-151-100}}}However many{{note:{index:11,id:UT22084-101-151-101}}} lions among men there are 
+In the three times, in the worlds in the ten directions,
+I pay homage to them all without exception, 
+With purity of body, speech, and mind. {1} 
+{{milestone:{label:1.3,id:UT22084-101-151-102}}}Thinking that all the jinas are before me,
+With the power of the prayer of good conduct,
+I bow down toward all the jinas {{page:{number:2,id:UT22084-101-151-103,folio:F.263.a}}}
+With as many bodies as there are atoms in the realms.{{note:{index:12,id:UT22084-101-151-104}}} {2}
+{{milestone:{label:1.4,id:UT22084-101-151-105}}}There are as many buddhas as atoms within a single atom,
+Seated in the midst of bodhisattvas.{{note:{index:13,id:UT22084-101-151-106}}}
+I focus on the entire realm of phenomena,
+Without exception, being filled by jinas in that way. {3}
+{{milestone:{label:1.5,id:UT22084-101-151-107}}}I recite a praise of all the sugatas,
+Enumerating the qualities of all the jinas,
+With unending oceans of eulogies
+And the sound of oceans of every quality of voice. {4}
+{{milestone:{label:1.6,id:UT22084-101-151-108}}}I make an offering to those jinas
+Of perfect flowers, perfect garlands,
+Perfect music, ointments, and parasols,
+Perfect lights, and perfect incenses. {5}
+{{milestone:{label:1.7,id:UT22084-101-151-109}}}I make offerings to those jinas
+Of perfect clothing and perfect perfumes,
+Pouches of scented powders equal to Mount Meru,
+And all perfect, sublime displays. {6}
+{{milestone:{label:1.8,id:UT22084-101-151-110}}}Offerings that are unsurpassable and exalted
+I am resolved to offer to all the jinas.
+I praise and make offerings to all the jinas
+Through the power of devotion{{note:{index:14,id:UT22084-101-151-111}}} to good conduct.{7}
+{{milestone:{label:1.9,id:UT22084-101-151-112}}}Whatever bad actions I have done
+Under the power of desire, anger, and ignorance,
+With my body, speech, and mind,
+I make a confession of them all. {8}
+{{milestone:{label:1.10,id:UT22084-101-151-113}}}I am rejoicing in the entirety of merit
+In the ten directions that is created by beings,
+By practicing and accomplished pratyeka­buddhas,{{note:{index:15,id:UT22084-101-151-114}}}
+By the bodhisattvas, and by all the jinas.{{note:{index:16,id:UT22084-101-151-115}}} {9}
+{{milestone:{label:1.11,id:UT22084-101-151-116}}}I make the request to all the lords, 
+The lamps of the worlds in the ten directions, 
+Who have attained without impediment the enlightenment of buddhahood,
+That they turn the unsurpassable wheel. {10}
+{{milestone:{label:1.12,id:UT22084-101-151-118}}}With palms placed together, I supplicate
+Those who wish to manifest passing into nirvāṇa
+That they remain for as many kalpas as there are atoms in the realms, {{page:{number:3,id:UT22084-101-151-119,folio:F.263.b}}}
+For the benefit and happiness of all beings. {11} 
+{{milestone:{label:1.13,id:UT22084-101-151-120}}}Whatever little virtue{{note:{index:17,id:UT22084-101-151-121}}} I have accumulated 
+Through homage, offering, confession,
+Rejoicing, supplication, and entreating, 
+I dedicate it all to enlightenment. {12}
+{{milestone:{label:1.14,id:UT22084-101-151-122}}}May the buddhas of the past and those who are present 
+In the worlds of the ten directions be offered to.
+May those in the future swiftly fulfill
+Their aspirations for the enlightenment of buddhahood. {13}
+{{milestone:{label:1.15,id:UT22084-101-151-123}}}May the realms that are in the ten directions
+Become purified and sublime.{{note:{index:18,id:UT22084-101-151-124}}}
+May they become filled with jinas, who have come
+To the Bodhi tree, the lord of trees, and with bodhisattvas. {14}
+{{milestone:{label:1.16,id:UT22084-101-151-125}}}However many beings there are in the ten directions,
+May they all be always happy and healthy.
+May all beings be successful in their Dharma goals,
+And may their wishes be fulfilled. {15}
+{{milestone:{label:1.17,id:UT22084-101-151-126}}}May I practice the conduct of enlightenment
+And remember my lives in all existences.
+May I always practice mendicancy
+In all my lifetimes of deaths and rebirths. {16}
+{{milestone:{label:1.18,id:UT22084-101-151-127}}}Following the teaching of all the jinas
+And perfecting my good conduct,
+May I always practice stainless, pure, 
+Correct conduct that is flawless and unblemished. {17}
+{{milestone:{label:1.19,id:UT22084-101-151-128}}}May I teach the Dharma in all languages,
+Whatever the languages of beings:
+Through the languages of devas, the languages of nāgas,
+The languages of yakṣas, kumbhāṇḍas, and humans. {18}
+{{milestone:{label:1.20,id:UT22084-101-151-129}}}May one who is gentle{{note:{index:19,id:UT22084-101-151-130}}} and dedicated to the perfections
+Never forget the aspiration to enlightenment.
+May the obscurations of bad karma
+Be purified without any remainder. {19}
+{{milestone:{label:1.21,id:UT22084-101-151-131}}}May my conduct, even in the worldly existences, 
+Be free of karma, kleśas, and the actions{{note:{index:20,id:UT22084-101-151-132}}} of Māra, 
+Just as the lotus is unstained by water
+And the sun and moon are unobstructed in the sky. {20} 
+{{milestone:{label:1.22,id:UT22084-101-151-134}}}May I end all the sufferings of lower existences
+And establish all beings in happiness, 
+Practicing a conduct that brings benefit to all beings
+Throughout the directions and the extent{{note:{index:21,id:UT22084-101-151-135}}} of realms. {21}
+{{milestone:{label:1.23,id:UT22084-101-151-136}}}May I practice this conduct in all future kalpas, 
+Conforming with the conduct of beings, 
+Perfecting the conduct of enlightenment,
+And teaching good conduct.{{note:{index:22,id:UT22084-101-151-137}}} {22} {{page:{number:4,id:UT22084-101-151-138,folio:F.264.a}}}
+{{milestone:{label:1.24,id:UT22084-101-151-139}}}May I always be in the company of those
+Whose conduct is in harmony with my conduct.
+May my body, my speech, and also my mind
+Practice the same conduct and have the same prayer.{{note:{index:23,id:UT22084-101-151-140}}} {23}
+{{milestone:{label:1.25,id:UT22084-101-151-141}}}May I always associate
+With friends who wish to benefit me
+And teach me the correct conduct,
+And may I never displease them. {24}
+{{milestone:{label:1.26,id:UT22084-101-151-142}}}May I always see before me the jinas,
+The lords who are encircled by bodhisattvas,
+And may I make vast{{note:{index:24,id:UT22084-101-151-143}}} offerings to them,
+Without wearying, throughout all future kalpas. {28}
+{{milestone:{label:1.27,id:UT22084-101-151-144}}}Keeping the good Dharma of the jinas,
+Expounding{{note:{index:25,id:UT22084-101-151-145}}} the conduct of enlightenment,
+And purifying the good conduct,
+May I practice that conduct in all future kalpas. {26}
+{{milestone:{label:1.28,id:UT22084-101-151-146}}}While circling through all existences,
+May I obtain inexhaustible merit and knowledge.
+May I be{{note:{index:26,id:UT22084-101-151-147}}} an inexhaustible treasure of wisdom, 
+Methods, samādhis, liberations, and all good qualities. {27}
+{{milestone:{label:1.29,id:UT22084-101-151-148}}}There are realms as numerous as atoms in each atom,
+And while practicing the conduct of enlightenment,
+May I see in those realms countless buddhas
+Who are seated in the midst of bodhisattvas. {28}
+{{milestone:{label:1.30,id:UT22084-101-151-149}}}May I engage in practicing conduct for an ocean of kalpas 
+Within every hair’s breadth in every direction,
+Without exception, in which there are an ocean 
+Of buddhas of the three times, and an ocean of realms. {29} 
+{{milestone:{label:1.31,id:UT22084-101-151-150}}}May I always comprehend{{note:{index:27,id:UT22084-101-151-151}}} the speech of the buddhas, 
+Which, through having an ocean of languages in a single syllable, 
+Has the purity of the aspects of the speech of all the jinas
+And words that accord with the aspirations of all beings.{{note:{index:28,id:UT22084-101-151-152}}} {30}
+{{milestone:{label:1.32,id:UT22084-101-151-154}}}May I comprehend, through the power of the mind,
+The unceasing sounds of the voices 
+Of the jinas in{{note:{index:29,id:UT22084-101-151-156}}} the three times, 
+Who are turning the wheel in various ways.{{note:{index:30,id:UT22084-101-151-157}}} {31} {{page:{number:5,id:UT22084-101-151-158,folio:F.264.b}}}
+{{milestone:{label:1.33,id:UT22084-101-151-159}}}May I enter all the future kalpas,
+Entering them in a single instant,
+And in a fraction of an instant practice 
+The conduct throughout the kalpas of the three times. {32}
+{{milestone:{label:1.34,id:UT22084-101-151-160}}}May I in a single instant see 
+The lions among humans in{{note:{index:31,id:UT22084-101-151-161}}} the three times.
+Through the power of the liberation of being an illusion,
+May I always enter into their conduct. {33}
+{{milestone:{label:1.35,id:UT22084-101-151-162}}}May the displays of realms in the three times
+Be accomplished within a single atom.
+May I perceive such displays of the realms of the jinas
+That are in every direction without exception. {34}
+{{milestone:{label:1.36,id:UT22084-101-151-163}}}May I go into the presence of all those lords,
+Those future lamps of the world, who will successively
+Attain enlightenment, turn the wheel,
+And demonstrate the final peace of entering nirvāṇa. {35}
+{{milestone:{label:1.37,id:UT22084-101-151-164}}}Through the power of miracles that has complete speed,
+Through the power of yānas{{note:{index:32,id:UT22084-101-151-165}}} that possesses every gateway,
+Through the power of conduct that has the complete qualities,
+Through the power of love that is universal, {36}
+{{milestone:{label:1.38,id:UT22084-101-151-166}}}Through the power of merit that has complete goodness,
+Through the power of knowledge that is without impediment,
+Through the power of wisdom, methods, and samādhi,
+May I accomplish the power of enlightenment. {37}
+{{milestone:{label:1.39,id:UT22084-101-151-167}}}May I purify the power of karma,
+Destroy the power of the kleśas,
+Render powerless the power of the māras,
+And make complete all the powers of good conduct. {38}
+{{milestone:{label:1.40,id:UT22084-101-151-168}}}May I purify an ocean of realms,
+Liberate an ocean of beings,
+See an ocean of the Dharma,
+And realize{{note:{index:33,id:UT22084-101-151-169}}} an ocean of knowledge. {39}
+{{milestone:{label:1.41,id:UT22084-101-151-170}}}May I purify an ocean of conduct,
+Fulfill an ocean of prayers,
+Make offerings to an ocean of buddhas,
+And have tireless conduct for an ocean of kalpas. {40}
+{{milestone:{label:1.42,id:UT22084-101-151-172}}}May I, through good conduct, realize enlightenment
+And fulfill, without exception, 
+All the specific prayers of enlightened conduct
+That are made by the jinas in the three times. {41} 
+{{milestone:{label:1.43,id:UT22084-101-151-173}}}I dedicate all this virtue {{page:{number:6,id:UT22084-101-151-174,folio:F.265.a}}}
+So that I may have the same conduct as that wise one,
+The eldest son of all the jinas,
+Whose name is Samanta­bhadra.{{note:{index:34,id:UT22084-101-151-175}}} {42}
+{{milestone:{label:1.44,id:UT22084-101-151-176}}}Just as the good wise one made a dedication 
+For a pure body, speech, and mind,
+A pure conduct, and a pure realm,
+May it be the same for me. {43}
+{{milestone:{label:1.45,id:UT22084-101-151-177}}}May I practice the conduct of Mañjuśrī’s prayer
+Of good conduct, for complete goodness,
+Without weariness throughout the kalpas to come.
+May I complete all those activities without exception. {44}
+{{milestone:{label:1.46,id:UT22084-101-151-178}}}May there be no limit to that conduct;
+May there be no limit to those good qualities,
+And having maintained a conduct that has no limit,
+May I give rise to all those miraculous powers. {45}
+{{milestone:{label:1.47,id:UT22084-101-151-179}}}If there were an end to space,
+There would be an end to all beings.
+Only when their karma and kleśas end
+Will my prayers also come to an end. {46}
+{{milestone:{label:1.48,id:UT22084-101-151-180}}}If someone offered to the jinas the endless realms
+In the ten directions adorned with jewels
+And the most excellent pleasures of devas and humans
+For kalpas as numerous as the atoms in a realm, {47}
+{{milestone:{label:1.49,id:UT22084-101-151-181}}}Someone who has faith just once 
+On hearing this king of dedications
+And aspires to attain perfect enlightenment
+Will have a higher, superior merit. {48} 
+{{milestone:{label:1.50,id:UT22084-101-151-182}}}Whoever recites this prayer of good conduct
+Will be free from all{{note:{index:35,id:UT22084-101-151-183}}} lower existences,
+Will be free from bad companions,
+And will quickly see Amitābha. {49}
+{{milestone:{label:1.51,id:UT22084-101-151-184}}}They will have in this life the good fortune
+Of obtaining success, a happy life, 
+And will soon become 
+The same as Samanta­bhadra. {50}
+{{milestone:{label:1.52,id:UT22084-101-151-185}}}If someone through the power of ignorance {{page:{number:7,id:UT22084-101-151-186,folio:F.265.b}}}
+Has the bad karma of the five actions with immediate results, 
+They will be purified of it, without any remainder
+Through reciting this prayer of good conduct. {51}
+{{milestone:{label:1.53,id:UT22084-101-151-188}}}They will have the wisdom, form, 
+Features, family, and color,
+Be invincible to hosts of māras and tīrthikas,
+And be offered to by the entire three realms. {52}
+{{milestone:{label:1.54,id:UT22084-101-151-189}}}They will soon go to the Bodhi tree, the lord of trees,
+And having reached there be seated for the benefit of beings,
+Become enlightened in buddhahood, turn the wheel of the Dharma,
+And overpower Māra and his entire army. {53}
+{{milestone:{label:1.55,id:UT22084-101-151-190}}}The Buddha knows the result that ripens
+For the one who possesses, recites, 
+Or teaches this prayer of good conduct.
+Do not doubt the supreme enlightenment! {57}
+{{milestone:{label:1.56,id:UT22084-101-151-191}}}Just as the hero Mañjuśrī knows,
+In that way{{note:{index:36,id:UT22084-101-151-192}}} so does Samanta­bhadra.{{note:{index:37,id:UT22084-101-151-193}}}
+In practicing in the same way as they do,
+I am dedicating all this merit. {55}
+{{milestone:{label:1.57,id:UT22084-101-151-194}}}With the prayer that is praised as supreme
+By all the jinas in the three times,
+I am dedicating all this merit
+For the supreme good conduct. {56}
+{{milestone:{label:1.58,id:UT22084-101-151-195}}}When the time has come for me to die,
+May I dispel all obscurations,
+See Amitābha before me,
+And go to the Sukhāvatī realm. {57}
+{{milestone:{label:1.59,id:UT22084-101-151-196}}}When I have gone there, may these prayers
+All become completely manifest.
+May I fulfill them all without exception
+And benefit beings for as long as there are worlds. {58}
+{{milestone:{label:1.60,id:UT22084-101-151-197}}}May I be born from a beautiful, perfect lotus
+In that pleasant, beautiful circle of the jinas,
+And there obtain my prophecy
+Directly from the Jina Amitābha. {59}
+{{milestone:{label:1.61,id:UT22084-101-151-198}}}Having obtained there the prophecy,
+May I through the power of mind {{page:{number:8,id:UT22084-101-151-199,folio:F.266.a}}}
+Bring many benefits to beings in the ten directions
+Through many billions of emanations. {60}
+{{milestone:{label:1.62,id:UT22084-101-151-200}}}May what little merit I have accumulated
+Through reciting the good conduct prayer
+Cause the virtuous prayers of beings
+All to be fulfilled in an instant. {61} 
+{{milestone:{label:1.63,id:UT22084-101-151-202}}}Through the sublime, endless merit attained
+By my dedicating the good conduct,
+May the beings drowning in a river of suffering
+Depart to the supreme residence of Amitābha. {62}
+{{milestone:{label:1.64,id:UT22084-101-151-37}}}The principal excellence of this King of Prayers 
+Brings benefit to all beings without end,
+And being a text ornamented by Samantabhadra,
+May the three lower realms, without exception, be emptied.{{note:{index:38,id:UT22084-101-151-38}}} {63}
+{{milestone:{label:1.65,id:UT22084-101-151-39}}}This concludes “The Noble King of Prayers of Good Conduct.”

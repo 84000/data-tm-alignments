@@ -1,0 +1,25 @@
+{{translation:{id:UT22084-057-002,key:toh143,version:1.0.1,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-057-002-translation}}}The Two Stanza Dhāraṇī
+{{milestone:{label:1.1,id:UT22084-057-002-91}}}{{page:{number:1,id:UT22084-057-002-146,folio:F.6.b}}} Homage to Mañjuśrī Kumārabhūta.{{note:{index:23,id:UT22084-057-002-93}}}
+{{milestone:{label:1.2,id:UT22084-057-002-94}}}Contempt toward the Buddha and the Dharma, 
+Laziness, contentment with small amounts,{{note:{index:24,id:UT22084-057-002-95}}}
+Acting with desire and pride, 
+Regret, and parting due to being uncertain—{{note:{index:25,id:UT22084-057-002-96}}}
+{{milestone:{label:1.3,id:UT22084-057-002-97}}}Such are beings’ obscurations.
+The antidote is the teaching of the supreme vehicle
+Through which all the faults
+That cause hindrances are abandoned.
+{{milestone:{label:1.4,id:UT22084-057-002-98}}}tadyathā | oṃ vajra­prakāra vajra­prakāra{{note:{index:26,id:UT22084-057-002-99}}} | vajra­cakra daṃṣṭrābhayānake{{note:{index:27,id:UT22084-057-002-100}}}| amale vimale | nirmale{{note:{index:28,id:UT22084-057-002-101}}} | culuke culuke{{note:{index:29,id:UT22084-057-002-102}}}| culu culu | sarva­buddhe svāhā{{note:{index:30,id:UT22084-057-002-103}}} ||
+{{milestone:{label:1.5,id:UT22084-057-002-104}}}Whoever practices The Two Stanza Dhāraṇī, 
+With respect to either the words or the meaning,{{note:{index:31,id:UT22084-057-002-105}}}
+Is a wise sublime being 
+Who will attain ten benefits—
+{{milestone:{label:1.6,id:UT22084-057-002-106}}}Complete development of the elements, 
+Perfect joy at the moment of death,
+Rebirth according to one’s wish, 
+Total recollection of former lives,
+{{milestone:{label:1.7,id:UT22084-057-002-107}}}Meeting with buddhas, 
+Hearing the supreme vehicle from them,
+Interest, along with intellect, 
+The two gates,{{note:{index:32,id:UT22084-057-002-108}}} and swift awakening.{{note:{index:33,id:UT22084-057-002-109}}}
+{{milestone:{label:1.8,id:UT22084-057-002-110}}}Thus ends “The Two Stanza Dhāraṇī.”{{note:{index:34,id:UT22084-057-002-111}}}

@@ -1,0 +1,54 @@
+{{translation:{id:UT22084-101-122,key:toh1066,version:1.0.5,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-101-122-translation}}}The Noble
+Dhāraṇī of the Supreme Stem Ornament
+{{milestone:{label:1.1,id:UT22084-101-122-24}}}{{page:{number:1,id:UT22084-101-122-57,folio:F.236.a}}} Homage to the Three Jewels.
+{{milestone:{label:1.2,id:UT22084-101-122-27}}}May all buddhas grant their protection!
+I pay homage to supreme awakening;
+May all noble ones grant their protection!
+I pay homage to the supreme vajra;
+May all knowledge granters grant their protection!
+I pay homage to all the gods of the pure god realms;
+May all protectors grant their protection!
+I pay homage to the gods in the heavens;
+May the lords of the three worlds grant their protection!
+To all those who rule over the three realms of existence
+I pay homage and offer worship;
+Grant your compassionate blessings
+To my five aggregates and limbs! 
+{{milestone:{label:1.3,id:UT22084-101-122-28}}}The essence-mantra of that is said to be:
+{{milestone:{label:1.4,id:UT22084-101-122-29}}}oṁ kara kara svāhā kuru kuru svāhā bhara bhara svāhā bhuru bhuru svāhā dhara dhara svāhā dhuru dhuru svāhā cara cara svāhā curu curu svāhā 
+{{milestone:{label:1.5,id:UT22084-101-122-30}}}Protect my five aggregates and limbs 
+From inauspicious years and inauspicious months,
+Inauspicious days and inauspicious days of the week,{{note:{index:8,id:UT22084-101-122-31}}}
+Inauspicious planets and inauspicious stars, 
+Inauspicious daytimes and inauspicious nighttimes,
+Inauspicious middays, 
+Inauspicious mornings and inauspicious evenings, 
+Inauspicious cardinal directions and inauspicious intermediary directions,
+Possession by the five ghosts,{{note:{index:9,id:UT22084-101-122-32}}} and inauspicious divinations.{{note:{index:10,id:UT22084-101-122-33}}}
+Grant protection from all of these! 
+{{milestone:{label:1.6,id:UT22084-101-122-34}}}The essence-mantra of that is said to be:
+{{milestone:{label:1.7,id:UT22084-101-122-35}}}oṁ prajñe prajñe prajñe avalokiradhati mani susiddhi ārya jvala nāma mañjuye svāhā
+{{milestone:{label:1.8,id:UT22084-101-122-36}}}May my five aggregates and limbs, 
+Despite being subjected to darkness
+From violence{{note:{index:11,id:UT22084-101-122-37}}} and malevolent female spirits;{{note:{index:12,id:UT22084-101-122-38}}}
+From the onset of coughs and difficult illnesses;
+From obstacle years, obstacle months, obstacle days,
+Obstacle days of the week and the like; {{page:{number:2,id:UT22084-101-122-86,folio:F.236.b}}}
+And from bad dreams, enemies, and hindrances,
+Be protected by the directional guardians
+Who are said to radiate light, like the sun and moon, 
+That illuminates from the farthest reaches. 
+{{milestone:{label:1.9,id:UT22084-101-122-39}}}The essence-mantra of that is said to be:
+{{milestone:{label:1.10,id:UT22084-101-122-40}}}oṁ haku hūṁ hūṁ du hūṁ hūṁ na hūṁ hūṁ yaṁ hūṁ hūṁ ke hūṁ hūṁ ki hūṁ hūṁ kī hūṁ hūṁ ti hūṁ hūṁ tī hūṁ hūṁ dū hūṁ hūṁ ve hūṁ 
+{{milestone:{label:1.11,id:UT22084-101-122-41}}}From beginningless time 
+Until being born in this life and body,
+I have written incorrectly, recited incorrectly, 
+Listened incorrectly, explained incorrectly, 
+Meditated incorrectly, and trained incorrectly. 
+Protect my five aggregates and limbs
+From all such broken rules, broken vows, 
+And broken samayas!
+{{milestone:{label:1.12,id:UT22084-101-122-42}}}The essence-mantra of that is:
+{{milestone:{label:1.13,id:UT22084-101-122-43}}}namo bhagavata sarva dhuye duṣṭana svāhā
+{{milestone:{label:1.14,id:UT22084-101-122-44}}}This concludes “The Noble Dhāraṇī Called the Supreme Stem Ornament.”

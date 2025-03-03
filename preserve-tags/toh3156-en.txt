@@ -1,0 +1,7 @@
+{{translation:{id:UT23703-075-017,key:toh3156,version:1.0.2,style:annotated}}}
+{{milestone:{label:tr,id:UT23703-075-017-translation}}}The Dhāraṇī of Siṃhanāda
+{{milestone:{label:1.1,id:UT23703-075-017-71}}}namo ratna­trayāya | nama āryāvalokiteśvarāya bodhi­sattvāya mahā­sattvāya mahā­kāruṇikāya | tadyathā | oṁ akaṭe vikaṭe nikaṭe kaṭaṃkaṭe karoṭe karoṭavīrye{{note:{index:13,id:UT23703-075-017-73}}} svāhā ||
+{{milestone:{label:1.2,id:UT23703-075-017-74}}}In the early morning, in front of the blessed, noble Lokeśvara, make eight maṇḍalas out of cow dung that has not fallen to the ground. Recite this thirteen{{note:{index:14,id:UT23703-075-017-75}}} times at each maṇḍala, then incant the resulting{{note:{index:15,id:UT23703-075-017-76}}} dung with the mantra seven times. Smear it on the sick person and all of their illnesses will be cured. 
+{{milestone:{label:1.3,id:UT23703-075-017-77}}}If this is not successful after seven, thirteen, or twenty-one days, even if performed by someone who has carried out the five deeds of immediate retribution, then I{{note:{index:16,id:UT23703-075-017-78}}} myself will have carried out the five deeds of immediate retribution, and I will have deceived the blessed buddhas. 
+{{milestone:{label:1.4,id:UT23703-075-017-79}}}This completes “The Dhāraṇī of Siṃhanāda.”
+{{milestone:{label:c.1,id:UT23703-075-017-80}}}This was translated by the monk Tsultrim Gyaltsen.

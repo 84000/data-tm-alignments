@@ -1,0 +1,224 @@
+{{translation:{id:UT22084-034-025,key:toh37,version:1.1.5,style:annotated}}}
+{{milestone:{label:tr,id:UT22084-034-025-translation}}}The Sūtra on
+The Benefits of the Five Precepts
+{{milestone:{label:1.1,id:UT22084-034-025-79}}}{{page:{number:1,id:UT22084-034-025-374,folio:F.271.a}}} Homage, with devotion, to the noble Three Jewels.{{note:{index:17,id:UT22084-034-025-81}}}
+Thus did I hear at one time.{{note:{index:18,id:UT22084-034-025-84}}} The Bhagavān was staying in the Bhesakalā grove deer park{{note:{index:19,id:UT22084-034-025-85}}} at Suṃsumāragiri{{note:{index:20,id:UT22084-034-025-86}}} in the country of the Bhaggas.{{note:{index:21,id:UT22084-034-025-87}}} Early one morning, the Bhagavān, having donned his outer robe and taken up his bowl,{{note:{index:22,id:UT22084-034-025-88}}} went to the dwelling of the householder{{note:{index:23,id:UT22084-034-025-89}}} Nakulapitā and, having approached, sat down on a prepared seat. Then the householders Nakulapitā and Nakulamātā{{note:{index:24,id:UT22084-034-025-90}}} approached the Bhagavān, greeted him reverently, and sat down to one side. 
+{{milestone:{label:1.2,id:UT22084-034-025-91}}}Sitting to one side, the householder Nakulapitā addressed the Bhagavān: “Ever since, Venerable Bhagavān, the householder Nakulamātā was brought to me as a young girl when I was still a child, not even the thought of being unfaithful to Nakulamātā has occurred to me, and there has been no physical wrongdoing. Bhagavān, this is our mutual experience in this life, and we wish to share this experience in other lives, too.”{{note:{index:25,id:UT22084-034-025-92}}}
+{{milestone:{label:1.3,id:UT22084-034-025-93}}}Then the householder Nakulamātā addressed the Bhagavān: “Ever since, Venerable Bhagavān, I was brought as a girl to householder Nakulapitā when he was still young, not even the thought of being unfaithful to Nakulapitā has occurred to me, and there has been no physical wrongdoing. Bhagavān, this is our mutual experience in this life, and we wish to share this experience in other lives, too.”{{note:{index:26,id:UT22084-034-025-94}}}
+{{milestone:{label:1.4,id:UT22084-034-025-95}}}Then the Bhagavān said,{{note:{index:27,id:UT22084-034-025-96}}} “When a husband and wife both have that wish and have had this mutual experience in this life, they will share this experience in other lives, too. By being equal in faith, {{page:{number:2,id:UT22084-034-025-375,folio:F.271.b}}} equal in ethical discipline, equal in generosity, and equal in wisdom, both of you have had this mutual experience in this life, and you will share this experience in other lives, too.”{{note:{index:28,id:UT22084-034-025-97}}}
+Then he spoke the following verses:{{note:{index:29,id:UT22084-034-025-99}}}
+{{milestone:{label:1.5,id:UT22084-034-025-100}}}“A man and woman like this,
+Who speak to each other lovingly,
+Who are both faithful, generous, and self-controlled,{{note:{index:30,id:UT22084-034-025-389}}}
+And who live in accordance with the Dharma,
+{{milestone:{label:1.6,id:UT22084-034-025-102}}}“Will have abundant wealth
+And will be reborn in a good situation.
+Their enemies will become unhappy,{{note:{index:31,id:UT22084-034-025-103}}}
+And when both are equal in ethical discipline,
+{{milestone:{label:1.7,id:UT22084-034-025-104}}}“And have practiced the Dharma in this life
+With equal virtue and good conduct,
+They will next enjoy a deva world
+Where they will delight in sensual pleasures.{{note:{index:32,id:UT22084-034-025-106}}}
+“Therefore, one should guard the five precepts.{{note:{index:33,id:UT22084-034-025-108}}}
+{{milestone:{label:1.8,id:UT22084-034-025-1107}}}“These are (1) refraining from killing, (2) refraining from taking what has not been given, (3) refraining from sexual misconduct, (4) refraining from lying, and (5) refraining from drinking alcohol that leads to intoxication. These are the five precepts that one should guard.”
+{{milestone:{label:1.9,id:UT22084-034-025-110}}}The monks then inquired about the benefits of the five disciplines: “How else, Venerable Bhagavān, should the karmic fruition of refraining from killing be understood? How should the karmic fruition of refraining from taking what has not been given be understood? How should the karmic fruition of refraining from sexual misconduct be understood? How should the karmic fruition of refraining from lying be understood? And how should the karmic fruition of refraining from drinking alcohol that leads to intoxication be understood?”
+{{milestone:{label:1.10,id:UT22084-034-025-112}}}The Bhagavān responded to their questions so as to be well understood: “Monks, you should regard killing as being like a venomous snake. It is accompanied by many wrongdoings and leads to rebirth in the realm of ghosts, the animal realm, and the hell realms. After the destruction of the body, after death,{{note:{index:34,id:UT22084-034-025-113}}} one will be born in the Reviving Hell. There, the guardians of the Reviving Hell {{page:{number:3,id:UT22084-034-025-376,folio:F.272.a}}} will thoroughly roast one’s body, and then cut it to pieces with a variety of blades and gouge holes in it. Forced to undergo the so-called “fivefold ordeal,”{{note:{index:35,id:UT22084-034-025-114}}} the denizens of this hell repeatedly die and are repeatedly revived and reborn in the Reviving Hell. 
+{{milestone:{label:1.11,id:UT22084-034-025-115}}}“The karmic fruition for those who weightily take life is to be overwhelmed again and again by all these terrible, harsh, and intense sufferings of the Reviving Hell.{{note:{index:36,id:UT22084-034-025-116}}} Even if they are reborn as a human, their lives will be short, their sense faculties defective. They will be ugly, lacking insight, always fearful, and always angry. They will be disease ridden, full of sorrow, and devoid of joy. They will have nothing, and they will have nothing for a very long time.” 
+For that reason, the Bhagavān has said:{{note:{index:37,id:UT22084-034-025-118}}}
+{{milestone:{label:1.12,id:UT22084-034-025-119}}}“Being reborn for five hundred rebirths 
+As ghosts, fish, snakes, game, owls,
+Water buffalos, dogs, and foxes{{note:{index:38,id:UT22084-034-025-120}}}
+Is the harm that ensues from having killed.”
+{{milestone:{label:1.13,id:UT22084-034-025-1119}}}This is the karmic fruition of killing. 
+{{milestone:{label:1.14,id:UT22084-034-025-121}}}“Those who refrain from killing
+Will obtain the body of a man or woman{{note:{index:39,id:UT22084-034-025-122}}}
+And the benefits they reap will be
+The full twenty of these qualities: 
+{{milestone:{label:1.15,id:UT22084-034-025-123}}}“Their limbs and minor body parts will be perfect,
+Their bodies will be strong,
+They will be reborn immediately in a good family,
+And their limbs will be beautiful and soft. 
+{{milestone:{label:1.16,id:UT22084-034-025-124}}}“Their lives will be long and happy,
+They will be courageous and strong,
+Their words will be most eloquent,
+And they will experience divine joy.
+{{milestone:{label:1.17,id:UT22084-034-025-125}}}“They will not be harmed by worldlings
+Or criticized by noble ones;
+They will not die through black magic,{{note:{index:40,id:UT22084-034-025-126}}}
+And they will have an infinite retinue.
+{{milestone:{label:1.18,id:UT22084-034-025-127}}}“They will have a perfect complexion and form,
+They will have few illnesses and afflictions,
+They will not have to leave their homes,
+And they will not be made unhappy by others.{{note:{index:41,id:UT22084-034-025-128}}}
+{{milestone:{label:1.19,id:UT22084-034-025-129}}}“A man or a woman,
+By refraining from killing,
+Will experience these benefits
+As a deva or as a human.
+{{milestone:{label:1.20,id:UT22084-034-025-130}}}“After the destruction of the body, after death, {{page:{number:4,id:UT22084-034-025-377,folio:F.272.b}}} they will be reborn in a happy rebirth-destiny, in heaven, in a deva world.
+{{milestone:{label:1.21,id:UT22084-034-025-131}}}“Stealing means robbing another’s possessions, which have not been given, from their house or room and so on, whether consciously or unconsciously. Those who take from others by deception in order to make a living likewise eventually take what has not been given and will, after the destruction of the body, after death, be reborn in the Wailing hells. 
+{{milestone:{label:1.22,id:UT22084-034-025-132}}}“There are two hells called Wailing: the Wailing Hell of Flames and the Wailing Hell of Smoke.{{note:{index:42,id:UT22084-034-025-133}}} In the Wailing Hell of Flames, life lasts for one cosmic age. At intervals, the entire hell is filled with a blazing fire. In the Wailing Hell of Smoke, fumes billow. In both, the denizens of the Wailing hells are cooked by flames. Fire comes out of their nine orifices and scorches their bodies. In the Wailing Hell of Smoke, beings are cooked as denizens of hell. Fumes come billowing from their nine orifices, and their bodies are cooked like food.{{note:{index:43,id:UT22084-034-025-134}}} The beings in both scream in torment. There they experience terrible, harsh, and intense sufferings.{{note:{index:44,id:UT22084-034-025-135}}}
+{{milestone:{label:1.23,id:UT22084-034-025-136}}}“Stealing, monks, should be regarded as being like a venomous snake. It leads to rebirth in the hells, in the realm of ghosts, and as animals. The karmic fruition for anyone who steals is very grave. Even if reborn as a human, their resources will be depleted, and those who have taken what has not been given will be unable to hold on to even the smallest things. It will be difficult for them to obtain food, drink, clothing, a mat, and so forth. They will be in constant discomfort and will be hateful and hostile toward others. Whatever they do manage to obtain they will lose again, and others will enjoy it instead. What they desire will be difficult to obtain, and things they already possess will not be productive. They will be devoid of happiness.” 
+For that reason, the Bhagavān has said: 
+{{milestone:{label:1.24,id:UT22084-034-025-138}}}“In this life, poverty and destitution, {{page:{number:5,id:UT22084-034-025-378,folio:F.273.a}}}
+Ugliness and misery,
+And birth in a low social status
+Are the harms that ensue from having stolen.”
+{{milestone:{label:1.25,id:UT22084-034-025-1138}}}This is the karmic fruition of stealing.
+{{milestone:{label:1.26,id:UT22084-034-025-139}}}“Those who refrain from stealing
+Will obtain rebirth as a man or a woman
+And the benefits they reap will be
+The full twenty of these qualities: 
+{{milestone:{label:1.27,id:UT22084-034-025-140}}}“Their grain will always be abundant,
+Their resources endless and fulsome.
+What was lacking before will be plentiful,
+And their desires will be stable. 
+{{milestone:{label:1.28,id:UT22084-034-025-141}}}“All visible forms, sounds, tastes, smells, 
+And tactile sensations will be pleasant. 
+Every purpose for which they strive,
+And every intention, will be swiftly achieved. 
+{{milestone:{label:1.29,id:UT22084-034-025-142}}}“They will not be robbed,
+Neither by kings nor thieves nor enemies.
+They will be impervious to harm,
+Even by fire and water.
+{{milestone:{label:1.30,id:UT22084-034-025-143}}}“Their resources will be such
+That when it comes to gifts and food
+They will never say ‘no’
+And will always live in comfort. 
+{{milestone:{label:1.31,id:UT22084-034-025-144}}}“A man or a woman,
+By refraining from stealing,
+Will experience these benefits
+As a deva or as a human.
+“After the destruction of the body, after death, they will be reborn in a happy rebirth-destiny, in heaven, in a deva world.
+“Those who are lustful and commit acts of sexual misconduct in this world, after the destruction of the body, after death, will fall and be reborn in the Loud Wailing Hell.{{note:{index:45,id:UT22084-034-025-147}}} Outside, on both banks of the unfordable Vaitaraṇī River, is the Forest of Silk Cotton Trees, equally high, extending upward for eighty yojanas, with thorns sixteen finger-widths in length and downward-hanging branches. Bodies the size of twelve earshots, with flames climbing up their bodies,{{note:{index:46,id:UT22084-034-025-148}}} ascend sixty yojanas, and there they perpetually kill one another with various weapons, which are the leaves of the Forest of Silk Cotton Trees.{{note:{index:47,id:UT22084-034-025-149}}} For many thousands of years they will climb on the thorns of those trees. Moreover, they will be struck with weapons by the guardians of this hell. Crying out, they will fall headlong, and when they land they will be impaled on sharpened stakes set into a ground of burning iron, so that the stakes emerge from their anuses, {{page:{number:6,id:UT22084-034-025-379,folio:F.273.b}}} causing extreme pain. Constantly wailing, they will stay for an eon in an iron pot sixteen yojanas wide and completely filled with burning coals, which the guardians of hell{{note:{index:48,id:UT22084-034-025-150}}} shove into their mouths.”{{note:{index:49,id:UT22084-034-025-151}}}
+For that reason, the Bhagavān has said: 
+{{milestone:{label:1.32,id:UT22084-034-025-153}}}“Tall like the summits of the Kālaparvata mountains,{{note:{index:50,id:UT22084-034-025-154}}}
+The trees in this forest have thorns.
+In a world of sharp iron{{note:{index:51,id:UT22084-034-025-155}}} thorns,
+There is no comfort for a human. 
+{{milestone:{label:1.33,id:UT22084-034-025-156}}}“What is the use of a temporary partner{{note:{index:52,id:UT22084-034-025-157}}} now,
+When stuck on the tips of those trees?”{{note:{index:53,id:UT22084-034-025-158}}}
+{{milestone:{label:1.34,id:UT22084-034-025-159}}}For that reason, the Bhagavān has said, “Monks, sexual misconduct toward what you desire should be regarded as being like a venomous snake. It leads to rebirth in the hells, in the realm of ghosts, and as animals. The karmic fruition for anyone who commits sexual misconduct is very grave. Even if reborn as a human, they will experience great suffering.” 
+For that reason, the Bhagavān has said: 
+{{milestone:{label:1.35,id:UT22084-034-025-161}}}“For five hundred lives, they will be reborn as women, 
+And likewise as paṇḍakas. 
+Again and again, they will be repugnant lepers.
+These are the harms that ensue from from sexual misconduct.
+{{milestone:{label:1.36,id:UT22084-034-025-162}}}“They will experience misfortune over many lifetimes. They will have many enemies and will always be among hostile people. Whether sleeping or rising, they will be uncomfortable. They will be constantly angry. They will be disturbed by people. Their bodies will always be hunched. From rebirth to rebirth they will be born deaf and blind and so on. Change for the worse will be certain.{{note:{index:54,id:UT22084-034-025-163}}} They will always be dissatisfied. They will delight in mutual conflict. They will be bereft of faith.{{note:{index:55,id:UT22084-034-025-164}}}
+{{milestone:{label:1.37,id:UT22084-034-025-165}}}“After the destruction of the body, after death, they will fall and be reborn in the Loud Wailing Hell. There, they will experience terrible, harsh, and intense suffering.” 
+{{milestone:{label:1.38,id:UT22084-034-025-1165}}}This is the karmic fruition of sexual misconduct. 
+{{milestone:{label:1.39,id:UT22084-034-025-166}}}“Those who refrain from sexual misconduct{{note:{index:56,id:UT22084-034-025-167}}}
+Will obtain rebirth as a man or a woman
+And the benefits they reap will be{{page:{number:7,id:UT22084-034-025-380,folio:F.274.a}}}
+The full twenty of these qualities:
+{{milestone:{label:1.40,id:UT22084-034-025-168}}}“They will have no enemies,
+And the whole world will rejoice in them.
+They will easily obtain food and drink,
+Clothing, a bed, and a dwelling. 
+{{milestone:{label:1.41,id:UT22084-034-025-169}}}“They will sleep well, stay well,
+And rise well.
+They will be completely free from the fear
+Of bad rebirth.
+{{milestone:{label:1.42,id:UT22084-034-025-170}}}“They will have no sorrow or fear,
+Nor any illnesses.
+They will not be reborn as a paṇḍaka
+Or as a woman. 
+{{milestone:{label:1.43,id:UT22084-034-025-171}}}“Whatever they really want, however small, 
+Will be obtained. 
+They will enjoy many mutual friendships,
+And no one will bear them ill will. 
+{{milestone:{label:1.44,id:UT22084-034-025-172}}}“They will have unimpaired sense faculties
+And will possess the perfect marks of virtue.
+They will not be impatient, nor doubtful,
+And will be trusted by men and women. 
+{{milestone:{label:1.45,id:UT22084-034-025-173}}}“A man or a woman,
+By refraining from sexual misconduct,{{note:{index:57,id:UT22084-034-025-174}}}
+Will experience these benefits
+As a deva or as a human.
+{{milestone:{label:1.46,id:UT22084-034-025-175}}}“After the destruction of the body, after death, they will be reborn in a happy rebirth-destiny, in heaven, in a deva world.
+{{milestone:{label:1.47,id:UT22084-034-025-176}}}“Any man who is driven by desire,
+In rebirth after rebirth,
+Should not go after other women{{note:{index:58,id:UT22084-034-025-177}}}
+But cleanse his mental stain instead.”
+{{milestone:{label:1.48,id:UT22084-034-025-178}}}“Any woman who{{note:{index:59,id:UT22084-034-025-179}}} does not fully serve her parents-in-law and does not fully serve her husband, who does not care for her husband, who is not respectful toward her husband’s elder brother, who causes trouble for her husband’s sisters, and who moreover does not put her arms, legs, and back into her work{{note:{index:60,id:UT22084-034-025-180}}} and does not give them the food and drink they want, is not modest and humble toward them, and criticizes her husband and recites texts at him{{note:{index:61,id:UT22084-034-025-181}}} will be reborn in hell. There she will sleep on a floor of burning iron. A flaming iron hook will be inserted into her mouth, as if hooking a fish, and the tip of her tongue will be drawn forth, tied with a rope, and pulled out. After it is pulled it out like that, a big worm, born in the lips at the place where the weapon struck the tip of the tongue, will eat the tongue. Even after it eats only a little, she will be unable to speak. Similarly, she will be cooked there for many thousands of years, {{page:{number:8,id:UT22084-034-025-381,folio:F.274.b}}} and after being cooked there she will fall again into a great hell.”{{note:{index:62,id:UT22084-034-025-1182}}}
+For that reason, the Bhagavān has said: 
+{{milestone:{label:1.49,id:UT22084-034-025-183}}}“Any woman who desires a man, 
+In rebirth after rebirth,
+Like a goddess to a god,
+Should never abandon her husband.”
+{{milestone:{label:1.50,id:UT22084-034-025-184}}}“Lying, in turn, leads to rebirth in the Black Thread Hell. There, the guardians of that hell, shouting and bellowing and bearing a variety of blazing weapons, drag hell beings one by one onto a floor of burning iron and mark them with burning black thread. Then, holding blazing weapons, they thoroughly transform them as if separating grain from chaff with a winnowing basket, but using hatchets and axes, leaving them screaming and wailing. It is in this Black Thread Hell, drinking one’s own blood, that one is reborn because of telling lies.{{note:{index:63,id:UT22084-034-025-185}}} Here, one will experience terrible, harsh, and intense suffering. 
+{{milestone:{label:1.51,id:UT22084-034-025-186}}}“Monks, you should keep in mind that lying is like a venomous snake. It produces great suffering and leads to rebirth in the hells, in the realm of ghosts, and as animals. The karmic fruition for anyone who lies is grave. Even if reborn as a human, they will be without compassion. They will have a voice like a crow. They will be poor at speaking. They will have tooth decay,{{note:{index:64,id:UT22084-034-025-187}}} bad breath, and crooked teeth. Their words will be rough and their voice hoarse. They will have bad lips. They will be jealous and have insatiable cravings. And after the destruction of their body, after death, they will be reborn in the Black Thread Hell.”{{note:{index:65,id:UT22084-034-025-188}}}
+For that reason, the Bhagavān has said: 
+{{milestone:{label:1.52,id:UT22084-034-025-190}}}“A putrid stench arises from their mouths,
+The bad smell spreading for a yojana.
+They will not know the Dharma.
+These are the harms that ensue from having lied.”
+{{milestone:{label:1.53,id:UT22084-034-025-1190}}}This is the karmic fruition of lying. 
+{{milestone:{label:1.54,id:UT22084-034-025-191}}}“Those who refrain from lying
+Will obtain rebirth as a man or a woman
+And the benefits they reap will be
+The full thirty-three of these:
+{{milestone:{label:1.55,id:UT22084-034-025-192}}}“Their eyes, ears, and noses,
+Tongues, bodies, and minds, too,
+Will be perfect,
+Like the anthers of a lotus flower.
+{{milestone:{label:1.56,id:UT22084-034-025-194}}}“Their eyes and teeth will be symmetrical.
+They will be neither too tall nor too short, {{page:{number:9,id:UT22084-034-025-382,folio:F.275.a}}}
+Neither too fat nor too thin.
+Their speech will be articulate.
+{{milestone:{label:1.57,id:UT22084-034-025-195}}}“Their breath will always be scented like jasmine,{{note:{index:66,id:UT22084-034-025-196}}}
+Or like the blue lotus flower. 
+Servants will all respect and obey them,
+And their utterances will be worthy of veneration.{{note:{index:67,id:UT22084-034-025-197}}}
+{{milestone:{label:1.58,id:UT22084-034-025-198}}}“They will be adept in all things,{{note:{index:68,id:UT22084-034-025-199}}}
+Thoroughly learned in words and their meanings,{{note:{index:69,id:UT22084-034-025-200}}}
+And dauntless in the face of doubt.{{note:{index:70,id:UT22084-034-025-201}}}
+{{milestone:{label:1.59,id:UT22084-034-025-202}}}“A man or woman,
+By refraining from lying,{{note:{index:71,id:UT22084-034-025-203}}}
+Will experience these benefits
+As a deva or as a human.
+{{milestone:{label:1.60,id:UT22084-034-025-204}}}“After the destruction of the body, after death, they will be reborn in a happy rebirth-destiny, in a deva world, in heaven.
+{{milestone:{label:1.61,id:UT22084-034-025-205}}}“That which is called lying is reprehensible. Sons of good family should refrain from pursuing the objects of their desire. Instead they should extract the essence of that which is true and good. That which is called speaking falsehoods serves no purpose. It deceives the world and leads to rebirth in the Hell of Incessant Torture for many future lives.{{note:{index:72,id:UT22084-034-025-206}}} Therefore, one should not lie for the sake of one’s livelihood.{{note:{index:73,id:UT22084-034-025-207}}} Even at such times as when the omniscient one, the Buddha, the Bodhisattva, is concealed, divisive speech, like the color of turmeric, does not last long; like a dagger planted in a heap of chaff, it does not last long; and like a round fruit placed{{note:{index:74,id:UT22084-034-025-208}}} on the back of a horse,{{note:{index:75,id:UT22084-034-025-209}}} it does not last long. So, too, when a word spoken is cut short by a sword, two words will not be uttered.{{note:{index:76,id:UT22084-034-025-210}}} But, by speaking the truth over a long period of time, ascetics and brahmins reach liberation after they die.
+{{milestone:{label:1.62,id:UT22084-034-025-211}}}“Drinking alcohol leads to falling into and being reborn in the Burning Hell.{{note:{index:77,id:UT22084-034-025-212}}} Beings who have fallen into this hell will be cooked for many thousands of years. After that, they are discarded on the bank of Vaitaraṇī River. With no way across, they try again and again to swim, whereupon the guards of that hell will pull them out with hooks, like fish, and toss them down on the ground of burning iron and bellow, ‘Oi, what do you want?’ ‘Lord, I am parched,’ the beings will reply, and the guardians of that hell will rip open their mouths with red-hot iron hooks and pour molten iron into their gaping mouths. First, their {{page:{number:10,id:UT22084-034-025-383,folio:F.275.b}}} lips and throats will be scorched. Next their chests burn, then their bowels, and their hearts will burn, too, until the molten iron forces its way out through the anus. Such are the torments they are made to experience, weeping and rolling{{note:{index:78,id:UT22084-034-025-213}}} on the floor in pain. However, even then they will not die. They will experience these sensations, the karmic ripening of their actions, for as long as the fruits of their negative actions last.” 
+For that reason, the Bhagavān has said: 
+{{milestone:{label:1.63,id:UT22084-034-025-215}}}“The caustic and rough river Vaitaraṇī,
+Without a ford, is very difficult to cross;
+With its petals of iron lotuses
+Rocking{{note:{index:79,id:UT22084-034-025-216}}} on sharp leaves{{note:{index:80,id:UT22084-034-025-217}}}— 
+How can those who do not follow the Dharma
+Ever hope to traverse the bottomless Vaitaraṇī River?
+{{milestone:{label:1.64,id:UT22084-034-025-218}}}“For someone to drink alcohol is not a small misdeed. Even if they are reborn as a human, they will always be absent-minded and as dull, stupid, and unaware as a sheep. Constantly falling asleep, they will be of low intelligence and very ignorant. They will be scared and fearful, doubtful,{{note:{index:81,id:UT22084-034-025-219}}} divisive, untrustworthy, miserly, envious, and without renunciation. They will be without shame, with no sense of decency, and will have poor discernment. They will be unaware of virtuous qualities, and for five hundred lives they will be reborn as yakṣas, for another five hundred as dogs, and they will forever thereafter be reborn as lunatics. These are the harms that ensue from having consumed alcohol. 
+{{milestone:{label:1.65,id:UT22084-034-025-1220}}}This is the karmic fruition of drinking alcohol that leads to intoxication. 
+{{milestone:{label:1.66,id:UT22084-034-025-220}}}“Those who refrain from drinking alcohol
+Will be reborn as a man or a woman
+And the benefits they then will reap
+Will be the full thirty-six of these:{{note:{index:82,id:UT22084-034-025-221}}}
+{{milestone:{label:1.67,id:UT22084-034-025-222}}}“They will quickly become aware 
+Of the past and the future, 
+And the fleeting present too, 
+And they will always remain mindful.
+{{milestone:{label:1.68,id:UT22084-034-025-223}}}“They will not be insane—
+In particular, they will have noble insight. 
+With minds unclouded and vigilant,
+They will express themselves clearly.{{note:{index:83,id:UT22084-034-025-224}}}
+{{milestone:{label:1.69,id:UT22084-034-025-225}}}“Being modest, their words will be clear. 
+What they say will not be wrong,
+Will be without slander and harsh words, 
+And will not praise that which is meaningless. 
+{{milestone:{label:1.70,id:UT22084-034-025-226}}}“Day and night alike,
+Knowing and noticing what has been done,
+They will give without expectation, and they will have moral discipline.
+They will not be angry and will speak honestly.
+{{milestone:{label:1.71,id:UT22084-034-025-227}}}“They will be without fear and learned in details,
+With a strong sense of modesty and decency, {{page:{number:11,id:UT22084-034-025-384,folio:F.276.a}}}
+Fearless and unhesitant.
+Their perceptive minds will retain what they learn, 
+And they will be considered learned among significant men.
+{{milestone:{label:1.72,id:UT22084-034-025-228}}}“A man or a woman,
+By refraining from consuming alcohol,
+Will experience these benefits
+As a deva or as a human.
+{{milestone:{label:1.73,id:UT22084-034-025-229}}}“After the destruction of the body, after death, they will be reborn in the happy rebirth-destinies of the higher realms, in a deva world, in heaven. 
+{{milestone:{label:1.74,id:UT22084-034-025-230}}}“These disciplines should be guarded. Any person, whether a man or a woman, who does not guard{{note:{index:84,id:UT22084-034-025-231}}} and cultivate these disciplines will, after the destruction of the body, after death, fall and be reborn in bad or unfortunate rebirth-destinies, in the lower realms.{{note:{index:85,id:UT22084-034-025-232}}} Those who guard and cultivate these disciplines will, after the destruction of the body, after death, be reborn in the happy rebirth-destinies of the higher realms, in a deva world.” 
+{{milestone:{label:1.75,id:UT22084-034-025-233}}}This is what the Bhagavān said, and the monks rejoiced at what the Bhagavān had taught.
+{{milestone:{label:1.76,id:UT22084-034-025-234}}}This concludes “The Sūtra That Teaches the Benefits of the Five Disciplines.”
+{{milestone:{label:c.1,id:UT22084-034-025-235}}}This sūtra was translated, edited, and finalized by the learned translator, the Śākya monk Nyima Gyaltsen Palsangpo, in the presence of the great scholar Ānandaśrī at the translation center of the great monastery Pal Tharpaling. May it become like sun and moon ornaments crowning the earth!{{note:{index:86,id:UT22084-034-025-236}}}
